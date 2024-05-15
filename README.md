@@ -17,6 +17,7 @@ Casa de Velázquez : https://www.casadevelazquez.org/
 - EHESS : https://www.ehess.fr/fr
 - CRH CNRS EHESS : http://crh.ehess.fr
 - Plateforme géomatique de l'EHESS : http://psigehess.hypotheses.org/
+- Toulouse School of Economics (TSE) : https://www.tse-fr.eu/
 - OpenEdition : https://www.openedition.org/
 - Métopes : http://www.metopes.fr/ 
 - Huma-Num : https://www.huma-num.fr/
