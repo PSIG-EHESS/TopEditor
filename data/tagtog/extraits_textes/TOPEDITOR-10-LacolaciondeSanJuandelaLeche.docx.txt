@@ -1,0 +1,206 @@
+A San Juan de la Leche (aujourd’hui San Juan Bautista), le chapitre cathédral a, en 1491-92, huit possessions (CH_AG_01 à CH_AG_08). 
+
+Une église et une colación de la Trinidad, attestées dans le seconde moitié du XIIIe siècle, disparaissent ensuite, sans laisser de trace documentaire. Le 14/03/1269, le juif Abuishac b. Abilhasan Benjamin, el Barcelonés, se plaint contre doña Edeba, nièce de don Martin Jufré, devant l'alguacil alcalde don Gonzalbo Yuannes, en disant qu'elle possède la maison mediana de don Martín Jufré, dans le quartier de l'Alcaná, près de la maison de don Martín Fernando Pétrez, el Portugalés,  limitrophe du coin de l'église S. Juan de l'archevêque, d'une maison de la cathédrale, d'une autre maison de l'archidiacre, et de la rue qui passe près de l'Alcaná, près de Sta. Trinidad, où donne la porte de la maison. Il réclame que cette femme lui paie ses dettes ou lui laisse la maison.
+
+Le 19/10/1294, don Alfonso Martinez, fils de don Martín Fernández Pantoja, vend à l'archevêque don Gonzalbo, fils de l'alguacil don Pedro Yuannes, une maison en ruines qu'il a héritée de ses père et mère, située à la ḥawma de Sta. Trinidad et limitrophe de la chapelle de S. Juan de l'archevêque, d'une autre maison lui appartenant, d'une autre maison de la cathédrale et de la rue allant à l'église de Sta. Trinidad. Le prix est de 400 miṯqāl/s des sueldos courants, et le vendeur remet l'acte du 14/3/1269,
+
+On suspecte que la maison a été ensuite absorbée dans un agrandissement du palais archiépiscopal.
+
+La  place et les casas principales de don Alvar Pérez de Guzmán.
+
+La maison CH_AG_01 a pour l'un de ses confronts, en 1491, le coin de la rue allant à la plazuela de don Alvar Pérez et possède une porte sur la même rue. La place est évidemment celle qui se trouvait devant le palais de don Alvar Pérez de Guzmán, seigneur d’Orgaz et Santa Olalla et alguacil mayor de Séville, aujourd’hui siège de la Delegación de Hacienda, après avoir été, au XVIIIe siècle celui du collège des Jésuites. 
+
+On notera que don Alvar Pérez de Guzmán, alguacil mayor de Séville, était décédé dès le début des années 1480, et que le titulaire de cette charge et des seigneuries tolédanes d'Orgaz et de Santa Olalla, se trouvait être, dans les années 1490, don Esteban de Guzmán. 
+
+Le palais de ces Guzman de Séville et de Tolède, bien distincts d'autres branches portant le même apellido à Tolède, se trouvait lié à la famille depuis au moins le début du XIVe  siècle, avec le fameux Gonzalo Ruiz, le prétendu “comte d'Orgaz”, dont l'enterrement a été immortalisé au XVIe siècle par le tableau bien connu du Greco. Le 23/09/1312, Gonzalo Ruiz, ayo de nuesto señor el Rey, constituait un majorat en faveur de son fils, Martín Fernández, commençant par ses casas mayores, situées à Tolède, à la colación de S. Juan
+
+Vers 1450, l'inventaire des biens de l'hôpital de la Misericordia, après avoir mentionné une maison, où se trouvent à présent les malades et les officiers de l'hôpital, à la colación de S. Juan de la Leche, jouxtant une maison de Juan Carillo, la plaza de don Alvar Pérez, une maison de l'hôpital et le rue, supprime le tout et le remplace par l'indication que l'hôpital a vendu la maison quand il a pris l'hôpital de la Trinidad, qu'il possède désormais.
+
+Le 2/01/1482, le testament de don Alvar Pérez de Guzmán, alguacil mayor de Séville, fait dans sa maison de Tolède, ne parle de ce palais qu'à propos d'une maison qui en est jointive (unas casas, en esta çibdad de Toledo, que alindan con estas mis casas prinçipales, e salen las paredes al portal e corral del alfoçigo) et dont il veut que le tribut aille aux Beatas de doña María García si elles acceptent de se charger de certaines fêtes, et sinon au monastère de la Sisla.
+
+Vers 1450, il est dit qu'ont été achetées en 1439, pour l'Hôpital de la Misericordia, deux maisons de Diego de Hita, escudero de Pedro López de Ayala et fils de Pedro Rodríguez de Hita, jouxtant une maison de Fernando de Montalbán, trapero, et une maison où  demeure Juan Fernández, archiprêtre d'Andaluz et curé de S. Juan (de la Leche), et les rues sur deux côtés. Depuis 1444, ces maisons sont tenues à cens par Juan González de Mora, fils d'Alfonso Fernández de Mora, pour 1.200 mrs. par an.
+
+Les maisons CH_AG_02, CH_AG_03, CH_AG_04, et CH_AG_05 jouxtent l’hôpital de la Visitación, CH_AG_08 une maison tributaire à l’hôpital de la Misericordia. 
+
+Une maison du chapitre cathédral, à S. Juan de la Leche, disparue des registres entre 1450 et 1465.
+
+CH_AG_001+ CH_AG_002
+
+CH_AG_001+ CH_AG_002. En 1372, Juan Fernández, criado de Gudiel Alfonso Cervatos, et sa femme tiennent, à S. Juan, la maison que tenait auparavant Diego Fernández, criado du tesorero viejo, à cens, pour 36 mrs. par an. De même en 1380, Juan Fernández et sa femme, María López. En 1391, María López, qui était la femme de Juan Fernández, tient la maison pour la même somme.
+
+CH_AG_001+ CH_AG_002. En 1401, la maison reste au nom de María López, veuve de Juan Fernández, mais les mrs. sont payés par Juan Díaz, jubetero, gendre de Per Alfonso, armero, qui paie 24 mrs. pour deux tiers de monnaie nouvelle, et 20 mrs. pour le dernier tiers de vielle monnaie, soit au total 44 mrs.
+
+CH_AG_001+ CH_AG_002. En 1408, María López, qui était la femme de Juan Fernández, criado de Gudiel Alfonso, et Juan Díaz, jubetero, gendre de Per Alfonso, armero, tiennent à cens la maison antérieurement tenue par Diego Fernández, criado du tesorero viejo, pour 36 mrs. par an, qui sont, au double, 72 mrs. de la monnaie nouvelle
+
+CH_AG_001+ CH_AG_002. En 1412 et 1417, María López, qui était la femme de Juan Fernández, criado de Gudiel Alfonso, et Juan Díaz, jubetero, gendre de Pedro Alfonso, armero,  tiennent la maison à cens, que tenait auparavant Diego Fernández, criado du tesorero, à S. Juan de la Leche, pour 36 mrs. viejos par an, qui sont 72 mrs. de blancas. En 1417, Juan Díaz a payé 3x12 mrs. et Mahomad, albeitar, pour la moitié de la maison, également 3 fois 12 mrs.
+
+CH_AG_001+ CH_AG_002. En 1422, Maria López, qui était la femme de Juan Fernández Gudiel Alfonso, et Juan Díaz, jubetero, tiennent à cens la maison que tenait auparavant Diego Fernández, criado du tesorero, pour 36  mrs. par an de vieille monnaie, ou le double (72 mrs.) de blancas. Juan Días, jubetero, a payé pour sa partie, et don Mahomad une autre partie.
+
+CH_AG_001+ CH_AG_002. En 1439, la maison que tenait María López, qui était la femme de Juan Fernández, est tenue à cens par Alfonso Sánchez, sedero, pour 36 mrs. par an. Ce corralejo jouxte d'une part une maison de Fernand González, jurado, et de l'autre une maison du même Alfonso Sánchez, cerero (sic).
+
+En même temps, l'almaçrea située au dessus de l'entrée de la maison où demeure Fernand González, jurado de S. Juan, est tenue par le même Fernand González, au prix de 36 mrs. Elle jouxte d'un côté une maison du même Fernand González et de l'autre le corralejo tenue par Alfonso Sánchez, sedero. Catalina Alfonso, qui était la femme de Juan Díaz, jubetero, a déclaré qu'elle et son mari l'avaitent tenue à cens du chapitre, et toujours payé, tant que son mari vivait.
+
+CH_AG_001+ CH_AG_002. En 1443, la moitié de la maison que tenait auparavant María López est tenue à cens par Fernand González, jurado, pour 36 mrs. de la monnaie à courir. L'autre moitié que tenait Gonzalo Rodríguez de Canales, a été donnée à cens par le chapitre, le 3/02/1439, à Alfonso Sánchez, sedero, pour 36 mrs. de la monnaie à courir.
+
+CH_AG_001+ CH_AG_002. En 1450, la moitié de la maison que tenait María López est tenue à cens par Fernand González, jurado, pour 36 mrs. courants (sans date). L'autre moitié a été donnée à cens le 13/02/1439, à Alfonso Sánchez, sedero, pour 36 mrs.  courants.
+
+On ne trouve plus rien de correspondant en 1465 et dans les livres du refitor des années ultérieures jusqu'en 1496, pas plus que dans le livre des mesures de maisons du chapitre en 1491-1492.
+
+Au coin de la rue allant à la plazuela de don Alvar Pérez.
+
+CH_AG_01
+
+Nuncio Viejo, calle del. N°17.
+
+CH_AG_01. Le 14/03/1402, le chapitre baille à Luis Fernández, fils de Lucas Fernández, et à sa femme, Maria García, demeurant à la colación de S. Juan de la Leche, une maison située à cette colación (confronts en blanc), pour leur vie, au prix de 495 mrs. de la monnaie à courir, avec la caution de García Fernández, carpintero, demeurant à la colación de S. Yuste.
+
+CH_AG_01. Le 10/02/1405, le chapitre baille à Pedro Sánchez, trapero, et Mencía Sánchez, sa femme, une maison à la colación de S. Juan de la Leche, auparavant tenue par Luis Fernández et María García, pour la vie de chacun des deux, au prix de 500 mrs. de la monnaie à courir, avec la caution d'Alvar González Aguilar, Diego González, lencero, et Pedro González, sedero. En 1408 et 1412, la maison, située à S. Juan de la Leche, laissée au chapitre par Luis Fernández (ou Ruy Fernández), est tenue par Pedro Sánchez, trapero, perpétuellement, au prix de 500 mrs. par an de la monnaie à courir.
+
+CH_AG_01. En 1417, une maison située à S. Juan de la Leche, donnée au chapitre par Ruy Fernández, se trouve baillée à Pedro Sánchez, trapero, et sa femme, Mencía Sánchez, perpetuamente, pour 500 mrs. de la monnaie à courir, depuis le 1/01/1405. Les trois termes de l'année 1417 ont été payés par Juan González, cirujano.
+
+CH_AG_01. En 1439, la maison antérieurement tenue par Gutierre Fernández, est tenue par Mencía Sánchez, qui fut la femme de Pedro Sánchez, pour 500 mrs. par an, depuis le 1/01/1415 (sic) Elle jouxte d'un côté une maison de l'Église et de l'autre le coin de la rue.
+
+CH_AG_01. Le 20/02/1442, le chapitre baille à Alvar Sánchez de Aguilar, trapero, et Francisca González, sa femme, la maison précédemment tenue par Mencía Sánchez, femme de Pedro Sánchez de Aguilar, à la colación de S. Juan de la Leche, et jouxtant une maison de Teresa Díaz, femme d'Alfonso Pérez de Cantalapiedra (CH_AG_02), une maison de Fernand Garcia, carpintero, et sur deux côtés les rues, au prix de 600 mrs. de la monnaie à courir, ou 300 mrs. de vieille monnaie, et une paire de poules, par an, avec la caution de Juan Sánchez, frère d'Alvar Sánchez.
+
+CH_AG_01.En 1443, la maison donnée au chapitre par Gutierre Fernández a été baillée, le 20/02/1442, à Alvar Sánchez de Aguilar, trapero, pour sa vie et celle Francisca González, sa femme, au prix de 300 mrs. de vieille monnaie, ou le double (600 mrs.) de blancas, et une paire de poules à Noël, avec la caution  de son frère, Juan Sánchez.
+
+CH_AG_01. En 1450 et 1465, Alvar Sánchez de Aguilar, trapero, tient encore la maison, que  tenait auparavant Gutierre Fernández, pour 600 mrs. courants.
+
+CH_AG_01. Le 8/04/1466, le chapitre baille la maison que tenait auparavant Alvar Sánchez de Aguilar à Lope de Baeza, joyero, et Inés Alvarez, sa femme, pour la vie des deux et d'un fils ou d'une fille, au prix de 2.500 mrs. et cinq paires de poules par an, avec la caution de Francisco García Lanero. Le 15/09/1466, le chapitre fait grâce à Lope de Baeza du tribut passé, dépensé par lui en travaux dans la maison. Le 13/07/1468, Inés Alvarez étant décédée, Lope de Baeza donne la caution de Fernando de Mora.
+
+CH_AG_01. Le 28/09/1476, le chapitre baille la maison que tenait auparavant Lope de Baeza à Pedro Rodríguez de Dueñas, trapero, et à sa femme, Isabel Álvarez Hamusco, pour la vie des deux et d'un fils ou d'une fille ou d'une autre personne, au prix de 2.500 mrs. et cinq paires de poules. En 1496, Pedro Rodríguez de Dueñas et Isabel Alvarez Hamusco tiennent encore la maison, ayant donné, en octobre 1493, la caution de Pedro de San Pedro
+
+CH_AG_01. En 1491, la maison précédemment tenue par Lope de Baeza, est tenue par Pedro Rodríguez de Dueñas, pour sa vie et celle de sa femme et d'un fils, au prix de 2.500 mrs. et cinq paires de poules. Elle jouxte d'un côté une maison de l'Église et de l'autre le coin de la rue qui va à la plazuela de don Alvar Pérez. 
+
+CH_AG_01. Le 26/01/1512, Pedro Rodríguez de Dueñas, mercador, pour lui-même et comme tuteur de son fils Gonzalo Rodríguez, dit qu'il tient du chapitre à perpetuo pour deux vies, la sienne et celle de son fils le licenciado Diego García de Hamusco, une maison à la colación de S. Juan Baptista, jouxtant une maison de Martín Alfonso de Madrid, mercador, une maison de l'hôpital du Nuncio, et la rue, pour 2.500 mrs. et cinq paires de poules de censo e tributo perpetuo (sic), et il en fait don à son fils, le licenciado Diego García de Amusco, médico.
+
+Pedro Rodríguez de Dueñas et sa femme, Isabel Álvarez, figurent, en 1495-97, parmi les judaïsants habilités à San Juan de la Leche. La femme de Pedro Rodríguez de Dueñas, Inés Álvarez de Cepeda, serait une fille du notaire Diego García Amusco. En 1478, le chapitre donne licence de leur vendre une autre maison voisine (CH_AG_05). En 1491, venant après CH_AG_04, l'autre maison (CH_AG_05) qui la jouxte, est tenue à cens par Pedro Rodríguez de Dueñas.
+
+CH_AG_01_1439
+
+OF 356bis
+
+Imagen 90:
+
+Fol. 67v: Las casas que solia tener gutierre ferrandes tienelas mençia sanches muger que fue de pero sanches cada Año por quinientos maravedis e tomo la en primero dia de enero Año de 15 Años.
+
+En 22 de mayo Año de 1439 Años fueron deslindadas estas casas Por Juan gonçales cornejo canonigo e Juan dias Raçionero mayordomos de la dicha eglesia de toledo. Et han por linderos de la una parte casas de la dicha eglesia e de la otra parte la esquina Et tiene en la entrada un portal que ha en luengo seys varas e en Ancho tres varas e media e ensomo del una camara de su medida. Et luego esta otro Portal A la entrada del patin que ha en luengo seys varas e tres en ancho con una cosina pequeña e debaxo un sotano tamaño como la dicha cosina e ensomo tiene una camara de su tamaño. Et despues tiene un patin con un poso e A la mano derecha del esta un palaçio que ha en luengo con su Alhania onse varas e en ancho tress varas e media. Et tiene ensomo una camara que ha en luengo ocho varas e media e en Ancho tres varas e media. Et Adelante tiene un portal que ha en luengo syete varas e en Ancho dos varas e media. Et ensomo otro tal portal e de su medida con un Andor çerca del. Et en este portal esta entrada A otro cuerpo de casas en el qual esta luego un patin con un poso manantio e A la mano derecha esta un palaçio que ha en luengo çinco varas e tres en Ancho. Et ensomo del una camara que ha en luengo siete varas e media e tres en Ancho. Et A la mano esquierda esta un portal que ha en luengo seys varas e media e en Ancho quatro varas. Testigos diego martines capellan e diego de vargas.
+
+(firmado) Ludovicus Luppi apostolico e ordinario notario.
+
+(En el margen izquierdo, en otra letra) pero rrodrigues de dueñas
+
+CH_AG_01a_1492
+
+OF 356 
+
+Las casas que tenia Lope de Baeça, tienelas Pedro Rodrigues de Duennas por vida suya e de su muger e de un fijo por presçio de dos mill e quinientos mrs. e çinco pares de gallinas. Han por linderos de la una parte casas de la santa yglesia que tiene Françisco de Madrid e de la otra la esquina de la calle que va a la plaçuela de don Alvar Peres.
+
+En çinco dias del dicho mes de jullio del dicho anno de noventa e un annos los venerables sennores Cristoval de Villaminaya e Alvar Peres de Montemayor canonigos e vesitadores de las posisiones de la santa yglesia de Toledo deslyndaron estas casas e fallose en ellas en entrando un portal en que ay seys varas e media en largo e tres e media en ancho con un entresuelo ensomo de su tamanno con otros dos soberados cada uno de al tanto e 
+
+
+
+
+Una carta en pergamino de como bartolome sanches fijo de domingo peres de yepes e clerigo de la eglesia de santa Leocadia la vieja de toledo e Raçionero de toledo vendio A garçia ferrandes de mora fijo de domingo peres de mora e a su muger teresa martines vesinos de toledo unas casas en toledo çerca la eglesia de sant iohan de la leche por presçio de 630 maravedis fecha a 12 de enero era de 1408...
+
+... como los dichos... vendieron las dichas casas a madalena ferrandes fija de don hagundo e muger de Rodrigo alonso por mill e çinquenta maravedis... 9 dias de mayo era de 1408...
+
+... vendieron a ferrand alvares carpintero e a su muger mari gonçales las dichas casas por 2.200 maravedis fecha a 7 dias de enero año de 1401...
+
+Fol. 327r: San Juan. Doña guiomar de Sandoval.
+
+Item unas casas en esta dicha çibdad de toledo en la collaçion de la eglesia de sant iohan de la leche fronteras de las casas escriptas en la foja ante desta que alindan de la una parte con casas que fueron de pero sanches de Aguilar trapero e primero fueron de alvar dias de boroy e a las espaldas alindan con las dichas casas del dicho pero sanches de Aguilar e de la otra parte con casas que fueron de iohan gonçales de madrid platero las quales dichas casas tiene a perpetuo leonor alvares de Haro fija de Anton gonçales de Haro espeçiero e muger de diego de madrid vezina de toledo por toda su vida e de dos fijos o fijas suyos por presçio cada Año mill e ochoçientos e çinquenta maravedis. Esta posesyon quedo al monesterio de la señora soror doña guiomar de sandoval monja profesa del dicho monesterio et solia tener las dichas casas a perpetuo ynes gonçales muger de iohan gonçales de villa Real que dios aya por su vida por quinientos e quarenta maravedis e un par de gallinas et despues de su fin se dieron al dicho Anton gonçales de aro espeçiero e mençia gonçales su muger vesinos de toledo por sus vidas e de un fijo o fija por presçio cada año de mill e quinientos e çinquenta maravedis... 1466 años...
+
+Conçertose el convento con el liçençiado anton alvares vesino de toledo de le dar e vender las dichas casas suso contenidas... 1521 años...
+
+Fol 277 ines de guzman  esta casa lindaba la calle de los Jardines  donde se halla la puerta  con casas del conde de Cedillo  por otra parte  calle en que existe la porteria del convento de las Gaitanas  y por las espaldas  con casa de la capilla  se utilisa de doce que se celebra en el año de 1721 
+
+Fol. 329r: Sant Juan. Doña ynes de guzman.
+
+Unas casas en esta dicha çibdad de toledo en la collaçion de la eglesia de sant iohan de la leche que alindan de la una parte con casas de iohan Alvares del pulgar trapero e de la otra parte con otras casas del dicho monesterio que tiene a çenso gonçalo de la fuente mercador e de las otras parte con dos calles Reales la una que va fasya la plaça de las casas de don estevan de guzman e la otra que va para las espaldas de la dicha eglesia de sant iohan fasya la calle de la sal e tiene la puerta prinçipal de las dichas casas en una plaçuela que ende se fase çerca del esquina de las dichas casas. Las quales dichas casas tiene a çenso ynphiteosyn iohan alvares de Haro mercador vesino de toledo por mill e dosientos e sesenta e çinco maravedis de tributo cada Año para siempre Jamas pagados por terçios. Las quales dichas casas solian tener maestre ximon çirujano e marina Nuñez su muger vesino de toledo por los dichos 1.265 maravedis. Esta posesyon ovo el convento de soror doña ynes de guzman monja profesa del dicho monesterio e se compro para ella de los dineros que le dio el señor iohan Ramires de guzman señor de teba su tio... toledo e 9 dias de abril año de 1498 años.
+
+Las escripturas e titulos que Ay desta posesyon.
+
+En dieziocho de Julio de 1521 años el liçençiado antonio alvarez... hizo Reconosçimiento...
+
+En 1460, García Rodríguez de Dueñas, trapero, fils de Francisco Rodríguez de Dueñas, notario, tient du monastère de Sto. Domingo el Real, pour 700 mrs. par an, une maison à la colación de S. Juan, jouxtant une maison du monastère de S. Clemente tenu par Juan Ortiz, fils d'Alfonso Alvarez, trapero, une maison de Fernand López de Pulgar, trapero, une maison de S. Clemente, tenue par Alfonso Alvarez, trapero, fils de Martin Alfonso, et la rue.
+
+SD_ AG_89_1460 
+
+SD-89, ANH Clero, Libro 15118
+
+Medidas de casas de Santo Domingo el Real de Toledo (1460)
+
+Yten otras casas en la dicha collaçion de Sant Johan las quales tiene perpetuas del dicho monesterio Garçia Rodrigues de Duennas trapero fijo de Françisco Rodrigues de Duennas notario por seteçientos mrs. cada anno que han por linderos de la una parte casas del monesterio de Sant Climente desta çibdad que tyene Johan Ortis fijo de Alfon Alvares trapero e de la otra parte casas de Ferrand Lopes de Pulgar trapero e de la otra parte casas de Sant Climente que tiene a tributo Alfon Alvares trapero fijo de Martin Alfon e la calle real, en las quales dichas casas ay luego a la entrada la casa puerta con un establo baxo baxo [sic] como entran a la mano derecha en que ay en luengo seys varas e quarta e en ancho dos varas e terçia e ençima del establo esta un entresuelo que es la tyenda de los pannos que ay en luengo tres varas e terçia en la dicha anchura. Yten ay ençima desta dicha entrada e entresuelo una camara que ay en luengo quatro varas e terçia de la anchura de la de baxo e en largura [ajouté entre les lignes non] ay mas de las dichas quatro varas e terçia por que entra en esta camara una camara de las dichas casas del dicho Johan Ortis dos varas e delante desta camara esta un corredor que sale al patyn de una vara e quarta en ancho. Yten ay un palaçio en esta dicha casa como entran en ellas a la mano derecha en que ay en luengo seys varas e quarta e en ancho trs varas e quarta e este palaçio tyene una camara ençima con una manga que entra del portal frontero en lo alto que es todo de la anchura e largura del dicho palaçio. Yten ay un portal frontero como entran en que ay en luengo quatro varas e terçia e en ancho dos vaas e ochava e ençima una camara desa mesma largura e anchura e su alto fasta el çielo, e estovo presente a ello el dicho Garçia Rodrigues.
+
+	dcc  ¯;. 
+
+En 1460, Inés González, veuve de Juan González de Villarreal, tient du monastère de Sto. Domingo el Real et de la religieuse Guiomar Suárez, une maison située en face de la précédente (tenue par García Rodríguez de Dueñas), à la colación de S. Juan, perpetua, pour 540 mrs. et une paire de poules par an, jouxtant une maison d'Alvar Díaz de Boroy, trapero, une maison de Juan González de Madrid, platero.
+
+La collaçion de Sant Johan
+
+SD_ AG_90_1460 
+
+SD-90, ANH Clero, Libro 15118
+
+Medidas de casas de Santo Domingo el Real de Toledo (1460)
+
+Yten otras casas fronteras de las suso dichas en la dicha collaçion de Sant Johan, la qual tyene perpetua del dicho monesterio e de Guiomar Suares monja del dicho monesterio Ynes Gonçales muger de Johan Gonçales de Villarreal que Dios/f° 30 v°/aya por quinientos e quarenta mrs. e un par de gallinas cada anno, lasquales dichas casas han por linderos de la una parte casas de Alvar dias de Boroy trapero e de la otra parte casas de Johan Gonçales de Madrid platero, en las quales dichas casas ay una entrada a la puerta en que ay en luengo fasta la puerta del sotano seys varas e en ancho dos varas e tres quartas e tyene ençima una camara desta mesma anchura e largura. Yten tyene mas un portal como entran en las dichas casas a la mano derecha en que ay en luengo quatro varas e terçia e en ancho una vara e dos terçias, e tyene ençima una camara de la dicha anchura e largura. Yten ay un palaçio a la mano ysquierda en que ay en luengo siete varas e ochava e en ancho quatro varas e dentro deste palaçio a la mano ysquierda esta un alholi en que ay en luengo quatro varas e una ochava e en ancho tres varas e dos terçias e ençima deste dicho palaçio e alholi esta una camara que se manda por la camara de ensomo de la entrada de la puerta, en la qual ay de luengo ocho varas e una ochava e en ancho quatro varas. Yten ay mas un sotano en el portal de la entrada de casa, el qual viene debaxo del alholi en que ay en luengo quatro varas e terçia e en ancho tres varas e terçia e tyene esta casa su altura fasta el çielo, e en el patyn desta casa ay en luengo çinco varas e en ancho tres varas e siete ochavas. A lo qual estovo presente la dicha Ynes Gonçales.	dxL  ¯.  ii gs
+
+L'adarve de Pedro González Abençur.
+
+Le 31/12/1443, Juan Alfonso Cota, escribano, et sa femme Aldonza González, ont vendu pour l'hôpital de la Misericordia un cens de 2.000 mrs. sur une maison située à la colación de San Juan de la Leche, dans l’adarve de Pedro González Abençur, las fronteras à l'entrée de l'adarve, jouxtant une maison du même Pedro González (Abençur), une maison de Francisco Rodríguez, cirujano, et une maison de Diego González Sor(je), trapero. Et ils tiennent ensuite la maison pour ces 2.000 mrs.
+
+La maison principale de Martín Alfonso Cota, et son adarve.
+
+Le 16/06/1518, Francisco Sánchez Cota, fils de feu Martín Alfonso Cota, el viejo, vend au secrétaire royal Lope Conchillos, commandeur de l'Ordre de Santiago et regidor de Tolède, 2.000 mrs. de cens sur une maison tienda, avec deux cámaras au dessus, l'une au dessus le l'autre, venant sur la tienda et sur l'adarve de la maison principale qui était dudit Martín Alonso de Cota, el viejo, à la colación de S. Juan Bautista,  jouxtant d'une part l'entrée et le callejón de la dite maison principale de Martín Alonso Cota et une maison qui fut de Sancho Sánchez de Toledo, et au dos une maison de Martín Alonso Cota, el mozo, et devant la rue publique, Martín Alonso Cota, el mozo, figurant parmi les témoins.
+
+La maison principale d'Alfonso Carrilllo.
+
+Le 26/02/1454, dans le partage des biens d'Alfonso Carrillo et doña Juana Palomeque entre leurs enfants, Juan Carrillo, Diego Carrillo, doña Costanza Carrillo, Fernand Carrillo et Francisco Carrillo, il revient notamment à Juan Carrillo, les casas mayores situées à la colación de S. Juan de la Leche, avec les petites casillas à côté d'elles, jouxtant une maison de Gómez Ruiz de Priego, une maison de Diego González de Esquivias, et les rues publiques, estimées à 150.000 mrs.
+
+Le 3/01/1475, une sentence arbitrale sur le partage des biens de Juan Carrillo de Toledo et doña Inés de Guzmán, sa femme, l'un et l'autre décédés, entre  doña María de Guzmán et doña Mayor de Guzmán, sa sœur, leurs filles, religieuses à Sta. Clara de Tolède, d'une part, Alfonso Carrillo de Toledo, Diego Carrillo, son frère, et doña Costanza, leur sœur, fils et fille des mêmes Juan Carrillo et doña Inés de Guzmán, attribue à Alfonso Carrillo, pour lui-même, et pour Diego Carrillo et doña Costanza, en raison de l'avantage du cinquième comme de leur légitime, notamment les casas mayores des défunts, à la colación de S. Juan de la Leche, avec les casillas menores jointives, et 300 mrs. de cens sur la maison de Ruy González de Ocaña, escribano, proche des précédentes, à la même colación de S. Juan.
+
+On soupçonne que cette maison principale est l'ultérieur hôpital du Nuncio, d'abord appelé hôpital de la Visitación, en raison des confronts des maisons CH_AG_01 à CH_AG_05, des années 1431 à 1461.
+
+La colación et l'église de Todos Santos.
+
+En 1491-1492, on ne trouve aucune possession du chapitre cathédral sous une rubrique Todos Santos, ni aucune allusion à un secteur urbain ainsi désigné. Pourtant le toponyme était bien attesté dans la ville depuis une époque ancienne, et était encore représenté dans la documentation durant le XVe siècle, avec une église et une colación ainsi dénommées, à proximité de la place de don Alvar Pérez de Guzmán.
+
+En 1396 et 1401, à Todos Santos,  la maison dont le maestrescuela de Tolède a fait donation au chapitre, qu'il avait prise, puis en avait fait abandon, a été baillée au chanoine Lope Ruiz, depuis le 15/08/1395, pour 400 mrs. par an, avec premier paiement au 1/01/1396. 
+
+En 1408 et 1412, la maison du maestrescuela de Tolède, située à Todos Santos, dont il a fait don au chapitre, reste tenue par le chanoine Lope Ruiz, pour 400 mrs. par an de vieille monnaie, qui sont 800 mrs. de blancas.
+
+Le 4/01/1415, le chapitre baille à don Maestre Fernando, archidiacre de Niebla et capellán mayor de la chapelle de los Reyes, une maison, a la colación de Todos Santos, précédemment tenue par don Lope Ruiz, abbé de San Vicente (de la Sierra), jouxtant l'église de Todos Santos, une maison ayant appartenu à doña Mayor López et la rue, pour sa vie, à raison par an de 1.000 mrs. de vieille monnaie, avec la caution de Juan Ramírez, frère du preneur.
+
+En 1417, la maison que don Gómez Fernández, maestrescuela, avait donnée au chapitre, a été adjugée, pour 1.000 mrs. de vieille monnaie (2.000 mrs. de blancas) à don Juan Serrano, tesorero de Tolède, qui en a fait cession à don Maestre Fernando, archidiacre de Niebla, depuis le 1/01/1415, avec  la caution de son frère, Juan Ramírez. Pour l'année 1417, les 2.000 mrs. ont été payés par Juan Ramírez, ou en son nom.
+
+En 1422, la maison située à Todos Santos, dont a fait donation au chapitre don Gómez Fernández, maestrescuela de Tolède, est tenue depuis le 1/01/1415 par le chanoine Fernando Díaz, archidiacre de Niebla, pour 1.000 mrs. de vieille monnaie (2.000 mrs. de blancas), avec la caution de son frère, Juan Ramírez.
+
+En 1439, la maison donnée au chapitre par le maestrescuela Gómez Fernández se trouve tenue par l'archidiacre de Niebla, don Fernando Díaz (de Toledo), depuis janvier 1415, à raison de 2.000 mrs. par an (soit le double des 1.000 mrs. de vieille monnaie stipulés en 1415, et c'est l'unique maison du chapitre sous la rubrique Todos Santos). Elle jouxte d'un côté l'église de Todos Santos et de l'autre une maison du même archidiacre de Niebla, qui en a fait passer certaines parties à sa propre maison.
+
+En 1443, la maison située près de l'église de Todos Santos que Gómez Fernández, maestrescuela, avait donnée au chapitre, a été baillée, perpetuas e por reparadas, le 1/01/1415, à don Fernando Díaz, archidiacre de Niebo, au prix de 1.000 mrs. de vieille monnaie, ou le double (2.000 mrs.) de blancas, avec la caution de son frère, le tesorero Juan Ramírez. En marge: le 14/03/1443, le chapitre a échangé la maison avec l'archidiacre de Niebla, contre  4.495 mrs. courants par an sur des maisons situées dans la ville et à Ajofrin, et quatre paires de poules.
+
+En 1450, il est dit que la maison du capiscol Gómez Fernández Palomeque à Todos Santos a été échangée par le chapitre avec l'archidiacre de Niebla, Fernando Díaz, contre 4.495 mrs. courants de cens sur diverses maisons situées dans la ville et à Ajofrín, et quatre paires de poules.
+
+Il n'a pas été possible de trouver trace de ce qu'est devenue ensuite cette maison de Todos Santos. Julio Porres donne certaines informations sur l'ancienne église mozarabe de Todos Santos, dont la dernière mention d'un clerc de cette église en 1352, et la cession de son édifice, en 1504, au couvent de la Madre de Dios, mais rien sur la maison voisine.
+
+Le 2/01/1403, dans le partage des biens de Pedro Suárez, alcalde mayor de Tolède, décédé, qui était le mari de doña Juana de Horozco, présente, entre leurs filles, doña Inés de Ayala, femme du maréchal Diego Fernández, et doña Teresa, femme de Fernand Alvarez de Toledo, il revient notamment à ces derniers, une maison et bodega, située a la Sal, à la colación de Todos Santos, jouxtant d'un côté une maison de Pedro González, clérigo, de l'autre une bodega de don Alvar Pérez (de Guzmán), et de l'autre la rue dite de la Sal, estimée à 22.000 mrs.
+
+Le 13/07/1416, doña Teresa (Barroso), femme de Juan Pantoja, et fille de (García Fernández Barroso) et de doña Guiomar de Aguilar, exécutrice testamentaire, avec ses frères García Barroso et Fernand Núñez, de sa mère décédée, doña Guiomar de Aguilar, donne procuration à Martín López del Castillo pour vendre une maison que la défunte possédait, à la colacíon de l'église de Todos Santos.
+
+Le 8/07/1416, García Barroso et sa sœur doña Teresa de Barroso, femme de Juan Pantoja (avec procuration de celui-ci), vendent à Fernand Pérez de Guzmán des pieds d'oliviers, avec leur terre, situés à Olías, pour 400 mrs. de la monnaie usuelle
+
+Le 2/05/1434, doña Juana Díaz, veuve de Gonzalo Días Pantoja, et son fils Juan Pantoja, se sont constitués débiteurs de Diego García, contador de l'amiral de Castille, et de Gonzalo López de la Fuente, son beau-père, en son nom, de 400 doblas de oro moriscas valadies, reçues en prêt, et ont donné en gage une maison qu'ils possèdent à Tolède, à la colación de l'église de Todos Santos, jouxtant d'un côté une maison de doña Teresa et Juan Barroso et Pedro Gómez et Fernand Martínez et les rues, maison qui avait appartenu au même Gonzalo López, et qu'ils lui avaient louée pour un certain temps et une certaine somme.
+
+La Calle de Todos Santos et le four.
+
+Le 17/07/1416, Alfonso Ortiz, racionero de l'Église de Tolède et capellán mayor de la chapelle de don Pedro Tenorio, loue à Inés López, mère de Juana Díaz, religieuse au monastère de S. Clemente, une cámara de la maison de la chapelle dont une porte donne à la Calle de Todos Santos, en face du four, pour un an, à partir du 15/08/16 jusqu'au 14/08/17, au prix de 170 mrs. de la monnaie usuelle.
+
+Le 20/07/1416, le même Alfonso Ortiz loue à María González de Alcalá une cámara dans la maison de la chapelle et dont la porte donne à la Calle de Todos Santos, celle d'en-bas, pour un an, à partir du 15/08/16, au prix de  140 mrs. de cette monnaie (usuelle).
+
+La place de don Alvar Pérez de Guzmán, près de Todos Santos.
+
+En 1412, la maison laissée par le docteur Ruy Fernández, située près de Todos Santos, à la place de don Alvar Pérez, et dont le chapitre a la moitié, est tenue par Lope García, notario, qui paie 400 mrs. pour cette moitié.
+
+

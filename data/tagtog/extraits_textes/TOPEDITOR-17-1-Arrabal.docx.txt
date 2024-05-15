@@ -1,0 +1,710 @@
+Les documents utilisés étant, pour le plus grand nombre d'entre eux, des contrats portant sur des biens-fonds urbains, il est nécessaire de dire quelques mots sur ces contrats. Ils sont de trois types, respectivement des baux à long terme, de loin les plus nombreux au XVe siècle (généralement à trois vies, c'est à dire les vies du couple preneur, plus un fils ou une fille), désignés en castillan comme des arrendamientos dits perpetuos (perpétuels), du verbe arrendar, que l'on traduira par “bailler”), des baux à court terme (une ou plusieurs années), désignés comme des alquileres, du verbe alquilar, que l'on traduits par “location” et “louer”, rares au XVe siècle et plus nombreux auparavant, et enfin des censos, également appelés tributos (traduits par “cens”, avec le verbe “accenser”, ou "donner à cens"), qui sont eux réellement perpétuels, sauf à être rachetables, et permettent la vente éventuelle du bien sur lequel ils portent, moyennant l'autorisation (licencia) donnée par le titulaire du cens, et comportent la reconnaissance lors de chaque changement de tenancier. Le concept de “maison” est toujours exprimé dans les documents par le terme de casas ou pares de casas, au pluriel donc, que nous traduisons par “maison” au singulier, mais en maintenant le pluriel en castillan dans les qualificatifs appliqué (perpetuas e por reparadas pour une maison donnée à bail viager et en bon état).
+
+Une autre remarque concerne l'identité des personnes mentionnées dans les actes utilisés. On sous-entendra que toutes les personnes nommées, sauf mention contraire, sont des “habitants" de Tolède (vecinos, c'est à dire “citoyens” de plein droit), par opposition aux simples “résidents” ou “demeurants” (moradores). La différence prend une signification particulière, s'agissant des musulmans (moros), et des juifs (judíos), tantôt qualifiés de vecinos moradores, tantôt seulement de moradores. Elle a également un sens concernant les étrangers, notamment Italiens, Gênois ou Florentins, que l'on rencontre à la fin du XVe siècle, et dont certains seulement apparaissent, en quelque sorte, comme naturalisés, avec le titre de vecino.
+
+Il a été substitué partout le nom de la monnaie de compte en usage en Castille aux XIVe et XVe siècles, le ou les maravédi(s), par les abréviations courantes mri. et mrs., et les dineros par d., par contre les rares meajas et cornados ont été maintenus pour les monnaies divisionnaires.
+
+Tous les noms de métiers servant à identifier les personnages mentionnés sont donnés sous leur forme moderne, et non sous les formes médiévales variables apparaissant dans les documents, ainsi herrero pour le ferrero des documents. Pour alléger le texte, on constituera une annexe dans laquelle viendront à la fois ces noms sous leur forme modernisée, les formes médiévales, et la traduction française approximative. De même les noms de personne et de lieux sont donnés selon leur orthographe actuelle et non les graphies médiévales des documents, à quelques exceptions près, le x médiéval n'ayant pas été remplacé par le j moderne, par contre le ç médiéval a été systématiquement converti en z. Par contre, on a laissé les graphies trouvées dans les documents pour les noms des musulmans (moros) et des juifs (judíos). A l'occasion, on cite les documents castillans médiévaux, soit avec l'orthographe espagnole actuelle, soit dans la graphie médiévale, l'une et l'autre étant aisément reconnaissables, ainsi pour l'alternancee du ç et du z. Pour les citations de documents arabes, on suit la translittération de la revue Arabica, ne différant de celle d'al-Qanṭara que par le remplacement du ŷ par un ǧ pour le ǧīm (ج), de la j p-ar le ḫ pour le ḫā (خ), du g par le ġ pour le ġayn (غ), et du à par le ā pour l'alif maqṣūra (ى), les réalisations adoptées étant, dans toute la mesure du possible, quand cela ne contredit pas ce qui est écrit, celles de l'arabe classique, et non celles supposées être celles de l'arabe d'al-Andalus.
+
+Les dates sont toujours indiquées selon le calendrier julien et l'ère chrétienne. Pour celles antérieures à 1383, et à l'abandon de l'ère hispanique en Castille, on retranche 38 ans à la date indiquée dans les documents. Ensuite on tient compte du début de l'année del nacimiento au 25 décembre et non au 1er janvier, en soustrayant un an entre le 25 et le 31 décembre. La date de Santa María de agosto, qui est celle du début du plus grand nombre des contrats de bail, est toujours remplacée par celle du 15 août.
+
+Dans la structure urbaine de Tolède au XVe siècle, on distinguera six grandes parties de la ville: 1) le faubourg, appelé l'Arrabal, 2) l'axe commercial de la ville, du Zocodover à la cathédrale, structuré autour de l'actuelle Calle del Comercio, 3) le centre des pouvoirs, autour de la cathédrale, de l'hôtel de ville (l'Ayuntamiento), et du palais archiépiscopal 4) les quartiers Nord, à dominante résidentielle et conventuelle, tournés vers la banlieue maraichère de la Vega et le canton agricole de la Sagra, 5) les quartiers Sud, d'un caractère plus artisanal, tournés vers la boucle du Tage et la zone de la Sisla s'étendant jusqu'aux Montes de Toledo, 6) les deux juiveries, Judería Mayor et Alacaba, et leurs abords.
+
+	En premier lieu vient le faubourg par excellence, portant la désignation d'el Arrabal, terme sans conteste dérivé de l'arabe al-rabaḍ. Mais, alors que dans cette langue, y compris dans son emploi par las chrétiens arabisés, communément appelés mozarabes, de Tolède aux XIIe et XIIIe siècle, le mot pouvait avoir un sens beaucoup plus large et désigner n'importe quel secteur de la ville, son dérivé en castillan, comme dans la langue espagnole moderne, a vu son emploi limité à l'équivalent du français faubourg, soit un secteur extérieur à la partie principale de la ville. De surcroît dans le cas tolédan, ce faubourg présente deux particularités. La première est celle d'être, aux époques médiévale puis moderne, l'unique excroissance urbaine extramuros, si l'on ne tient compte que de l'enceinte intérieure, et non de l'enceinte extérieure, entourant spécifiquement ce faubourg, faisant ainsi de sa désignation comme l'Arrabal, non plus un nom commun, mais le véritable nom propre du secteur. La seconde particularité de ce faubourg est de ne pas être extérieur à l'enceinte urbaine, mais au contraire de se trouver enserré entre les deux lignes de murailles de la ville, correspondant probablement à un aggrandissement urbaine réalisé au XIe siècle, à l'époque de la taifa islamique, mis en défens dès cette période, et jamais sérieusement dépassé par la suite, jusqu'au milieu du XXe siècle. Si les fouilles récentes ont mis en évidence les traces d'une occupation urbaine d'époque wisigothique, et peut-être islamique, dans le secteur de la Vega, au delà donc de la limite de l'Arrabal durant le Bas Moyen Âge, l'urbanisation n'est pas arrivé à coloniser à nouveau ces parages jusqu'aux lendemains de la Guerre civile de 1936-1939, avec la construction du quartier dit de los bloques, maintenant largement dépassé. L'Arrabal donc, à l'époque du Bas Moyen Âge, comprend deux paroisses (colaciones) de la ville, celles de Santiago del Arrabal et de San Isidro.
+
+L’axe commercial de la ville s'étend depuis l'entrée dans le noyau principal urbain avec Calle de las armas, en passant par la place la plus importante, notamment du point de vue commercial, le Zocodover, jusqu'au secteur dénommé Cal de Francos, à proximité immédiale de la cathédrale. C'est probablementle secteur qui s'est trouvé le plus profondément transformé, en particulier en sa partie finale, déjà au XIVe siècle avec la construction du cloître de la cathédrale, et durant le XVe siècle, par suite des incendies, dûs aux troubles urbains, et des reconstructions qui les ont suivi.
+
+Le centre des pouvoirs, où se trouvent concentrés la cathédrale, le palais archiépiscopal, l’Hôtel-de-Ville, autour de la place qui sera celle de l’Ayuntamiento, et qui ne se trouve encore, à la fin du XVe siècle, qu'en en voie de constitution.
+
+Les quartiers Nord, dominant l'Arrabal et la Vega, sont à tonalité plutôt résidentielle, et  déjà les couvents y occupent une large place, ayant succédé fréquemment, durant le XIVe siècle, à des demeures de familles de l'aristocratie urbaine traditionnelle. On a pu fournir dans un travail antérieur quelques exemples d'agrandissements de couvents ou monastères réalisés au XVe siècle par achat d'anciennes demeures de l'aristocraties urbaine. Mais les établissements religieux eux-mêmes remontent aux siècles antérieurs, notamment au XIVe, par transformation de demeures de familles désormais éteintes, ainsi pour Santo Domingo el Real.
+
+Les quartiers Sud, tournés vers le fleuve, dans son trajet le plus escarpé autour de la butte où la ville s'est logée, avec les colaciones  de San Miguel et de San Lorenzo (Sant Lorençe), et partie de San Justo (Santi Yuste), sont à caractère plutôt artisanal et constituent les secteurs les moins estimés, avec ceux de l'Arrabal.
+
+Enfin les Juiveries (Juderías) sont au nombre de deux, dont l'une, la juiverie principale, correspond, au moins à la fin du XVe siècle, à la plus grande part de la colación de Santo Tomé et l'autre, celle de l'Alacaba, à une partie de la paroisse de San Román. En bordure de la Grande Juiverie, on relève la présence de demeures aristocratiques, encore sur la paroisse Santo Tomé, ou bien sur celle de San Salvador. En dernier lieu la colación de S. Martín est marquée par l'église du même nom, aujourd'hui disparue, et la porte tantôt appelée de San Martín, et tantôt del Cambrón, désignation qui lui reste de nos jours, après qu'elle avait été au XIIIe siècle, la porte des juifs (Bāb al-Yahūd).
+
+L'Arrabal et ses  deux colaciones, de Santiago et de San Isidro
+
+
+
+SD_ OO_118_1460 
+
+SD-118, ANH Clero, Libro 15118
+
+Medidas de casas de Santo Domingo el Real de Toledo (1460)
+
+Yten otras casas en el dicho arraval en la collaçion de la yglesia de Santiago que fueron de Juana Sanches la vicaria, las quales casas solia tener Gutierre Gonçales tendero, que han por linderos de la una parte casas de Garçia murero e de partes de ayuso casas de [blanc] de/f° 40 r°/Fuentsalida e de las otras partes las calles reales, en las quales dichas casas ay un portal a la entrada de casa que ay en luengo nueve varas e seysma e en ancbo tres varas e media, e este dicho portal esta colgadiso ençima ençima [sic] de la puerta las quatro varas e seysma e las otras çinco varas estan cubiertas de camara ençima del anchura del dicho portal. Yten ay un palaçio como entran el frontero a la mano derecha, en que ay en luengo nueve varas e en ancho  tres varas e dos terçias e tiene este palaçio una camara ençima tan larga e tan ancha como el dicho palaçio armada a un agua que corre fasya casa. Yten ay un palaçio pequenno fondo como entran en las dichas casas a la mano ysquierda en el qual ay de luengo seys varas e en ancho tres varas e quarta e tiene mas ençima deste dicho palaçio una camara de la largura e ancho del dicho palaçio. Yten ay mas otro palaçio frontero como entran en las dichas casas en que ay en luengo ocho varas e quarta e en ancho quatro varas e dos terçias e este dicho palaçio seta sensillo colgadiso que vierten las aguas fasya las dichas casas. Yten ay mas una quadra que esta agora cayda entre el dicho palaçio e el otro palaçio mayor, la qual tyene seys varas en luengo e en ancho çinco varas e media e tiene mas esta quadra una entrada como manguilla que es de dos varas e media en luengo e de una vara e dos terçias en ancho, la qual manguilla alinda con la calle por do vienen al agua de la calle de vanno de la Crus e en el patyn desta dicha casa ay en luengo seys varas e media e en ancho çinco varas. Estovo presente a esta medida el dicho Gutierre Gonçales.	[rien en marge]
+
+Le faubourg de la ville est la seule partie de celle-ci, à l'exception de la Judería, à être physiquement délimitée, puisqu'il s'agit de l’espace compris entre les deux enceintes. La mieux documentée est l'enceinte interne, séparant le corps principal de la ville de l'Arrabal, avec ses portes.
+
+Le livre des mesures de maisons du chapitre énumère et décrit, en 1491, sous la titre Arrabal, trente deux possessions, parmi lesquelles les vingt premières viennent à leur place sous l'ordre alphabique (sous Arraval) et dix sont ajoutées à la fin. Les deux colaciones composant l'Arrabal, Santiago et S. Isidro, ne sont pas distinguées entre elles, et l'ordre suivi dans l'énumération des maisons et autres possessions paraît aléatoire. La numérotation, établie au début de ce travail, vers 1970, suivait l'ordre rencontré dans le livre des possessions du chapitre (Libro del refitor) de 1450, avec lequel il avait été initié, et il n'a pas paru opportun de la modifier ensuite.
+
+Les enceintes et les portes constituent les repères les plus évidents dans l'ensemble complexe constitué par l'Arrabal, mais les modifications toponymiques peuvent être à l'occasion sources de confusion.
+
+CH_OO_16 à CH_OO_19
+
+Cristo de la Luz, calle de , n° 15, 17, 19, 21. (antes n° 45)
+
+La maison CH_OO_16 jouxte, en 1491, l’enceinte de la ville, près de la Porte des chaudronniers (la çerca de la çibdad fasta la Puerta que se llama de los Caldereros). Les documents antérieurs permettent d’identifier cette porte avec celle mieux connue, jusqu'à nos jours, sous le nom de Puerta del Mayordomo, et auparavant désignée, en arabe, comme Bāb al-Mardūm. En 1156, Bāb al-Mardūm était citée à propos de deux mesones du rabaḍ septentrional de la ville (al-rabaḍ al-ǧawfī li-madīnat Ṭulayṭula).
+
+Le Mesón del Poyo Alto, ou la Bodega del Poyo Alto, est la première maison située à gauche à la sortie de la Puerta del Mayordomo (ou Puerta de los Caldereros).
+
+En 1372, le mesón qu'Alfonso García, clavero, tenait sous la Puerta del Mayordomo se trouve démoli depuis le siège (derribado desde la çerca).
+
+Le Mesón del Poyo Alto (CH_OO_16 à CH_OO_19) est documenté depuis 1378-1380, sans aucun élément qui permette sa localisation à ce moment là, Gonzalo Ruiz, racionero, le tenant en 1380, depuis le 15/08/1378, pour 80 mrs. par an. 
+
+En 1391, el poyo alto del mesón situé a la Puerta del Mayordomo dans l'Arrabal, est tenu, perpetuo e por reparado, par Gonzalo Fernández, tejero, fils de Rodrigo López, depuis 1382, pour 165 mrs. par an, son associé Ximón Ruiz, fils d'Alfonso Fernández de Esquivias, étant décédé. 
+
+Le 7/07/1391, le chapitre baille à Gil Fernández de Esquivias, el mozo, fils de Gil Fernández, la bodega située dans l'Arrabal, appelée du Poyo Alto, précédemment tenue par Gonzalo Fernández, tejero, pour sa vie, chaque année pour 160 mrs. de vieille monnaie, avec la caution du même Gonzalo Fernández, tejero.
+
+En 1401, le Mesón del Poyo Alto, situé à la Puerta del Mayordomo, se trouve baillé à Domingo Fernández de la Cámara del rey don Enrique, labrador, demeurant à l'Arrabal, et Juana González, sa femme, depuis le 15/08/1399, pour 140 mrs. de vieille monnaie, avec la caution de Juan Gutiérrez, fils de Pedro Gutiérrez, notario, et d'Alfonso Fernández, odrero, fils d'Alfonso Fernández, demeurant au Zocodover. 
+
+CH_OO_16 à CH_OO_19. Le 16/03/1405, le chapitre baille à Diego González Jarada la bodega du Poyo Alto, située dans l'Arrabal (confronts en blanc), pour sa vie, chaque année pour 190 mrs. de la monnaie à courir, avec la caution d'Alfonso Fernández Marmolejo.
+
+CH_OO_16
+
+CH_OO_16. En 1408, la bodega cosera laissée au chapitre par Juan Gutiérrez se trouve baillée, perpétuellement, à Diego González Jarada, chaque année pour 190 mrs. de la monnaie à courir, depuis le 16/03/1405, avec la caution d'Alfonso Fernández Marmolejo. En 1412 encore, il est fait référence à ce contrat pour la bodega cosera située dans l'Arrabal.
+
+En 1417, la bodega cosera qu'a laissée au chapitre dans l'Arrabal Juan Rodríguez, a été prise, perpetuamente, par Diego González Jarada, au prix de 180 mrs. par an de la monnaie à courir, depuis le 16/03/1405, avec la caution d'Alfonso Fernández Marmolejo, qui maintenant la possède et paie la rente (mais cette année là les trois termes pour payés par García Fernández, tejedor)
+
+CH_OO_16. Le 7/10/1418, Alfonso Fernández Marmolejo déclare, à l'intérieur de la prison archiépiscopale, qu'il tient du chapitre la bodega dite del Poyo Alto, à l'Arrabal, près de la Puerta del Mayordomo, avec obligation de la tenir et laisser réparée, et il donne comme caution sa femme, María González, ainsi que Lope García de Acre et García López de Aguilar. Ces dernier s'obligent à faire les réparations avant la St-Jean de juin à venir. 
+
+Le 7/08/1420, Juan González, surnommé Aviñón, dit qu'il avait vendu, par ignorance, à Juan García, trapero, et à sa femme, une casa solar située à l'Arrabal, près de la porte principale de la ville dite del Mayordomo, en dessous de la muraille (el açor), jouxtant d'une part une maison du docteur Ruy García de Villaquirán, tributaire au chapitre, et de l'autre un solar du chapitre allant jusqu'à la bodega du chapitre dite del Poyo Alto, comme libre de charge, et que, par conséquent, elle était tombée en commise. A la demande de la femme de Juan García et de Juan Gutiérrez, leur fils légitime, il supplie le chapitre d'accepter à la place 12 mrs. de cens sur une autre maison, située à l'Alacaba, dans l'adarve del Sordo, et que la casa solar de l'Arrabal reste libre de cens.
+
+ CH_OO_16 à CH_OO_19. En 1422, la Bodega del Poyo Alto, dans l'Arrabal, a été baillée, le 20/09/1419, à Gómez Fernández de Piña et sa femme, pour leur vie, au prix de 100. mrs. de vieille monnaie, avec la caution de Fernand Nuñez de Prada, son gendre. Mais il n'y a pas de mention de paiement.
+
+CH_OO_16
+
+Cristo de la Luz, calle de. N°17.
+
+CH_OO_16. Le 1/03/1424, le chapitre baille à Juan de Oviedo, escudero d'Alfonso de Guzmán, la bodega du Poyo Alto, située à l'Arrabal, à la Puerta del Mayordomo, à ce moment seulement couverte de tuiles, jouxtant des terrains du chapitre commencés à construire, situés entre le mur de la ville, près de la Puerta del Mayordomo et jouxtant le mur de l'açor (suelos començados a faser casas del dicho cabillo que estan entre el muro desta çibdat contiguo a la dicha puerta que disen del mayordomo e de la parte de ayuso suelo otrosi del dicho cabillo e a la parte de las espaldas el muro que disen del açor, el muro de cuesta en medio), pour 451 mrs. de vieille monnaie ou le double, avec la caution de Juan Fernández, curé de Morata, capellán del coro, et d'Alfonso Alvarez, fils de Gil Martinez Marión.
+
+CH_OO_16. En 1425, c'est la même casa bodega avec sa cámara, située à l'Arrabal, au Poyo Alto, à la Puerta dite del Mayordomo, à la sortie, jouxtant d'autres maisons du chapitre et de l'autre côté la tour et le mur de la ville, et la rue devant la porte, ainsi qu'une bodega avec ses cámaras et palacio, à l'Arraval, dite du Poyo Alto, à la Puerta del Mayordomo,  la  deuxième en sortant de cette porte de la ville dite del Mayordomo, jouxtant de chaque côté des bodegas du chapitre.
+
+ CH_OO_16. Le 2/07/1425, le chapitre baille au chanoine Juan González Cornejo, une bodega e casa avec sa cámara, située à l'Arrabal, au Poyo Alto, à la Puerta del Mayordomo, en sortant, jouxtant des maisons de l'Église tenues par le même chanoine et le doyen, ainsi que la tour et le mur de la ville, et la rue devant la porte, pour 100 mrs. de vieille monnaie ou le double, avec la caution de son frère, Pedro García Cornejo. Le titre donné à l'acte indique qu'il s'agit d'une des casas bodegas nouvelles faites par le chapitre, la première en sortant de la Puerta del Mayordomo.
+
+CH_OO_16. En 1439, la bodega dite del Poyo, tenue par Juan González Cornejo pour 200 mrs., depuis le 2/07/1425, jouxte une bodega de l'Église, l'enceinte et le coin de rue (la çerca et el esquina).
+
+CH_OO_16. En 1443, la bodega que l'on appelait auparavant del Poyo Alto, se trouve divisée en quatre bodegas, dont la première, jointive de la porte de la ville dite Puerta del Mayordomo, a été baillée, le 2/07/1425, au chanoine Juan González Cornejo, pour 100 mrs. viejos, avec la caution de son frère, Pedro García.
+
+CH_OO_16. En 1450, la bodega du Poyo Alto reste tenue par le chanoine Juan González de la Cruz, pour 100 mrs. viejos, en vertu du contrat de 1425, avec la caution de Pedro García, son frère. Le 1/07/1447, il a donné la caution de Juan González Cornejo, escribano de Talavera et de Bartolomé, son escudero. Cette bodega est la première en sortant par la Puerta del Mayordomo.
+
+CH_OO_16. Le 10/6/1459, le chapitre a donné à cens la petite bodega dite du Poyo Alto, avec les autres maisons qui la jouxtent, à Pedro de Esquivias pour 400 mrs. et une paire de poules, avec la condition qu'il les tienne réparées, et la caution de Juan de Esquivias, son beau-frère, et cela reste valable en 1465.
+
+CH_OO_16. En 1472, la maison que tenait Pedro de Esquivias, au Poyo Alto, avec l'autre maison qui la jouxte, a été cédée (à une date non précisée), avec l'autorisation du chapitre, à Alfonso López, albañil, puis, le 14/08/1466, cet Alfonso López, également avec l'autorisation du chapitre, a laissée la maison à Miguel Sánchez de los Morales, vecino de Mascaraque, lequel a reconnu le cens de 400 mrs. et une paire de poules, avecn l'obligation de faire, sous un an, une cámara qui se trouve au dessus
+
+CH_OO_16. Le 2/06/1475, la maison du Poyo Alto, la première à gauche en sortant de la Puerta de  los Caldereros, avec la bodeguilla adjacente, que tenait à cens Miguel Sánchez de los Morales, vecino de Mascaraque, avec la charge d'un cens de 400 mrs. courants et une paire de poules, a été vendue, avec autorisation du chapitre, à Ximón de Villarreal, qui a fait reconnaissance, avec obligation de faire une cámara comme y était obligé Miguel Sánchez, et les autres réparations nécessaires.
+
+CH_OO_16. Le 7/06/1488, Diego de Ayala montre devant les majordomes du chapitre qu'il a été fait exécution sur la maison que Ximón de Villarreal, défunt, tenait du chapitre au Poyo Alto, à cause de certaines dettes, et que la maison lui a été adjugée pour 3.200 mrs. avec la charge des 400 mrs. de cens au chapitre, et les majordomes exercent leur droit de retrait, en retenant 1.154 mrs. qui restaient dûs du cens de la maison.
+
+CH_OO_16. Le 30/06/1488, le chapitre baille à Alfonso de la Rosa, peraile, et María González, sa femme, la maison que tenait auparavant Ximón de Villarreal, à l'Arrabal, au Poyo Alto, pour la vie des deux et d'un fils ou d'une fille, chaque année pour 1.500 mrs. et trois paires de poules, avec la caution de Fernando de Pastrana, tundidor. 
+
+CH_OO_16. En 1490,  la maison du Poyo Alto, la première à gauche en sortant de la  Puerta de los Caldereros, avec la bodeguilla adjacente, que tenait auparavant Ximón García de Villarreal, est baillée, depuis le 30/06/1488, à Alfonso de la Rosa, peraile, et María González, sa femme.
+
+CH_OO_16. En 1491, la maison que tient désormais Alfonso de Rosa, pour sa vie et celle de sa femme et d'un héritier, pour 1.500 mrs. et trois paires de poules par an, jouxte d'un côté  l'enceinte de la ville jusque la Puerta de los Caldereros, et de l'autre une maison de l'Église.
+
+CH_OO_16. En 1496, le contrat fait en 1488 à Alfonso de la Rosa, peraile, et María González, sa femme, reste en vigueur, avec la caution de Fernando de Pastrana, tundidor.
+
+CH_OO_16_1439
+
+
+
+OF 356bis
+
+La bodega que dizen del poyo tienela Juan gonçales cornejo por preçio de dosientos maravedis e tomola en dos dias de Jullio Año de veynte e çinco Años.
+
+En 21 de mayo Año de 1439 Años fue deslindada esta bodega por Juan gonçales cornejo canonigo e Juan dias rraçionero e mayordomos de la eglesia de toledo. Et ha por linderos bodega de la eglesia e la çerca e la esquina. Et ha en luengo seys varas e en Ancho çinco varas e terçia e ensomo tiene una camara de su tamaño e tiene un corredor a la calle. Testigos garçia de toledo clerizon e vasco lorenço de lisboa.
+
+(firmado) Ludovicus Luppi apostolico e ordinario notario.
+
+CH_OO_16_1492
+
+
+
+OF 356 
+
+Las casas que agora tiene e posee Alfon de la Rosa por vida suya e de su muger e de un heredero por mill e quinientos mrs. e tres pares de gallinas en cada anno han por linderos de la una parte la çerca de la çibdad fasta la puerta que se llama de los caldereros e de la otra parte casas de la dicha yglesia. 
+
+En dies e nueve dias del mes de abril del dicho anno de noventa e un annos los venerables sennores Cristoval de Villaminaya e Alvar Peres de Montemayor canonigos e vesitadores de las posysiones de la santa yglesia de Toledo deslindaron estas casas. Tienen en entrando por la puerta prinçipal un portalejo e patin que tiene seys varas en largo e çinco en ancho e a la mano ysquierda un palaçio que tiene siete varas e media en largo e quatro en ancho e frontero de la puerta esta un obrador que tiene çinco varas e media en largo e tres e media en ancho e sobre este obrador ay una camara de su tamanno en largo e en ancho, ensomo de la puerta ay una cosinilla con un corredorçillo que sale a la calle del tamanno del portalejo y luego a la manderecha /f° 62 v°/ esta una camara del largo e ancho del palaçio de abaxo y luego tiene otra camara con otro corredorçillo que sale a la calle que tiene çinco varas en largo e tres en ancho con un callejon que va fasia la çerca de Santo Domingo el Real e tiene un establo que tiene çinco varas en largo e tres e media en ancho. Que fueron testigos Diego de Obregon e Françisco de Narbaes criados del dicho sennor Alvar Peres e Ferrando de Sant Marcos. (signé) Juan de Mayorga notario apostolico.
+
+D'autres possessions du chapitre jouxte cette bodega du Poyo Alto, à savoir les bodegas CH_OO_17, CH_OO_18, CH_OO_19, et le solar CH_OO_20.
+
+CH_OO_17
+
+Cristo de la Luz, calle de. N°19.
+
+CH_OO_17. Le 19/10/1425, le chapitre baille au doyen don Ruy García de Villaquirán, docteur in utroque jure, une bodega avec ses cámaras et palacio, située à l'Arrabal, dite du Poyo Alto, à la Puerta del Mayordomo, la deuxième en sortant de la porte de la ville dite la Puerta del Mayordomo, jouxtant de chaque côté des bodegas du chapitre tenues par le même doyen et par Juan González Cornejo, pour sa vie, pour 250 mrs. de vieille monnaie ou le double, avec la caution de Pedro Fernández de Montiel, maestrescuela de Cuenca.
+
+La maison et la bodega (CH_OO_17, CH_OO_18, CH_OO_19) jouxte l'adarve de la ville, le terme d'adarve ayant ici non pas la signification la plus fréquente, au moins à Tolède, de ruelle fermée, ni même celle de chemin de ronde d'une enceinte, mais bien la muraille elle-même, car dans le cas contraire, elles se trouveraient, non pas à l'extérieur de l'enceinte, dans l'Arrabal, mais à l'intérieur.
+
+CH_OO_17. En 1439, la deuxième bodega, jointive de la précédente (CH_OO_16) est tenue par le doyen, don Ruy García, pour 500 mrs., depuis le 19/10/1425. En 1443, la deuxième partie de la bodega (du Poyo Alto) reste baillée au doyen, don Ruy García, depuis 1425, pour 250 mrs. viejos, soit 500 mrs.
+
+CH_OO_17. En 1450, la bodega que tenait le doyen près de la précédente (CH_OO_16), a été louée (alquilada) à Juan Díaz, carpintero pour 400 mrs. et une paire de poules, depuis le 15.08/1449.
+
+CH_OO_17 et O-18. En 1465 et 1472, la troisième bodega (CH_OO_18) et l'autre, jointive avec elle (CH_OO_17), que tenait Juan de Esquivias, ont été cédées par celui-ci, avec autorisation du chapitre, à Juan Rodríguez, albañil, qui a fait reconnaissance des 440 mrs. de cens, le 30/12/1453, avec la caution d'Alfonso Carrasco, fils de Lope Alfonso, alarife (ou albañil)
+
+CH_OO_17_1439
+
+
+
+OF 356bis 
+
+La segunda bodega que esta Junta con esta tienela don rruy garçia dean por preçio de quinientos maravedis e tomola en 19 de otubre Año de 25 Años.
+
+En 21 de mayo Año de 1439 Años fue deslindada esta bodega por Juan gonçales cornejo canonigo e Juan dias rraçionero e mayordomos de la eglesia de toledo. Et han por linderos de cada parte casas de la eglesia. Et ha en luengo onze varas e en ancho çinco varas e quarta. Et ensomo dos camaras e corredores con un patinejo de su medida. Item A la mano derecha tiene un palaçio que ha en luengo çinco varas e media e en Ancho quatro varas e terçia. Et ensomo una camara de su mesma medida. Et esta bodega tiene un corredor sobre la calle. Testigos Alfonso del Arraval e garçia clerizones.
+
+(firmado) Ludovicus Luppi apostolico e ordinario notario.
+
+CH_OO_18
+
+Cristo de la Luz, calle de. N°21.
+
+CH_OO_18. Le 7/05/1432, le chapitre baille au doyen don Ruy García de Villaquirán, doctor in utroque jure, une maison tienda située à l'Arrabal en dessous de la Puerta del Mayordomo et appelée du Poyo Alto, jouxtant une autre maison tienda tenues par le même et une autre tenue par le chanoine Juan González Cornejo, et vers le haut le mur de la ville,  et la rue, pour 150 mrs. de vieille monnaie ou le double, soit 300 mrs. de blancas
+
+CH_OO_18. En 1439, la troisième bodega jouxtant ce qui précède est tenue par le doyen, don Ruy García pour 300 mrs. depuis le 7/05/1432. En 1443, la troisième partie de la bodega, que tenait Alfonso Fernández del Alcázar, reste baillée depuis 1432, au doyen don Ruy García, pour 150 mrs. viejos, soit 300 mrs.
+
+CH_OO_18. En 1450, la troisième bodega proche de la précédente, est louée pour 300 mrs. à un tundidor appelé Juan Alvarez.
+
+CH_OO_17 et CH_OO_18
+
+CH_OO_17 et CH_OO_18. Le 16/12/1463, Juan de Esquivias, avec autorisation du chapitre, a cédé à Juan Rodríguez, albañil, les deux bodegas qu'il tenait à cens pour 440 mrs. et une paire de poules, avec la caution de'Alfonso Carrasco, fils de Lope Alfonso, albañil.
+
+CH_OO_17 et CH_OO_18. Le 4/01/1479, Juan Rodríguez, albañil, fils de Juan Rodríguez, albañil, pour lui-même et au nom de sa sœur, María, comme héritiers de Juan Rodríguez, a fait reconnaissance du cens de 440 mrs. et une paire de poules, pesant sur les deux autres bodega, que estan en el dicho poyo, jouxtant la précédente (CH_OO_16), avec la caution de son frère, Antón Rodríguez, albañil. Le 18/10/1482, le chapitre a autorisé les héritiers de Juan Rodríguez à vendre à Marco Barzana, beneficiado à S. Román, et Pedro López de Santa Cruz, curé de Cenicientos.
+
+CH_OO_17, 18, 19
+
+CH_OO_17, 18, 19. En 1491, la maison et bodega que tient Marcos Barzana, au prix de 440 mrs. par an et une paire de poules, jouxte d'un côté une maison de l'́ Église de l'autre l"adarve de la ville. 
+
+CH_OO_17, 18, 19. En 1496, les deux bodegas vendues en 1482 à Marcos Barzana, beneficiado de S. Román, et Pedro López de Santa Cruz, curé de Cenicientos, leur restent, avec la charge du cens de 440 mrs. et une paire de poules.
+
+CH_OO_18_1439
+
+
+
+OF 356bis 
+
+La terçera bodega que se tiene con los suso dichos tienela don rruy garçia dean por preçio de tresyentos maravedis e tomola en syete dias de mayo Año de 32 Años.
+
+(En el margen izquierdo) Reparo.
+
+En 21 de mayo Año de 1439 Años fue deslindada esta bodega por Juan gonçales cornejo canonigo e Juan dias rraçionero e mayordomos de la eglesia de toledo. Et ha por linderos de cada parte casas de la eglesia. Et tiene en la entrada un portal que ha en luengo ocho varas e en ancho tres varas e media. Et ensomo del dos suelos uno sobre otro. Et el primero ha en luengo quatro varas e en Ancho quatro varas. Et çerca del un corredor que sale A la calle que ha en luengo quatro varas e en Ancho una vara. Et el segundo suelo ha en luengo nueve varas e en Ancho quatro. Et çerca del otro corredor de su longura e de una vara en Ancho. Et sobiendo por la escalera A la mano esquierda esta una camara que ha en luengo quatro varas e en Ancho dos varas e media. Et ensomo della otra camara que ha en luengo ocho varas e quarta e en Ancho seys varas e dos terçias. Et çerca della esta un portal con un Andafejo e nesçesaria que ha en luengo quatro varas e en ancho tres varas. Et ensomo de la escalera estan dos portalejos. A manera de Andores. Testigos alfonso de toledo e garçia de toledo clerizones.
+
+(firmado) Ludovicus Luppi apostolico e ordinario notario.
+
+CH_OO_19
+
+Cristo de la Luz, calle de. N°23.
+
+CH_OO_19. Le 4/08/1426, le chapitre baille au chanoine Juan González Cornejo, une bodega et casa, avec sa cámara, située à l'Arrabal, au Poyo Alto, la dernière des quatre bodegas et casas que le chapitre a faites à neuf au Poyo Alto, en sortant par la porte du Mayordomo, jouxtant celle que tient le doyen (Ruy García de Villaquirán) (CH_OO_17) avec devant la porte la rue allant à l'église et à la place de Santiago (e delante la puerta la calle publica que va fasia la eglesia e plaça de Santiago), au prix de 210 mrs. par an de la monnaie à courir, avec la caution de Rodrigo Rodríguez, pedrero. 
+
+CH_OO_19. En 1439, la quatrième bodega est tenue par Juan González Cornejo por 420 mrs. depuis le 4/08/1426. En 1443, la quatrième partie de la bodega a été baillée en 1426 au chanoine Juan González Cornejo, pour 210 mrs. viejos, soit 420 mrs.  En 1450, la bodega se tenant avec la précédente, a été baillée le 4/08/1426, pour 210 mrs. de vieille monnaie, au chanoine Juan González de la Cruz. Le 1/06/1447 celui-ci a donné la caution de Juan González Cornejo, escribano de Talavera, et de Bartolomé, son escudero.
+
+CH_OO_19_1439
+
+
+
+OF 356bis 
+
+La quarta bodega tienela Juan gonçales cornejo por preçio de quatroçientos e veynte maravedis e tomola en quatro dias de Agosto Año de veynte e seys Años.
+
+En 21 de mayo Año de 1439 Años fue deslindada esta bodega por Juan gonçales cornejo canonigo e Juan dias rraçionero e mayordomos de la eglesia de toledo. Et ha por linderos de la una parte casas de la eglesia e de la otra parte solar de la eglesia e ha en luengo con una buelta que tiene A la mano esquierda quatorse varas e en Ancho en la buelta ocho varas e en lo otro quatro varas. Et ensomo sobiendo por la escalera A la mano esquierda esta una camara que ha en luengo quatro varas e quarta e Al tanto en Ancho. Et luengo un corredorçillo sobre la puerta de longura de la dicha camara e de una vara e Ancho. Et A la mano derecha esta otra camara que ha en luengo çinco varas e en Ancho quatro varas e quarta. Et entre estas dos camaras esta un portal que ha en luengo quatro varas e en Ancho tres varas e media. Testigos Alfonso e garçia de toledo clerizones.
+
+(firmado) Ludovicus Luppi apostolico e ordinario notario.
+
+CH_OO_17+18+19_1492
+
+
+
+OF 356 
+
+Las casas e bodega que tiene Marco Barsana por presçio de quatroçientos e quarenta mrs. cada un anno e un par de gallinas han por linderos de la una parte casas de la yglesia e de la otra el adarve de la çibdad. 
+
+En veynte dias de abril del dicho anno de noventa e un annos los venerables sennores Cristoval de Villaminaya e Alvar Peres de Montemayor canonigos e vesitadores de las posisiones de la santa yglesia de Toledo deslindaron estas casas e ay en ellas en luengo dose varas e media e en ancho siete e media. Tienen dos puertas prinçipales a la calle e dos soberados del mesmo largo e ancho que lo de abaxo e mas un corredor sobre la calle que tiene çinco varas en largo e una en ancho. Que fueron testigos Diego de Obregon e Françisco de Narbaes criados del dicho sennor Alvar Peres e Ferrando de Sant Marcos. (signé) Juan de Mayorga notario apostolico. /f° 64 v°/
+
+CH_OO_20
+
+Subida a la Granja (muladar) linda la casa (OO_19)
+
+Cristo de la Luz, calle de. N°25.
+
+CH_OO_20. Le 31/08/1433, le chapitre a donné à cens à Diego González de León, le solar situé en dessous de la dernière bodega mentionnée (CH_OO_19), chaque année pour 40 mrs. viejos, soit 80 mrs. .
+
+CH_OO_20. En 1439, le solar situé au dessous de la bodega CH_OO_19, tenu par Diego González de León pour 80 mrs., n'a pas pu être mesuré, car il se trouve dans le grand dépotoir qui va jusqu'à l'enceinte de Sto. Domingo el Real (por quanto esta en el grand muradal que llega fasta la çerca de Santo Domingo el Real).
+
+CH_OO_20. En 1450 et 1465, le solar du chapitre, situé en dessous de la bodega CH_OO_19, reste tenu à cens, depuis 1433, par Diego González de León, pour 40 mrs. de vieille monnaie, ou le double, sans mention de paiement pour 1465.
+
+CH_OO_20. En 1472, le solar donné à cens à Diego González de León esta perdido, sans mention de paiement.
+
+CH_OO_20. Le 14/11/1482, le solar du chapitre en dessous de la bodega CH_OO_19, a été donné à cens à Marco Barzana, beneficiado de l'église San Román, pour 80 mrs. avec condition qu'il le construise, et il ne paie rien cette année là.
+
+CH_OO_20. En 1491, le solar que tient Marco Barzana, pour 80 mrs. par an, n'a pu être mesuré parce qu'il est transformé en dépotoir. En 1496, il est fait référence au contrat du 14/11/1483 fait à Marcos Barzana, pour 80 mrs., mais il est noté en marge descontado.
+
+CH_OO_20_1439
+
+
+
+OF 356bis
+
+El solar que esta debaxo desta bodega tiene diego gonçales de leon çenso por ochenta maravedis e tomolo en postrimero dia de Agosto Año de 33 Años.
+
+Este solar non se pudo medir por quantos esta en el grand muradal que llega fasta laçerca de santo domingo el Real.
+
+(firmado) Ludovicus Luppi apostolico e ordinario notario.
+
+CH_OO_20_1492
+
+
+
+OF 356 
+
+El solar que tiene Marco Barsana vesitaron los dichos sennores en el dicho dia veynte de abril del dicho anno de noventa e un annos, el qual non se pudo medir por que esta fecho muladar, paga por el ochenta mrs. cada anno.
+
+CH_OO_08
+
+Cristo de la Luz, calle de. N°27,
+
+CH_OO_08. Le 13/10/1410, le chapitre donne à cens, pour 10 mrs. de vieille monnaies à Vicente García de Soria, fils de Miguel Fernández, demeurant à la colación de S. Miguel, un solar à l'Arrabal, jouxtant la bodega del Poyo Alto (CH_OO_16 à CH_OO_19), la maison de la Fuente (CH_OO_13) tenue à cens du chapitre par Juan González, criado de Pedro Lopes, recuero, le mur de la ville, et la rue.
+
+CH_OO_08. En 1412, Vicente García, demeurant à S. Miguel, fils de Miguel Fernández, tient à cens un suelo du chapitre, à l'Arrabal, jouxtant la Bodega del Poyo Alto  (CH_OO_16 à CH_OO_19) et la maison de la fuente appartenant au chapitre (CH_OO_13), chaque année pour 10 mrs. de vieille monnaie. De même en 1417 et 1422, mais dans ces deux derniers cas sans mention de paiement.
+
+CH_OO_08. Le 25/06/1422, le chapitre donne à cens, pour 8 mrs. de la monnaie à courir,  au docteur Ruy García de Villaquirán un solar situé à l'Arrabal, à la Puerta del Mayordomo, en dessous de la Cuesta del açor, jouxtant d'un côté la bodega du Poyo Alto, appartenant au chapitre, et de l'autre la bodeguilla de Juan Gutiérrez, fils de Juan García, trapero, ce solar, de 25 pieds sur 25, ne rapportait rien se trouvant dépeuplé (yermo e despoblado).
+
+CH_OO_08. En 1439, le solar que tenait auparavant Vicente García, est tenu par le doyen, don Ruy García, à cens pour 8 mrs, mais il n'a pu être mesuré, étant réduit à un dépotoir qui va jusqu'à l'enceinte de Santo Domingo el Real.
+
+CH_OO_08. En 1450, le solar que tenait Vicente García, jouxtant la bodega du Poyo Alto reste donné à cens depuis 1422, au doyen, don Ruy García, pour 8 mrs.
+
+CH_OO_08. En 1465 et 1472, le solar que tenait Vicente García, jouxtant la (blanc) del Poyo Alto, donné en 1422 à cens au doyen don Ruy García, pour 8 mrs. est désormais tenu par Elvira de la Torre. De même en 1482, Elvira de la Torre tient un solar, auparavant tenu par Vicente García, jouxtant le Poyo Alto, pour 8 mrs. Mais le nom de Lucrecia de Loarte est ajouté en marge, et le paiement est effectué pour elle (Elvira ou Lucrecia ?) par Alfonso de Trujillo. En 1490, il est encore indiqué qu'Elvira de la Torre tient le solar, mais le nom de Lucrecia de Loarte est mis en titre, et le paiement est fait par les héritiers.
+
+CH_OO_08. En 1491, le solar qu'avait tenu Vicente García, puis le doyen don Ruy García, est désormais aux héritiers de Lucrecia de Loarte, pour 8 mrs. de cens. Il n'a pu être mesuré parce qu'il est transformé en dépotoir. Il va jusqu'à l'enceinte de Sto. Domingo el Real et jouxte un autre solar que tient Marco Barzana, lui aussi réduit en dépotoir.
+
+CH_OO_08. Le 10/12/1494, Pedro Xirino de Loaisa et Francisco Xirino de Loaisa, les fils de Lucrecia de Loarte, pour eux-mêmes et au nom de Jufré de Loaisa et Juan de Loarte, leurs frères, ont fait reconnaissance des 8 mrs. de cens pour le solar que tenait auparavant Elvira de la Torre. On sait par ailleurs (voir à S. Yuste) que Lucrecia de Loarte était la fille du doyen don Ruy García de Villaquirán, et la femme de Pedro Chirino de Loaisa.
+
+CH_OO_08_1439
+
+
+
+OF 356bis 
+
+Fol. 28r: El solar que tenia Alfonso lopes alarife tienelo en çenso don rruy garçia dean por quarenta maravedis.
+
+En 24 de mayo Año de 1439 Años fue deslindado este solar por Juan gonçales cornejo canonigo e Juan dias rraçionero e mayordomos de la eglesia de toledo. Et han por linderos de la una parte tiendas de la dicha eglesia … Et ha en luengo syete varas e en Ancho çinco varas. Testigos diego de vargas …
+
+(firmado) Ludovicus Luppi apostolico e ordinario notario.
+
+CH_OO_08_1492
+
+
+
+OF 356 
+
+El solar que solia tener Viçente Garçia e despues le tovo el Dean don Ruy Garçia, tienenlo agora los herederos de Lucreçia de Luarte por presçio de ocho mrs. de çenso perpetuo.
+
+Este solar no se pudo medir porque esta fecho muladar. Llega fasta la çerca de Santo Domingo el Real e alinda con el otro solar que tiene Marco Barsana que asy mismo esta fecho muladar.
+
+Una de las posisiones que dio la Obra a la mesa del refitor en troque e canbio por las casas que estavan alderredor de la iglesia e se derribaron por mandado del reverendisimo sennor Cardenal en una casa a los alfahares, tienenla agora los herederos de Alfon Garçia de Ocanna por ochenta mrs. de çenso perpetuo. Ha por linderos de la una parte casas de Juan de Madrid e de la otra parte un molino de aseyte e de la otra la plaça que se dise de los alfahares.
+
+En çinco dias del mes de dizienbre del dicho anno de noventa e dos annos, los dichos sennores Cristoval de Villaminaya e Alvar Peres de Montemayor canonigos de la santa iglesia de Toledo en presençia del notario e testigos yuso escriptos deslindaron estas casas e fallose en ellas en entrando una casa puerta en que ay siete varas e media en largo e quatro e media en ancho, e a la mano ysquierda esta una cosina en que ay seys varas e media en largo e quatro en ancho. Testigos Oalençia pertiguero de los sennores e Diego de Obregon criado del dicho sennor Alvar Peres. (signé) Juan de Mayorga notario apostolico. /f° 222 v°/
+
+La Casa de la Fuente, en dessous du mur d'enceinte (el açor).
+
+CH_OO_13
+
+Arrabal, calle real del. N° 29.
+
+CH_OO_13. En 1372, Alfonso González, carnicero, et son frère, Domingo Juan, tiennent la maison de la fuente, qui est constituée de dos pares (de casas), à cens, pour 12 mrs., dont 10 sont payés par Pedro Texera qui a acheté la part de Domingo Juan, et les deux autres par Alfonso González.
+
+CH_OO_13. En 1380, Ruy López de la Huerta del Rey et Juan López, criado du prieur de Guadalupe, tiennent la maison de la fuente, que son dos pares, à cens, pour 12 mrs. par an, dont Ruy López paie 10 et Juan Fernández 2.
+
+CH_OO_13. En 1391, il est rapporté que la maison de la fuente, constituée de dos pares, était tenue à cens par Ruy López, hortelano de la Huerta del Rey, pour 10 mrs., et Juan Fernández, pour 2 mrs. Ruy López est mort sans laisser de biens ni d'héritiers, et la maison est démolie. Mais possession en a été prise au nom du chapitre, et Juan Lozano doit payer pour la maison 12 mrs. pour l'année 1392.
+
+CH_OO_13. Le 24/07/1391, le chapitre baille à Pedro Fernández, fils de Juan Fernández Lozano, demeurant à l'Arrabal, une maison située à l'Arrabal (confronts en blanc), chaque année pour 6 mrs. de vieille monnaie, dont 10 d. novenes font le mri, par un contrat à renouveler tous les cinq ans. Parmi les témoins figure Diego Martínez, alcalde de los pastores.
+
+CH_OO_13. En 1396, la maison de la fuente, soit dos pares de casas qui étaient démolies, a été prise par Pedro Fernández Lozano, fils de Juan Fernández Lozano, demeurant à l'Arrabal, pour 6 mrs. par an, avec premier paiement à la Toussaint 1392. Il en va de même en 1401, avec paiement des 6 mrs. de la monnaie nouvelle.  En 1408, Pedro Fernández Lozano, paie, au double, 12 mrs.
+
+CH_OO_13. En 1412, la maison dite de la fuente, constituée de dos pares, dans l'Arrabal, est tenue à cens par Alfonso Fernández, criado de Pedro López, recuero, pour 10 mrs. viejos par an, soit 20 mrs.
+
+CH_OO_13. En 1417, la maison dite de la fuente, que son dos pares, dans l'Arrabal, est tenue à cens par Alfonso Fernández, criado de Pedro López, recuero, pour 10 mrs. viejos par an,  depuis la Toussaint 1410, avec premier paiement au 1/11/1411. Cette année 1417, Juan Rodríguez a payé les 20 mrs. du censo.
+
+CH_OO_13. Le 31/07/1420, le chapitre donne à cens, pour 10 mrs. de vieille monnaie ou le double, au chanoine Ruy García de Villaquirán, une maison, à la colación de Santiago del Arrabal, dite las casas de la fuente, qui sont dos casas, una sobre otra, ayant appartenu à Alfonso Fernández, criado de Pedro López, recuero, jouxtant une maison des héritiers de Juan Garcia, trapero, une maison de Sant Alifonso, au dos la Cuesta del açor, et par devant la rue, las quales son de poca renta e inutiles… e estan en logar dañoso por rason de la dicha cuesta, et ne rapportant rien à ce moment.
+
+CH_OO_13. En 1422, las casas de la fuente, appartenant au chapitre à l'Arrabal, en dessous de l'açor, consistant en dos casas una sobre otra, se trouvent donnnées à cens, depuis le 1/07/1420, au chanoine Ruy García de Villaquirán, pour 10 mrs. de vieille monnaie, soit 20 mrs. que paie le docteur Ruy García.
+
+CH_OO_13. En 1439, la maison dite de la fuente est tenue par Juana Rodríguez, femme de Juan Rodríguez, notario, à cens por 20 mrs. et jouxte une maison de Pedro Rodríguez, el cano,  et une maison des confrères de S. Alfonso.
+
+CH_OO_13. En 1443 et 1450, la maison de la fuente (ou de las fuentes), située en dessous del açor est tenue à cens par Juan Rodríguez, notario, fils de Juan Rodríguez de Madrid, pour 20 mrs. de la monnaie à courir. En 1472, la maison de las fuentes, en dessous de l'açor, est tenue à cens pour 20 mrs. par Juan Rodríguez, notario, mais, en marge, est indiqué le nom de Pedro López, procurador
+
+CH_OO_13. Le 28/09/1476, le chapitre a autorisé Pedro López, promutor, qui tenait las casas de las fuentes en dessous de l'açor, à cens pour 20 mrs, à en faire donation à son fils, Diego de Tamayo.
+
+CH_OO_13. En 1491, la maison que tenait auparavant Juan Rodríguez, notario, est maintenant tenue par Diego de Tamayo, pour 20 mrs. de cens (confronts en blanc). En 1496, la maison de la fuente, en dessous de l'açor, reste tenue par Diego de Tamayo, pour 20 mrs.
+
+CH_OO_13_1439
+
+
+
+OF 356bis 
+
+Las casas que dizen de la fuente tienelas Juana Rodrigues muger de Juan Rodrigues notario çenso por preçio de veynte maravedis.
+
+En 23 de mayo Año de 1439 Años fueron deslindadas estas casas por Juan gonçales cornejo canonigo e Juan dias rraçionero e mayordomos de la eglesia de toledo. Et han por linderos casas de pero rrodrigues el Cano e casas de los cofrades de sant Alfonso. Et han en luengo seys varas e terçia e en Ancho tres varas. Et ensomo una camara que ha en luengo syete varas e terçia e en Ancho tres varas. Et tiene un corral que ha en luengo dose varas e media en en Ancho quatro varas. Testigos diego de vargas e Anton martines françes.
+
+(firmado) Ludovicus Luppi apostolico e ordinario notario.
+
+CH_OO_13_1492
+
+
+
+
+SD-124, ANH Clero, Libro 15118
+
+Medidas de casas de Santo Domingo el Real de Toledo (1460)
+
+Yten otras casas en el dicho arraval, que disen de la Catalana, en la dicha collaçion de Santiago, las quales tyene a tributo Juana Gonçales muger de Alfon Martines barvero por çiento e ochenta mrs. cada anno, que alindan de la una parte con casas de Johan Rodrigues de Cabannas e de la otra parte casas de Domingo Garçia de Olias e con la calle real, en las quales dichas casas ay una entrada de casa puerta en que ay en luengo tres varas e çinco seysmas e en ancho tres varas e dos terçias e dentro deste portal esta un palaçio frontero en que ay en luengo ocho varas e en ancho dos varas e çinco seysmas e este portal e camara esta doblado ençima de camaras de la mesma largura e anchura de lo de baxo. A lo qual estovo presente la dicha Juana Gonçales.	c L xxx  ¯;. 
+
+Une maison jouxtant la corraliza de l'enceinte.
+
+En 1460, Martín Fernández de Borox tient à cens pour 250 mrs. par an du monastère de Sto. Domingo el Real une maison à l'Arrabal, colación de Santiago,  qui était de la religieuse Teresa Alfonso de Castro, jouxtant la corralisa de la çerca que va entre las casas e la çerca et les rues.
+
+SD_ OO_126_460 
+
+SD-126, ANH Clero, Libro 15118
+
+Medidas de casas de Santo Domingo el Real de Toledo (1460)
+
+Yten otras casas en el dicho arraval, en la collaçion de Santiago, que eran de Theresa Alfon de Castro monja del dicho monesterio e tienelas a tributo Martin Ferrnandes de Borox por dosientos e çinquenta mras cada anno, que han por linderos de la una parte la corralisa de la çerca que va entre las casas e la çerca e de la otras partes las calles reales, en las quales dichas casas ay una entrada e un palaçiete de la una parte a la mano derecha e otro palaçiete a la mano ysquierda en que ay en luengo en todo honse varas e terçia e en ancho quatro varas e ençima de todo esto ay una camara de la dicha largura e [en bas de page: es escripto entre reglones en esta plana o dis anno]
+
+/f° 43 v°/anchura e estas camaras se mandan por de partes de fuera a la calle por una escalera de piedra. Yten ay mas un palaçio a la mano ysquierda en que ay en luengo siete varas syn el alhania que tiene a la mano derecha, e en ancho tres varas, e en la dicha alhania ay en luengo tres varas e quarta e en ancho tres varas. Yten otro palaçio frontero como entran en las dichas casas en que ay de luengo seys varas e dos terçias e en ancho tres varas, e estos dichos dos palaçios estan doblados de sus camaras ençima tamannas e tan anchas como los dichos palaçios e el alhania. Yten ay un portal doblado en el ayre de la casa delante del dicho palaçio frontero en que ay en luengo siete varas e quarta con la gordura del escalera e de ancho varas e media. Yten en el patyn de casa ay en luengo ocho varas e quarta e en ancho quatro varas e media e tiene su altura fasta el çielo.	cc L ¯;. 
+
+Becerro de SDR
+
+Siglo XVI
+
+Fol. 455r: Santiago.
+
+Teresa alfonso de castro.
+
+Item otras casas en el dicho arraval desta çibdad en la collaçion de santiago en una Rinconada çerca de la torre albarrana que alindan de la una parte con el muladar de la çerca el qual muladar disen de antequera e de la otra parte con casas que fueron de marina sanches la de usanos e de la otra parte con corral de gonçalo guzman, las quales dichas casas quedaron al monesterio de teresa alonso de castro monja del dicho monesterio que dios aya e las tienen a tributo iohan gonçales de villa Real trabajador vesino de toledo por dosyentos e çinquenta maravedis cada año... e primero tenian estas casas martin ferrandes de borox et sus herederos las vendieron con liçençia del monesterio a alonso Rodrigues de borox vezino de toledo por 8.500 maravedis forros e pago el diesmo e fiso Reconosçimiento de tributo...  1477 años et despues en veynte dias de mayo de 1491 años Juana Rodrigues muger del dicho alonso Rodrigues de borox vendio las dichas casas al dicho Juan gonçales de villa Real con el cargo del dicho tributo con liçençia del monesterio por 2.400 maravedis...
+
+Las escripturas e titulos que Ay desta posesyon.
+
+Una carta en pergamino de como iohan alonso fijo de Juan alonso de la cadena vezino de toledo morador en casa Ruvios vendio a teresa alonso fija de diego garçia de castro monja en el dicho monesterio unas casas al arraval çerca de los alfahares que se tienen con la Rinconada que disen del granado e con corral de colmenas de gonçalo alonso por myll maravedis de la moneda vieja fecha a dies dias de março año de 1391 años...
+
+En miercoles 19 dias de Noviembre de 1516 años elvira lopes muger del dicho iohan gonçales de villa Real que dios aya e iohan de villa Real su fijo vendieron a françisco martines alfaharero vezino de toledo un palaçio de las dichas casas el frontero como entran en ellas en que ay treynta e ocho pies en largo e doze en ancho poco mas o menos e una camara ençima de la dicha largura e anchura los quales se han de atajar e no se manden mas por las dichas casas e mas le vendieron un trascorral a las espaldas del dicho palaçio en que Ay treynta e seys pies de largo e doze en ancho poco mas o menos que tiene una puerta que sale a una plaçuela que ende esta con cargo de çiento e dos maravedis de tributo... et dio liçençia la señora priora doña maria davalos et a ellos quedo lo otro de las dichas casas que es un corredor en el ayre Junto con la dicha camara que le vendieron e el quarto de a mano ysquierda como entran que es un palaçio e su camara ençima e otro quarto a la entrada donde esta la puerta prinçipal con un establillo a la dicha entrada e una camara ençima de todo ello que tiene su puerta a la calle para una escaleruela et fysieron Reconosçimiento el dicho françisco martines de los dichos çiento e dos maravedis et el dicho iohan de villa Real de los otros 148 maravedis.
+
+En veynte de março de 1544 años teresa suares muger de françisco martines alfaharero fizo Reconoçimiento por çiento e dos maravedis por la casa que ella agora posee...
+
+En 1460, Alfonso de Zayas, jurado, tient à cens pour 100 mrs. par an de Sto. Domingo el Real et de la religieuse Isabel García de Orellana, une maison à l'Arrabal, colación de Santiago, proche de la demeure de cet Alfonso de Zayas, jouxtant une maison de Juan González de Sahagún, une maison des héritiers de Juan González de la Capilla, et les rues sur deux côtés.
+
+Le Mesón de los Pilares, (ou la bodega, puis la maison), proche de l'église de Santiago, se suit de 1370 à 1496, et se trouve divisée à la fin du XVe siècle.
+
+CH_OO_07
+
+Arrabal, calle real del. Nº 13.
+
+(Vivienda situada a la derecha de las tres casas juntas antes de la iglesia de Ntra. Sra. de la Estrella.)
+
+CH_OO_07. En 1372, Alfonso Domínguez, racionero, tient le Mesón de los Pilares, depuis le 15/08/1370, pour deux ans, au prix de 105 mrs. par an.
+
+CH_OO_07. En 1380, le Mesón de los Pilares est tenu par Domingo Fernández de Aldovea et sa femme, perpetuo, pour 80 mrs. par an.
+
+CH_OO_07. En 1391 et 1401, le Mesón de los Pilares est tenu par Benita Alfonso, veuve de Domingo Fernández de Aldovea, perpetuo e por reparado, pour 80 mrs. par an.
+
+CH_OO_07. Le 6/09/1404, le chapitre baille à Juan Gómez, bachiller en leyes, la Bodega de los Pilares, située à l'Arrabal (confronts en blanc), pour sa vie, chaque année pour 150 mrs. de la monnaie à courir, avec la caution de Pedro Gómez, frère de ce bachelier, et d'Alfonso Martínez de la Mata. En 1408, 1412, 1417 et 1422, Juan Gómez, bachelier ès-lois, tient la Bodega de los Pilares, dans l'Arrabal, pour 150 mrs. de la monnaie à courir, avec les mêmes cautions.
+
+CH_OO_07. Le  11/02/1427, le chapitre baille à Fernand González de Badajoz, demeurant à Barrio de Rey, une bodega avec sa cámara située dans l'Arrabal, près de l'église de Santiago, et dite de los Pilares, jouxtant une casa tienda du chapitre tenue par Benito González (CH_OO_09), une maison tenue par Juan Sánchez Alhavete, et la rue et plaça publica devant la porte, avec les actions, s'il y a lieu, contre Gómez Fernández qui tenait auparvant cette bodega, pour 302 mrs. 1/2 de vieille monnaie ou le double, avec interdiction de louer pour plus de cinq ans continuementn que non se presuma venir en agenamiento, avec la caution de Nuña Blázquez, sa femme, de Juan Rodríguez, carpintero, fils de Luis Pérez, et de Juan González, fils de Juan Alfonso, frutero
+
+CH_OO_07. En 1439, la Bodega de los Perayles (sic) est tenue par Fernand González de Badajoz pour 605 mrs. depuis le 11/02/1427.
+
+CH_OO_07. En 1443 et 1450, la Bodega de los Pilares reste tenue par Fernand González de Badajoz pour 605 mrs. courant, avec la caution de Juan Rodríguez, zapatero, fils de Ruy Pérez, et de Juan González, fils de Juan Alfonso, frutero.
+
+CH_OO_07. Le 14/05/1455, le chapitre baille à Gonzalo Rodríguez, tendero, et Elvira Rodríguez, sa femme, une maison dite del Esterilla, située à la colación de Santiago del Arrabal, (confronts en blanc), pour la vie des deux et d'un enfant,  chaque année pour 600 mrs. et une paire de poules. 
+
+CH_OO_07. En 1465, la maison dite de los Pilares, précéemment tenue par Fernand González de Badajoz, a été baillée à Gonzalo Rodríguez, tendero, pour sa vie, et celle d'Elvira Rodríguez, sa femme, et d'un fils ou d'une fille, pour 600 mrs. et une paire de poules, avec la caution de Diego Fernández de Madrid, jurado, de Fernand Rodríguez, albañil, et d'Alfonso Fernández, zapatero, frère de Gonzalo Rodríguez. En 1482, la maison dite de los Pilares reste au nom d'Elvira Rodríguez, pour 600 mrs.
+
+CH_OO_07. Le 20/05/1488, ́Benito Rodríguez, fils de Gonzalo Rodríguez, tendero, et d'Elvira Rodríguez, défunts, montre que ses père et mère avaient pris en perpetuo du chapitre une maison située dans l'Arrabal, à la colación de Santiago, jouxtant d'une part une maison des héritiers de Fancisco Berrillo (CH_OO_09) et de l'autre une maison de Juan Alvarez, mayordomo de S. Clemente, et la plaça e calle real, pour leur vie et celle d'un fils ou d'une fille, par un contrat en date du 14/05/1456, au prix de 600 mrs. et une paire de poules, et qu'il a été désigné par sa mère pour cette maison, et il s'oblige dans ce perpetuo, en donnant son frère, Juan de Toledo, comme caution.
+
+CH_OO_07. En 1490, la maison de los Pilares, que tenait Elvira Rodríguez, à l'Arrabal, se trouve partagée en deux parties:
+
+CH_OO_07a 
+
+.CH_OO_07a. Le corps supérieur  a été baillé à Pedro Navarro, barbero, pour sa vie et celle de Catalina López, et d'un fils ou d'une fille des deux, au prix de 1.500 mrs. et trois paires de poules, à partir de 15 jours avant Pâques (Pascua de resurreción) 1489, avec la caution de Miguel Sánchez, calderero, et d'Andrés de Benito García.
+
+CH_OO_07b
+
+. CH_OO_07b. Le corps inférieur a été baillé à Andrés de Benito García, pour sa vie et celle de sa femme, Antona Rodríguez, et d'un fils ou d'une fillle des deux, au prix de 1.900 mrs. et quatre paires de poules, avec la caution d'Antón de la Rosa, peraile, et de Pedro Navarro, barbero, tous deux vecinos de Tolède à l'Arrabal.
+
+CH_OO_07a. En 1491, la maison tenue par Pedro Navarro, à trois vies, pour 1.500 mrs et trois paires de poules, jouxte d'un côté une maison de l'Église, et de l'autre une maison ayant appartenu à Juan Alvarez de las Monjas. CH_OO_07b, la maison que tenait auparavant Elvira Rodríguez, la aceitera, est tenue par Andrés de Benito García, pour sa vie et celles de sa femme et d'un héritier, pour 1.900 mrs. et quatre paires de poules, et jouxte une maison de la cathédrale (Santa María) et le mesón de Triana.
+
+CH_OO_07
+
+CH_OO_07. En 1496, la maison dite de los Pilares, précédemment tenue par Elvira Rodríguez, à l'Arrabal, reste partagée en deux parties. 
+
+. CH_OO_07a. Du corps supérieur, Pedro Navarro, barbero, a fait abandon, et il a été baillé à Francisca Ruiz, femme de Lazaro García, pour sa vie, celle d'une autre personne à nommer par elle, et d'un fils ou d'une fille, au même prix de 1.500 mrs. et trois paires de poules, avec la caution de Pedro Navarro.
+
+. CH_OO_07b. Du corps inférieur,  Andrés de Benito García, qui le tenait pour 1.900 mrs. et quatre paires de poules, a fait abandon, le 8/01/1496, et le chapitre l'a baillé à Sebastián de Morales, pour sa vie et celle de sa femme, Leonor, et d'un fils ou d'une fille à nommer par eux, au même prix, avec la caution d'Andrés de Benito García.
+
+CH_OO_07_1439
+
+OF 356bis 
+
+La bodega que dizen de los perayles tienela ferrand gonçales de badajoz por preçio de seysçientos e çinco maravedis e tomola en onze dias de febrero Año de 27 Años.
+
+En 23 de mayo Año de 1439 Años fueron deslindadas estas casas bodega por Juan gonçales cornejo canonigo e Juan dias Raçionero e mayordomos de la eglesia de toledo. Et han por linderos de la una parte casas de la eglesia e de la otra casas de sant clemente. Et tiene luego un portal con un Apartado que tiene su puerta a la calle. Et ha en luengo ocho varas e media e en ancho dos varas. Et en el dicho apartado A la mano derecha esta un establo que ha en luengo dies varas e en ancho tres varas e media. Et en la prinçipal portada esta una casa que ha en luengo nueve varas e en Ancho çinco varas. Et ensomo desta dicha casa e del portal esta una camara de su tamaño de la dicha casa e portal. Testigos diego de vargas e gutierre gonçales cardero.
+
+(firmado) Ludovicus Luppi apostolico e ordinario notario.
+
+CH_OO_7b_1492
+
+OF 356 
+
+Las casas que solia tener Elvira Rodrigues el aseytera, tienelas agora Andres de Benito Garçia por vida suya e de su muger e de un heredero por presçio de mill e nueveçientos mrs. e quatro pares de gallinas, linderos casas de Santa Maria e de la otra parte el meson de Triana.
+
+En dies e nueve dias del mes de abril del dicho anno de noventa e un annos los venerables sennores Cristoval de Villaminaya e Alvar Peres de Montemayor canonigos e vesitadores de las posisiones de la santa yglesia de Toledo deslindaron estas casas. Tienen ocho varas en largo e çinco en ancho, tienen ensomo al tanto. Que fueron testigos Diego de Obregon e Françisco de Narbaes criados del dicho sennor Alvar Peres e Ferrando de Sant Marcos. (signé) Juan de Mayorga notario apostolico.
+
+CH_OO_07a_1492
+
+OF 356 
+
+Las casas que tiene agora Pedro Nabarro por tres vidas por presçio de mill e quinientos mrs. e tres pares de gallinas. Han por linderos de la una parte casas de la iglesia e de la otra parte casas que eran de Juan Alvares de las monjas.
+
+En dies e nueve dias del mes de abril del dicho anno de noventa e un annos los venerables sennores Cristoval de Villaminaya e Alvar Peres de Montemayor canonigos e vesitadores de las posisiones de la santa yglesia de Toledo deslindaron estas casas e tienen  en largo nueve varas e tres en ancho. Que fueron testigos Diego de Obregon e Françisco de Narbaes criados del dicho sennor Alvar Peres e Ferrando de Sant Marcos. (signé) Juan de Mayorga notario apostolico. /f° 64 r°/
+
+La Granja, ou Alhara Nueva, en dessous du monastère de Sto. Domingo el Real.
+
+Encore dans l'Arrabal, à la colación de Santiago, en contrebas du monastère de Santo Domingo el Real, se situait un secteur dénommé La Granja, ou Alhara nueva. Ce dernier terme, calque de l'arabe al-ḥāra, signifant quartier ou secteur d'une ville, on est conduit à penser que ce nouveau quartier remontait à une époque où l'arabe restait langue courante à Tolède, c'est à dire avant la fin du XIIIe siècle, et non pas à la période islamique, étant donné la qualification de nueva. De fait, on trouvait, en 1290, une tienda (ou une bodega), dans l'Arrabal de Tolède, jouxtant notamment la rue montant vers al-ḥāra nūba. L'on n'y détecte, ni en 1491-1492, ni auparavant, aucune possession du chapitre cathédral. Il était mentionné dans la première moitié du XVe siècle, dans les chroniques, à propos d'un épisode du règne de Juan II, et l'on sait qu'il fut transformé en dépotoir à une époque imprécise, en tout cas antérieure à la fin du XIXe siècle.
+
+En 1424, Pedro López, recuero, demeurant à l'Arrabal, vend à Catalina Sánchez de Alcázar de Consuegra, demeurant également à l'Arrabal, veuve de Fernand González de Villarejo, une maison avec deux terrains, l'un attenant à la maison et l'autre situé en face, le tout localisé dans l'Arrabal, à la Granja, en dessous du monastère de Santo Domingo el Real. En 1456, certains des héritiers de Fernand García de Villarejo et Catalina Sánchez, dont leur fils Juan García, tejedor de paños, font donation à leur frère, Alfonso García de Alcázar, fils des deux mêmes, de leur part dans la maison, localisée dans l'Arrabal, à la Granja. L'année suivante, Martín Alfonso, barbero, pour régler certaine dette envers Santo Domingo el Real, fait donation au monastère de deux terrains (suelos) qu'il possédait à l'Arrabal, al Alhara nueva, colación de Santiago, fondon del dicho monesterio, jouxtant d'autres suelos du monastère, et une maison d'Alfonso García de Alcázar, ayant appartenu à Pedro López, recuero.
+
+Vers 1450, l'Hôpital de la Misericordia possède 400 mrs. de tributo légués par Diego García de Toledo, criado de l'Almirante, sur une maison située à la colación de Santiago de l'Arrabal, jouxtant une maison de Juan Sánchez, hortelano, une maison d'Alfonso González de Sosa, et une maison qui avait été de Juan Alfonso. Cette maison est tenue depuis 1438, pour ces 400 mrs. annuels, par Alfonso García de Alcázar, fils de Fernand García, et Leonor García.
+
+En 1460, Juan González de Recas, molinero, tient à cens, pour deux poules par an, du monastère de Sto. Domingo el Real, une maison, dans l'Arrabal, à la Granja, appelée el suelo de Juan de Ayala, à la colación de Santiago del Arrabal, jouxtant une maison de Juan García de la Tienda, une maison de Juan Fernández, cabrerizo, avec un corral dans lequel il y a quatre maisons, et un trascorral.
+
+La collaçion de Santiago del Arraval
+
+SD_ OO_113_1460 
+
+SD-113, ANH Clero, Libro 15118
+
+Medidas de casas de Santo Domingo el Real de Toledo (1460)
+
+Primeramente unas casas en el arraval a la Granja que disen el suelo de Juan de Ayala en la collaçion de la eglesia de Santiago, las quales tyene a tributo del dicho monesterio Johan Gonçales de Recas molinero por un par de gallinas cada anno, que han por linderos de la una parte casas de Johan Garçia de la Tyenda e de la otra parte casas de Juan Ferrnandes cabreriso, en la qual dicha casa desde la puerta fasta la pared frontera de partes de dentro del palaçio ay veynte e ocho varas e media e de ancho dies e siete varas, [en bas de page: es emendado en esta plana o dis çinco]/f°38 v°/en el qual dicho corral ay quatro casas dentro en esta anchura e largura sensilla e tyene mas estas casas un trascorral a la mano ysquierda en que ay en luengo dies e ocho varas e en ancho catorse varas e esta en esta longura un giron al cabo del corrral que ay en el en ancho tres varas e media.	ii gs
+
+En 1461, le monastère de Santo Domingo el Real reçoit, dans un échange, une maison située à la Granja, baxo de las vistas del dicho monesterio, avec des terrains vagues attenant fasta dar en el muro de la çibdad, jouxtant d'autres terrains du monastère. Toutes ces indications montrent un état de délabrement dans lequel se trouvait ce secteur, même après le milieu du siècle, peut-être relevé ensuite, avec des baux comportant une clause obligeant le preneur à construire. Ainsi en 1467, les membres d'une confrérie située dans l'église de Santiago de l'Arrabal, baillaient, pour le cens minime de 100 mrs. de monnaie courante, une casa solar, à la Granja, avec obligation de faire dans les deux ans sur ce terrain une casa achevée et couverte . 
+
+Dans ce secteur, on signale encore un four, qui paraît avoir été reconstruit entre 1502 et 1503. En 1502, une maison, à la Granja, en jouxtant d'autres qui étaient auparavant un four et le mur de Santo Domingo el Real. En 1503, une autre maison, à la Granja, jouxtait le four de la dite Granja, et la même, en 1506, à la colación de Santiago del Arrabal, jouxte notamment le four de la Granja tributaire aux confrères de Santiago, et le corral de Santo Domingo el Real.
+
+L'Hôpital de Santiago, à la Granja.
+
+En 1460, Juan Alvarez de Pantoja tient à cens pour 275 mrs. du monastère de Sto Domingo el Real une maison située a la Granja et dite las casas de la Canbronera, jouxtant d'une part une maison de Juana González, belle-mère d'Alfonso González de Carranque, une maison de la yesera, et la rue, avec  un trascorral dans lequel il y a l'entrée d'un callejón jouxtant une maison d'Alfonso Rodríguez, yesero, et vers le bas l'hôpital de Santiago.
+
+SD_ OO_114_1460 
+
+SD-114, ANH Clero, Libro 15118
+
+Medidas de casas de Santo Domingo el Real de Toledo (1460)
+
+Yten otras casas en el dicho arraval a la Granja que disen las casas de la Canbronera, que tiene a tributo del dicho monesterio Johan Alvares de Pantoja por dosientos e setenta e çinco mrs., que han por linderos de la una parte casas de Juana Gonçales suegra de Alfon Gonçales de Carranque e de la otra parte casas de la yesera e la calle real, en las quales dichas casas ay un palaçio como entran a la mano derecha que tiene nueve varas en luengo e en ancho tres varas e dos terçias e ençima deste dicho palaçio esta una camara que se manda por la dicha calle, la qual es desta mesma largura e anchura. Yten ay otro palaçuelo a man ysquierda en que ay en luengo ocho varas e quarta e en ancho tres varas e terçia e la camara que esta ençima deste dicho palaçio non es destas dichas casas salvo de Maria Garçia la br… Yten ay en estas dichas casas una cosina a la mano ysquierda en que ay en luengo siete varas e en ancho tres varas. Yten ay una entrada de la puerta que es tan largo como el hastial del palaçio de a man ysquierda e de ancho vara e media, e baxo deste patyn esta un trascorral que era huerto en que ay en luengo dies e seys varas e media e en ancho dose varas e en estos dichos trascorrales esta una entrada de un callejon que alinda de la una parte con casas de Alfon Rodrigues yesero e de la otra parte de ayuso el ospytal de Santiago e este callejon es quadrado e ay en luengo quatro varas e otras quatro varas en ancho.	cc Lxx v ¯.  
+
+L'Hôpital de Santa Ana
+
+On trouve l'hôpital de Santa Ana dans un secteur de la colación de Santiago de l'Arrabal, coïncidant sans doute avec ce qui sera ensuite, et jusqu'au XIXe siècle, désigné comme la bajada de Santa Ana et où un hôpital était attesté dans le courant du XVIe siècle. 
+
+Le 14/02/1424, Maestre Yahia, alfaharero, fils de Maestre Ydam, et sa femme doña Fatima, moros demeurant à Tolède, vendent pour 5.000 mrs. au monastère de Sto. Domingo el Real, une maison située à l’Arrabal, colación de Santiago, jouxtant des deux côtés l'hôpital de Santa Ana.
+
+En 1460, Pedro Amarillo, hortelano, tient à cens du monastère de Sto. Domingo el Real, pour 250 mrs. et deux paires de poules par an, une maison située à l'Arrabal, colación de Santiago, précédemment tenue par Fernando de Zayas, jouxtant d'une part l'hôpital de Santa Ana, et de l'autre une maison du même hôpital, et les rues sur deux côtés.
+
+Le 6/10/1487, Gerónimo de Aguilera, criado du capellán mayor don Alfonso de Albornoz, impose et vend à Ana Vázquez, veuve de Fernand Núñez de Aguilar, pour sa vie durant, et ensuite au monastère de S. Pedro Mártir, un cens de 200 mrs. et une paire de poules, sur une maison située à l'Arrabal, colación de Santiago, dans un adarve situé en dessous de l'hôpital de Santana (confronts en blanc), pour le prix de 4.000 mrs.
+
+Le 11/01/1510, Catalina de la Parra, veuve du judado Alfonso de Santa María, reconnaît un cens de 350 mrs. et deux paires de poules en faveur du monastère de Sto. Domingo el Real, sur une maison qu'elle a eue dans le partage de l'héritage de son mari et des fils de celui-ci, située à l'Arrabal, à la colación de Santiago, jouxtant d'un côté l'hôpital de Santa Ana et des autres côtés les rues.
+
+SD_ OO_125_1460 
+
+SD-125, ANH Clero, Libro 15118
+
+Medidas de casas de Santo Domingo el Real de Toledo (1460)
+
+Yten otras casas en el dicho arraval, en la collaçion de Santiago, las quales tyene a tributo del dicho monesterio/f° 43 r°/Pedro Amarillo ortelano por tresientos e çinquenta mrs. e dos pares de gallinas cada anno, las quales solia terner Ferrando de Çayas que han por linderos de la una parte el ospital de Santana e de la otra parte casas del dicho ospytal e de las otras dos partes las calles, en las quales dichas casas en la entrada de la puerta desde la esquina del palaçio fasta la pared de la mano derecha ay en luengo seys varas e siete ochavas e en ancho desde la puerta fasta en derecho del esquina del dicho palaçio quatro varas, e en el corral de las dichas casas ay en luengo quinse varas e terçia e en ancho dies varas. Yten ay un palaçio frontero como entran en que ay en luengo siete varas e en ancho tres varas e media e frontero del entrada deste dicho palaçio esta una manga que tiene en luengo tres varas e media e en ancho dos varas e quarta, e este dicho palaçio e manga tyene una camara ensomo tamanna como lo suso dicho de baxo e esta camara vierte agua a las casas de Santana. Yten ay mas otro palaçio como entran a la mano ysquierda frontero, en que ay de luengo dies varas e media e de ancho quatro varas e terçia e tiene ençima una camara desta mesma anchura e largura. Yten ay mas otro palaçio a par del entrada de casa como entran a la mano ysquierda, en que ay de luengo ocho varas e terçia e de ancho tres varas e tiene esta casa su altura fasta el çielo.	ccc L ¯.  iiii° gs
+
+La boucherie de l'Arrabal et la callejuela de Fernand González.
+
+N'est pas exactement définie la localisation dans l'Arrabal de la ruelle de Fernán González, ni de la boucherie voisine, si ce n'est que l'une et l'autre se trouvent situées à la colación de Santiago..
+
+Le 27/04/1422, doña Orabuena, femme de Gonzalo Fernández de Mocejón, demeurant à Mocejón, vend à Maria Alfonso, fille de Gonzalo Alfonso, demeurant à la colación de Sta. Leocadia la Vieja, un palacio dans une maison située à l'Arrabal, dans la callejuela dite de Fernand González, face à la carnicería de l'Arrabal (confronts en blanc), plus un corralejo au coin dudit palacio, et la moitié du corral et du puits.
+
+Le 22/02/1434, María Alfonso, fille de. Gonzalo Alfonso et de Juana González, demeurant à la colación de Sta. Leocadia la Vieja, donne à cens pour 100 mrs. de la monnaie à courir, à Alfonso González de Faro, lencero, un palacio avec un corralejo situé au coin du palacio, dans une maison située à l'Arrabal, dans la calleja de Fernand González, près de la boucherie de l'Arrabal, et une maison d'Alfonso Fernández Quexo, notario. La vendeuse avait acheté cela de doña Orabuena, femme de Gonzalo Fernández de Mocejón.
+
+En 1460, Pedro de Faro, lencero, fils d'Alfonso González de Faro, tient à cens, pour 100 mrs. par an, du monastère de Sto. Domingo el Real, une partie de maison, située à l'Arrabal, colación de Santiago, dans l'adarve, en face de la boucherie, appelée la callejuela de Pedro Fernández de la Callejuela, dans une maison dudit Pedro de Faro, jouxtant dune part une maison des héritiers de Pedro González de Pedroche et de l'autre une maison de l'archidiacre de Medina.
+
+SD_ OO_132_1460 
+
+SD-132, ANH Clero, Libro 15118
+
+Medidas de casas de Santo Domingo el Real de Toledo (1460)
+
+Yten tyene a tributo del dicho monesterio Pedro de Faro lençero, fijo de Alfon Gonçales de Faro, una parte de casas en el dicho arraval, en la collaçion de Santiago, dentro en el adarve, frontero de la carnençeria, que llaman la callejuela de Pero Ferrnandes de la Callejuela, la qual parte de casas es dentro en unas casas del dicho Pedro de Faro, que han por linderos de la una parte casas de herederos de Pero Gonçales de Pedroche e de la otra parte casas del arçediano de Medina, por la qual dicha parte de casas paga de tributo el dicho Pedro de Faro al dicho monesterio çient mrs. cada /f° 47 r°/anno, e esta dicha parte de casas es un palaçio como entran en las dichas casas a la mano ysquierda, que esta caydo, en el qual ay de luengo en este dicho palaçio con un retretejo que sale al adarve nueve varas en luengo e en ancho tres varas e çinco seysmas. Yten a par del dicho frontero palaçio a la dicha mano ysquierda esta una cosina entre el dicho palaçio e otro palaçio de las dichas casas del dicho Pedro de Faro, en la qual dicha cosina ay de largo tres varas e terçia e de ancho tres varas e tyene una camara ensomo de la dicha cosina, e tyene esta parte en las dichas casas entrada e salida e parte en el corral e en el poso de las dichas casas.	c ¯;. 
+
+En 1460, Alfonso Martínez de Meco tient à cens, pour 1.000 mrs. par an, de Sto. Domingo el Real, une maison située à l'Arrabal, colación de Santiago, jouxtant d'une part une maison du monastère que tient la prieure, Leonor Alfonso, au dos une maison de Pedro Núñez, el Bermejo, et d'autre par une maison de Juana Rodríguez, femme de Juan Rodríguez, albañil, et la rue. Il n'y a guère de doute que Pedro Núñez, el Bermejo, est le même  personnage qui sera ensuité désigné comme Pedro Núñez de Toledo, regidor, en possession de la boucherie de l'Arrabal et du bordel municipal situé dans ce secteur, mais qui a également d'autres propriétés dans la ville, notamment encore dans l'Arrabal, près de la Torre del Rey, et, à la Judería, la bodega dite del Estrella (CH_BD_13), tenue du chapitre cathédral.
+
+SD_ OO_131_1460 
+
+SD-131, ANH Clero, Libro 15118
+
+Medidas de casas de Santo Domingo el Real de Toledo (1460)
+
+Yten otras casas en el dicho arraval, en la collaçion de Santiago, las quales tyene a tributo del dicho monesterio Alfon Martines de Meco por mill mrs. cada anno perpetuamente, las quales dichas casas han por linderos de la una parte casas del dicho monesterio que tiene Leonor/f° 45 v°/Alfon la priora [ou: la partera ?] e de la otra parte casa de Pero Nunnes el Bermejo a las espaldas e de la otra parte casas de Juana Rodrigues muger de Johan Rodrigues alvanni e la calle real, en las quales dichas casas ay un portal en la casa puerta cubierto ensomo en que ay en luengo quatro varas e en ancho otras quatro varas e tyene su camara ensomo de la anchura e largura del dicho portal. Yten ay un pala!- muger de Johan Rodrigues alvanni e la calle real, en las quales dichas casas ay un portal en la casa puerta cubierto ensomo en que ay en luengo quatro varas e en ancho otras quatro varas e tyene su camara ensomo de la anchura e largura del dicho portal. Yten ay un palaçio como entran en las dichas casas a la mano derecha en que ay de luengo honse varas e de ancho tres varas de hueco e ensomo deste palaçio esta una camara de la dicha largura del dicho palaçio e mas que corre sobre un rretrete e tiene en ancho quatro varas por tomar la gordura de la pared e un poco que sale en el ayre de la casa. Yten ay debaxo deste palaçio un sotano tamanno e tan ancho como el dicho palaçio. Yten ay mas frontero de la entrada de casa un portal colgadiso que tiene çinco varas e media en luengo e en ancho quatro varas e quarta e en este portal esta a la mano derecha un almasenejo que entra en el hastial del palaçio que es tan luengo como la anchura del palaçio que son tres varas e en ancho tyene dos varas e la dicha camara de ençima del dicho palaçio corre eso mesmo sobre el dicho retrete en una longura e en el patyn de casa ay seys varas en luengo [ajouté entre les lignes: e çinco varas en ancho]. Yten ensomo destas dichas casas esta otro cuerpo de casas juntas con ellas do esta una fuente que ay en luengo en el corral quinse varas e una terçia e en ancho seys varas e quarta , e en este dicho corral frontero como entran esta una bodega e un lagar ençima al cabo de arriba que es tan luengo como el dicho corral, en que ay de longura quinse varas e terçia e de ancho tres varas e terçia, e ençima de la dicha bodega syn el lagar esta una camara, la qual camara es de largura de honse varas e media e de anchura de la dicha bodega. Yten ay mas otro cuerpo de casas frontero de la suso dicha a la mano derecha, en que ay un patyn que tiene en luengo seys varas e dos terçias e en ancho otras seys varas e dos terçias. Yten ay una camara como entran en el dicho cuerpo de casas que viene sobre las casas de la dicha Leonor Alfon la priora [ici la lecture paraît incontestable] en la qual camara ay de luengo seys varas e dos terçias e en ancho otras seys varas e dos terçias e tiene un corredorçillo que sale sobre el ayre de la casa. Yten ay mas en este [en bas de page: je ne peux pas lire]/f° 46 r°/dicho cuerpo de casas un palaçio frontero como entran en ellas en que ay en luengo ocho varas e tres quartas e de ancho tres varas e terçia e ensomo deste dicho palaçio ay una camara de la anchura e largura del dicho palaçio. Yten ay otro palaçiete pequenno como entran a la mano ysquierda, en que ay en luengo siete varas con la gordura del escalera e de ancho tres varas e terçia e esta sensillo. Detras deste palaçio esta una camara terrano [?] que non es sobre madera, en la qual ay de luengo dies varas e terçia e en ancho tres varas e esta casa tyene el çielo para sy.
+
+Yten entre estos dichos tres cuerpos de casas esta una entrada por do entran a todas tres casas que ay en luengo desde la puerta fasta la pared frontera con el corralejo veynte e çinco varas e en ancho tres varas.
+
+Yten ay mas a la entrada de todas estas dichas casas a la puerta prinçipal a la mano ysquierda una camara que viene sobre la casa, que esta de partes de fuera de la calle, que es destas dichas casas, en la qual camara ay de largo con una entrada della do esta el escalera que esta cobijada, catorse varas en la camara e dos varas en la entradilla, que son dies e seys varas e en ancho tres varas.
+
+Yten debaxo desta dicha camara ay una casa que manda por la calle con una puerta sobre sy, en que ay de luengo catorse varas e de ancho tres varas, a la qual dicha medida destas dichas casas fue e estovo presente el dicho Alfon Martines de Meco.	i V ¯;. 
+
+/f° 46 v°/[ici il manque visiblement un folio, à vérifier]
+
+en la qual ay de luengo seys varas e terçia e otro tanto en ancho e en esta quadra esta un pedaço de entresuelo entre ella e la camara del dicho Alfon Martines.	i V c ¯;. 
+
+Yten en las dichas casas bodega ay luego a la entrada un portal en que ay en luengo quatro varas e media e de ancho dos varas e çinco seysmas. Yten ay un palaçio como entran en las dichas casas a la mano ysquierda en que ay de luengo ocho varas con la gordura del escalera que esta dentro en el palaçio por do suben a las camaras e de ancho ay en este palaçio quatro varas e ençima deste palaçio ay una camara que corre sobre el e sobre la entrada de la puerta, en la qual ay de luengo honse varas e de ancho quatro varas. Yten ay mas un lagar con un portal [ajouté entre les lignes: a par] del dicho palaçio como entran a la mano ysquierda, en el qual dicho lagar e portal ay de luengo dose varas e de ancho tres varas e dos terçias e este portal esta cubierto de colgadiso. Yten ay mas un portal frontero como entran en que ay de luengo seys varas e de ancho quatro varas e tiene este portal una camara cubierta de colgadiso ençima, Yten dentro deste portal esta una bodega frontera en que ay de luengo çinco varas e media e de ancho tres varas e la camara de ençima desta bodega es del dicho meson del dicho Pero Nunnes e en el patyn destas dichas casas ay de luengo çinco varas e media e de ancho quatro varas e tiene con estas dichas casas dos cubas de roble e veynte e dos tinajas para vino tener. Estovo presente a esto la dicha Leonor Alfon.	[rien en marge]
+
+Le 23/10/1486, Doña María Ramírez de Guzmán, sous-prieure de Sto. Domingo el Real, donne à cens à García Sánchez de Illescas et María Sánchez, sa femme, une maison bodega, à l'Arrabal, colación de Santiago, près de la boucherie de l'Arrabal, avec deux portes, et jouxtant une autre maison de la même religieuse tenue par la veuve de Rodrigo de Villalón, le mesón de la dite boucherie de l'Arrabal, appartenant à Pedro Núñez, regidor, et la rue, pour 1.550 mrs. par an, le tout avec son pressoir, dans la dite bodega con su husillo e viga e piedra e piedra e su aparejo, plus 22 jarres à vin.
+
+CH_OO_32
+
+CH_OO_32. Le 26/09/1486, Pedro Núñez de Toledo, regidor, vend au chanoine don Juan de Morales, archidiacre de Guadalajara, 1.000 mrs. de cens imposés sur les boucheries qu'il possède à l'Arrabal, jouxtant une maison lui appartenant et le mesón qui lui appartient également, pour 20.000 mrs., en même temps que 500 mrs. de cens qu'il impose sur la bodega del Estrella à la colación de Sto. Tomé, pour 10.000 mrs..
+
+CH_OO_32. Le 24/11/1486, le chanoine, don Juan de Morales, archidiacre de Guadalajara, a fait donation au chapitre 1.000 mrs. de cens qui avait sur la boucherie de l'Arrabal, dont le domaine utile appartient au regidor Pedro Núñez. En 1490, la boucherie est au nom des héritiers de Pedro Núñez, regidor. 
+
+CH_OO_32. En 1491, la boucherie de l'Arrabal est tenue par les héritiers de Pedro Núñez el Bermejo, pour 1.000 mrs. par an (confronts en blanc). En 1496, Lorenzo Núñez et le commandeur Lucena paient leurs parts de ce cens.
+
+Le 22/07/1497, Gonzalo Rodríguez, librero, reconnaît un cens de 100 mrs. sur une maisonn située à la colación de S. Isidro, jouxtant une maison de Juan de Ocaña, hortelano, une maion de Juan de Cuéllar, et la rue montant à la boucherie de l'Arrabal, précédemment tributaire au tesorero Lorenzo Suárez Franco, lequel a fait don de ce cens au monastère de Sta. Clara. Le 24/02/1502, le même Gonzalo Rodríguez déclare avoir vendu la moitié de la maison à Fernando de Alconchel, calderero,  qui fait reconnaissance de la moitié de ce cens.
+
+En 1509, Juan Romo el viejo, fils d'Alfonso García el Romo, vecino de Fuensalida, demeurant à Rielves, déclare qu'il a acheté  de Martín Fernández de Barcience, vecino de Barcience, ce dernier agissant pour lui-même et au nom de sa femme, Leonor Alvarez, une maison située à Tolède, à la colación de Santiago, près de la boucherie de l'Arrabal, tributaire de 470 mrs. de la monnaie à courir et une poules au monastère de Sto. Domingo el Real, jouxtant une maison de Pedro de Riaza, tributaire à Sto. Domingo el Real, et du côté de la calle real, une maison de Juan Sánchez de Cuerva, également tributaire à Sto. Domingo el Real
+
+Becerro de SDR
+
+Siglo XVI
+
+Fol. 469r: Santiago.
+
+Doña teresa de ayala e doña mari Ramirez de guzman su priora e doña maria de guzman priora.
+
+Item unas casas en el dicho Arraval desta dicha çibdad de toledo en la dicha collaçion de santiago baxo de la carneçeria del dicho arraval que alindan de la una parte con el carson? de la dicha carneçeria del arraval e de la otra parte con casas del dicho monesterio que adelante estaran declaradas e de la otra parte con la calle Real que va de fasya la dicha carneçeria A la eglesia de sant ysydro las quales dichas casas quedaron al dicho monesterio de la señora priora doña teresa de Ayala que santa gloria aya et despues el convento las dio a la señora doña mari Ramyres de guzman supriora del dicho monesterio que santa gloria Aya para que llevase la Renta dellas por su vida en pago de veynte e dos myll maravedis quel convento tomo suyos prestados de los de su herençia para comprar las casas que disen de don pero laso que son çerca del dicho monesterio e se compraron del thesorero lorenço suares franco et despues de muerte de la dicha señora su priora el convento torno a dar el tributo de las dichas casas a la señora doña maria de guzman su sobrina priora que Agora es del dicho monesterio para que lo llevase por su vida por çiertos maravedis quel convento tiene suyos et solia tener las dichas casas leonor alonso pintora muger de iohan alonso cofrero por su vida e de dos fijos o fijas suyos por mill e çient maravedis cada año la qual dicha leonor alonso pintora e sus fijos finaron e vacaron las dichas casas et la dicha señora supriora doña maria Ramires de guzman las dio a çenso ynphiteosyn para siempre Jamas A garçia sanches de yllescas e A mari sanches su muger vesinos de toledo con veynte e dos tinajas que en ellas estavan e con su lagar e bodega por myll e quinientos e çinquenta maravedis cada año para siempre jamas... 1486 años los quales dichos... vendieron a alonso lopes alvañyl e a françisca lopes su muger una parte de las dichas casas que es una casa quadra que tiene su puerta a la calle Real e la camara de ençima de la dicha casa non entro en la dicha venta las quales las vendieron con cargo de 310 maravedis de tributo... la qual casa despues los dichos alonso lopes e su muger vendieron a Rodrigo sanches de sant viçente sastre e el dicho Rodrigo sanches la vendio a Juana ferrandes muger de lucas ferrandes albañil la qual dicha casa estara asentada adelante en la foja siguiente en manera que quedaron a los dichos garçia sanches e maria sanches su muger las dichas casas con cargo de los dichos myll e dosyentos maravedis... la qual dicha mari sanches muger del dicho garçia sanches fino et el dicho garçia sanches se absento desta çibdad perdido con muchas debdas e dexo descampadas las dichas casas et el monesterio entro en ellas por mandamiento del bachiller iohan alvares guerrero allcalde mayor desta çibdad... el qual se absento el año de myll e quinientos e çinco años et fue puesto el monesterio en posesyon de las dichas casas por virtud del dicho mandamiento... en 22 dias de febrero de 1506 años... et dieronse a çenso emphiteosyn las dichas casas a Rodrigo peres de Alcaçar e a leonor ferrandes su muger vesinos de toledo por myll e tresyentos maravedis e dos pares de gallinas... el qual dicho Rodrigo peres de alcaçar con liçençia del monesterio vendio las dichas casas a Alfonso martines vesino de toledo morador en yunclillos por 3.400 maravedis e pago el diesmo en manera que Agora tiene las dichas casas el dicho Rodrigo Alfonso martines por los dichos myll e tresyentos maravedis e dos pares de gallina a tributo cada año...
+
+CH_OO_32_1492 
+
+OF 356
+
+La carneçeria del arraval tienela los herederos de Pedro Nunnes Bermejo por presçio de mill mrs. en cada un anno han por linderos (blanc).
+
+En dies e nueve dias del mes de abril del dicho anno de noventa e un annos los venerables sennores Cristoval de Villaminaya e Alvar Peres de Montemayor canonigos e vesitadores de las posysiones de la santa yglesia de Toledo deslindaron esta carneçeria, tiene en entrando un portal çercado de reja e de madera que tiene siete varas en largo e çinco en ancho, tiene mas dos casillas que cada una dellas tiene çinco varas en ancho e tres en largo. Ay ensomo destas tres pieças otras tantas del mesmo largo e ancho que lo de baxo. Que fueron testigos Diego de Obregon e Françisco de Narbaes criados del dicho sennor Alvar Peres e Ferrando de Sant Marcos. (signé) Juan de Mayorga notario apostolico. /f° 63
+
+La calle de la Hontanilla.
+
+Le 23/07/1456, le monastère de S. Pedro Mártir donne à cens pour 300 mrs. de la monnaie à courir, à María González, veuve de Fernand González de Olmedo, une maison située à l'Arrabal, colación de Santiago, jouxtant une maison d'Alfonso Fernández, cerero, une maison de Juan González de la Fontanilla, hortelano, et la rue.
+
+Le 15/09/1457, Diego de Guzmán, fils de Juan Ramírez de Guzmán, pour lui-même et au nom de sa femme, María Núñez, vend, pour le prix de 3.000 mrs. de la monnaie usuelle,  à Sœur Isabel García de Orellana, religieuse à Sto. Domingo el Real, 150 mrs. de cens sur une maison située à l'Arrabal, colación de Santiago, jouxtant une maison d'Alfonso de Zavallos, une maison de Juan Viejo, et les rues. Au dos, il est indiqué que la propriété de la maison a été achetée ensuite par Isabel García du même Diego de Guzmán.
+
+En 1460, Diego de Guzmán, demeurant à Esquivias, tient à cens pour 150 mrs. par an de Sto. Domingo el Real et de la religieuse Isabel García de Orellana, une maison à l'Arrabal, colación de Santiago, jouxtant une maison des héritiers de Juan Viejo, hortelano, et des deux autres côtés les rues. 
+
+Le 6/07/1461, la prieure de Sto. Domingo el Real donne à cens à Alfonso Fernández, fils de Juan Fernández, podador, une maison appartenant à Isabel García de Orellana, religieuse du monastère, et, en raison d'elle, à ce dernier, située à l'Arrabal, a la Hontanilla, à la colación de Santiago, jouxtant une maison ayant appartenu à Juan Viejo, hortelano, et les rues des deux autres côtés. Dans le titre: de las casas … que fueron de Diego de Gusman … estas casas tiene Bartolome Pantoja.
+
+SD_ OO_127_1460 
+
+SD-127, ANH Clero, Libro 15118
+
+Medidas de casas de Santo Domingo el Real de Toledo (1460)
+
+Yten otras casas en el dicho arraval, en la dicha collaçion de Santiago, las quales tiene a tributo del dicho monesterio e de Ysabel Garçia de Orellana, monja del dicho monesterio, Diego de Gusman que mora en Esquivias, por çiento e çinquenta mrs. cada anno para sienpre jamas, que alindan de la una parte con casas de herederos de Johan Viejo ortelano e de las otras dos partes las calles del Rey, en las quales dichas casas ay en el patyn desde la entrada fasta confrentar en el portal frontero de la entrada en que ay en luengo seys varas e media e en ancho tres varas e dos terçias. Yten ay un portal
+
+frontero como entran por la puerta, en el qual ay de largo con el gordo del escalera siete varas e dos terçias e en ancho tres varas e terçia , e este portal esta doblado ensomo de la largura e anchur del portal de yuso. Yten ay un palaçio como entran en las dichas casas a la mano derecha en que ay seys varas e una seysma e tiene este palaçio una camara ensomo de la dicha largura e anchura del dicho palaçio. Yten tiene otro palaçio sensillo como entran en las dichas [en bas de page: es emendado en esta plana o dis monesterio]/f° 44 r°/casas a la mano ysquierda, en el qual ay de luengo nueve varas e una terçia e de ancho tres varas e dos terçias e esta … su altura fasta el çielo.	c L ¯;. 
+
+Le 10/04/1507, Fernando de Guzmán reconnaît un cens de 300 mrs. en faveur du monastère de S. Pedro Mártir sur une maison qu'il a achetée de Guiomar de la Torre, veuve du commandeur Fernando de Benavente, habitante de Chinchón, située à la colación de Santiago del Arrabal, jouxtant une maison des héritiers de Sancho de Talavera, casas de la cueva, et la calle real de la Hontanilla.
+
+Le 13/04/1461, dans un échange réalisé entre Sto. Domingo el Real et Martín González de Arroyuelo, le monastère donne une maison située à l'Arrabal, colación de Santiago, dite las casas de las parras, jouxtant une maison de S. Pedro de las Dueñas, une maison de Sancho García de Yeles, molinero, et les rues, plus 4.000 mrs. de la monnaie usuelle, et reçoit une autre maison a la Granja.
+
+SD_ OO_117_1460 
+
+SD-117, ANH Clero, Libro 15118
+
+Medidas de casas de Santo Domingo el Real de Toledo (1460)
+
+Yten otras casas en el dicho arraval en la collaçion de Santiago que disen las casas de las Parras, las quales son del dicho monesterio e de Ysabel Garçia de Orellana monja del dicho monesterio e andan en alquile que han por linderos de la una parte casas del monesterio de Sant Pedro de las Duennas desta çibdad e a las espaldas casas de Sancho Garçia de Yelves [Yelaes ?] e de las otras dos partes las calles reales, en las quales/f° 39 v°/dichas casas ay una entrada de casa puerta en que ay tres varas en luengo e en ancho con la gordura del escalera tres varas e media, yten ay un portal a par de la dicha entrada como entran en ellas a la mano derecha en que ay en luengo çinco varas e dos terçias e en ancho dos varas e terçia. Yten ay un palaçio como entran en las dichas casas a la mano derecha en que ay dose varas en luengo e en ancho tres varas. Yten otro palaçio frontero como entran en las dichas casas en el qual ay en luengo ocho varas e en ancho tres varas e quarta. Yten ay otro palaçio como entran en las dichas casas a la mano ysquierda a par de la puerta, en el qual ay de luengo honse varas emedia e en ancho quatro varas, e delante deste palaçio esta un portal que sale un corredor fasya el patyn de casa en que ay de luengo çinco varas e media e de ancho una vara e media, e todos estos portales e palaçios estan doblados de sus camaras ençima e su altura fasta el çielo e non reçibe agua ningunas de otras casas salvo el quarto do es el palaçio frontero de la entrada. Yten ay mas en estas dichas casas un corredor en el ayre de la calle sobre canes que viene sobre la puerta de la calle que corre por la delantera de la casa desde la puerta fasta las casas de Martin Gutierres de Çespedes sobre un cobertiso que viene sobre la calle. en el qual corredor ay de luengo dies e seys varas con lo del dicho cobertiso, e el dicho cobertiso carga la madera sobre las dichas casas del dicho Martin Gutierres e entra el dicho cobertiso sobre la calle angosta dos varas e quarta e debaxo deste cobertiso esta una puerta para entrada de sotano, la qual esta agora çerrada.	[rien en marge]
+
+Des maisons pas plus précisément identifiées, ni localisées, dans l'Arrabal.
+
+Le 1/11/1394, Juliana Sánchez, veuve d'Alfonso Martínez, qui avait été criado de doña Inés de Ayala, tutrice de leurs enfants Juan et Inés, vend à Martín Fernández, ballestero du roi, et à María Fernández, sa femme, demeurant à la colación de Santiago de l'Arrabal, une maison située dans la même colación, jouxtant une maison de Sancha Pérez Buenaventura, une maison d'Antón García Delcalzo, pour 1.000 mrs. de la monnaie blanche de 10 d. le mri. L'autorisation de vendre donnée le 31/10/1394, par Juan González de la Verdura, alcalde à Tolède pour Pedro López de Ayala, alcalde mayor, déclare que la mère a dit que les mineurs meurent de faim et que la maison est en mauvais état et sur le point de s'effondrer, ce que l'enquête a confirmé
+
+Le 8/11/1398, Martín  Fernández, ballestero du roi, fils de Juan Martínez de Padilla, et sa femme, María Fernández, demeurant à la colación de Santiago de l'Arrabal, vendent à Sœur María, fille du roi don Pedro, prieure de Sto. Domingo el Real, et aux autres religieuses, une maison située à la colación de Santiago, jouxtant une maison de Sta. María la Mayor, une maison de Sancha Pérez Buenaventura, et la rue, pour 600 mrs. de la monnaie blanche de 10 d. le mri.
+
+Le 9/09/1407, Juan Sánchez, alcaide du pont d'Alcántara, criado de Pedro López de Ayala, alcalde mayor de Tolède, et Teresa Gómez, sa femme, reconnaissent un cens de 60 mrs. de la monnaie usuelle, en faveur du monastère de Sto. Domingo el Real, sur une maison située à l'Arrabal, colación de Santiago, jouxtant une maison de Fernand Alfonso Pinto, une la maison de Sta. María, le mur de la ville, qu'ils ont achetée de María Fernández,  femme de Martín Ferńandez, ballestero, et de Martín son fils.
+
+Le 7/12/1411, Juan Rodríguez, escribano público à Tolède, fils de Fernand Pérez, et Juana Rodríguez,  sa femme, vendent à Sœur Juana, alma (sic) de la reine de Castille, religieuse à Sto. Domingo el Real, une maison située à la colación de Santiago de l'Arrabal,  ayant appartenu à Pedro Díaz de Olías (confronts en blanc) pour 8.000 mrs. de la monnaie en usage.
+
+Le 22/05/1418, les frères de S. Pedro Mártir baillent à Pedro Martínez de Guadalajara, albañil,  fils de Juan Martínez de Narbona, une maison située à l'Arrabal (confronts en blanc), pour sa vie et celles de son fils Pedro, et de sa petite-fille María,  pour 100 mrs. de la monnaie usuelle et une paire de poules.
+
+En 1460, Diego de Haro tient, pour 200 mrs. par an, une maison de Sto. Domingo el Real, et de Catalina Fernández, sous-prieure, située dans l'Arrabal, çerca el alamo, baxo de las vistas del dicho monasterio, entourée de tous les côtés par les rues.
+
+SD_ OO_115_1460 
+
+SD-115, ANH Clero, Libro 15118
+
+Medidas de casas de Santo Domingo el Real de Toledo (1460)
+
+Yten otras casas en el dicho arraval çerca el [en bas de page: es emendado en esta plana o dis suegra]/f° 39 r°/alamo que son baxo de las vistas del dicho monesterio, las quales tyene a tributo del dicho monesterio e de Catalina Ferrs sopriora del dicho monesterio Diego de Haro por dosientos mrs cada anno, que la çercan de todas partes la calles, en las quales dichas casas y un palaçio frontero como entran en que ay en luengo siete varas e media e en ancho çinco varas e terçia e ençima deste dicho palaçio ay una camara desta mesma largura e anchura, la qual camara se manda por la calle de arriba con su puerta sobre sy. Yten ay mas en estas dichas casas como entran en ellas a la mano derecha una cosina colgadisa en que ay en luengo çinco varas e ancho tres varas e una terçia. Yten en el patyn de casa ay en luengo nueve varas e en ancho siete varas e dos teerçias. Yten ay mas frontero como entran a la mano ysquierda de las dichas casas una cueva que viene debaxo de la calle de arriba, en la qual cueva ay tress canno de bovedas en que ay en la delantera dellas en la primera quatro varas en luengo e en la de a mano derecha tres e en la otra de a man ysquierda çinco varas en luengo e tiene dos fuentes de dentro. [ajouté entre les lignes: Tiene fuera de casa un corral junto la casa que alinda con las calles en que ay de luengo dies e ocho varas e de ancho quinse varas].	cc ¯;. 
+
+Le 25/04/1457, le monastère de S. Bernardo donne à cens pour 190 mrs. par an à Juan Martínez Acero, tejedor, et Ana García, sa femme, la moitié d'une maison située à l'Arrabal, colación de Santiago, jouxtant l'autre moitié de la maison qui avait appartenu à la femme de Juan Gonzá́lez de Illescas, une maison de Sto. Domingo el Real tenue à cens par Bartolomé, au dos l'alfahar de Maestre Abdalla (CH_OO_25).
+
+CH_OO_28
+
+San Isidoro (sector de los alfareros, antigua parroquia desap.)
+
+CH_OO_28. Le 11/02/1492, le Cardinal ayant ordonné la démolition des maisons collées à la cathédrale, le chapitre et l'Œuvre ont procédé à un échange, par lequel le chapitre a reçu notamment une maison située à l'Arrabal, tenue à perpetuo par Alfonso Vázquez et sa femme, Leonor López, au prix de 300 mrs. par an, pour la vie d'Alfonso Vázquez et de sa femme, avec la condition que si Leonor López meurt avant son mari, celui-ci devra payer 400 mrs. par an, et avec l'obligation de faire une écurie pouvant contenir six bêtes, au dessous d'un palacio, et une cheminée, cela restant en vigueur en 1496.
+
+CH_OO_28. En 1492, la maison que tenait auparavant l'Œuvre, est maintenant tenue par Leonor López, femme d'Alfonso Vázquez, au prix de 300 mrs. Elle jouxte une maison de Francisco Castellano, et vers le bas une maison du moro Hamete Rostrudo.
+
+CH_OO_28_1492
+
+OF 356 
+
+Las casas que solia tener la obra, tienelas agora Leonor Lopes muger de Alfon Vasques por presçio de tresientos mrs. Han por linderos casas de Françisco Castellano e de la otra parte de abaxo casas del moro Hamete Rostrado.
+
+En dies dias del mes de novienbre del dicho anno de noventa e dos annos, los dichos sennores en presençia del notario e testigos yuso escriptos deslindaron estas casas e fallose en ellas en entrando un portal en que ay çinco varas e media en largo e /f° 221 v°/ quatro en ancho, e ençima otro tanto de su tamanno e frontero otro portal en que ay quatro varas en largo e dos en ancho, con otro tanto ensomo de su tamanno, e entrando a la mano derecha ay un palaçio en que ay nueve varas en largo e tres e media en ancho, con camara ensomo de su tamanno e abaxo un sotano del tamanno del dicho palaçio entrando en el dicho patin a la mano ysquierda ay otro palaçio en que ay ocho varas en largo e tres e media en ancho, con otro tanto ensomo de su tamanno e debaxo deste palaçio ay un sotano de su tamanno. Testigos Diego de Obregon e Alfon del Varco capellan. (signé) Juan de Mayorga notario apostolico.
+
+CH_OO_29
+
+CH_OO_29. L'Œuvre a donné au chapitre dans le même échange une maison située dans l'Arrabal, aux alfahares, que tenaient les fils d'Alfonso de Ocaña, pour 80 mrs. de perpetuo par an. Le 6/02/1493, Diego de Toledo, zapatero, et son frère, Pedro de Toledo, trabajador, tous deux fils d'Alfonso García (de Ocaña), ont fait reconnaissance
+
+CH_OO_30
+
+San Isidoro (sector de los alfareros, antigua parroquia desap.) junto a San Isidoro. La  Puerta de Almohada, o (Puerta del Vado). La colación de San Isidro y talleres y  los hornos de los alfajeros musulmans
+
+Casa que no hemos podido localizar con aproximaciones
+
+CH_OO_30. Dans l'échange effectué avec l'Œuvre, le chapitre a reçu notamment une maison située à l'Arrabal, tenue par Pedro Martínez de Ocaña et María García, sa femme, pour la vie des deux et d'un fils ou d'une fille, au prix de 315 mrs.
+
+CH_OO_30. En 1492, l'une des maisons que l'Œuvre a données au chapitre dans un échange contre celles qui ont été démolies autour de la cathédrale est tenue par Pedro Martínez de Ocaña, pour sa vie, au prix de 315 mrs. Elle jouxte une maison de Juan de Ocaña et (une autre) de Juan de Mascaraque.
+
+CH_OO_31
+
+Casa que no hemos podido localizar con aproximaciones
+
+CH_OO_31. Le 24/08/1493, le chapitre a acheté du monastère de S. Bernaldo des cens sur certaines maisons de la ville, parmi lesquels 200 mrs. pesant sur une maison de l'Arrabal tenue par Juan Ortiz, fils d'Alfonso Alvarez, trapero. En 1496, la maison est au nom de Fernando de Toledo, notario, et de Juan Ortiz, fils d'Alfonso Alvarez.
+
+CH_OO_33
+
+Casa que no hemos podido localizar con aproximaciones
+
+CH_OO_33. En 1492, la maison que l'Œuvre a donné au chapitre dans un échange est tenue par Alfonso de Orgaz au prix de 350 mrs. et deux paires de poules, pour sa vie. Elle jouxte une maison de Pedro de Morales et le coin de la rue.
+
+CH_OO_33. En 1496, Alfonso de Orgaz a le domaine utile d'une maison donnée au chapitre dans un échange avec l'Œuvre de la cathédrale, chargée de 350 mrs. et deux paires de poules de cens dont il a fait reconnaissance.
+
+CH_OO_33_1492
+
+OF 356 
+
+Las casas que dio la obra a los dichos sennores dean e cabilldo en troque e canbio, tienelas agora Alfon de Orgas por presçio de trezientos e çinquenta mrs. e dos pares de gallinas por su vida. Han por linderos casas de Pedro de Morales e de la otra parte la esquina de la calle.
+
+En dies dias del mes de novienbre del dicho anno de noventa e dos annos, los dichos sennores 
+
+en presençia del notario e testigos yuso escriptos deslindaron estas casas e fallose en ellas en la entrada un portal en que ay tres varas en largo e otras tres en ancho, e en este portal ay un establo pequenno en que ay çinco varas en largo e tres en ancho, con un soberado de al tanto e a la mano derecha un palaçio en que ay ocho varas e media en largo e tres en ancho, con un soberado de al tanto, e a la mano ysquierda una cosyna pequenna en que ay çinco varas en largo e tres en ancho, con soberado de al tanto, e frontero un establo en que ay quatro varas e media en largo e quatro en ancho, con una camara de al tanto, ay mas un corredorçillo en que ay quatro varas e media en largo e dosen ancho. Testigos los suso dichos. (signé) Juan de Mayorga notario apostolico./f° 221 r°/
+
+Il convient de souligner enfin que l'Arrabal de Tolède, en dépit de la forte présence des mudéjars que l'on y a relevé en ce qui concerne leurs lieux de travail pour l'art de la poterie, ne constitue en aucune façon un quartier musulman réservé, un ghetto, qui n’existe à aucun moment dans cette ville, à la différence du quartier juif, la judería, attesté depuis l’époque de la domination musulmane, le IXe siècle précisément, sur lequel on reviendra plus loin.
+
+

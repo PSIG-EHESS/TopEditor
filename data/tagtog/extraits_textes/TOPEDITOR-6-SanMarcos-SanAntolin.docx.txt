@@ -1,0 +1,416 @@
+Près de l'église de San Marcos, bien qu'il n'existe pas de colación de ce nom, et que les maisons soient localisées, quand elles le sont, à la colación de San Soles, ou à celle de S. Antolín, il y a, en 1491, dix possessions du chapitre sous la rubrique San Marcos (CH_AQ_01 à CH_AQ_10).
+
+	CH_AQ_01
+
+San Marcos, calle de. N°4.
+
+CH_AQ_01. Le 1/05/1375, le chapitre baille à Rodrigo Alvarez, racionero, une maison jouxtant d'une part une maison du chapitre précédemment tenue par Gutierre Díaz, capellán, près de San Marcos et de l'autre la bodega de Sancho García de Torrijos, pour sa vie, 100 mrs. de la monnaie usuelle, avec obligation de réparer la maison de tout ce qui sera nécessaire dans le délai d'une année, avec la caution d'Alfonso Fernández, capellán et obrero de la cathédrale.
+
+CH_AQ_01. Le 26 avril 1403, le chapitre baille à Juan Fernandez, pintor, fils de Diego Fernández, une maison précédemment tenue par Rodrigo Alvarez, racionero, décédé, située près de l'église S. Marcos, jouxtant la maison du chapitre où demeure Esteban Fernández, racionero (CH_AQ_02), pour sa vie, 380 mrs. de la monnaie à courir, avec la caution de Felipe González, escudero d'Alvar González de las Roelas. 
+
+CH_AQ_01. En 1439, la maison que tenait auparavant Juan Fernández, pintor, est tenue par Alfonso Ruiz, peraile, et jouxte vers le haut une maison de l'Église de Tolède, de l'autre côté la maison dite del Estera, et  au dos une maison de Fernand Alfonso de Vargas. 
+
+En 1439, une maison ayant appartenu à Teresa Fernandez, située au dessus de la bodega del Estera, est tenue du chapitre par Pedro González, platero, pour 400 mrs. par an, depuis le 14 octobre 1438.
+
+CH_AQ_01. Le 30/05/1442, le chapitre baille à Alfonso López, platero, et Leonor López, sa femme, une maison située à S. Marcos, jouxtant une maison de l'église, une maison dite del Estera, une maison de Ferrand Alfonso de Vargas, pour la vie des deux, 520 mrs. de vieille monnaie ou le double et trois poules chaque année, avec la caution de Ferrand González Serrano, notario.
+
+En 1450, la maison que ternait Francisco Rodríguez à S. Marcos, reste baillée depuis l442 à Alfonso López, platero, et Leonor López, avec la caution de Ferrand González, notario, son gendre.
+
+CH_AQ_01. Le 23/08/1454, le chapitre baille à Ruy González, peraile, et Catalina González, sa femme, une maison (colación en blanc), jouxtant une maison du chapitre que tient Pedro García, notario (CH_AQ_02), une maison que tient Alfonso González, mantero, et la rue, précédemment tenue par Alfonso López, platero, décédé, et Leonor López, vacante par abandon de celle-ci, pour la vie des deux et d'un enfant, 1.040 mrs. et deux paires de poules, avec la caution de Pedro Sánchez, peraile.
+
+CH_AQ_01. Le 5/10/1468, Ruy González, peraile, ayant fait abandon de la maison qu'il tenait pour 1.040 mrs. et deux paires de poules, le chapitre la baille à Olando Geneti, florentin, pour sa vie, et celles de sa première femme légitime et d'un fils ou d'une fille, pour le même montant. Le 29/08/1475, Olando Geneti donne la caution de Juan de Rueda. 
+
+CH_AQ_01. Le 14/11/1486, le chapitre baille à Teresa Monte, veuve d'Olando Geneti, et Catalina Geneti, sa fille, la maison qu'Olando tenait à la colación de San Soles, près de S. Marcos, jouxtant d'un côté une maison du chapitre tenue par María García, veuve de Pedro García, notario, pour la vie des deux femmes, avec la condition que lorsque Catalina aura l'âge de s'obliger, elle le fasse dans les deux mois, pour 1.440 mrs. et deux paires de poules par an, avec la caution de Gonzalo Ruiz de Valderrama, tejedor de seda, pour la veuve et sa fille. 
+
+CH_AQ_01. En 1491, la maison que tenait Olando Geneti est maintenant tenue par ses héritiers et de Teresa Monte, sa femme, pour 1440 mrs. et deux paires de poules. Elle jouxte vers le bas une maison tributaire à S. Clemente et une maison tributaire à Santa Maria.
+
+CH_AQ_01_1439
+
+
+
+
+
+OF 356bis 
+
+Fol. 78r: Las casas que solia tener Juan ferrandes pintor tienelas Alfonso Ruys perayle.
+
+En tres dias de março Año de 1439 Años fueron designadas las casas suso dichas que han por linderos de la una parte de Arriba casas de la dicha eglesia de toledo e de la otra casas que disen del estera e de la parte de las espaldas de ferrand alfonso de vargas e lo que se fallo en ellas es esto que se sygue: primeramente un portal en la entrada e sobre el una camara en que ha quatro varas de medir en luengo e tres en Ancho. Et A la mano derecha en el patin un palaçio que ha en luengo siete varas e en Ancho quatro varas e ensomo del una camara de su tamaño con su corredor. Et luego cabe el otro palaçio que entran A el por tres gradas en que ha nueve varas en luengo e quatro en Ancho e dentro en el un Retrete que ha tres varas en luengo e dos e media en Ancho. Et otro palaçio que es de fruente en el patin la entrada Alta que ha en luengo siete varas e quatro varas en Ancho e ensomo del una camara de su tamaño e A la mano esquierda otro palaçio e cabe el un logar de tinajas para Agua que ha en luengo dies varas e quatro e media en Ancho e una camara ensomo del de su tamaño. Testigos Alfonso ortis tesorero de santa leocadia extramuros e alfonso de dos barrios criado de Juan ferrandes cura de la capilla de sant pedro.
+
+(firmado) Iohanes martinus notario Canonicus Toletanus.
+
+(En el margen izquierdo, en otra letra) estan muy mal rreparadas.
+
+Catalina genity.
+
+CH_AQ_01_1492
+
+
+
+
+
+OF 356 
+
+Las casas que solia tener Olando Geneti tienenlas agora los herederos del dicho Olando e de Teresa Monte su muger por mill e quatroçientos e quarenta mrs. e dos pares de gallinas, linderos de la parte de abaxo casas tributarias a Sant Climente e casas tributarias a Santa Maria. /f° 160 v°/
+
+En xv dias del dicho mes de jullio del dicho anno de noventa e un annos los venerables sennores Cristoval de Villaminaya e Alvar Peres de Montemayor canonigos e vesitadores de las posesiones de la santa yglesia de Toledo deslyndaron estas casas e fallose en ellas en la entrada un callejon en que ay trese varas en largo e dos en ancho en el qual ay un poso que es el medio desta casa e allende de la calleja un portal en que ay tres varas e dos terçias en largo e tres e media en ancho e dentro del patin a la manderecha un palaçio en que ay siete varas e quarta en largo e tres e dos terçias en ancho e ensomo desta pieças sus camaras de al tanto e dos corredores tamannos como ellas de largo e de una vara en ancho, e junto con este palaçio ay otro en que ay ocho varas e media en largo e quatro en ancho con camara ensomo de su tamanno, e dentro del un retrete en que ay dos varas e media en largo e otras dos e media en ancho e frontero esta otro palaçio en que ay siete e dos terçias en largo e quatro en ancho e tyene un portal delante la puerta en que ay siete varas en largo e una e media en ancho e ensomo una camara e un portal de su tamanno e a la manisquierda una cosina en que ay dies varas en largo e quatro en ancho con una camara de su tamanno. De que fueron testigos Diego de Obregon e Diego Serrano criados del dicho sennor Alvar Peres. (signé) Juan de Mayorga notario apostolico.
+
+CH_AQ_02
+
+San Marcos, calle de. N°s. 8 y 10.
+
+CH_AQ_02. Le 6/05/1404, le chapitre baille au chanoine Pedro Alfonso, prieur d'Aroche, une maison située près de l'église de S. Marcos, où demeurait précédemment Esteban Fernández, racionero, décédé, avec la petite maison située en face, jouxtant des deux côtés les rues publiques, pour sa vie, chaque année pour 700 mrs. de la monnaie à courir, avec la caution d'Alvar González, demeurant à la colación de Santiuste, et Juan Sánchez, neveu de Bartolomé Sánchez, tous deux racioneros.
+
+CH_AQ_02. Le 22/11/1409, le chapitre baille au chanoine don Juan Rodríguez, abbé de Santa Leocadia, une maison située près de l'église de Sant Marcos, où demeurait auparavant Per Alfonso, prieur d'Aroche, racionero, jouxtant une maison du chapitre tenue par le même abbé (CH_AQ_03) et une autre où demeure Juan Fernández, pintor (CH_AQ_01), pour sa vie, 400 mrs. de vieille monnaie ou le double, avec la caution de Martín González de Fermoselle, capellán.
+
+CH_AQ_02+ CH_AQ_03. Le 19/06/1417, le chapitre baille à Gonzalo Ruiz de Sevilla, en son nom et en celui de Juan Martínez del Moral, en vertu d'une procuration donnée par ce dernier avant de partir en pélerinage à Saint-Jacques de Galice, deux maisons situées près de San Marcos, avec une petite maison située en face de l'une d'elles, les deux maisons jouxtant des maisons du chapitre, l'une habitée par Juan Sánchez, notario (CH_AQ_04) et l'autre par Juan Fernández, pintor (CH_AQ_01) et la petite maison des deux côtés des maisons du chapitre, l'une qui fut d'Alfonso Martínez, bachiller, canonigo, défunt, et l'autre où demeure le chanoine Pablos García (CH_FO_04), l'ensemble ayant été précédemment tenu par Juan Rodríguez de Villaizán, abbé de Santa Leocadia, pour la vie de chacun des deux, 625 mrs. de vieille monnaie, ou le double de blancas, avec la caution de Pedro González, fils de Juan Ruiz, fiel. 
+
+CH_AQ_02. En 1439, la maison précédemment tenue par Gonzalo Ruiz de Sevilla est tenue par Juan Martínez del Moral, près de S. Marcos, et jouxte de tous les côtés des maisons de l'église de Tolède.
+
+CH_AQ_02. En 1443, le cuerpo de casas que tenait l'abbé de Sta. Leocada a été baillé, le 19/05/1417, à Juan Martínez del Moral, au prix de 312 mrs. et demi de vieille monnaie, ou le double, avec la caution de Fernand Martínez de Carrión et de García Alfonso del Moral, son frère. Ajouté en marge: le 14/06/1443, le chapitre a baillé la maison, par abandon fait par Juan Martínez, à Pedro García, notario, pour 600 mrs. de vieille monnaie
+
+CH_AQ_02. Le 14/10/1442, le chapitre baille à Antón Sánchez de Sevilla, notario et escribano de la Obra, une maison située près de l'église de S. Marcos, jouxtant une maison du chapitre où demeure Juan Martínez del Moral, escribano público à Tolède, une maison des clercs de l'église S. Marcos où demeure Juan Fernández, curé de la chapelle de S. Pedro, et la rue, pour sa vie, au prix de 450 mrs. de vieille monnaie ou le double de celle à courir et deux paires de poules, avec la caution du chanoine Juan Fernández de Belorado.
+
+CH_AQ_02. Le 14/06/1443, le chapitre baille à Pedro García, notario de l'audience archiépiscopale de Tolède, et María González, sa femme, une maison située près de l'église de S. Marcos, avec les chambres qui lui font face de l'autre côté de la rue, la maison jouxtant de tous les côtés des maisons du chapitre, l'une (CH_AQ_03) où demeure Juan Martínez del Moral , escribano público à Tolède, et l'autre où demeure Alfonso López, platero (CH_AQ_01), et la rue, le tout était auparavant tenu par Juan Martínez del Moral, qui en a fait abandon, pour 600 mrs. de vieille monnaie ou le double et deux paires de poules, avec la caution de Ferrand Sánchez de Guadalupe.
+
+CH_AQ_02_1439
+
+
+
+
+
+OF 356bis 
+
+En las Casas que solia tener gonçalo Ruys de sevilla que tiene Agora Juan martines del moral cabe sant marcos que deslindan de Amas partes con casas de la eglesia de toledo estan estas cosas que se siguen: primeramente commo entran A la mano esquierda un establo que ha en luengo nueve varas e tres en Ancho e ensomo del una camara que ha en luengo dies e seys varas e quatro varas e quarta en Ancho con la cosina e pinada? Et dentro en el patin que es ladrillado A la mano esquierda un palaçio con una Alhania en el que ha el palaçio en luengo dies varas e quatro varas e terçia en Ancho. Et en la dicha Alhania ha e luengo quatro varas e media e dos e media en Ancho. Et ensomo deste Palaçio una camara que ha en luengo quinse varas e en Ancho quatro varas e terçia. Et de frente de la entrada del patin otro Palaçio que ha en luengo dies varas e en Ancho tres varas e terçia e ensomo del una camara
+
+(En el margen izquierdo, en otra letra) Lucas / Son de rreparar.
+
+Imagen 103:
+
+Fol. 78v: de su tamaño. Et A la mano derecha del dicho patin dos portales uno sobre otro e ensomo dellos una Açotea parte della cubierta e la mayor parte della descobierta con sus açarjanes que han en luengo seys varas e en Ancho dos varas e media. Et en la dicha Açotea Ay una quadreta que ha en luengo quatro varas e media e dos e media en Ancho. Fueron testigos Juan gutierres notario e alonso de dos barrios criado de Juan ferrandes cura de la capilla de sant pedro. Fueron designadas Por pero gonçales de ocaña canonigo e Juan dias Raçionero mayordomos por Ante mi Juan gonçales cornejo canonigo notario testigos los suso dichos.
+
+(firmado) Iohanes martinus notario Canonicus Toletanus.
+
+CH_AQ_02_1492
+
+
+
+
+
+OF 356 
+
+Las casas que tenia Juan Garçia notario, tienelas agora Lucas de las Pennas raçionero por su vida por mill dosientos mrs. e dos pares de gallinas linderos de entramas partes casas de la santa yglesia./f° 161 r°/
+
+En xv dias del dicho mes de jullio del dicho anno de noventa e un annos los venerables sennores Cristoval de Villaminaya e Alvar Peres de Montemayor canonigos e vesitadores de las posesiones de la santa yglesia de Toledo deslindaron estas casas e fallose en ellas en entrando un portal en que ay seys varas e terçia en largo e dos e terçia en ancho e un establo a manisquierda en que ay seys varas e media en tres en ancho e una camara ensomo del establo de su tamanno e luego un patin e a la manisquierda esta una casilla en que ay çinco varas en largo e tres en ancho e una camara ençima de al tanto e luego un palaçio en que ay dies varas en largo e quatro e terçia en ancho e camara ensomo de su tamanno e frontero de la entrada esta otro palaçio en que ay nueve varas en largo e quatro en ancho con camara ensomo de su tamanno e a la manderecha de la entrada un portal en que ay seys varas e media en largo e tres en ancho e dentro del una despensilla on que ay tres varas en largo e otras tres en ancho e ensomo del portal un corredor de su tamanno e ençima una açutea descubierta e una camara entre el palaçio e el corredor alta en que ay quatro varas e media en largo e quatro en ancho y tiene esta casa la mitad del otro poso que esta en las casas suso dichas asy mismo una casa anexa a esta en que ay una casa frontero desta en que ay un. sotano de nueve varas en largo e quatro en ancho e dos camaras de al tanto. De que fueron testigos Diego de Obregon e Diego Serrano criados del dicho sennor Alvar Peres. (signé) Juan de Mayorga notario apostolico./f° 161 v°/
+
+CH_AQ_03
+
+San Marcos, calle de. N°s. 8 y 10.
+
+CH_AQ_03. Le 12/04/1385, Pedro López del Arrabal, escribano público, exécuteur testamentaire de García Ruiz, racionero, présente devant le chapitre cathédral une clause du testament  du défunt, léguant au chapitre, pour après le décès de sa sœur, Marina Fernández, une maison située près de la torre de S. Marcos, jouxtant une maison du chapitre et une maison de Miguel Rodríguez, maestrescuela de Santiago (St-Jacques de Compostelle), et la rue, à condition que le chapitre s'oblige à lui faire deux anniversaires perpétuels par an
+
+CH_AQ_03. En 1395, le chapitre a baillé à Nuño Núñez Palomeque la maison qui avait appartenu à García Ruiz, racionero, et qui était revenu au chapitre par le décès d'une sœur de ce García Ruiz, pour 500 mrs. depuis le 15/08/1395.
+
+CH_AQ_03. En 1439, la maison que tenait Juan Rodríguez de Villahizán, cabe Sant Marcos, est tenu par Juan Martínez del Moral, notario, qui y demeure, pour 625 mrs. par an, depuis (date en blanc).
+
+CH_AQ_03. En 1443, la maison que tenait l'abbé de Sta. Leocadia a été baillée, perpetuas e por reparadas, (sans date), à Juan Martínez del Moral, notario, au prix de 312 mrs. et demi viejos, ou le double de blancas.
+
+CH_AQ_03. Le 21/06/1454, le chapitre baille au bachelier Juan Núñez, et à Beatriz Núñez, sa femme, une maison précédemment tenue par Juan Martínez del Moral, décédé, située près de S. Marcos, jouxtant une maison du chapitre tenue par Lope Méndez (CH_AQ_04) et une autre tenue par Pedro García, notario (CH_AQ_02), pour la vie des deux et d'un enfant, 800 mrs. par an, avec la caution du chanoine Rodrigo de Vargas.
+
+CH_AQ_03. Le 7/04/1485, le chapitre baille à Juan Rodríguez de Pulgar, mercador, fils de Fernand Rodríguez de Pulgar, la maison qui lui a été adjugée, précédemment tenue par Francisco del Solar, en face de S. Marcos, chaque année pour 4.000 mrs. et huit paires de poules, pour sa vie et celles de sa première femme légitime et d'un fils ou d'une fille, avec la condition que dans les 30 jours suivant son mariage, sa femme s'obligera, avec la caution de Ferrand García de Avila, escribano del Rey, son cuñado, fils du jurado García López. 
+
+CH_AQ_03. En 1491, la maison tenue auparavant par Juan Martínez del Moral est tenue par Juan de Pulgar, pour sa vie, et celles de sa femme et d'un fils, au prix 4.000 mrs. et huit paires de poules, et jouxte des deux côtés des maisons de l'Église.
+
+CH_AQ_03_1439
+
+
+
+
+
+
+
+OF 356bis
+
+Imagen 104:
+
+Fol. 79v: Las Casas que tenia Juan Rodrigues de villayçan cabe sant marcos tienelas Juan martines del moral cada Año por preçio de seysçientos e veynte e çinco maravedis e tomolas en […] dias de […] Año de 14[…]
+
+En dos dias de março Año de 1439 Años fueron deslindadas estas casas por pero gonçales de ocaña canonigo e por Juan dias Raçionero de toledo mayordomos por Ante mi Juan gonçales cornejo canonigo e notario e testigos yuso escriptos e lo que en ellas ha es esto que se sigue: primeramente en la entrada un portal e commo entran Al patin A la mano derecha un establo que ha en luengo quatro varas e quatro en Ancho e luego cabe el un palaçio con su nesçesaria que ha en luengo siete varas e tres e media en Ancho e debaxo deste dicho Palaçio un sotano de su tamaño e ensomo del dicho palaçio establo una camara que ha en luengo dies e seys varas e quatro en Ancho e A la dicha parte esquierda una casa Portal que ha dies varas en luengo e dos e media en Ancho. Et ensomo del dicho portal una camara que ha onse varas en luengo e dos varas e media en Ancho. Et A la parte de la mano esquierda en el patin un palaçio doblado que ha ocho varas en luengo e tres varas en Ancho. Et la camara de ensomo del dicho palaçio de su tamaño. Et mas cabe el dicho palaçio una casylla pequeña de espensa en que ha quatro varas en luengo e vara e media en Ancho con su camara ensomo de su tamaño. Et mas un palaçio de fruente del patin doblado con su camara e un portal Antel que ha en el dicho Palaçio onse varas en luengo e quatro en Ancho e en la camara de ensomo de su tamaño. Et en este dicho palaçio un Apartado que ha en luengo tres varas e media e dos e media en Ancho. Han por linderos estas casas de Amas partes casas de la dicha eglesia de toledo. Testigos que fueron presentes alfonso de dos barrios criado de Juan gonçales cura de la capilla de sant pedro e Juan gutierres notario e Juan martines del moral notario que mora en ellas Et Arias quixada e garçi? moro vesinos de toledo.
+
+(firmado) Iohanes martinus notario Canonicus Toletanus.
+
+(En el margen izquierdo, en otra letra) Juan del pulgar / trese y quarta y debaxo del un sotano de su tamaño / Bien rreparada.
+
+
+
+CH_AQ_03_1492
+
+
+
+
+
+OF 356 
+
+Las casas que solia tener Juan Martines del Moral tienelas Juan de Pulgar por vida suya e de su muger e de un fijo por presçio de quatro mill mrs. e ocho pares de gallinas, linderos de entramas partes casas de la santa yglesia.
+
+En xv dias del dicho mes de jullio del dicho anno de noventa e un annos los venerables sennores Cristoval de Villaminaya e Alvar Peres de Montemayor canonigos e vesitadores de las posesiones de la santa yglesia de Toledo deslindaron estas casas e fallose en ellas un portal como entran al patin a la mano derecha un establo en que ay quatro varas en largo e quatro en ancho e luego cabo el un palaçio en que ay siete varas en largo e tres e media en ancho con su nesçesaria e debaxo deste palaçio un sotano de su tamanno e ensomo del dicho palaçio e establo una camara que ay dies e seys varas en largo e quatro en ancho e a la manderecha un portal en que ay dies varas en largo e dos e media en ancho e ensomo del dicho portal una camara en que ay honse varas en largo e dos e media en ancho e a la parte de la manisquierda esta un palaçio en que ay ocho varas en largo e tres en ancho con un sotano de su tamanno e una camara ensomo de su tamanno e mas cabo el dicho palaçio una casilla pequenna en que ay quatro varas en largo e una e media en ancho con su camara de al tanto e mas un palaçio defruente doblado con su camara en que ay trese varas en largo e quatro en ancho e un sotano debaxo de al tanto e la camara de ensomo de su tamanno. De que fueron testigos Diego de Obregon e Diego Serrano criados del dicho sennor Alvar Peres. (signé) Juan de Mayorga notario apostolico. /f° 162 r°/
+
+CH_AQ_04
+
+San Marcos, calle de. N°10
+
+CH_AQ_04. Le 11/12/1406, le chapitre baille à Juan Sánchez, notario, fils de Sancho Martínez, notario, et à Leonor Fernández, sa femme, une maison située près de l'église de San Marcos, dont a fait abandon Francisco López, racionero, qui la tenait auparavant, jouxtant une maison du chapitre où demeure Juan Rodríguez de Villaizán, abbé de Santa Leocadia, pour la vie des deux, 350 mrs. de la monnaie à courir, avec la caution de Ferrand Martínez, notario, frère de Juan Sánchez, et fils de Sancho Martínez, notario. Le 14 /12/1406, entre comme caution supplémentaire Gómez Fernández, racionero, curé de l'église S. Yuste. Une note précise que le montant doit être payé de vieille monnaie, parce que Francisco López tenait la maison de cette monnaie. 
+
+CH_AQ_04. En 1408, la maison laissée par le chanoine Miguel Rodríguez a été baillée à Juan Sánchez, notario, fils de Sancho Martínez, notario, pour 350 mrs. de la monnaie à courir.
+
+CH_AQ_04. Le 27/06/1426, le chapitre baille à Catalina Sánchez, veuve de Juan Sánchez, notario, une maison située près de S. Marcos, où elle demeurait précédemment avec le dit Juan Sánchez, jouxtant une maison du chapire où demeure Juan Martínez del Moral, notario (CH_AQ_03), une maison de l'église S. Marcos, et la rue, pour sa vie, au prix de 400 mrs. de vieille monnaie, ou le double de celle à courir, avec la caution de Fernand García, platero, demeurant à S. Yuste.
+
+CH_AQ_04. Le 26/08/1432, le chapitre baille à Alfonso González, notario, et Marina González, sa femme, une maison située à la colación de S. Soles (sic), jouxtant une maison de Juan Martínez del Moral, notario (CH_AQ_03), une maison où demeure Juan Fernández, curé de la chapelle de S. Pedro, et la rue, précédemment tenue par Catalina González, veuve de Juan Sánchez, notario, et don Juan Martínez del Moral, notario, beau-père de Catalina González, a fait abandon ce jour en son nom en leur faveur, pour la vie des deux, au prix de 415 mrs. de vieille monnaie, ou le double, avec la caution de Fernand García, pedrero.
+
+CH_AQ_04. En 1439, la maison que tenait auparavant Catalina Sánchez, femme de Juan Sánchez, notario, se trouve tenue par Alfonso González, notario, pour 830 mrs., depuis le 26 août 1432.
+
+CH_AQ_04. Le 14/10/1442, le chapitre baille à Antón Sánchez de Sevilla, notario et escribano de la Obra de la cathédrale, une maison située près de l'église de S. Marcos, jouxtant une maison du chapitre où demeure Juan Martínez del Mora, escribano público (CH_AQ_03), une maison des clercs de l'église San Marcos où demeure Juan Fernández, curé de la chapelle de San Pedro, et la rue, pour sa vie, 450 mrs. de vieille monnaie ou le double et deux paires de poules, avec la caution du chanoine Juan Fernández de Belorado. 
+
+CH_AQ_04. Le 20/02/1447, le chapitre baille à Lope de Talavera, criado et familier du chanoine Rodrigo de Vargas, une maison située près de l'église de S. Marcos, jouxtant la maison où demeure le curé de la chapelle de San Pedro, une maison du chapitre tenue par Juan Martínez del Moral, escribano público à Tolède (CH_AQ_03), vacante par abandon d'Antón Sánchez de Sevilla, escribano de la obra, pour sa vie et celle de Catalina, sa femme, fille de Luis González, notario de l'audience archiépiscopale, 900 mrs. de la monnaie courante et deux paires de poules, avec la caution du chanoine Rodrigo de Vargas, figurant parmi les témoins Luis González, notario. 
+
+CH_AQ_04. Le 7/10/1485, le chapitre baille à Bartolomé Sánchez de Pastrana, racionero, la maison vacante par le décès de Catalina Alvarez, femme de Lope Méndez, pour 3.000 mrs. et six paires de poules par an, avec la condition que si Bartolomé résigne sa ration, la maison sera de ce fait vacante, avec la caution d'Alfonso de Quemada, racionero. Le même jour Bartolomé Sánchez fait abandon au chapitre de la maison où il demeure et qu'il tenait en perpetuo. 
+
+CH_AQ_04. En 1491, la maison que tenait Pedro del Valle, est tenue par Bartolomé de Pastrana, racionero, pour sa vie, au prix de 3.000 mrs. et six paires de poules. Elle jouxte d'un côté une maison de l'Église et de l'autre côté également une maison de l'Église. Jusqu'en 1496, la maison reste au nom de Bartolomé de Pastrana.
+
+CH_AQ_04_1439
+
+
+
+
+
+
+
+
+
+OF 356bis 
+
+Las Casas que solia tener Catalina sanches muger de Juan sanches notario tienelas Alfonso gonçales nothario cada Año por preçio de ochoçientos e treynta maravedis e tomolas en 26 de agosto Año de 32 Años.
+
+En dos dias de março Año de 1439 Años fueron deslindadas las casas suso dichas Por pero gonçales de ocaña canonigo e Juan dias Raçionero de la eglesia de toledo Por Ante mi Juan gonçales cornejo nothario canonigo e lo que en ellas ha es esto: primeramente luego A la entrada A la mano esquieda una casa Portal que ha en luengo tres varas e media ocho varas e media e tres varas e media en Ancho con la entrada. Et ensomo della una camara cosina de su tamaño mas una cosina Alta de su tamaño. Et mas un palaçio defruente de la entrada que ha en luengo dies varas e quatro en Ancho ladrillado e mas un portal ladrillado A la mano esquierda en el patin que ha en luengo dies varas e en Ancho dos varas con su camarilla ensomo de su tamaño e mas otro palaçio pequeño A la mano esquierda en el patin que ha en luengo çinco varas e en Ancho quatro varas e esta de yuso de la cosina suso deslindada e un sotanillo de yuso del e el patin esta ladrillado e un poso en el. Testigos presentes Alfonso ortiz thesorero de santa leocadia extramuros e Alfonso de dos barrios criado de Juan ferrandes cura de la capilla de sant pedro.
+
+(firmado) Iohanes martinus notario Canonicus Toletanus.
+
+(En el margen izquierdo, en otra letra) bartolome de pastrana / Reparadas.
+
+CH_AQ_04_1492
+
+
+
+
+
+OF 356 
+
+
+CH_FO_08. Le 19/3/1439, le chapitre baille à Diego Gómez, cambiador, et Leonor Gómez, sa femme, une maison, à la colación de San Antolín, jouxtant d’un côté une tienda de l’église San Yuste, et de l’autre une maison de Juan González Sorje, mercador, et dont il a été fait abandon au nom de Teresa Alfonso, veuve de Juan González, cirujano, pour la vie des deux, au prix de 375 mrs. de vieille monnaie ou le double, soit 750 mrs. par an, avec la caution de Juan González Crespo, père de Leonor Gómez. 
+
+CH_FO_08. En 1443, la maison que tenait auparavant Juan González, cirujano, a été baillée, perpetuas e por reparadas, le19/03/1439, à Diego Gómez, cambiador, et Leonor González, sa femme, pour la vie des deux, au prix de 750 mrs. de blancas, avec la caution de Juan González Crespo, son beau-père. En 1450, il est fait référence au contrat de 1439, fait à Diego Gómez et Leonor Gómez.
+
+CH_FO_08. En 1472, la maison que tenait antétieurement Juan González, cirujano, reste baillée à Diego Gómez, cambiador, et Leonor Gómez, pour 750 mrs., avec la caution de Juan González, especiero, son beau-père. Le 5/07/1456, a été donnée la caution d'Alvar González Jarada. Le 23/05/1466, Diego Gómez étant décédé, Leonor Gómez a donné la caution de Juan Cota, fils d'Alfonso Martínez Cota. En marge: Leonor Gómez.
+
+CH_FO_08. Le 5/7/1481, le chapitre baille à Fernand Sánchez de Sahagún, curé d’Argance, la maison que tenait auparavant Leonor Gómez, pour sa vie et celle d’une personne à désigner par lui quand il voudra, au prix de 4.400 mrs. et 9 paires de poules, avec la caution de Juan Porcel, notario. Le 31/12/1482, le chapitre baille la maison à Gonzalo Rodríguez, racionero, pour le même montant.
+
+CH_FO_08. En 1492, la maison que tenait antérieurement Fernand Sánchez de Sahagún, est tenue par Gonzalo Rodríguez de Madrid, racionero, au prix de 4.010 mrs. et neuf paires de poules, avec confronts en blanc. La maison comporte una tienda dont la porte donne aux Tiendas Nuevas.
+
+CH_FO_08. Le 18/4/1494, le chapitre baille à Juan de Zayas, tejedor de seda, la maison dont a fait abandon Gonzalo Rodríguez de Madrid, pour sa vie et celle d’une autre personne à désigner par lui quand il le voudra, au même prix de 4.010 mrs. et neuf paires de poules, avec la caution de son frère, Antonio Gutiérrez.
+
+CH_FO_08_1439
+
+
+
+
+
+OF 356bis 
+
+Las casas que solia tener domingo sanches copete tienelas theresa gonçales muger de Juan gonçales cambiador por preçio de quinientos e sesenta maravedis e tomolas en veynte e seys del mes de otubre Año de 20 Años.
+
+En tres dias de março Año de 1439 Años fueron designadas las casas suso dichas por pero gonçales de ocaña canonigo e Juan dias rraçionero mayordomos por ante mi Juan gonçales cornejo canonigo notario e testigos yuso escriptos. Et lo que se fallo en ellas es esto que se sygue: primeramente en la entrada un portal con una camara ensomo del que ha en luengo seys varas de medir e çinco en ancho e en el primero patin un portal pequeño a la mano esquierda que ha en luengo syete varas e en ancho tres varas e ensomo del una camara de su tamaño. Et en el segundo patin que es ladrillado a la mano derecha un palaçio doblado que ha en luengo ocho varas e en ancho quatro varas. Et en la camara de ensomo del que ha en luengo seys varas e media e quatro en ancho. Et a la mano esquierda del dicho patin un palaçio con dos camaras una ensomo de otra que ha en luengo seys varas e en ancho quatro e las dos camaras de ensomo del desa mesma longura e anchura con sus andores viejos mal Reparados todos e un pozo en el patin. Testigos presentes alonso ortiz thesorero de santa Leocadia extramuros e alonso de dos barrios criado de Juan ferrandes cura de la capilla de sant pedro. Deslindan estas dichas casas con casas que disen la bodega del camello e de la otra casa de herederos de martin lopes carpintero.
+
+(firmado) Iohanes martinus notario Canonicus Toletanus.
+
+(En el margen izquierdo, en otra letra) fernand sanches de sanfagun.
+
+CH_FO_08_1492
+
+
+
+
+
+OF 356 
+
+ Las casas que solia tener Ferrant Sanchez de Sanfagun, tienelas agora Gonçalo Rodrigues de Madrid raçionero en la santa iglesia de Toledo, por presçio cada anno de quatro mill e diez mrs. e nueve pares de gallinas. Linderos (blanc). 
+
+En iiii° dias del dicho mes de abril del dicho anno de noventa e dos annos los dichos sennores vesitadores en presençia del notario e de los testigos ynfra escriptos vesitaron estas casas e fallose en ellas una casa puerta en que ay çinco varas en largo e dos e media en ancho e a la mano derecha un establo en que ay çinco varas en largo e tres e media en ancho e entrando a un patin ladrillado a la mano ysquierda del una despensa en que ay çinco varas en largo e tres e media en ancho, e sobre estas tres pieças ay dos soberados de su tamanno e a la mano derecha del dicho patin ay un palaçio en que ay seys varas en largo e tres e media en ancho con una açutea descubierta de su tamanno, e frontero de la dicha puerta ay otro palaçio en que ay ocho varas e media en largo e quatro e media en ancho con una camara ensomo, en que asy seys varas en largo e quatro e media en ancho, por razon que en el largo entra un ensinçe de las casas de Ribadeneyra e las camaras del dicho ensinçe esta de la dicha casa de Ribadeneyra, ay en esta dicha casa tres corredores alderredor del patio. Tiene esta dicha casa una tienda que sale la puerta a la Tiendas Nuevas, en que ay çinco varas e media en largo e otras çinco e media en ancho con una camara de al tanto e un establillo en que ay tres varas en largo e otras tres en ancho, el qual dicho establillo esta debaxo de las dichas casas prinçipales. De que fueron testigos Diego de Obregon e Françisco de Morales criados de los dichos sennores. (signé) Juan de Mayorga notario apostolico. /37 v°/
+
+CH_FO_09
+
+Santa Isabel, calle de. N°3.
+
+CH_FO_09. En 1391, Alfonso Fernández, archiprêtre d’Illescas, tient la maison que tenait auparavant le chanoine Juan García de Madrid, pour sa vie, au prix de 300 mrs. de la monnaie à courir.
+
+CH_FO_09. En 1401, Alfonso García, licenciado et chanoine, tient la maison que tenait Alfonso Fernández, archiprêtre d’Illescas, pour sa vie, au prix de 500 mrs. avec la caution du chanoine Alfonso Martínez. En 1408, le chanoine docteur Alfonso García tient la même maison. En 1412, Alfonso García, docteur et chanoine, tient la maison, à la colación de San Antoíin, que tenait Alfonso Fernández, archiprêtre d’Illescas, encore pour 500 mrs.
+
+CH_FO_09. Le 4/8/1414, le chapitre baille à Lope Sánchez, racionero, une maison, à la colación de San Antolín, où demeurait antérieurement le docteur Alfonso García de Alcaraz, jouxtant une maison du chanoine Alfonso Martínez (CH_DO_14+ CH_DO_15),  l'adarve de Juana Arrendon, et une maison de Pedro Alfonso, prieur d'Aroche (CH_DO_21), au prix de 600 mrs. de la monnaie de blancas, avec la caution de Fernánd López, capellán.
+
+CH_FO_09. En 1417, la maison que tenait le docteur Alfonso García est tenue par Lope Sánchez, racionero, pour 300 mrs. de vieille monnaie (600 mrs. de blancas), pour sa vie, depuis le 15/08/ S. 1414.
+
+CH_FO_09. Le 13/9/1425, le chapitre baille au chanoine Iñigo de Perea, arcchidiacre de Triacastella, une maison à la colación de San Antolín, jouxtant la casa tienda se tenant avec la maison où demeure Martín Fernández de Sevilla, racionero [CH_DO_14 et CH_DO_15), une maison de l'Église que tenait auparavant le prieur d'Aroche (CH_DO_21), avec, devant la porte, la rue allant à San Marcos, précédemment tenue par Lope Sánchez, racionero, décédé, pour sa vie, pour 500 mrs. de vieille monnaie ou le double, avec la caution du chanoine Fernand Pérez de Ayala, vicario.
+
+CH_FO_09. Le 22/10/1432, le chptire baille à Juan González de Santa María, escribano del rey, une maison, à la colación de San Antolín, tenue auparavant par le chanoine Iñigo de Perea, archidiacre de Triacastella, décédé, jouxtant une casa tienda de l'Église où demeure el gallego, sastre (CH_DO_14), une maison que tient de l'Église le chanoine Fernand González Quijada [(CH_DO_21), et la rue, pour sa vie et celle de sa première femme, au prix de 770 mrs. de vieille monnaie ou 1.540 mrs. de celle de blancas, avec la caution de son père, Francisco González de Santa María, escribano, et de Mencía González, femme de ce dernier.
+
+CH_FO_09. En 1439, Juan González, notario (ou Juan González de Santa María, notario), tient la maison précédemment tenue par Iñigo de Perea, au prix de 1.540 mrs., depuis le 22/10/1432. La maison est située en face de celle des héritiers de Martín López, et jouxte une maison de l'Église tenue par la chanoine Pedro Martínez, et une autre maison de l'Église que tient le chanoine Juan Martínez de Sevilla.
+
+CH_FO_09. Le 30/5/1442, le chapitre baille à Ferrand González Serrano, notario du tribunal archiépiscopal, et à María González, sa femme, une maison, à la colación de San Antolín, jouxtant de chaque côté des maisons de l'Église et du chapitre, la rue, pour la vie des deux, au prux de 770 mrs. de vieille monnaie ou le double de celle à courir et trois paires de poules, avec la caution d'Alfonso López et Lope Sánchez, plateros.
+
+CH_FO_09. En 1443, la maison que tenait auparavant Iñigo de Perea a été baillée, perpetuas e por reparadas, le 30/05/1442, à Fernand González Serrano, notario, et María González, sa femme, pour sa vie, au prix de 770 mrs. viejos (1.550 mrs. de blancas) et trois poules à Noël, avec la caution d'Alfonso López et de Sancho López, plateros. 
+
+CH_FO_09. En 1450, il est fait référence à ce contrat pour la maison que tenait auparavant Iñigo de Perea. Le 10/4/1456, Ferrand González Serrano donne la caution de son frère, Francisco Serrano. En 1465, il est encore fait référence à ce contrat.
+
+CH_FO_09. Le 19/11/1471, la maison auparavant tenue par Iñigo de Perea, puis Ferrand González Serrano et sa femme, est adjugée à Maestre Alfonso, cirujano, pour sa vie, 3.000 mrs. et dix paires de poules. En 1472, le contrat reste à faire. Le 12/9/1475 le chapitre baille à Maestre Alfonso, cirujano, et à sa femme, Leonor Furtada, la maison que tenait auparavant Ferrand González Serrano, notario, pour la vie des deux et d’un fils ou d’une fille à désigner par l’un d’entre eux quand il le voudra, au prix de 3.000 mrs. et dix paires de poules, avec la caution Luis Díaz, platero. Le 23/3/1481, Maestre Alfonso donne un garant, dont le nom manque en 1482.
+
+CH_FO_09. Le 28/06/1484, Leonor Furtada, veuve de Maestre Alfonso, cirujano,  fait abandon de la maison qu'elle tient  à S. Antolín, pour sa vie et celle d'un fils ou d'une fille, au prix de 3.000 mrs. et dix paires de poules,  à S. Antolín, et que tenait précédemment  Fernand  González Serrano, notario, en faveur d'Alfonso de Alcalá, trapero, pour 5.000 mrs., hors diezmo et alcabala, dont ont été payés 605 mrs. de diezmo. Le même jour la maison est baillée à Alfonso de Alcalá, pour sa vie et celle d'un fils ou d'une fille, au prix de 3.000 mrs. et  dix paires de poules, avec la condition qu'il dépense dans les trois ans 10.000 mrs. en réparations utiles à la maison et qu'il donne la caution de sa femme (non nommée) et de Diego de la Carcel.
+
+CH_FO_09. En 1492, la maison que tenait auparavant Maestre Alfonso, cirujano, est tenue par Alfonso de Alcala, trapero,  pour deux vies,  au prix de 3.000 mrs. et dix paires de poules. Elle jouxte des deux côtés des maisons de l'Église, et comporte un puits avec une porte sur la rue vers les Tiendas Nuevas.
+
+CH_FO_09_1439
+
+
+
+
+
+OF 356bis 
+
+Las casas que solia tener yñigo de perea tienelas Juan gonçales notario por preçio de mill e quinientos e quarenta maravedis e tomolas en 22 dias del mes de otubre Año de 32 Años.
+
+(En el margen izquierdo, en otra letra) maestre alonso çurujano.
+
+En tres dias de março Año de 1439 Años pero gonçales de ocaña canonigo e Juan dias rraçionero de la eglesia de toledo por ante mi Juan gonçales cornejo canonigo e notario e testigos yuso escriptos designaron las casas suso dichas que solia tener yñigo de perea canonigo e tiene agora Juan gonçales de>w santa maria notario que son de frente de las casas de herederos de martin lopes e deslindan de la una parte con casas de la dicha eglesia que tiene pero martines canonigo e de la otra casas que tiene Juan martines de sevilla canonigo que son de la dicha eglesia lo que se fallo en ellas es esto que se sigue: primeramente en el patin que es ladrillado A la mano derecha un palaçio doblado que ha e luengo nueve varas e media e tres e media en ancho e la camara de ensomo del de su tamaño. Et en el dicho palaçio una Alhania pequeña Et de frente de la entrada otro palaçio pequeño que ha en luengo çinco varas e tres en ancho e sobre el una camara de syete varas e media en luengo e tres en ancho. Et a la parte esquierda otro palaçio que ha en luengo seys varas e tres e media en Ancho. Et sobre el una cosina de su tamaño. Et ensomo de la entrada una como saleta lugar de comer. Et mas una camara que sale la puerta al dicho comedor que ha en luengo çinco varas poco mas o menos. Et de yuso della una cassa que solia ser entrada para lo sotanos. Et ensomo del dicho comedor una Açotea cubierta que ha ocho varas en luengo e çinco en ancho con un rretrete pequeño. Et mas unos sotanos grandes que toman todas las dichas casas salvo la entrada dellas e tienen sus andores los dos palaçios. Et tienen una otra puerta a la calle syn la prinçipal. Testigos que fueron presentes alonso ortiz thesorero de santa Leocadia extramuros e alfonso de dos barrios criado de Juan ferrandes cura de la capilla de sant pedro.
+
+(firmado) Iohanes martinus notario Canonicus Toletanus.
+
+Imagen 35, Fol. 19r:
+
+CH_FO_09_1492
+
+
+
+
+
+OF 356 
+
+Las casas que solia tener maestre Alfon çurugano, tienelas agora Alfon de Alcala trapero por dos vidas por tres mill mrs. e diez pares de gallinas. Han por linderos de entramas partes casas de la dicha iglesia. 
+
+En iiii° dias del dicho mes de abril del dicho anno de noventa e dos annos los dichos sennores vesitadores en presençia del notario e de los testigos ynfra escriptos vesitaron estas casas e fallose en ellas en la entrada un portal en que ay tres varas en largo e dos en ancho e otro portal en que ay çinco varas en largo e tres en ancho con dos soberados de al tanto e entrando un patin e a la mano derecha un palaçio en que ay nueve varas e media en largo e tres varas e media en ancho, con un soberado de al tanto, e frontero de la entrada ay otro palaçio en que ay ocho varas en largo e tres en ancho con un soberado de al tanto, a la mano ysquierda ay una cosina en que ay seys varas en largo e tres e media en ancho e debaxo de toda esta casa sotanos debaxo dellas. En esta misma casa ay un posuelo con puerta a la calle fazia las Tiendas Nuevas, en la qual ay en entrando una casa puerta en que ay seys varas en largo e tres e media en ancho por lo mas ancho, con un soberado ençima de al tanto e otro terçero soberado de al tanto. De que fueron testigos Diego de Obregon e Françisco de Morales criados de los dichos sennores. (signé) Juan de Mayorga notario apostolico.
+
+L'Adarve de Juan Arredón (ou Juana Redón).
+
+CH_FO_10
+
+Santa Isabel, calle de. N°3b.
+
+CH_FO_10. Le 13/04/1414, le chapitre cathédral dans un échange avec le monastère de la Sisla, reçoit une maison située dans l’Adarve de Juan Arrendón, jouxtant une maison de García López, trapero, et les rues, maison tenue, en perpetuo, par Ferrand González Quijada, racionero, pour 480 mrs. de la monnaie à courir au moment des paiements.
+
+CH_FO_10. En 1417, la maison située à la colación de S. Antolín, dans l'Adarve de Juana Rendon, que le chapitre a eue des beatos de la Sisla, est tenue par Fernand González Quijada, racionero et casero, pour sa vie, au prix de 240 mrs. de vieille monnaie (480 mrs. de blancas), depuis le 1/05/1414.
+
+CH_FO_10. Le 10/04/1430, le chapitre baille à Alfonso González de la Fuente, escribano del rey, et María González, sa femme, une maison, colación de San Antolín, avec une cámara dont la porte donne sur la rue et qui jouxte la maison, maison et chambre dont a fait abandon le chanoine Ferrand González Quixada, jouxtant une maison de Juan Núñez, jurado, et la rue, pour la vie des deux et de leur fils, García, 400 mrs. de vieille monnaie ou le double, soit 800 mrs., avec obligation dans les deux ans, à leurs frais, d'avoir doublé la dite camara qui donne sur la rue et d'avoir fait une autre cámara au dessus d'elle, avec caution de García Sánchez, cirujano, habitant de Tolède. 
+
+CH_FO_10. En 1439, la maison que le chapitre a eu des Frères de la Sisla, située dans l'adarve dit de Juan Darrendon, est tenue par Alfonso González de la Fuente, escribano, pour 800 mrs., depuis le 10/04/1430. Elle jouxte une maison des héritiers de Juan Núñez, dans la calle mayor, et se trouve à droite dans l'adarve.
+
+CH_FO_10. En 1443, la maison que le chapitre a eue des frailes de la Sisla, située dans l'adarve de Juan Redondo, a été baillée, perpertuas e por reparadas, le 10/04/1430, à Alfonso González de la Fuente, escribano, Marina González, sa femme, et García, son fils, au prix de 400 mrs. viejos ou le double (800 mrs.) de blancas, avec la caution de son beau-père, García Sánchez, cirujano. 
+
+CH_FO_10. En 1450, on se réfère au même contrat, fait en 1430 à Alfonso González de la Fuente, escribano, María González, sa femme, et García, son fils, tandis que García Sánchez, cirujano, est décédé. Alfonso González de la Fuente a payé les 800 mrs., dont 420 mrs. donnés par Gonzalo de Camarena qui demeure dans la maison, 50 mrs. par le galicien qui réside dans la cámara du haut, et 20 mrs. par le même Alfonso González en une douzaine d'avilesas
+
+CH_FO_10. Le 12/03/1457, le chapitre baille à Ruy López del Arroyo, fils de Ferrand López del Arroyo, une maison, colación San Antolín, dans l’adarve de Juan Arrendón, jouxtant sur deux côtés des maisons appartenant aux héritiers de Juan Núñez, qui était jurado, la rue dudit adarve, maison que tenait auparavant Alfonso González de la Fuente, escribano, pour sa vie et celle de María Díaz, avec caution de son frère, Juan López del Arroyo, jurado. Le 4 juin 1474, Pedro del Arroyo ayant été désigné par son père, Ruy López, maintenant décédé, s’oblige.
+
+En 1476, Alvar López del Arroyo, escribano público à Tolède, et Elvira Núñez, sa femme, tenant une maison, colación de San Antolín, à l'Adarve de Juan Redon, tributaire à la Confrérie de San Pedro, les confrères abaissent le cens de 2.020 à 1.500 mrs., les 520 mrs. restant ayant été rachetés.
+
+CH_FO_10. Le 5/07/1481, le chapitre baille à Gutierre de Santo Domingo, mercador, et sa femme, Mencía de Dueñas, une maison du chapitre qu'avait tenue Pedro del Arroyo, puis  Bernaldo de Vargas, et dont ce dernier a fait abandon, au prix de 1.000 mrs. et une paire de poules, pour la vie des deux et d'un fils ou d'une fille,  avec la caution de Gonzalo de Santo Domingo, frère de Gutierre. Le 16/01/1486, Mencía de Dueñas, femme de Gutierre de Santo Domingo, trapero, s’engage avec autorisation de son mari, pour la maison tenue à la colación de S. Antolín. 
+
+CH_FO_10. En 1491, la maison que tenait précédemment Gutierre de Santo Domingo, est tenue par sa veuve, Mencía de Dueñas, et jouxte une maison d'Alvar López del Arroyo, avec une partie à l'intérieur de l'adarve de cet Alvar López. En 1496, les héritiers de Gutierre de Santo Domingo.
+
+Le 6/09/1414, Antón Fernández, racionero, et doña María García, fille de don Diego García de Toledo, héritiers et exécuteurs testamentaires du chanoine défunt Alfonso Martínez de Ocaña, bachelier en décrets, pour la grande dette qu'avait ledit chanoine envers María Alvarez, fille de Blasco Fernández, lui font donation d'une maison située à la colación de S. Antolín, dans l'adarve dit de Juana Redon, jouxant une maison de l'Église de Tolède où demeure Alvar García, racionero, une maison de María Alvarez de San Martín, beata, et ses sœurs, et une maison de García López.
+
+CH_FO_10_1439
+
+
+
+
+
+OF 356bis 
+
+Las casas que el cabildo ovo de los frayles de la sisla tienelas alonso gonçales de la fuente escrivano por preçio de ochoçientos maravedis e tomolas en 10 dias del mes de abril Año de 30 Años.
+
+En tres dias de março año de 1439 Años fueron designadas estas casas suso escriptas las quales son en el Adarve que disen de Juan darrendon por pero gonçales de ocaña canonigo e Juan dias rraçionero e mayordomos de la eglesia de toledo por Ante mi Juan gonçales Cornejo canonigo e notario e lo que en ellas se fallo es esto que se sygue: Primeramente a la mano esquierda como entran en el patin que es ladrillado un palaçio doblado con una Alhania que ha en luengo con la dicha Alhania dose varas e en Ancho tres varas. Et la camara de ençima ha en luengo ocho varas e tres en ancho. Et de frente de la puerta otro palaçio doblado que ha en luengo çinco varas e tres en ancho. Et la camara de ençima del ha nueve varas en luengo e sale la puerta A la calle mayor con dos gradas e un corredorçillo delante della. Et otro palaçio A la mano derecha doblado que ha seys varas en luengo e quatro en ancho. Et ensomo del dicho palaçio una cosina que ha en luengo seys varas e media e quatro en ancho. Et ensomo della una açotea cubierta e descubierta e mas un establo o casa que Anda con estas casas que tiene la puerta en el dicho Adarve que ha en luengo seys varas e media e en Ancho es trianglo con dos camaretejas sobre el de esa mesma façion. Et deslindan estas casas con casas de herederos de Juan sanches? en la calle mayor e son dentro en el dicho Adarve A la mano derecha. Testigos presentes alonso ortiz thesorero de santa Leocadia extramuros alonso de dos barrios criado de Juan ferrandes cura de la capilla de sant pedro.
+
+(firmado) Iohanes martinus notario Canonicus Toletanus.
+
+(En el margen izquierdo, en otra letra) gutierre de santo domingo.
+
+CH_FO_10_1492
+
+
+
+
+
+OF 356 
+
+Las casas que solia tener Gutierre de Santo Domingo, tienelas agora Mençia de Duennas su muger por su vida e de un fijo o fija, por presçio de mill mrs. e dos pares de gallinas, linderos casas de Alvar Lopes del Arroyo e casas de Herrera raçionero, tienen la parte dentro del adarbe del dicho Alvar Lopes./f° 39 r°/
+
+En iiii° dias del dicho mes de abril del dicho anno de noventa e dos annos los dichos sennores vesitadores en presençia del notario e de los testigos ynfra escriptos vesitaron estas casas e fallose en ellas en entrando un patin e frontero un palaçio en que ay çinco varas e media en largo e tres en ancho e ençima dos soberados de al tanto, e el uno dellos tiene una puerta que sale a la calle del sennor Protonotario Altamirano, tiene mas un palaçio a mano yquierda en que ay nueve varas en largo e tres en ancho, con un retretico en que ay tres varas en largo e otras tres en ancho, con un soberado de al tanto, e a la mano derecha de la entrada ay un palaçio en que ay ocho varas en largo e tres e media en ancho, e mas adentro del un establo que se manda con puerta a la calle, en que ay siete varas e media en largo e seys en ancho, con dos soberados ensomo destas dos pieças. De que fueron testigos Diego de Obregon e Françisco de Morales criados de los dichos sennores. (signé) Juan de Mayorga notario apostolico.
+
+La ruelle du four de San Antolín et le four lui-même.
+
+CH_FO_11
+
+Jesus Cljon N°6 
+
+CH_FO_11. En 1372, don Bernalt, évêque de Cuenca, tient les casillas situées dans la callejuela du four de Santo Antolin, à cens, pour 22 mrs. par an, que doit payer Nicolás García, capellán .
+
+CH_FO_11. En 1380, Nicolás García, capellán, tient la maison que tenait précédemment l’évêque de Cuenca, pour deux ans, depuis le 15/8/1379, au  prix de 80 mrs. par an.
+
+CH_FO_11. En 1395 et 1401, Alfonso Martínez, bachiller, tient las casas de la camara, précédemment tenu par Nicolás García, racionero, depuis le 1/1/1394.
+
+CH_FO_11. Le 21/11/1403, le chapitre baille à Antón Fernández, racionero, et à María Álvarez, beata, demeurant l'un et l'autre a la colación de San Antolín, une maison située à la même colación, près du four de S. Antolín, (confronts en blanc), pour la vie des deux, chaque année pour 165 mrs. de la monnaie à courir. 
+
+CH_FO_11. Le 7/01/1408, le chapitre baille à María Álvarez, beata, la vieja, et à María Álvarez, la moza, et Inés Álvarez, beatas, ses cousines, demeurant à la colación de San Antolín, une maison où elles demeurent, située au Pozo Amargo, dans la callejuela étroite jouxtant une maison ayant appartenu à Nicolás García, qui était racionero, et qui appartient maintenant à l’église San Antolín, et ladite callejuela pública del rey, pour la vie de chacune d’elles, 170 mrs. de la monnaie à courir, avec caution d’Antón Fernández, racionero. En 1412, María Álvarez et ses cousines, Inés Álvarez et María Álvarez, tiennent la maison que tenait le bachelier Alfonso Martínez, près du four de S.Antolín, au prix de 170 mrs. de la monnaie à courir. 
+
+CH_FO_11. En 1417, la maison que tenait le bachelier Alfonso Martínez, près du four de S. Antolín, est tenue par María Alvarez et ses cousines Inés Alvarez et María Alvarez, depuis le 1/01/1408, pour 170 mrs. par an de la monnaie à courir, avec la caution d'Antón Fernández racionero. En marge: beatas
+
+CH_FO_11. Le 7/01/1433, le chapitre baille à María García, veuve d’Alfonso Sánchez de San Martín, une maison, colación de San Antolín, à la callejuela étroite au dessus du Pozo Amargo, jouxtant une maison ayant appartenu à Nicolás García, qui était racionero, et une maison de l’église San Antolín, et la rue, après abandon fait en sa faveur au nom de María Álvarez et Inés Álvarez, beatas, qui tenaient la maison, pour sa vie et celle de son fils Esteban, 90 mrs. de vieille monnaie ou de double, soit 180 mrs. de la monnaie de blancas, avec la caution Juan Fernández, curé de la chapelle de San Pedro. Le contrat reste en vigueur en 1450. 
+
+CH_FO_11. En 1439, la maison que tenaient María Alvarez et Inés Alvarez, située à l'encoignure de la callejuela proche du four de S. Antolín, jouxtant une petite maison de Juan González de Fuensalida et une maison de S. Antolín, est tenue par María García, veuve d'Alfonso Sánchez de San Martín, pour 180 mrs., depuis le 7/01/1433.
+
+CH_FO_11. En 1443, la maison que tenait Inés Alvarez a été baillée, perpetuas e por reparadas, à María García, qui était la femme d'Alfonso Sánchez de San Martín, le 7/01/1433, pour sa vie et celle de son fils, Esteban, pour 90 mrs. viejos par an, ou le double (180 mrs.) de blancas, avec la caution de Juan Fernández, curé de la chapelle de S. Pedro
+
+CH_FO_11. En 1450, la maison que tenait antérieurement Inés Alvarez, reste baillée, depuis 1433, à María García, femme d'Alfonso Sánchez de San Martín, et à son fils, Esteban, pour 180 mrs. courants, et les trois termes son payés par Esteban, ou pour lui.
+
+CH_FO_11. En 1492, la maison n'apparaît pas. 
+
+Le 27/07/1485, Gonzalo Fernández, au nom de Juan de Henao, dont il a procuration, loue à Pedro Gallego un four appartenant à ce Juan de Henao, à la colación de S. Antolín, jouxtant une maison de María Alvarez de Cisneros et une maison constituant el estudio que agora se fase, pour un an à partir du 15/08/85, au prix de 1.500 mrs. et trois poules, avec la condition que s'il n'utilise pas le four durant ce temps il ne puisse pas en louer un autre, et qu'il le répare à ses frais.
+
+L'Adarve del Chapatón.
+
+Le 31/10/1479, Fernando de Segovia, jurado, fait don à son beau-frère Pedro de Escobar, fils de feu Gonzalo Rodríguez de Torrijos, jurado, de la moitié d’une maison,  à la colación de San Antolín, dans l’adarve del Chapatón, jouxtant une maison de Juan Martínez de Canderroa, une maison de … Mocejón, toute la maison étant tributaire de 450 mrs. et une paire de poules au monastère de San Clemente, et le bénéficiaire possédant déjà l’autre moitié.
+
+Le 27/05/1491, Inés Fernández de Córdoba, avec autorisation de son mari, Juan de Toledo, lencero, vend, à García de Fuensalida, toquero, et à Catalina Álvarez, sa femme, une maison, à la colación de l’église de San Marcos (sic), dans l’adarve del Chapatón, jouxtant une maison de Beatriz Vélez, une maison de Pedro Morejón, une maison de Diego Sánchez de Zamora, racionero [CH_FO_4a?]. La maison vendue lui avait été donnée par l’abbesse de Santa Isabel pour la part qu’elle avait reçue en dot d’une maison ayant appartenu à Elvira Sánchez, sa mère, femme d’Alfonso de Córdoba, son père, décédé, qui avait été mise dans le monastère de Santa Isabel. La maison vendue est tributaire au monastère de San Clemente de 450 mrs. et une paire de poules.
+
+Sur la limite des colaciones de San Antolín et San Salvador, la maison de l'évêque d'Avila, don Diego de Fuensalida, puis de García Barroso.
+
+Le 14/06/1435, à Avila, don Diego de Fuensalida, évêque de la ville, donne procuration à son proviseur, et à sa sœur, doña Mencía de Fuensalida, pour faire son testament, et spécialement pour disposer de sa moitié de Fuensalida, ainsi que de sa demeure de Tolède, située aux colaciones de San Antolín et San Salvador, jouxtant la maison de García Alvarez de Toledo, seigneur d’Oropesa, celle de Pedro Alfonso, albañil, un cellier de doña Juana Palomeque et la rue. Le 8/07/1435, le testament post mortem de l'évêque, fait par sa sœur doña Mencía de Fuensalida, veut que García Barroso, fils de celle-ci et de son mari Pedro Gómez Barroso, ait certains biens, notamment sa moitié de Fuensalida, sa maison de Tolède, aux colaciones de San Antolín et San Salvaldor, et d’autres biens, avec défense de vendre, condition de majorat et obligation de porter le nom de Fuensalida et les armes de l’évêque.
+
+La maison principale de Pedro Suárez de Toledo, seigneur de Gálvez et Jumela, à Tolède (Pedro Suárez de Toledo X, cadet de la branche des comtes d'Oropesa des Alvarez de Toledo, seigneur de Gálvez et Jumela par achat en 1466).
+
+Le 13/01/1483, Pedro Suárez de Toledo et sa femme, doña Juana de Guzmán, fondent une majorat qui comprend d'abord les villas de Gálvez et Jumela, puis leur demeure (las casas mayores de nuestra morada), qu'ils ont achetée de feu Tello de Guzmán, située à Tolède, à la colación de S. Antolín, venant ensuite une autre maison principale de leur demeure, localisée à Talavera.
+
+Le 4/04/1486, García de Cascante, au nom de Pedro Suárez de Toledo, seigneur de Gálvez, loue à Juancho de Marquina une maison appartenant au même Pedro Suárez, au dos de la maison principale de ce Pedro Suárez, dite celle de don Juan de Riberea (en las espaldas de las casas principales suyas que se disen las de don Juan de Ribera), pour deux ans à compter du 15/08/86, au prix de 700 mrs. et une paire de poules par anSanta Isabel.
+
+Il n'y a pas dans le livre des mesures de maisons du chapitre cathédral daté de 1491-1492, de rubrique correspondant à l'église Santa Isabel et à la colación du même nom.
+
+Les quartiers Nord, à dominante résidentielle, et marqués par une importane présence des couvents ou monastères.
+
+Dans les colaciones de San Nicolas, Santa Leocadia la Vieja, San Vicente, San Ginés, San Juan de la Leche, et partie de celle de San Román, on note déjà à la fin du XVe siècle une forte concentration de couvents, qui ne sont bien sûr pas décrits dans le document du chapitre cathédral daté de 1491-1492. Les possessions du chapitre, bien plus dispersées qu’en d’autres parties de la ville, se répartissent entre:
+
+

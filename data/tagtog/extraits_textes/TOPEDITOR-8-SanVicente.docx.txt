@@ -1,0 +1,316 @@
+Dans la colación de S. Vicente, on peut distinguer quatre secteurs. Le plus proche du centre de la ville, est l'Alhania, correspondant à l'actuelle Calle de la Plata, le plus éloigné, proche de la muraille intérieure, est celui où se constituent et s'étendent les monastères de Sto. Domingo el Real et de Sta. Clara. Également à la colación de S. Vicente et proche de la muraille se localise l'église de Santa Cruz, l'actuel hermitage du Cristo de la Luz, l'unique édifice d'époque islamique subsistant dans la Tolède actuelle. Au milieu se situe l'église de San Vicente,  sur la place qui porte encore son nom.
+
+L'Alhania est proche de Santa Yusta, et notamment du Mesón del Lino. On y localise en 1491 deux possessions du chapitre en 1491 (CH_KO_01 et CH_KO_02), plusieurs autres ayant dispatu dans le courant du XVe siècle. L'origine de ce nom est inconnu, bien qu'il semble provenir de l'arabe al-ḥāniyya, signifiant l'arc, ou la voûte, qui, curieuresement, n'apparaissaitt pas comme toponyme urbain dans les documents des XIIe et XIIIe siècle. Il n'est sans doute pas indifférent que l'une de ces maisons (CH_KO_02) comporte un palacio avec son alhania, la signification du terme étant là dépourvue d'obscurité. Il est clair également que les personnes en rapport avec ce secteur appartiennent à la bourgeoisie commerçante de la ville à la fin du XVe siècle, avec les noms d'Alfonso Sorje, García Rodríguez de Dueñas, Gonzalo de Acre.
+
+Le 18/10/1354, Lorenzo García, fils de García Alfonso, et sa sœur Gracia García, fille du même García Alfonso et femme d'Alfonso Fernández, fils de l'alcalde Fernand Alfonso, vendent à Urraca Alfonso, fille d'Alfonso Gómez et femme de Suer González Márquez, fils de Gonzalo Alfonso Márquez,  une bodega, avec le pressoir, la poutre, la pierre et les instruments du pressoir qui s'y trouvent, située à la colación de S. Vicente, jouxtant le Mesón de la Moneda, une maison de García Pérez de Yuncos, une maison de Fernand Pérez de Ayala, et la rue, avec les soixante jarrres à vin qui sont dans la bodega, au prix de 2.600 mrs. de la monnaie blanche, dont dix d. novenes font le mri.
+
+Le 14/01/1366, Urraca Alfonso, fille d'Alfonso Gómez et veuve de Suer González Márquez, qui était alcalde à Tolède, demeurant à la colación de S. Nicolás, vend à Inés García de Meneses, fille de don García Suárez de Meneses, dueña encerrada au monastère de Sta. María la Real de Tolède, pour ce monastère, une bodega située à la colación de S. Vicente, jouxtant le Mesón de la Moneda et une maison de la cathédrale (la Iglesia de Sta. María de Toledo), avec toutes les jarres à vin qui s'y trouvent, au prix de 2.600 mrs. de la monnaie blanche de dix d. le mri.
+
+Dans ces deux documents, la mention simultanée de la colación de S. Vicente et du Mesón de la Moneda (l'ultérieur Mesón del Lino), obligent à situer la bodega en question dans ce qui n'est pas encore appelé l'Alhania.
+
+CH_KO_01
+
+Menores, callejón de. N°5.
+
+CH_KO_01. En 1372, Sancho Gil, ou ses héritiers, tient une maison à cens chaque année pour 18 mrs.. De 1380 à 1412, les héritiers de Sancho Gil, qui sont Gil Pérez racionero et Per Alfonso, son frère, tiennent la maison pour 18 mrs. (en 1412 viejos, soit 36 mrs. desta moneda).
+
+CH_KO_01. En 1417, à l'Alhania, la maison, consistant en des almascreas, a été achetée par Juan Fernández Tamajon, de Borox, vecino de Tolède, qui doit payer chaque année à la Toussaint les 18 mrs. viejos que payaient les héritiers de Sancho Gil. Cette année là, Gonzalo Gómez, frenero, a payé, pour Juan Fernández de Tamajon, les 36 mrs. (de blancas) de ce cens
+
+CH_KO_01. En 1422, cette maison, qui est des almaçreas, a été achetée par Juan Fernández Tamajón de Borox, qui paie les 18 mrs. viejos que payaient les héritiers de Sancho Gil, soit 36 mrs. 
+
+CH_KO_01. En 1439, les almaçreas situées à l'Alhania sont tenues à cens par Juan Fernánez de Tamayo, pour 36 mrs. Elles jouxtent d'un côté une maison de Lope González, herrero, et de l'autre une maison de Pedro Rodríguez, herrero, et comportent trois cámaras. En 1443, les almaçrias situées à l'Alhania ont été données à cens par le chapitre à Juan Fernández Tamajón, demeurant à Borox, pour 18 mrs. viejos et au double de blancas .
+
+CH_KO_01. En 1442, Pedro Rodríguez de Alux, herrero, achète une almaçria, située à l'Alhanía, avec autorisation du chapitre. En 1481, ses fils et héritiers, Lope Rodríguez, cintero, et Alvar García, reconnaissent le cens, et vendent ensuite la maison. Il y a des chances que les fils soient les deux frères Lope Rodríguez, cambiador, et Alvar García, cambiador et cerero, connus par ailleurs.
+
+CH_KO_01. En 1443, des almaçreas situées à l'Alhania ont été données à cens par chapitre à Juan Fernández Tamajón, demeurant à Borox, pour 18 mrs. viejos par an, ou le double (36 mrs.) de blancas.
+
+CH_KO_01. Le 13/05/1444, les almaçerias situées al Alhania, que tenait Juan González de Tamayo, ont été données à cens à Pedro Rodríguez Alux, pour 36 mrs. courants. 
+
+CH_KO_01. Le 1/06/1481, Lope Rodríguez, cintero, et Alvar García, son frère, fils et héritiers de Pedro Rodríguez, ont fait reconnaissance, et le 31/12/1481, le chapitre les a autorisé à vendre ces almaçrias à Gonzalo de Acre, mercador, qui a fait reconnaissance
+
+CH_KO_01. En 1491, la maison qu'avait tenue Fernando de Tamayo et ensuite Juan Gutiérrez de Tamayo et maintenant Gonzalo de Acre, au prix de 36 mrs. par an à jamais, jouxte d'un côté une maison de Juan, especiero, e de l'autre une maison du même Gonzalo de Acre, tenue de Santa Yusta.
+
+CH_KO_01. En 1496, ces casas almaçrias restent à Gonzalo de Acre, mercador, qui a fait reconnaissance des 36 mrs. de cens
+
+CH_KO_01_1439
+
+OF 356bis 
+
+Las almaçreas que son al alhania tienelas Juan ferrandes de tamayo çenso por treynta e seys maravedis.
+
+En postrimero de Junio Año de 1439 Años fueron deslindadas estas almascreas por Juan dias rraçionero e mayordomo de la eglesia de toledo. Et han por linderos de la una parte casas de lopes gonçales ferrero e de la otra parte casas de pero rrodrigues ferrero e tienen en la entrada un portal que ha en luengo tres varas e media e en ancho dos varas. Et ensomo tiene una camara que ha en luengo ocho varas e media e en ancho tres varas e media. Et çerca della esta otra camara que ha en luengo onze varas e terçia e en ancho dos varas e media. Et ensomo una camara que ha en luengo quatro varas e en ancho tres varas. Testigos diego garçia e alvaro de avila Capellanes.
+
+(firmado) Ludovicus Luppi apostolico e ordinario notario. 
+
+CH_KO_01_1492
+
+OF 356 
+
+Las casas que solia tener Ferrando de Tamayo e despues las ovo Juan Gutierres de Tamayo e agora las tiene Gonçalo d’Acre por presçio de treynta e seys mrs. en cada un anno para sienpre jamas, que han por linderos de la una parte casas de Juan espeçiero e de la otra casas del mismo Gonçalo d’Acre que tiene de Santa Yusta.
+
+ En tres dias de março del dicho anno de noventa e un annos los venerables sennores Cristoval de Villaminaya e Alvar Peres /f° 55 v°/ de Montemayor canonigos e vesitadores de las posisiones de la santa yglesia de Toledo deslindaron estas casas e tienen en la entrada un portal que ha en luengo tres varas e media e en ancho dos varas e ensomo tiene una camara que ha en luengo ocho varas e media e en ancho tres varas e media e çerca della esta otra camara que ha en luengo honse varas e terçia e en ancho dos varas e media e ensomo una camara que ha en luengo quatro varas e en ancho tres varas. De que fueron testigos Diego de Obregon e Françisco de Narbaes criados del dicho sennor Alvar Peres e Ferrando de Sant Marcos. (signé) Juan de Mayorga notario apostolico.
+
+CH_KO_02
+
+Plata, calle de la. N°15.
+
+CH_KO_02?. En 1372, Pedro Asar tient la maison que tenait précédemment Martín García, pour deux ans depuis le 15/8/1370, chaque année pour 130 mrs.
+
+CH_KO_02. Le 26/07/1374, le chapitre baille à Pedro González, clérigo de Magán, une maison située à l'Alhania, jouxtant une maison des héritiers de Juan de Yuas (?) et une maison de … (blanc), pour sa vie à partir du 15/08 suivant, pour 90 mrs. par an de la monnaie usuelle, dont 10 d. novenes font le mri., avec obligation de réparer tout ce qui sera nécessaire dans l'année, de tenir et laisser la maison bien réparée, et la caution du chanoine Nuño Díaz.
+
+CH_KO_02. En 1380, Pedro González, clérigo de Magán, tient une maison, perpetuas, chaque année pour 90 mrs.
+
+CH_KO_02. Le 15/07/1384, le chapitre baille à Juan Martínez maestro, racionero de l'Église de Tolède, une maison située colación de San Vicente, près du Mesón de la Moneda, précédemment tenue par Ferrand Alfonso de Palencia et jouxtant d'une part une maison des enfants de Sancho Díaz et de l'autre une bodega d'Alfonso Pérez Mozárabe, et la rue, pour sa vie, à raison de 96 mrs. de la monnaie usuelle, dont 10 d. novenes font un mri., avec obligation de réparer la maison dans un délai d'une année à compter du 15/08/1384, et pour caution Alfonso Pérez de Madrid, racionero. On sait que le Mesón de la Moneda du XIVe siècle correspond au Mesón del Lino du suivant.
+
+CH_KO_02. En 1391, la maison précédemment tenue par Ferrand Alfonso, clérigo d'Illescas, est tenue par Juan Martínez racionero, perpetuas, depuis le 15/8/1384, chaque année pour 96 mrs.
+
+CH_KO_02. Le 29/11/1390, le chapitre cathédral baille à Alfonso Díaz, fils de (blanc) et neveu d'Alfonso García racionero de l'Église de Tolède, une maison située à la colación de (blanc), précédemment tenue par Juan Martínez maestro, racionero, pour sa vie, à raison de 100 mrs. de vieille monnaie, à partir du 15/08/1391, premier paiement au 1/1/1392, perpetuas e por reparadas, avec la caution de son frère, Juan Díaz.  
+
+CH_KO_02. En 1396, la maison que tenait Juan Martínez, racionero, a été prise par Alfonso Díaz, neveu d'Alfonso García, racionero, pour 100 mrs. de vieille monnaie par an, depuis le 15/08/1391
+
+CH_KO_02. En 1401, la maison reste tenue par Alfonso Díaz, neveu du racionero Alfonso García, pour 100 mrs. de vieille monnaie par an, depuis le 15/8/1391.
+
+CH_KO_02. Le 7/10/1404, le chapitre cathédral baille à Pedro Díaz et Gonzalo Díaz, fils de Juan Díaz Abençul, lenceros, et à leurs femmes Constanza Díaz et María Díaz, une maison située à la colación de San Vicente, près de l'Alhania, dont a fait abandon au chapitre Alfonso Díaz, neveu d'Alfonso García, qui fut refitorero de l'Église de Tolède, à partir du 15/8/1405,  chaque année pour 150 mrs. de vieille monnaie à un real pour 3 mrs. et le florin à 22 mrs. viejos, ou leur vraie valeur.
+
+CH_KO_02. En 1412, Pedro Díaz, et sa femme, Costanza Díaz, et Gonzalo Díaz, fils de Juan Díaz Abengil, et sa femme María Díaz, tiennent perpétuellement la maison située à la colación de S. Vicente, à l'Alhania, précédemment tenue par Alfonso Díaz, neveu d'Alfonso García, pour 150 mrs. de vieille monnaie, soit 300 mrs. de blancas.
+
+CH_KO_02. En 1417, Pedro Díaz et sa femme, Costanza Díaz, et Gonzalo Díaz, fils de Juan Díaz Abengil, lenceros, et María Díaz, femme de Gonzalo Díaz, tiennent perpetuamente la maison située à la colación de S. Vicente, à l'Alhania, précédemment tenue par Alfonso Díaz, au prix de 150 mrs. viejos par an, en comptant le real d'argent à 3 mrs. viejos et le florin à 22 mrs. viejos, ou à leur vraie valeur, depuis le 15/08/1406. Cette année là Pedro Díaz a payé les 300 mrs. (de blancas). 
+
+CH_KO_02. En 1422, comme en 1417, mais les 300 mrs. sont payés par García Fernández, armero, pour Pedro Díaz.
+
+CH_KO_02. Le 14/11/1430, le chapitre baille à Esteban Fernández, fils de Pedro Díaz lencero, et à Mayor Díaz, sa femme, une maison située à la colación de San Vicente, à l'Alhania, précédemment tenue par García Fernández armero, décédé (dans le titre: que tenait la fille de García Fernández, el armero), jouxtant une maison de Ferrand González Husillo, une maison de Juan González, almoxarife, tenue à cens par le même Esteban Fernández et la rue, pour la vie des deux, 450 mrs. de vieille monnaie ou le double de blancas, avec pour caution Gonzalo, frère d'Esteban Fernández, Graviel Rodríguez procurador et Juan Fernández de la Cota. Le 16 juin 1432, Esteban Fernández donne comme garant, à la place de Graviel Rodrígues, décédé, Gonzalo Díaz joyero.
+
+CH_KO_02. En 1439, la maison que tenait auparavant Pedro Díaz, lencero, l'est désormais par Esteban Fernández, lencero, au prix de 900 mrs., depuis le 14/11/1430. Elle jouxte une maison de Diego Díaz, sastre, et une maison de Juan Husillo.
+
+CH_KO_02. En 1443, la maison que tenait Pedro Díaz, lencero, a été baillée, perpetuas e por reparadas, le 14/11/1430, à Esteban Fernández, lencero, et Mayor González, sa femme, au prix de 450 mrs. viejos par an, ou le double (900 mrs.) de blancas, avec la caution de Juan Fernández de la Cota et de Gonzalo, frère du même Esteban Fernández.
+
+CH_KO_02. En 1450, la maison précédemment tenue par Pedro Díaz, lencero, a été donnée, le 27/06/1432, à Esteban Fernández, lencero, pour sa vie et celle de sa femme, Mayor González, pour 900 mrs. par an, avec la caution de son frère, Gonzalo.
+
+CH_KO_02. Le 26/09/1460, le chapitre cathédral baille à Alfonso Alvarez Sorje, sedero, fils de Pedro González Sorje, et à sa femme, Mayor Álvarez, une maison située à la colación de San (blanc), jouxtant d'une part une maison de Juan González Husillo, jurado de Tolède, et de l'autre la rue, dont Esteban Fernández, lencero, et sa femme ont fait abandon, pour la vie des deux et d'un fils ou d'une fille, 950 mrs. de la monnaie à courir et une paire de poules par an, avec la caution de Francisco González, sedero, et de Fernando Díaz, fils d'Alfonso Díaz boticario, vecinos de Tolède.
+
+CH_KO_02. Le 23/04/1467, le chapitre cathédral baille la maison dont Alfonso Sorje et sa femme ont fait abandon, à García Rodríguez de Dueñas, trapero, et à sa femme, Leonor Rodríguez, pour la vie des deux et d'un fils ou d'une fille, pour 950 mrs. et quatre paires de poules par an, avec la caution de Gonzalo López Habacel, vecino de Tolède. Le 28/11/1470 est entré  comme caution, Juan de Toledo, escribano del rey et escrivano de mostrar moços a escrivir, et le 24/04/1471, Luis de … texillero, à la place de Gonzoalo López Habacel.
+
+CH_KO_02. Le 23/12/1488, Juan Alvarez de Dueñas, fils de García Rodríguez de Dueñas, défunt, dit que son père et Leonor Rodríguez, sa mère, avaient pris du chapitre en perpetuo une maison située à l'Alhania, à la colación de S. Vicente, pour leur vie et celle d'un fils ou d'une fille, au prix de 950 mrs. et quatre paires de poules par an, par un contrat en date du 23/04/1467. Son père étant décédé, il entre dans ce contrat.
+
+CH_KO_02. En 1491, la maison précédemment tenue par Esteban Fernández, lencero, puis par Alfonso Sorje, est tenue par Leonor Rodríguez, femme de García Rodríguez de Dueñas, pour sa vie et celle d'un fils ou d'une fille, à désigner par elle, pour 950 mrs. et quatre paires de poules par an de tributo. Elle jouxte d'un côté Alfonso de la Rúa et de l'autre Fernando, sedero.
+
+CH_KO_02. En 1496, la maison reste au nom de Leonor Rodríguez, femme de García Rodríguez de Dueñas. Le 23/12/1483 (sic), à la place de García Rodríguez, décédé, est entré comme caution son fils, Juan Alvarez de Dueñas
+
+CH_KO_02. Le 4/08/1503, le chapitre baille à Alfonso Núñez, mercador, fils de feu Juan Núñez de Madrid, joyero, et à son frère Andrés Núñez, comme caution, une maison située à la colación de San Vicente dans la rue dite de l'Alhania, (confronts en blanc), précédemment tenue a perpetuo par Leonor Rodríguez, femme de García Rodríguez de Dueñas, et dont elle a fait abandon en faveur de cet Alfonso Núñez, pour sa vie et d'un fils ou d'une fille, à nommer dans les trois ans, pour 900 mrs. par an. 
+
+CH_KO_02_1492
+
+OF 356 
+
+Las casas que solia tener Estevan Ferrandes lençero e despues las ovo Alfon Sorje e agora las tiene Leonor Rodrigues muger de Garçi Rodrigues de Duennas por su vida e de un fijo o fija qual ella nonbrare, paga de tributo nueveçientos e çinquenta mrs. e quatro pares de gallinas en cada anno, que ha por linderos de la una parte Alfon de la Rua e de la otra Ferrando sedero.
+
+En tres dias de março del dicho anno de noventa e un annos los venerables sennores Cristoval de Villaminaya e Alvar Peres de Montemayor canonigos e vesitadores de las posisiones de la santa yglesia de Toledo deslindaron estas casas e tienen en la entrada un portal que ha en luengo quatro varas e en ancho dos varas e adelante esta un patin e a la mano derecha del esta una quadra que ha en luengo quatro varas e quarta e en ancho tres varas e terçia e debaxo un sotano de su tamanno con su puerta a la calle e ensomo desta quadra e de la entrada e de la alhania del palaçio estan dos suelos uno sobre otro de su tamanno e a la mano ysquierda esta un palaçio con su alhania que ha en lunego dies varas e en ancho tres varas e frontero esta otro palaçio que ha en lunego nueve varas e en ancho tres e media e ensomo una camara de su tamanno e debaxo un sotano de su tamanno e a la mano derecha esta un portal que ha en luengo quatro varas e en ancho dos varas e ensomo dos suelos uno sobre otro de su tamanno. Que fueron testigos Diego de Obregon e Françisco de Narbaes criados del dicho sennor Alvar Peres e Ferrando de Sant Marcos. (signé) Juan de Mayorga notario apostolico.
+
+L'Adarve de Oliveros, puis la Calle de los Husillos.
+
+On rencontre, durant une partie du XVe siècle, une ruelle dite adarve de Oliveros, auparavant désignée seulement, à la fin du XIVe siècle comme l'adarve où demeure l'escribano Juan Martínez, et qui devient, au début du XVIe, l'adarve, ou la calle, de los Husillos. 
+
+Le 6/04/1364, Fernand Pérez, fils de Juan Pérez Alcoholado, et mari de Catalina Fernández, demeurant à la colación de S. Vicente, vend, au prix de 1.350 mrs. de la monnaie blanche de dix d. le mri., à Juan Martínez, escribano à Tolède, fils de Martín Varón, et à Leonor Martínez, sa femme, demeurant à la même colación, une bodega située dans cette colación, jouxtant une maison de Fernand Alfonso, pedrero, et de Catalina Martínez, sa femme, le four de Sancho Gil, une maison de Diego Fernández, odrero, une maison qui avait appartenu à Diego Alfonso Asturiano, et la rue, qu'il avait eue en héritage de son père, dans le partage avec ses frères.
+
+San Vicente p 236 La casas linda con otras de Joan Alvarez de los pleitos y con otra pequeña del Mariscal Payo Barroso de Ribera  que venia frontero de sus casas principales  y por otra parte  con las calles real  la una y que va digo hera una plazuela de donde estaban las puertas principales  de dicha casas y la otra hiva de la dicha plazuela hacia la iglesia de san Vicente  y la otra  calle hacia el monasterio de santa clara y a la pz del mariscal las cuales …. 3000mrs a Bernaldo de Vargas
+
+Hacia esquina a la mano izquierda para bajar a San Vicente y las ventanas cahian a la plazuela de Sr Pedro Ribera. 
+
+… y con dos puertas en frente la puerta falsa de la iglesia de San Vicente 
+
+En cuya plazuela hay tres casas  la de en medio tiene un jardincito 
+
+La de la izquierda es de Sta Maria la Blanca en San Pedro Martir
+
+Y la dell ada derecho que hace esquina para bajar a la puerta falsa a San Vicente. 
+
+Becerro de SDR
+
+Siglo XVI
+
+p. 499 Doña Sancha Ponce de Leon
+
+“… casa que son en esta ciudad en la collacion de San Vicente en la… calle de los usillos que va mesón del lino, las cuales dichas casas tiene juan garcia mercador y teresa Fernández su mujer et han por lindero de la una parte casas de fernando Núñez mercador tributario del dicho monasterio y de la otra parte casas de ferrando de Santa Maria que fueron de diego paez y la dicha calle real los cuales…”
+
+Becerro de SDR
+
+Siglo XVI
+
+Fol. 382r: Sant Viçente.
+
+Doña sancha ponçe de leon.
+
+Item mill e quinientos maravedis de çenso e tributo ynphiteosyn en cada un año para siempre jamas sobre unas casas que son en esta çibdad de toledo en la collaçion de la eglesia de sant viçente e detras de la dicha eglesia de sant viçente que Alindan con casas de herederos de Ruy dias de la fuente que dios aya e de la una parte donde estan las puertas prinçipales de las dichas casas con una calle Real que va de la dicha eglesia de sant viçente fasya el cobertiço de la quadra de las casas del mariscal payo barroso de Ribera e de la otra parte con una calle Real que sube de la dicha calle e va entre estas dichas casas e la plaça del dicho señor mariscal, las quales estas dichas casas son de gonçalo de sant pedro mercador fijo del Jurado iohan de sant pedro e de guiomar de la fuente su muger vesinos de toledo los quales Impusieron e vendieron sobre las dichas casas los dichos mill e quinientos maravedis de tributo a la señora soror doña sancha ponçe de leon monja profesa del dicho monesterio e por Rason della al dicho monesterio por 30.000 maravedis... 17 dias de Junio año de 1486 años.
+
+Las escripturas e titulos que Ay desta posesyon.
+
+Estas dichas casas ovieron por Rason de çiertas herençias la meytad elvyra Nuñez muger de Rodrigo de la torre que dios aya e la otra meytad mari ortiz muger de Alfonso de horosco vesynos de toledo et los dichos Alfonso de horosco e mari ortiz su muger vendieron su meytad que tenyan de las dichas casas con cargo de la meytad del dicho tributo a gonçalo de la torre e a garçia de la torre su hermano fijos de los dichos Rodrigo de la torre e elvyra Nuñez su muger vezinos de toledo por sesenta e ocho mill maravedis... 1512 años...
+
+En toledo diez dias del mes de diziembre Año de mill e quinientos e quarenta e quatro años elvira ortiz muger de gonçalo de la torre que posee estas casas de suso contenidas hizo Reconoçimiento por estos mill e quinientos maravedis de tributo pagados por terçios...
+
+Fol. 384r: Sant Viçente.
+
+Doña Sancha ponçe de leon.
+
+Item mill e quinientos maravedis de çenso e tributo ynphiteosyn en cada un año para siempre jamas sobre unas casas que son en esta dicha çibdad de toledo en la collaçion de la eglesia de sant viçente en la calle que disen de los usyllos que va fasya el meson del Lino las quales dichas casas tiene Juan garçia mercador e theresa fernandez su muger e han por linderos de la una parte casas de ferrando Nuñes mercador tributarias al dicho monesterio e de la otra parte casas de ferrando de santa maria que fueron de diego paez e la dicha calle Real los quales dichos mill e quinientos maravedis de tributo son de la señora soror doña sancha ponçe de leon monja profesa del dicho monesterio et gelos dieron en troque a la dicha señora doña sancha e al dicho monesterio Alfonso fernandez mercador e beatriz diaz su muger vezinos de toledo por otros mill e quinientos maravedis de tributo que la dicha señor doña sancha e el dicho monesterio tenian sobre unas casas de los dichos alfonso fernandez e beatriz diaz su muger en la dicha collaçion de sant viçente las quales se avian conprado de martin gonçales hanar? mercador vezino de toledo e de teresa ferrandes su muger por 34.000 maravedis... 1529 años.
+
+
+Fol. 378r: Sant Viçente.
+
+Ynes alonso se ayala.
+
+Otras casas en esta dicha çibdad de toledo en la dicha collaçion de sant viçente frontero de la eglesia del dicho monesterio al esquina de la plaça que esta delante de la dicha eglesia del dicho monesterio e alindan de la una parte con las dichas casas escriptas desta otra parte que tienen los confesores del monesterio e de la otra parte alindan con la dicha plaça que esta delante de la dicha eglesia del monesterio e de la otra parte con la calle Real que va de la dicha plaça de la eglesia fasya las tendillas de sancho mynayas e estas dichas casas tienen un trascorral que se manda por la camara de la dichas casas frontera el qual dicho trascorral tiene su puerta que sale a la dicha calle que va fasya las tendillas de sancho mynayas e alinda el hastial del dicho trascorral con casas de iohan gutierres guerrero alvañil tributarias a lope de acre e a iohan de acre su hermano el suelo de las quales dichas casas del dicho Juan gutierres solia ser de unas casas de iohan gudiel de las Ruelas, estas dichas casas quedaron al monesterio de la señora ynes alonso de ayala... et tienen estas dichas casas los padres confesores del monesterio e estan metidas con las otras dichas casas que tiene que estan escriptas desta otra parte e tienen en estas casas su Refitor e aunque estan las puertas por la parte de la calle tienenlas çerradas por partes de dentro con un ataybique de ladrillo y yeso.
+
+Las escripturas e titulos que se hallaron e se cree ser desta posesyon.
+
+Una carta en pergamino de como ferrando de sant pedro criado de Ruy sanches çapata en nonbre de doña mençia de ayala e de doña teresa de ayala su hermana fijas de diego lopes de ayala e por poderes que dellas tienen que estan ende encorporadas vendio a maestre hamete caracacho albañil e a doña xeaçi su muger moros unas casas en toledo en la collaçion de sant viçente que fueron de don mahomed que se tienen con casas de iohan gudiel de las Ruelas e con la calle del Rey por 25.000 maravedis fecha a 24 dias de febrero año de 1411 años firmada de escrivano publico.
+
+Otra carta en pergamino de como maestre abdalla ferrador e doña fatima su muger fija de maestre hamete caracacho moros vendieron a doña ynes de torres criada e donzella de nuestra señora la Reyna doña catalina unas casas en toledo en la collaçion de sant viçente enfrente de santo domingo el Real que alindan con casas de Juan gudiel de las Ruelas e con las calles Reales por 14.000 maravedis fecha a 21 dias de agosto año de 1424 años signada de iohan lopes de toledo...
+
+(En otra letra) Esta unida con la anterior en que vive el Mayordomo.
+
+Becerro de SDR
+
+Siglo XVI
+
+f.163
+
+Casa enfrente de la yglesia contigua a la de los padres .
+
+Tiene este convento otra cosa, que esta enfrente de sus yglesia , que alinda con la casa de los padres confesores por una parte, y por la otra con el convento de Santa Clara, esta arrendada este año de [1]746 en 150 reales.
+
+SD_ BK_101_1460 
+
+SD_101, ANH Clero, Libro 15118
+
+Medidas de casas de Santo Domingo el Real de Toledo (1460)
+
+/f° 34 r°/Yten otras casas en la dicha collaçion de Sant Viçente, frontero de la yglesia del dicho monesterio de Santo Domingo el Real, que alindan con el monesterio de Santa Clara e con otras casas del dicho monesterio do moran los confesores, en la plaça que es ante la dicha yglesia, las quales casas tyene perpetuas Pero Martines de Orgas panadero por quinientos mrs. e un par de gallinas cada anno, en las quales dichas casas ay en el hueco dellas de pared a pared con los palaçios desde la puerta fasta la pared de dentro del palaçio frontero dose varas e quarta e desde la pared del portal que es la pared que alinda con Santa Clara fasta la pared de dentro del palaçio de la mano derecha dies varas e esta casa e los portales della estan doblados de camaras e su altura fasta el çielo. Yten por la camara de ençima del palaçio frontero se manda un trascorral que es de las dichas casas, que alinda con otro trascorral de las dichas casas de los confesores e con trascorral de Santa Clara e van confrontar con corral de Johan Gonçales Bueno [?] sedero e ay en el en luengo treynta varas e media e en ancho siete varas e tres quartas.	d  ¯.   ii
+
+ Fol 318
+
+Casa donde vive el mayordomo del Convento estas dos casa son unidas ahora. 
+
+SD_ BK_102 _1460 
+
+SD_102, ANH Clero, Libro 15118
+
+Medidas de casas de Santo Domingo el Real de Toledo (1460)
+
+Yten otras casas en linde destas que alindan con las suso dichas e con otras casas del dicho monesterio, en las quales moran los confesores del dicho monesterio e son frontero de la eglesia del dicho monesterio, en las quales ay de hueco desde la puerta fasta la pared frontero de dentro del palaçio frontero dose varas e desde la otra pared del portal fasta la pared de dentro del otro palaçio de a mano derecha honse varas e quarta, e estas casas estan dobladas de sus camaras e portales segund lo de yuso e tyenen mas estas dichas casas un trascorral que se manda por la camara de ençima del palaçio frontero, en el qual ay de luengo veynte e quatro varas e media e de ancho siete vars e en esta largura entrando a pared frontera do esta una puerta que fase atajo para el callejon e llega en esta largura fasta confrentar con la pared de las casas de Juan Gonçales Bueno sedero.	[rien en marge]
+
+En 1460, le monastère de Sto. Domingo el Real possède une maison jouxtant celle où demeure les confesores, en face de l'église du monasère, jouxtant également la rue qui monte à la maison qui fut de Juan Carrillo de Mondéjar, et appartient également au monastère, avec notamment un trascorral qui arrive en face du corral de Diego de Acre.
+
+On a vu que la maison de Juan Carrillo de Mondéjar, située à la colación de San Román, ou à celle de Sta Leocadia la Vieja, s'est trouvée, après diverses vicissitudes, achetée en 1459 par la prieure de Santo Domingo el Real et ainsi annexée au monastère.
+
+SD_ BK_103_1460 
+
+SD_103, ANH Clero, Libro 15118
+
+Medidas de casas de Santo Domingo el Real de Toledo (1460)
+
+Yten otras casas en linde de las suso dichas, frontero de la dicha eglesia del dicho monesterio, que alindan de la otra parte con la calle que sale arriba a las casas que fueron de/f° 34 v°/Iohan Carrillo de Mondejar que son del dicho monesterio en las quales dichas casas ay de hueco desde la puerta fasta la pared de dentro del palaçio frontero dose varas e terçia de lunego e de ancho desde la pared del portal fasta la pared de dentro de otro palaçio de a man derecha honse varas e estan estas casas dobladas ençima de sus camaras, los palaçio e los portales doblados. E dentro de la camara del palaçio frontero destas dichas casas esta un trascorral que llega fasta afrontar con corral de Diego de Acre [?], en el qual dicho corral ay de luengo veynte e çinco varas e media e de ancho nueve varas e çinco seysmas e este dicho trascorral tiene una puerta que sale a la dicha calle de arriba fasya las dichas casas que fueron del dicho Johan Carrillo de Mondejar.	[rien en marge]
+
+Le 7/03/1399, doña Leonor de Guzmán,  femme de Pedro López de Ayala, canciller mayor du roi, fait donation au monastère de Sta. Clara de corrales situés près de ce monastère, qu'elle a reçus en héritage de don Juan Ramírez de Guzmán, son aïeul, défunt, jouxtant une maisonde Gómez Fernández de Deza, lieutenant du prieur de S. Juan, une maison de Hamete, moro, el del lunarejo, une maison de Pedro González, clérigo de Sta. Yusta, une maison de don Remón, el Romo, une maison de Pedro Carrillo, alguacil mayor de Tolède, une maison de Gutierre Fernández, racionero, les corrales de Sto. Domingo et le monastère de Sta. Clara. Suit, présentée le 3/04/1399, l'approbation donnée par le chancelier et son fils et sa fille, Pedro López el mozo et doña Elvira.
+
+Le 14/09/1408, doña Mencía de Horozco, fille d'Iñigo López de Horozco, vend au monastère de Sta. Clara de Tolède, une maison située à la colación de S. Vicente, jouxtant d'une part une maison et des corrales de ce monastère, de l'autre une maison de Martín González, trapero, de l'autre une maison de l'adelantado Per Afán, et la plaça, au prix de 900 florins d'or d'Aragon, par un acte fait à Guadalajara.
+
+Le 2/01/1410 est ouvert le testament de Francisca Gudiel de Cervatos, fille de Gudiel Alfonso de Cervatos et de doña Sancha Fernández de Villegas, et veuve de García López de las Roelas, qui avait été alguacil mayor de Tolède, contenant une clause disant qu'avec l'accord de Juan Gudiel, son fils, elle a fait donation de ses casas mayores à García, son petit-fils, fils du même Juan Gudiel.
+
+La maison de Tel Fernández de Toledo, à la colación de S. Vicente.
+
+Le 7/10/1375, Tel Fernández de Toledo, fils de Fernand Vicente de Toledo et de Teresa García de Meneses sa femme, par son testament et codicile, fait à Palencia, confirme la donation qu'il a faite à Tello, son fils et celui de Teresa Alfonso sa (seconde) femme, de la maison et de la bodega situées à Tolède, à la colación de S. Vicente, qui étaient  connues comme celles de sa demeure, avec toutes leurs appartenances, ainsi qu'il est contenu dans l'acte de donation signé par les escribanos de Tolède.
+
+La maison de Per Afán de Ribera, adelantado mayor d'Andalousie, à la colación de S. Vicente.
+
+Le 6/10/1416, Per Afán de Ribera, adelantado mayor de la frontera, et sa femme, doña Aldonza de Ayala,  donnent à Beatriz de Ribera, fille de Ruy López de Ribera et petite-fille du même adelantado, religieuse à Sto. Domingo el Real, une maison située à la colación de S. Vicente,  jouxtant une maison de Sto. Domingo el Real, une maison du monastère de Sta. Clara, et la rue, avec pour condition qu'elle vive, honnêtement et au servide de Dieu, dans ce monastère, ou dans un autre de l'ordre de saint Dominique. Lors de la prise de possession, on trouve dans la maison Juan González, barbero, fils d'Alfonso Fernández,  dans un palacio où il dit habiter en location (por su alquiley).
+
+Le 10/10/1423, Juan Gudiel de las Roelas, regidor de Tolède, déclare qu'environ trois ans plus tôt Per Afán de Ribera, adelantado mayor d'Andalousie et doña Aldonza de Ayala, sa femme, avaient dénoncé certains travaux qu'il avait commencé de faire à la porte de sa demeure, à la colación de S. Vicente, jouxtant la demeure de l'adelantado et de doña Aldonza, et les rues.
+
+Le 15/06/1407, Sœur María Meléndez, fille de Sancho Ochoa, religieuse à Sto. Domingo el Real, donne à cens à Maestre Hamete, albañil, fils de Maestre Aly Caracacho, et à Xançi, sa femme, moros, moradores à Tolède,  une maison, avec le corral attenant, située à la colación de S. Vicente et jouxtant une maison de Juan García de Villavicence, une maison de Juan García, foms de Vicente García, une maison de Juan González, recuero, et les rues, maison qui avait été achetée par Sœur Teresa, et adjugée à celle-ci par l'alcalde ordinaire, et dont elle lui a fait donation, au prix de 280 mrs. par an de la monnaie qui sera en usage.
+
+Becerro de SDR
+
+Siglo XVI
+
+Las escripturas e titulos que Ay desta posesyon.
+
+... otras dos cartas en pergamino de como soror mari melendes fija de sancho ochoa soror en el monesterio de santo domingo el Real de toledo con liçençia de la señora priora doña teresa de ayala dio a çenso ynphiteosyn A maestre hamete alvañil fijo de maestre ali caracacho e a doña xeuçi? su muger las dichas casas corral por 280 maravedis cada año de la moneda que se usare las quales casas corral fueron Rematadas en soror doña teresa e la fiso graçia e donaçion della fecha a 15 dias de Junio de 1414 años. Firmada de escrivano publico.
+
+... soror mari melendes con liçençia de la señora priora doña teresa de ayala dio a çenso para siempre jamas a diego lopes chapinero e a constança lopes su muger estas dichas casas por 370 maravedis cada año. Fecha a 14 dias de Noviembre año de 1414 años...
+
+... la señora doña catalina priora dio a çenso... a diego lopes de orgas trapero estas dichas casas por 400 maravedis... 1452 años...
+
+Otra carta en pergamino de como por mandamiento de gonçalo alonso allcalde en toledo fue fecha partiçion de las dichas casas entre la señora doña teresa de ayala que desyan teresa çinalla porque avyan sydo Rematadas en ella las dichas casas entre iohan fijo de iohan garçia de viçente... 1497 años...
+
+Le 24/02/1411, Fernando de San Pedro, criado de Ruy Sánchez Zapata, au nom de doña Mencía de Ayala, femme de ce Ruy Sánchez et fille de feu Diego López de Ayala, et en celui de doña Teresa de Ayala, veuve de Ruy López de Ribera et fille du même Diego López, vend à Maestre Hamete Caracacho, albañil, et à sa femme, doña Xançy, moros demeurant à Tolède, une maison située à la colación de S. Vicente, qui avait appartenu à don Mahomad, jouxtant une maison de Juan Gudiel de las Roelas et la rue, au prix de 20.000 mrs. de la monnaie usuelle. La procuration donnée par doña Mencía de Ayala, faite à Barajas, le 7/03/1410, dit que la maison à vendre jouxte une maison qui avait appartenu à Gonzalo Alvarez Corvillo, et d'un autre côté une maison de Juan González, lencero, et la rue
+
+Le 21/08/1424, Maetre Abdalla, herrador, fils de Maestre Abrahen, et doña Fátima, sa femme, fille de Maestre Hamete Caracacho, moros demeurant à Tolède, vendent à doña Inés de Torres, criada et doncella de la reine défunte doña Catalina, une maison située à la colación de S. Vicente, en face de Sto. Domingo el Real, jouxtant une maison de Juan Gudiel de las Roelas et les rues sur deux côtés, maison qui avait appartenu à don Mahomad, alcalde, et ensuite à Maestre Hamete Caracacho, au prix de 14.000 mrs.
+
+Becerro de SDR
+
+Siglo XVI
+
+p. 450
+
+“Ynes de Ayala
+
+unas casas en esta ciudad de Toledo en la dicha collación de San Vicente, frontero de iglesia del dicho monasterio al esquina de la plaça que esta delante de la iglesia del monasterio e alinda de la una parte casas que tiene un trascorral que tiene puerta  a la calle que va hacia las tendillas de sancho minaya a alinda a la espalda con el dicho trascorral con casas johan guttierez guerrero albanil tributario a lope de Acre…”
+
+“como maestre abdalla ferredor e doña  fatima su mujer hija de maestre hamete caracache moro vendieron a doña ines de Torre criada et donzella de Nuestra Señora doña catalina unas casas en la dicha collación de San Vicente en frente de la iglesia   1424
+
+casa fueron de don mohamed que se tiene con casa de J. Gudiel de la Roa y con la calle del rey  2500mrs. …”
+
+Le 23/08/1408, Gil Pérez, fils de Sancho Gil, bachelier en décrets, racionero de la cathédrale, demeurant à la colación de S. Vicente, lègue, par son testament, à son frère, Pedro Alfonso, fils du même Sancho Gil, sa moitié de la bodega que tous deux possèdent à la colación de S. Vicente, jouxtant une maison de Juan González, cerero, et la rue, avec pour condition que cette moitié reste aux enfants de Pedro Alfonso, et à défaut d'enfants légitimes de celui-ci aux clers de l'église de Sta. Yusta de los mozárabes de Tolède, avec la condtion qu'ils ne puissent pas vendre, mais soient tenus de faire deux anniversaires par an, pour les âmes d'Urraca Alfonso, sa mère, et de Sancho Gil.
+
+Le 14/11/1414, María Meléndez, fille de Sancho Choa et de sa femme, Urraca Gudiel, professe à Dto. Domingo el Real, donne à cens à Diego López, chapinero de la reine de Castille, et à Costanza López, sa femme, une maison située à la colación de S. Vicente,  jouxtant une maison de Juan Gudiel de las Roelas, une maison de Juan García de Villavicencia, une maison de Juan Martínez Abencabal, et la rue, au prix de 370 mrs. de la monnaie à courir.
+
+En 1429, ou 1430, Diego de Narváez, curé de S. Nicolás, administrateur de la chapelle de don Pedro Tenorio, baille, au nom de la chapelle, à Juan González Castellano, joyero, et Costanza López, sa femme, une maison située à la colación de S. Vicente, qui avait appartenu à Fernand Sánchez Dateapaz, beato, jouxtant d'une part une maison du monastère de Sta. Clara et de l'autre une maison de Juan de Esquivias, herrero, qui appartient maintenant à l'Œuvre de l'Église de Tolède, et la rue, pour la vie des deux et d'une fils ou d'une fille, au prix de 720 mrs. de la monnaie à courir.
+
+La maison de Fernand Alvarez de Toledo, seigneur de Pinto et Higares, puis de Pedro Suárez de Toledo, seigneur de Pinto, et l'hôpital de S. Antón, à la colación de S. Vicente.
+
+Le 1/10/1422, Fernand Alvarez de Toledo, fils de Fernand Alvarez de Toledo, seigneur de Valdecorneja, vecino de Tolède, et Urraca González de Cervatos, fille de Juan Alfonso Cervatos, et veuve de Velasco Velázquez, seigneur de Velada, vecina de Tolède, procèdent à un échange par lequel la seconde donne au premier, la maison, avec ses corrales et trascorrales, qu'elle possède à la colación de S. Vicente, jouxtant une maison de Fernand González, platero, une maison de Maestre Mahomad, especiero, et de sa sœur doña Habibo, une maison de Maestre Haziz, herrero, une maison de Juan Fernández Tamajón, et de l'autre côté une  maison de Maestre Abdalla Maguac et une maison de Fernand González, mercador, fils de García Suárez, par derrière une maison d'Aldonza Rodríguez Malaver et l'hôpital  de S. Antón, et sur le devant la place avec la porte princiale de la maison, estimée à 2.500 florins.
+
+Le 25/07/1438, Fernand Alvarez de Toledo, fils du seigneur de Valdecorneja, don Fernand Alvarez de Toledo, et lui même seigneur de Pinto et Higares, déclare dans son testament qu'il a ordonné, dans un écrit signé de sa main, ce qui doit être fait da sa maison située à la colación de S. Vicente, jouxtant d'un côté une maison de don Abdallah Mahuaque, moro, cambiador, et de l'autre une maison qui avait appartenu à Fernand González, platero, au dos une maison d'Alfonso Rodríguez Malaver et l'hôpital de S. Antón, et il veut que le contenu de cet écrit soit accompli, comme ce testament.
+
+L'hôpital de S. Antón, mentionné dans ces deux documents, situé à la colación de S. Vicente, ne peut pas correspondre à celui cité au XVIIe siècle, près de l'Alcázar, à la colación de S. Miguel, ni à celui fondé au XIVe siècle hors de la ville, près de la route de Madrid.
+
+Le 29/12/1445, Juan Fernández de Tamajón, vecino de Borox, neveu et héritiers de Juan Fernández de Tamajón, vecino de Borox, vend, par acte fait à Pinto, à Pedro Suárez de Toledo, seigneur de Pinto, vasallo du roi, et doña Juana de Toledo, sa femme, une maison située à la colación de S. Vicente, jouxtant les casas mayores du même Pedro Suárez de Toledo, une maison du monastère de Sta. Clara, un corral que le vendeur tient du commandeur de Yegros, une maison qui avait appartenu à Pedro Suárez, escribano del rey, et la rue, pour le prix de 20.000 mrs.
+
+Le 5/05/1452, la prieure et les religieuses de Sto. Domingo el Real donnent à cens à Diego López de Orgaz, trapero, une maison située à la colación de S. Vicente, jouxtant une maison de Lorenzo Suárez Franco, une maison des héritiers du licenciado défunt Pedro Martínez, et la rue, pour 400 mrs. de la monnaie usuelle, dont deux blancas font un mri.
+
+Le 26/03/1457, à Burgos, le docteur Fernand López de Burgos, juge (oidor) du tribunal (l'audiencia) du roi, et sa femme, Teresa de Toledo, vecinos de Burgos, vendent, entre autres biens, à Alfonso Cota, vecino, jurado et fiel ejecutor de Tolède, tesorero de la monnaie de Burgos, 500 mrs. de tributo qu'ils ont sur une maison de Tolède, à la colación de S. Vicente, (tous les confronts en blanc), qu'est obligé de payer le père de Tomás, sastre, et ses fils et descendants.
+
+Le 17/10/1469, Sancho Palomeque, fils de feu Diego Palomeque, impose 700 mrs. de cens sur une maison située à la colación de S. Vicente, jouxtant une maison des héritiers de Rodrigo Sánchez, cuchillero, une maison de Rodrigo de la Fuente, et la rue, jusque là libre de cens, et il vend ce cens à Juan de Córdoba, regidor, fils de Pedro de Córdoba, alguacil et jurado, au prix de 14.000 mrs.
+
+Le 27/10/1475, le même Sancho Palomeque impose et vend, au prix de 4.000 mrs.,  au commandeur Juan de Córdoba, fils de Pedro de Córdoba, regidor, 200 mrs. de plus sur cette maison jouxtant une maison des héritiers de Rodrigo Sánchez, cuchilllero, une maison du jurado Rodrigo de la Fuente, et la rue, déjà tributaire à Juan de Córdoba de 700 mrs. de la monnaie à courir.
+
+Le 3/04/1481, le même Sancho Palomeque vend, au prix de 12.000 mrs., au même commandeur Juan de Córdoba, regidor, fils de Pedro de Córdoba, regidor, 600 mrs. de plus sur la maison qui maintenant jouxte d'une part une maison de Diego de Toledo, mercador, fils de Martín Alfonso, trapero, et de l'autre une maison d'Alfonso Vázquez, jurado, et la rue, la maison se trouvant désormais tributaire de 1.500 mrs.
+
+Becerro de SDR
+
+Siglo XVI
+
+Las escripturas e titulos que Ay desta posesyon.
+
+... En sabado 13 dias del mes de disiembre de 1511 años ferrando de la torre mercador fijo del dicho pedro de la torre que dios aya fiso Reconosçimiento al monesterio de los dichos myll maravedis de tributo de las dichas casas pagados por terçios...
+
+(Está todo tachado).
+
+Fol. 381r: Sant Viçente.
+
+Doña Leonor de Ribera priora.
+
+Item tres mill maravedis de çenso e tributo ynphiteosyn en cada un Año para siempre Jamas sobre unas casas en esta dicha çibdad de toledo en la collaçion de la eglesia de sant viçente las quales dichas casas son de bernaldo de vargas vesino de toledo e las tiene con el dicho cargo del dicho tributo de los dichos tres mill maravedis cada año, las quales dichas casas alindan de la una parte con casas que fueron de iohan alvares de los pleytos e de la otra parte con casas pequeñas del mariscal payo barroso de Ribera que viene frontero de sus casas prinçipales e de las otras partes con las calles Reales la una es una plaçuela donde son las puertas prinçipales de las dichas casas e la otra calle es que va de la dicha plaçuela fasya la eglesia de sant viçente e la otra calle va fasya el monesterio de santa clara e a la plaça del dicho mariscal. Esta posesyon es de la señora doña leonor de Ribera priora del dicho monesterio et estas dichas casas solia tener a çenso por los dichos tres mill maravedis diego de çifuentes vezino de toledo el qual fiso dexamiento dellas en la dicha señora doña leonor de Ribera que entonçes era su priora et las Reçibio et las dio a çenso ynphiteosyn al dicho bernaldo de vargas por los dichos tres mill maravedis cada año... 11 dias de março año de 1493 años...
+
+En lunes 11 dias del mes de febrero de 1516 años ante la señora priora doña maria de avalos paresçio el bachiller françisco de palma fijo del liçençiado gutierre de palma que dios aya vesino de toledo et dixo que el tiene contratado con antonio de vargas fijo del dicho bernaldo de vargas que dios aya que le venda las dichas casas al dicho bachiller e a teresa ortiz su muger con el cargo del dicho tributo e a las dichas condiçiones et segund que las el tiene por presçio de çiento e sesenta e un myll maravedis forros de alcavala e de çinquentena...
+
+Le 10/03/1491, le commandeur Juan de Córdoba, regidor de Tolède, vend à doña Leonor de Ribera, sous-prieure de Sto. Domingo el Real, 1.500 mrs. de cens qu'il possède sur une maison que tient Sancho Palomeque, à la colación de S. Vicente, jouxtant une maison des héritiers d'Alfonso de la Torre, défunt, une autre maison du même Sancho Palomeque, et au dos une maison de Diego López, mercador, et la rue, au prix de 31.500 mrs. de la monnaie usuelle.
+
+Le 6/09/1493, Alfonso de la Rúa, mercador, reconnaît un cens de 1.200 mrs. en faveur de García Alvarez, trapero, sur une maison qu'il a achetée de Pedro Alvarez, mercador, au nom de celui-ci et de Fernand Alvarez, son fils, située à la colación de S. Vicente, et jouxtant d'une part une maison de Leonor Alvarez de Aguilar, beata, et de l'autre une maison de Fernando de Acre, et sur les autres côtés les rues.
+
+Le 10/08/1503, le même Alfonso de la Rúa, joyero, reconnaît le cens de 1.200 mrs. pesant sur une maison de la colación S. Vicente, jouxtant d'un côté une maison de Fernando de Acre et de l'autre une maison des fils, de la femme et des héritiers de feu Alfonso del Castillo, et la rue. La maison était tributaire à García Alvarez, el Rico, défunt, qui a donné le cens à la fabrique de l'église Sto. Tomé où il a fait une chapelle.
+
+Le 29/07/1513, dans le partage des biens de Juan Martínez de Toledo, décédé, entre sa veuve, María Ortiz de Alcocer, et les enfants des mêmes Juan Martínez et María Ortiz, à savoir l'honrado Juan Ortiz de Alcocer et María Ortiz, fils et fille de Juan Martínez et María Ortiz de Alcocer, et Jorge de Vergara, veuf de Leonor Martínez, fille de Juan Martínez et María Ortiz, comme père et administateur de Juan de Vergara, Bernaldino de Tovar, Francisco de Vergara, Tomás de Cuartona et María de Vergara, cette dernière religieuse à Santo Domingo el Real, fils et fille de Jorge de Vergara et Leonor Martínez, entre en premier lieu, parmi les immeubles, une petite maison, avec une cámara au dessus, située à la colación de S. Vicente,  sur la plazuela qui se trouve devant les casas principales qui appartenaient au défunt Juan Martínez,  libre de tout tribut, estimée à 3.500 mrs., ladite maison principale du défunt n'apparaissant pas dans ce partage.
+
+

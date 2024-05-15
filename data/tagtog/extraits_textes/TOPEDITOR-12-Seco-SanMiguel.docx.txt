@@ -1,0 +1,318 @@
+À San Miguel, il y a en 1491-1492, dix-huit possessions du chapitre (CH_AOO_01 à CH_AOO_18), auxquelles il convient de rajouter celles mentionnées sous la rubrique Plaza del Seco.
+
+Les pressoirs à huile de la colación de San Miguel.
+
+CH_AOO_18
+
+San Miguel, calle de. N°5. 
+
+En 1491, CH_AOO_18 est un pressoir à huile, sans qu’il soit qualifié comme tel, mais on l'on trouve les appareils correspondant: en entrando a la manderecha unas casas en que esta la rueda del aseyte… otra pieça en que esta la viga del molino … otra casilla en que esta la pila… una casa posa en que cae el agua del molino. 
+
+Mais, dès 1383, un pressoir à huile, appartenant à Gutierre García, alcalde, était mentionné dans cette colación, et encore un autre en 1421, et en 1457 et 1475. 
+
+Le 31/08/1421, le curé et les paroisssiens de S. Miguel baillent à García Fernández, tejedor, et paroissien de S. Miguel, une maison appartenant à la fabrique de l'église et jouxtant une maison de Diego Fernández de Argame et de Catalina Gutiérrez, sa femme, le moulin à huile et une maison des clercs de la même église, pour la vie des deux et d'un fils ou fille à désigner, 180 mrs. par an de la monnaie à courir
+
+CH_AOO_00
+
+Corralillo San Miguel (manzana desap. casa de Argame)
+
+CH_AOO_00_1492
+
+OF 356
+
+Las casas que solia tener Pedro de Contreras, tienelas agora Juan del Prado e Mari Ferrandes su muger a çenso ynfiteosin por presçio de mill dosientos mrs. e dos arrovas de aseyte. Han por linderos de la una parte casas de Juan de Argame e de la otra la calle publica.
+
+En xxvii dias del dicho mes de novienbre del dicho anno de noventa e dos annos, los dichos sennores en presençia del notario e de los testigos de yuso escriptos deslindaron estas casas e fallose en ellas en entrando a la manderecha una casas en que esta la rueda del aseyte en que ay en ella honze varas en largo e seys e media en ancho, e mas adelante tiene otra pieça en que esta la viga del molino en que ay dose varas en largo e quatro en ancho. Tiene otra casilla en que esta la pila en que ay tres varas en largo e otras tres en ancho. Tiene mas a la mano ysquierda una casa posa en que cae el agua del molino en que ay dose varas en largo e ocho en ancho, e entrando por el patin a la mano derecha esta un palaçio en que ay siete varas en largo e quatro en ancho, con camara ensomo de su tamanno e mas adelante esta otro palaçio en que ay ocho varas en largo e tres en ancho, con camara ensomo del tamanno. Testigos Diego de Obregon e Françisco de Villaminaya, criados de los dichos sennores. Juan de Mayorga notario apostolico.
+
+Une maison (CH_AOO_01) est située al cobertizo, une autre (CH_AOO_05) appelée le Corral de don Remón a pour l’un de ses confronts une rue qui traverse le dépotoir en allant vers le fleuve (una calle que atraviese el muladar de hasia el rio). Une autre (CH_AOO_16) jouxte le four du monastère de Santa Clara.
+
+L'église paroissiale de San Miguel, son clocher, son cimetière et son cloître.
+
+L'église paroissiale de San Miguel avait également son cimetière, appelé le Corral de la Cruz, et était pourvue d'un cloître. 
+
+Le 8/02/1383, les membres de la confrérie de S. Miguel de los labradores, réunis dans le cloître de l'église S. Miguel, donnent à cens à Antón Martínez, fils de Miguel Pérez, et à sa femme, Juana Martínez, demeurant à la colación de S. Miguel, une maison située à la même colación, jouxtant le moulin à huile de l'alcalde Gutierre García et une maison de Sancha Fernández, pour 70 mrs. de la monnaie blanche de 10 d. le mri., avec une liste des confrères présents, commençant par Juan González de la Verdura.
+
+Le 26/10/1386, Juan Fernández de Vitoria et María Alfonso, sa femme, exécuteurs testamentaires de Catalina Rodríguez, fille de Ruy Pérez et qui avait été femme de Martín Sánchez, vendent à Ramiro Sánchez de Orgaz, fils de Martín Rubio, et à Juana Fernández, sa femme, demeurant à la colación de S. Lorence, une maison de cette Catalina Rodrígeuz, située à la colación de S. Miguel, et jouxtant une maison de Juan, fils de Juan García, qui fut clérigo de l'église S. Miguel, une maison de María Díaz, qui fut femme de Pedro Fernández de Valladolid, une maison de celle qui fut la femme de Fernand Martínez, le palacio de la confrérie de San Antón, lequel palacio se trouve dans le cloître de l'église San Miguel, et la rue, pour 1.900 mrs. de la monnaie blanche de 10 d. le mri.
+
+Le 11/04/1387, Ramiro Sánchez, fils de Martín Rubio, et mari de Juana Fernández, vend à Juan Alfonso, clérigo dans l'église de S. Miguel et racionero de la cathédrale, une maison avec ses trascorrales, située à la colación de S. Miguel, jouxtant une maison des hétritiers de Juan García, qui avait été clérigo de l'église S. Miguel, une maison des héritiers de Fernand Martínez, criado du Cardinal, une maison de (blanc) qui avait été la femme de Pedro Fernández de Valladolid, le cimetière de l'église S. Miguel, et la rue, pour 2.000 mrs. de la monnaie blanche de 10 d. le mri..
+
+Le 3/11/1471, Juan de Coloña, fils de feu Pedro de Coloña, vend à don Juan de Morales, doyen de Séville, 1.000 mrs. de cens qu'il impose sur la maison corral dite de Alcañises, située à la colación de S. Miguel, jouxtant le Corral de la Cruz, qui est le cimetière de l'église, vers le bas une maison d'Alfonso Martínez, mayordomo de Vililla, tributaire à l'église de S. Miguel, au dos, une maison de Diego López de Romaila et de Gonzalo Fernández, tapiador, vers le haut une maison de Juan García de Fuensalida, azacán.
+
+Pour le clocher de l'église San Miguel, en 1487, l'inventaire des biens de feu Antón García, fait par sa veuve Juana Fernández de Mesa, commence par la maison où il demeurait, à la colación de S. Miguel, jouxtant la torre de l'église S. Miguel, tributaire de 24 mrs. aux clercs de cette église.
+
+Le postigo de San Miguel.
+
+Le postigo de S. Miguel constituait une porte secondaire de la muraille urbaine.
+
+Le 6/10/1449, dans une maison située à la colación de S. Miguel, au postigo de S. Miguel, jouxtant d'une part une maison de Pedro Alfonso de Toro et de l'autre le mur de la ville, maison connue comme la demeure de Juan Alfonso de Toro et María Díaz, sa femme, ceux-ci étant présents, Juan Terrín, fils du contador Diego Terrín, dit qu'il avait acheté 270 mrs. de cens dont cette maison était tributaire à Aldonza Rodríguez, femme de Diego García de Alcalá, et il fait don de ce cens à la confrérie de S. Pedro de las Cuatro Calles.
+
+En 1460, María Alfonso, femme de Diego Alfonso de Toro, et Alfonso de Carrión, mari de la petite-fille de Pedro Alfonso de Toro, tiennent du monastère de Sto. Domingo el Real, une maison bodega, avec un pressoir, avc sa vis et sa pierre, et 24 jarres à vin, à la colación de S. Miguel, près du postigo, jouxtant une maison de Martín de Briones, et les rues, pour 650 mrs. et deux paires de poules.
+
+SD_CA_47_1460 
+
+SD-47, ANH Clero, Libro 15118
+
+Medidas de casas de Santo Domingo el Real de Toledo (1460)
+
+Tyene Maria Alfon muger de Diego Alfon de Toro e Alfon de Carrion marido de su nieta de Pero Alfon de Toro perpetua por su vida e de su muger e de un fijo o fija del dicho convento unas casas bodega en que ay un lagar que son aqui en Toledo a la collaçion de Sant Miguell çerca el postigo que han por linderos casas de Martin de Briones e las calles Reales, en las quales casas bodega ay un lagar son su usillo e piedra e tiene con ellas veynte e quatro tinajas para vino, en loas quales casas ay en el hueco dellas, en las quales casas ay un palaçio frontero en que ay en luengo seys varas e terçia e en ancho quatro varas, e este palaçio esta doblado con su camara ençima la qual camara sale ençima del corral dos varas e terçias e en el patyn dellas ay en hueco dies varas e terçia  e en ancho siete varas e terçia e tiene las por seysçientos e çinquenta mrs. e dos pares de gallinas e sube en el altura fasta el çielo e non Reçibe aguas ningunas de otras casas.	dcL ¯.  iiii° gs
+
+Le 16/04/1477, une ordonnance municipale interdit de jeter du fumier ou autre chose à la Puerta de los Doce Cantos, dans le dépotoir (muladar) qui se trouve là, salvo que hechen el dicho estyercol adelante del Postigo de San Miguel, a las peñas que ende estan, por que esta mal camino.
+
+Le 5/11/1487, Pedro del Barco, cuchillero, et Leonor Alvarez, sa femme, vendent à Alfonso Martínez, cintero, une maison, située à la colación de S. Miguel, al postigo de San Miguel, jouxtant d'un côté une maison ayant appartenu à Francisco Sánchez, panadero, et de l'autre une maison de María López de Rumaila, et des deux autres côtés les rues, chargée d'un tribut de 320 mrs. à la chapelle de don Pedro Tenorio, pour le prix de 10.000 mrs. de la monnaie usuelle. Suit la prise de possession de la maison où l'on laisse Diego Sánchez, zapatero, qui y demeure, avec l'ordre de payer les loyers à l'acheteur
+
+Le 9/07/1501, María Quixada, veuve de Pedro Quixada, déclare posséder une maison située à la colación de S. Miguel, al postigo de San Miguel, jouxtant une maison de Fernando de Toro, une maison de Mateo de Medina, molinero, et une maison d'Alfonso de Arévalo, laquelle était antérieurement tributaire de 300 mrs. de cens à Gonzalo Pantoja, regidor, maintenant décédé. Ces mrs. sont échus en héritage à doña María de Guzmán et doña Elvira Puerrocarrero, filles de ce Gonzalo Panttoja et de doña Elvira Puertocarrero, sa femme, également défunte, religieuses à Sto. Domingo el Real, et elle en fait reconnaissance.
+
+Le 3/02/1345, le testament de Juan Lorenzo, fils de Juan Lorenzo, chanoine de Sta. Leocadia, près de l'Alcázar, lègue à Esteban Fernández, son neveu, fils de doña Isabel, sa cousine, notamment las mis casas del Oliva con el almaçra que se tiene con ellas, à la colación de S. Miguel, avec 300 mrs. pour les réparer, ainsi qu'à ladite Isabel las mis casas de mi morada, con las casiellas pequennas que se tienen con ellas, en que yo fago agora cosina, également à la colación de S. Miguel, avec la condition qu'elle ne puisse vendre et que la maison reviennent à ses enfants, Esteban Fernández et María Fernández, à parts égales, pour en faire ce qu'ils voudront.
+
+Le 17/08/1405, Catalina Fernández, fille de Lorenzo Pérez, qui avait été escribano público à Tolède, religieuse à Sto. Domingo el Real, donne à cens à Pedro Fernández de Cabañas, à sa femme, Juana González, ainsi qu'à Juan Díaz, fils de Domingo Andrés, qui avait été abbé de S. Vicente, et Teresa López, sa femme, une maison appartenant à elle et au monastère, à la colación de S. Miguel, jouxtant une maison de Francisco Rodríguez Pimentilla, une maison de Martín Fernández, clerc de S. Juan, et la rue, pour 200 mrs. de la monnaie à courir.
+
+CH_AOO_01
+
+San Justo, cuesta de. N° 19.
+
+( Situado en la esquina con San Miguel).
+
+Une  maison (CH_AOO_01) située au cobertizo de San Miguel et près de l'Espinazo del Can.
+
+CH_AOO_01. En 1396, Juan Martínez, racionero, criado du doyen, a pris la maison laissée au chapitre par Martín Alfonso, avec un fût, et quatre jarres saines, contenant en tout 200 cántaras, pour 365 mrs., depuis le 15/08/1395, avec la caution de Pedro Fernández de Orgaz, racionero, et il tient la maison jusqu'en 1412, y compris.
+
+CH_AOO_01. En 1412, Juan Martínez, racionero, criado du doyen, tient la maison laissée au chapitre par Martín Alfonso, racionero, perpetuas, pour 365 mrs. de vieille monnaie, qui sont 730 mrs. de blancas .
+
+CH_AOO_01. Le 13/11/1414, le chapitre baille à Francisco Fernández, racionero, curé d'Arcicóllar, une maison, à la colación de S. Miguel, jouxtant une maison qui avait appartenu à Pedro Alfonso, escribano du colector, et (blanc), pour sa vie, 250 mrs. de vieille monnaie, avec la caution de Juan Díaz, clérigo de l'église Sta. Yusta.
+
+CH_AOO_01. En 1417, à S. Miguel, la maison que tenait Juan Martínez, racionero, avec un fût et quatre jarres contenant en tout 200 cántaras, a été prise, perpetuas, du chapitre par Francisco Fernández, curé d'Arcicóllar, racionero, au prix de 250 mrs. de vieille monnaie (500 mrs. de blancas), depuis le 1/11/1414
+
+CH_AOO_01. Le 22/07/1418, le chapitre baille à Martín González, curé de S. Yuste, une maison, à la colación de S. Miguel, al Espinazo del Can, tenue précédemment par Francisco Fernández de Arcicóllar, racionero, et qui avait été de Martín Alfonso, racionero, jouxtant une maison de María Alfonso, la Rosquillera, une maison de (blanc) et les rues, pour sa vie, 250 mrs. de vieille monnaie ou le double, avec la caution de Cristobal Rodríguez, fils de l'aparejador.
+
+CH_AOO_01. En 1422, la maison que tenait Juan Martínez, racionero, avec un fût et quatre jarres, contenant en tout 200 cántaras, a été baillée à Martín González, curé de S. Yuste, le 22/07/1418, pour 255 mrs. de vieille monnaie, ou le double (510 mrs.) de blancas, avec la caution de Cristobal Rodríguez, fils del'aparejador. Deux termes de l'année 1422 sont payés par Velasco Fernández, carnicero.
+
+CH_AOO_01. Le 24/07/1422, le chapitre baille à Velasco Fernández, carnicero, une maison, à la colación de S. Miguel, près de l'Espinazo del Can, al cantillo del encobertizo, précédemment tenue par Francisco Fernández, curé d'Arcicóllar, racionero, jouxtant une maison de la Rosquillera, l'encobertizo, et la rue, pour 275 mrs. de vieille monnaie ou le double.
+
+CH_AOO_01. Le 3/12/1423, le chapitre baille à Marina López de Villarreal une maison située près de l'encobertizo de San Miguel, précédemment tenue par Velasco Fernández, carnicero, jouxtant une maison de la Rosquillera, l'encobertizo, et la rue, pour sa vie, avec les actions contre Velasco Fernández, 300 mrs. de vieille monnaie ou le double.
+
+CH_AOO_01. Le 11/07/1426, le chapitre baille à Pedro Fernández de Azuqueica, escudero de Pedro Suárez de Toledo, une maison et demeure, située près de San Miguel, au cobertizo, laissée au chapitre par Martín Alfonso, racionero, décédé, jouxtant d'un côté une maison de Fernand Pérez de Sevilla, de l'autre une maison de Maria Alfonso la Rosquillera, et junta el dicho cobertizo une maison d'Alfonso Rodríguez de Torrijos, et deux rues publiques devant la porte, pour sa vie, avec les actions contre Marina López de Villlarreal qui tenait auparavant la maison, au prix de 231 mrs. de vieille monnaie ou le double, avec la caution d'Alfonso González, ballestero, demeurant à la place du Zocodover.
+
+CH_AOO_01. En 1439, la maison située au cobertizo de S. Miguel, est tenue par Pedro Fernández Azuqueica pour 462 mrs. depuis le 11/07/1426, et jouxte d'un côté une maison de Fernand Pérez de Sevilla, et de l'autre le cobertizo.
+
+CH_AOO_01. En 1443, la maison située au cobertizo de S. Miguel a été baillée, perpetuas e por reparadas, le 11/07/1426, à Pedro Fernández de Azuqueica, beau-frère du chanoine Pedro González de Ocaña, au prix de 462 mrs. de la monnaie à courir, avec la caution d'Alfonso González, ballestero. En marge: le 4/02/1444, le chapitre a baillé cette maison à María Alvarez, qui était la femme du même Pedro Fernández….
+
+CH_AOO_01. Le 4/02/1444, le chapitre baille à María Alvarez, veuve de Pedro Fernández de Azuqueica, une maison située à la colación de San Miguel, jouxtant une maison de Fernand López de Sevilla et le coin de l'encobertizo, précédemmment tenue par son défunt mari à l'encobertizo de Sant Miguel, pour sa vie, 305 mrs. de vieille monnaie ou le double, et une paire de poules, avec la caution de Pedro Bermúdez, fils de Pedro Fernández de Azuqueica, et de Miguel Rodríguez, curé de Sta. María de Ocaña, et le contrat reste en vigueur en 1450 et 1465.
+
+CH_AOO_01. Le 7/08/1470, la maison a été adjugée à Jorje Bermúdez pour 2.000 mrs. et 6 paires de poules
+
+CH_AOO_01. Le 19/07/1477, le chapitre a baillé à Jorje Bermúdez, capellán dans la chapelle des Reyes Nuevos, la maison située al cobertizo de San Miguel que tenait auparavant María Fernández, femme de Pedro Fernández de Azuqueica, pour sa vie, 1.800 mrs. et trois paires de Ce contrat reste en vigueur en 1496.
+
+CH_AOO_01. En 1491, la maison située al cobertizo que tenait Pedro Ferrnández Azuqueica, est tenue par son fils, Jorje Bermúdez, capellán de la chapelle de los Reyes, pour 1.800 mrs. et quatre paires de poules par an, pour sa vie, et elle jouxte d'un côté une maison de Francisco de Contreras, et de l'autre le coin de la rue.
+
+CH_AOO_01. En 1496, la maison située au cobertizo de S. Miguel, que tenait María Fernández, femme de Pedro Fernández de Azuqueica, a été baillée le 19/07/1477, perpetuamente, à Jorge Bermúdez, racionero.
+
+CH_AOO_01_1439 
+
+OF 356bis
+
+Las Casas que son Al cobertizo de sant miguell tienelas pero ferrandes açuqueyca por preçio de quatroçientos e sesenta  e dos maravedis e tomolas en onse de Jullio Año de 26 Años.
+
+En 23 de Junio Año de 1439 Años fueron deslindadas estas casas por Juan dias Raçionero e mayordomo de la eglesia de toledo Et ha por linderos de la una parte casas de ferrand peres de sevilla e de la otra el cobertizo. Et tiene en la entrada un portal que ha en luengo ocho varas e quarta Et en lo mas ancho quatro varas e dos media e en Ancho tres varas e media. Et ensomo una camara de su tamaño con su corredor. Et debaxo un sotano de su tamaño. Et A la mano esquierda esta otro palaçio que ha en luengo ocho varas e en Ancho tres varas Et ensomo una camara de su tamaño. Et çerca del esta una casa bodega con su lagar e viga. Et ha en luengo siete varas e media e en ancho quatro varas e dos terçias. Et ensomo desta bodega e del primer portal esta una camara de su tamaño. Testigos ferrand alfonso Raçionero e diego lopes omme de cabilldo.
+
+(firmado) Ludovicus Luppi apostolico e ordinario notario. 
+
+(En el margen izquierdo, en otra letra) Jorje bermudes.
+
+terçias. Et luego tiene un patin e A la mano derecha del esta un palaçio que ha en luengo ocho varas e 
+
+CH_AOO_01_1492
+
+OF 356 
+
+Las casas que son al cobertizo que tenia Pedro Ferrandes Açaqueyca, tienela Jorje Bermudes su fijo capellan de la capilla de los Reyes por presçio de mill e ochoçientos mrs. e quatro pares de gallinas en cada un anno por su vida. Han por linderos de la una parte casas de Françisco de Contreras con el esquina de la calle. 
+
+En x dias del dicho mes de jullio del dicho anno de noventa e un annos, los venerables sennores Cristoval de Villaminaya e Alvar Peres de Montemayor canonigos e vesitadores de las posisiones de la santa yglesia de Toledo deslyndaron estas casas e fallose en ellas un portal en que ay ocho varas e quarta en largo e quatro e dos terçias en ancho por lo mas ancho e luego tienen un patin e a la mano derecha del esta un palaçio en que ay ocho varas e media en largo e tres e media en ancho e ensomo una camara de su tamanno con su corredor e debaxo un sotano de su tamanno e a la mano ysquierda esta/f° 149 v°/ otro palaçio en que ay ocho varas en largo e tres en ancho e ensomo una camara de su tamanno e açerca del esta una casa bodega con su lagar e viga en que ay ocho varas e media en largo e quatro e dos terçias en ancho e ensomo desta bodega e del portal ay una camara de su tamanno e enfruente de la entrada tiene esta casa allende de lo del libro viejo un comedor en que ay siete varas en largo e tres en ancho con otra camara de su tamanno. De que fueron testigos Diego de Obregon e Diego Serrano criados del dicho sennor Alvar Peres. (signé) Juan de Mayorga notario apostolico.
+
+CH_AOO_02
+
+Candelaria, calle de la. N°4*.(Actualmente desaparecida).
+
+CH_AOO_02. En 1399, le chapitre baille à Juan Martínez de Daimiel et Pascuala Fernández, sa femme, demeurant à la colación de S. Soles, une maison située à la colación de S. Miguel, dont a fait donation au chapitre le chanoine Juan Fernández, docteur en décrets, jouxtant d'un côté des casas mayores ayant appartenu à Gonzalo Fernández de Cigales et une maison de ayant appartenu à Alvaro de Furones, pour la vie des deux, 140 mrs. de la monnaie à courir, avec la caution de Pedro Fernández de Guadalajara, criado de Pedro Fernández, prieur de la Sisla. 
+
+CH_AOO_02. En 1401, la maison située à S. Miguel, que tenait le docteur Ruy Fernández et dont il a fait donation au chapitre, se trouve baillée à Juan Martínez de Daimiel, pour 140 mrs. 
+
+CH_AOO_02. En 1408, Juan Martínez de Daimiel et sa femme, Pascuala Sánchez, demeurant à S. Soles, ont pris la maison qu'avait donnée au chapitre le docteur Ruy Fernández, et qui avait appartenu à Gonzalo Fernández, à cens, chaque  année pour 140 mrs. de la monnaie à courir, perpetuas e por reparadas, avec la caution de Pedro Fernández de Guadalajara, criado de Pedro Fernández, beato
+
+CH_AOO_02. Le 17/04/1410, le chapitre baille de Domingo García, et Mencia García, sa femme, demeurant à la colación de S. Miguel, une maison située à cette colación, et qui avait appartenu au chanoine défunt, le docteur Ruy Fernández, jouxtant une maison de Juan Ruiz de Ocaña, une maison d'Alvaro de Hurones, et la rue, pour leur vie, chaque année pour 255 mrs. de la monnaie à courir, avec la caution de Pedro Martínez, hornero, demeurant à la colación de S. Miguel.
+
+CH_AOO_02. En 1412, la maison donnée au chapitre par le docteur Ruy Fernández, et qui avait appartenu à Gonzalo Fernández de Cigales, est tenue, perpetuamente, par Domingo García, tejero, au prix de 255 mrs. par an de la monnaie à courir.
+
+CH_AOO_02. Le 20/02/1415, le chapitre baille à Alfonso Sánchez, notario, et Inés Alfonso, sa femme, une maison située à San Miguel, et que tenait auparavant Domingo García (trapero ?) (confronts en blanc), pour la vie de chacun des eux, chaque année pour 60 mrs. 1/2 de vieille monnaie ou le double.
+
+CH_AOO_02. En 1417, la maison qu'a donnée au chapitre le docteur Ruy Fernández, est tenue par Alfonso Sánchez, notario, et Inés Alfonso, sa femme,  pour la vie des deux, au prix de 62 mrs. et demi de vieille monnaie, ou le double (125 mrs.) de blancas, depuis le 1/01/1415.
+
+CH_AOO_02. En 1422, la maison donnée au chapitre par Ruy Fernández, doctor, est tenue par Alfonso Sánchez, notario, et Inés Alfonso, sa femme, pour leurs vies, au prix de 62 mrs. et demi de vieille monnaie, ou le double (125 mrs.) de blancas, depuis le 1/01/1418 (sic).
+
+CH_AOO_02. Le 27/09/1429, le chapitre baille à Diego Alfonso, carpintero, et Francisca Alfonso, sa femme, une maison située à la colación de S. Miguel (confronts en blanc), précédemment tenue par Alfonso Sánchez, curé de Rielves, père décédé de Diego Alfonso, pour la vie de chacun des deux, au prix de 65 mrs. de vieille monnaie, ou le double, soit 130 mrs., de la monnaie de blancas, avec la caution de García, frère de Diego Alfonso
+
+CH_AOO_02. En 1439, la maison que tenait auparavant Alfonso Sánchez, notario, est tenue par Diego Alfonso, carpintero, pour 130 mrs. par an, depuis le 27/09/1429, et jouxte d'un côté une maison de Juan Martínez del Moral et de l'autre une maison de Gómez Suárez de la Cámara.
+
+CH_AOO_02. En 1443, la maison que tenait Alfonso Sánchez, notario, a été baillée, perpetuas e por reparadas, le 27/12/1438, à Diego Alfonso, carpintero, fils du même Alfonso Sánchez, au prix de 65 mrs. viejos, ou le double (130 mrs.) de blancas.
+
+
+
+
+Le 18/12/1456, Leonor Alvarez de las Casas vend aux Capellanes de la Hermandad de l'Église de Tolède 330 mrs. de la monnaie à courir que Rodrigo Alfonso de Ocaña, fils de Pedro Alfonso de Ocaña, et Juana García, sa femme, lui doivent de cens sur une maison située à la colación de S. Miguel à l'Espinaz del Can, jouxant le Corral del Oliva, une maison de Juan González de la Guardia, et la rue.
+
+Le 20/03/1460, Juan Alfonso, carpintero, et Inés Alvarez, sa femme, reconnnaissent un cens de 330 mrrs/ en faveur des Capelllanes de la Hermandad del coro de la minor ofiçia de la cathédrale de Tolède sur une maison qui'ls ont achetées avec cette charge de Rodrigo Alfonso de Ocaña, située à la colación de S. Miguel, à l'Espinaz del Can, jouxtant une maison de Juan Rodríguez Rosado, une maison de Fernando de Valladolid, et le Corral del Oliva.
+
+On ignore si ce Corral del Oliva a quelque rapport avec la maison del oliva mentionnée en 1345 dans le testament de Juan Lorenzo, fils de Juan Lorenzo, et chanoine de l'église de Sta. Leocadia près de l'Alcázar, qui lègue à son neveu, Esteban Fernández, fils de sa cousine doña Isabel, las mis casas del Oliva, con el almaçra que se tiene con ellas, maison située à la colación de l'église S. Miguel, avec 300 mrs. pour procéder à la réparation, en même temps qu'il lègue à ladite doña Isabel, mi prima, la maison où il demeure avec les casiellas peqneñas jointives où il fait la cuisine, également située à la colación de S. Miguel, à la condition que la bénéficiaire ne puisse pas vendre et que la maison revienne aux enfants de cette dernière, Esteban Fernández et María Fernández, à parts égales, pour en faire ce qu'ils voudront.
+
+La Plaza del Seco.
+
+Le nom de cette place, attesté dès 1280, et où eut lieu, en 1467, un épisode saillant des luttes internes dans la ville, a persisté jusqu'à nos jours.
+
+Le 28/02/1397, María Rodríguez, candelera, fille de Rodrigo Pérez et veuve de Ferrand García, qui était criado de Ferrand Gómez, vend à Ferrand Martínez, fils de Martín Alfonso, et à Lucía Sánchez, sa femme, une maison située à la colación de S. Miguel, près de la Plaza del Seco.
+
+CH_AT_001
+
+CH_AT_001. Le 4/02/1417, le chapitre baille à Martín González de Vozmediano et Catalina García, sa femme, une maison située à la colación de S. Miguel, à la Plaza del Seco, qui avait été donnée au chapitre par Alvar González de Vozmediano, qui était racionero, jouxtant une maison de Juan Rodríguez de Torrijos et une maison de Gonzalo López, converso, pour la vie des deux, pour 20 mrs. de la monnaie à courir, et avec la condition de payer au monastère de S. Pedro de las Monjas le tribut auquel Alvar González, racionero, était obligé.
+
+CH_AT_001. En 1422, Martín González de Vozmediano tient encore, en vertu du contrat du 4/02/1417, pour sa vie et celle de Catalina González, sa femme, la maison située à la Plaza del Seco, donnée par Alvar González de Vozmediano, racionero, pour 20 mrs. de la monnaie à courir
+
+CH_AT_001. En 1439, la maison que tenait auparavant Alvar González de Vozmediano, racionero, est tenue par Catalina González, femme de Martín González de Vozmediano, chaque année pour 20 mrs., depuis le 4/02/1417, et jouxte une maison de la chapelle de don Pedro Tenorio et une maison d'Antón Rodríguez, bachiller. Elle possède une porte à la Plaza del Seco.
+
+CH_AT_001. En 1443, la maison située à la Plaza del Seco reste tenue, en vertu du contrat du 4/1/1417, fait à Martín González de Vozmediano et Catalina González, pour 20 mrs. de blancas.
+
+CH_AT_001. En 1482, la maison que le chapitre avait donnée à Alvar González de Vozmediano, a été laissée au monastère de S. Pedro de las Dueñas à qui elle appartenait.
+
+CH_AT_01/ CH_AT_02/ CH_AT_03
+
+CH_AT_01/ CH_AT_02/ CH_AT_03. En 1372, 1380, 1391, 1396, Diego Martínez, zapatero, tient à cens, pour 25 mrs., a la plaça del Seco, la maison que tenait auparavant Alfonso García, clérigo d'Argés (ou Alfonso García de Orgaz, clérigo de ce lieu). En 1408 et 1412, le même Diego Martínez, zapatero, tient à la Plaza del Seco, la maison que tenait Alfonso García de Orgaz, à cens pour 17 mrs. de vieille monnaie, qui sont, au double, 34 mrs. de blancas.
+
+CH_AT_01/ CH_AT_02/ CH_AT_03. Le 3/03/1421, Juana González, fille de Francisco Fernández, qui était escribano público de Tolède, reconnaît un tribut de 17 mrs. de vieille monnaie en faveur du chapitre sur une maison située près de la Plaza del Seco, jouxtant une maison des héritiers de Lorenzo Gutiérrez, une maison de Juan Sánchez, beato, et les rues, qu'elle a achetée de Juan Sánchez, tejedor, au prix de 2.750 mrs. de la monnaie de blancas.
+
+CH_AT_01/ CH_AT_02/ CH_AT_03. En 1422, Juana González, fille de Francisco Fernández, qui était escribano público à Tolède, a acheté le 3/03/1421, de  Juan Sánchez, tejedor, la maison que tenait antérieurement Diego Martínez, zapatero, chargée de 17 mrs. de vieille monnaie, ou le double (34 mrs.) de blancas, qu'elle s'est  obligée de payer
+
+CH_AT_01/ CH_AT_02/ CH_AT_03. En 1439, la maison que tenait auparavant Juan Sánchez, tejedor, est tenue à cens par Juana García, fille de Francisco Fernández, escribano, chaque année pour 34 mrs., depuis le 3/03/1421, et jouxte d'un côté le coin de rue (la esquina) et de l'autre une maison de María García, la del falconero.
+
+CH_AT_01/ CH_AT_02/ CH_AT_03. En 1443, Juana González, fille de Francisco Fernández, escribano, tient à cens, depuis le 3/03/1421, la maison que tenait Juan Sánchezn tejedor, pour 17 mrs. de vieille monnaie, ou 34 mrs. de blancas,
+
+CH_AT_01/ CH_AT_02/ CH_AT_03. En 1450, à la Plaza del Seco, le chapitre a donné à cens, le 3/03/1421, la maison que tenait Juan Sánchez, tejedor, à Juana González, fille de Francisco Fernández, pour 34 mrs. courants
+
+CH_AT_01/ CH_AT_02/ CH_AT_03. Le 16/05/1457, le chapitre a autorisé Juana González, fille de Juan González, escribano, à vendre à Diego González, racionero, curé de S. Nicolás, la maison que Juan Sánchez, tejedor, et cette  Juana González, tenaient pour 34 mrs. de cens. En 1472, la maison est au nom des héritiers du curé de S. Nicolás.
+
+CH_AT_01/ CH_AT_02/ CH_AT_03. En 1482, les héritiers de Diego González, racionero et curé de S. Nicolás, doivent faire reconnaissance pour la maison qu'il tenait avec la charge de 34 mrs. En 1489, c'est le Nuncio, Francisco Ortiz, lequel tient las casas de los niños, qui doit payer les 34 mrs.
+
+Les maisons de Diego González, curé de S. Nicolás, à la Plaza del Seco.
+
+Le 28/10/1438, María Lopez de Villarreal, beata, vend à Leonor González de Portillo, fille de Juan Rodríguez de Portillo, une maison située à la colación de S. Miguel, a la plaça del Seco, jouxtant une maison de Bartolomé Sánchez de Mesegar, une maison de Juana González, fille de Francisco Fernández, qui fut escribano público à Tolède, une maison de Ruy González, fils de Pedro Rodríguez, notario, et la rue, tributaire aux clercs de la Magdalena, de 15 mrs. de la monnaie à courir pour le prix de 5.000 mrs. de la monnaie usuelle, payés par l'acheteuse et par María González, femme de Juan Gómez, halconero. Lors de la prise de possession, ont trouve María Rodríguez, femme de Fernand González, barbero, qui demeure dans la maison.
+
+Le 4/04/1444, Alfonso Sánchez, fils de Miguel Sánchez de la Plaza del Seco, vend à Diego González, racionero et curé de l'église S. Nicolás, une maison située à la Plaza del Seco, à la colación de S. Miguel, jouxtant une maison qui avait appartenu au père du vendeur, une maison de Martín, aceñero, une maison de la femme de Ruy González el Cano, et la rue, qu'il a eu d'Inés Alfonso, et qui est libre de cens, au prix de 12.000 mrs. de la monnaie usuelle, dont deux blancas font un mri., avec obligation pour l'acheteur de payer l'alcabala
+
+Le 2/12/1457, Leonor González, nièce de la femme de Juan Gómez, halconero, vend à Diego González, racionero, curé de l'église S. Nicolás, une maison située à la colación de S. Miguel, jouxtant des deux côtés des maison de l'acheteur, et la rue, tributaire aux clercs de la Magdalena, de 15 mrs., pour le prix de 5.000 mrs. de la monnaie usuelle.
+
+CH_AT_01
+
+Seco, plaza del. N°3.
+
+CH_AT_01. Le 2/04/1484, le chapitre loue pour neuf ans à Alfonso de Toledo, sedero, fils d'Alfonso López, carpintero, la maison où il demeure, jouxtant les autres maisons ayant appartenu au curé de S. Nicolás, au coin de la rue qui vient de l'Alcázar à la Plaza del Seco, chaque année pour 1.000 mrs. et deux paires de poules, avec pour condition de tenir la maison réparée, avec la caution de Diego de Carrión, latonero.
+
+CH_AT_01. En 1491, la maison que tenait Diego González, raçionero,  est tenue par Antón de Villalba, au prix de 2.206 mrs. et cinq paires de poules, pour sa vie et celle de sa femme. Mais cette maison comporte alors deux autres parties (CH_AT_02 et CH_AT_03), qui seront ensuite baillées séparément.
+
+CH_AT_01. Le 7/03/1495, l'une des deux maisons laissées au chapitre par Diego González, le curé de S. Nicolás, pour l'éducation des enfants trouvés (para criar los niños de la piedra), et que tenait, avec la charge de 2.205 mrs. et 5 paires de poules, Antón de Villalba, celui-ci en ayant fait abandon, a été baillée à Diego Téllez, procureur de l'Inquisition, pour sa vie et celle d'Inés de Castañada, sa femme, au prix de 2.207 mrs., avec la caution de Gerónimo de Pedrosa.
+
+CH_AT_01_1439
+
+OF 356bis
+
+Las Casas que tenia Alvar gonçales de bozmediano Raçionero tienelas Catalina gonçales muger de martin gonçales de bozmediano cada Año por 20 maravedis e tomola en quatro dias de febrero Año de 17 Año.
+
+En quatro de Jullio Año de 1439 Años fueron deslindadas estas casas por Juan dias Raçionero e mayordomo de la eglesia de toledo. Et ha por linderos de la una parte casas de la capilla de don pedro thenorio e de la otra casas de Anton Rodrigues bachiller. Et tiene en la entrada un Corral e A la mano esquierda del esta un palaçio que ha en luengo ocho varas e media e en Ancho quatro varas. Et ensomo dos suelos uno sobre otro de su tamaño con su puerta A la plaça del seco e con sus Andores. Item en fruente esta una casa pequeña que ha en luengo çinco varas e en Ancho tres varas. Et çerca della otra casa que ha en luengo quatro varas e media e en Ancho tres varas. Et ensomo destas dos casas esta una camara de su tamaño. Item A la mano derecha esta una casa que ha en luengo siete varas e en Ancho quatro varas. Testigos Juan martines capellan e Alfonso carpio vesino de yebenes.
+
+(firmado) Ludovicus Luppi apostolico e ordinario notario.
+
+CH_AT_01_1492
+
+OF 356 
+
+Las casas que tenia Diego Gonçales raçionero tienelas agora Anton de Villalva por presçio de dos mill e doçientos e çinco mrs. e çinco pares de gallinas. Esto es la primera terçia parte dellas e por vida suya e de su muger.
+
+En xxvii de jullio del dicho anno de noventa e un annos los venerables sennores Cristoval de Villaminaya e Alvar Peres de Montemayor canonigos e vesitadores de las posysiones de la santa yglesia de Toledo deslindaron estas casas e fallose en ellas en la primera parte un portal en que ay tres varas e media en largo e dos e media en ancho con dos camaras /f° 169 v°/ ensomo de al tanto cada una e luego un patin e frontero ay un palaçio en que ay quatro e quarta en largo e quatro en ancho con dos camaras ençima de al tanto e un corredor a la manderecha que atraviesa de una camara para otra en que ay quatro varas e dos terçias en largo e una e quarta en ancho.	
+
+CH_AT_02
+
+Seco, plaza del. N°3.
+
+CH_AT_02. Le 23/03/1491, la maison jouxtant la précédente (AT-1), laissée au chapitre par le curé de S. Nicolás, a été adjugée pour trois vies à Alfonso de Toledo, fils de Gutierre Sánchez, au prix de 1.155 mrs. et trois paires de poules, avec la caution de Diego González, albardero.
+
+CH_AT_02_1492
+
+OF 356
+
+Ay en la otra segunda parte en entrando un portal en que ay tres varas e media en largo e dos e media en ancho con dos soberados de al tanto e frontero un lugar de tinajas e a la manderecha un palaçio en que ay çinco varas en largo e quatro en ancho e una camara ensomo de al tanto e debaxo un sotano de su tamanno.	
+
+CH_AT_03
+
+Seco, plaza del. N°3.
+
+CH_AT_03. Le 29/04/1491, l'autre maison jouxtant la précédente (CH_AT_02), également donnée au chapitre par le curé de S. Nicolás, a été baillée à Diego Gutiérrez Carriazo, capellán, pour sa vie et de deux autres personnes, au prix de 1.500 mrs. et trois paires de poules, avec la caution de son père, Juan Alfonso Carriazo, et de sa mère, Juana Gómez
+
+CH_AT_0.… Le 29/03/1484, le chapitre baille à Luis de Toledo, sedero, et Leonor Alvarez, sa femme, une maison située au coin de la rue descendant de l'Alcázar à la Plaza del Seco, (colación, et confronts en blanc), pour la vie des deux et d'un fils ou d'une fille, chaque année pour 2.400 mrs. et 5 paires de poules, avec la caution de Juan de Toledo, sedero, son frère, et de Diego de Toledo, son beau-frère.
+
+CH_AT_03_1439
+
+OF 356bis
+
+Fol. 83r: Las Casas que tenia Juan sanches texedor tienelas Juan garçia fijo de françisco ferrandes escrivano çenso cada Año por treynta e quatro maravedis e tomolas en tres dias de março Año de 21 Años.
+
+En 26 de Junio Año de 1439 Años fueron deslindadas estas casas por Juan dias Raçionero e mayordomo de la eglesia de toledo. Et ha por linderos de la una parte la esquina e de la otra casas de mari garçia la del falconero e tiene en la entrada un portalejo que ha en luengo quatro varas e media e en Ancho dos varas. Et ensomo una cosina de su tamaño Et luego tiene un patin. Et A la mano esquierda tiene un palaçio que ha en luengo çinco varas e media e en Ancho dos varas e media. Et ensomo tiene una camara de su tamaño. Et en fruente un portalejo. Testigos diego garçia Capellan e diego lopes omme de Cabilldo.
+
+(firmado) Ludovicus Luppi apostolico e ordinario notario.
+
+CH_AT_03_1492 
+
+OF 356  
+
+Ay en la otra terçera parte un portalejo en que ay quatro varas e media en largo e dos en ancho e ensomo una cosina de su tamanno con un soberado e corredores ensomo y luego en patin e a la manisquierda un palaçio en que ay ocho varas e media en largo e tres e media en ancho e ensomo una camara de su tamanno e dos corredores a la redonda en que ay en el defruente tres varas e dos terçias en largo tres en ancho e en el de la manderecha tres varas e dos terçias en largo e una en ancho. De que fueron testigos Diego de Obregon e Diego Serrano criados del dicho sennor Alvar Peres. (signé) Juan de Mayorga notario apostolico.
+
+Le 1/06/1484, le chapitre baille à Juan Rodríguez, albañil, fils de Francisco Rodríguez, albañil, et à Juana Rodríguez, sa femme, une maison ayant appartenu à Diego González, curé de S. Nicolás, à la Plaza del Seco, jouxtant une maison qui fut du même curé, maintenant louée à Alfonso de Toledo, sedero, fils d'Alfonso López, carpintero, une maison de (blanc) et la calle real que va a la dicha plaça, esta junta con la dicha plaça del Seco, pour la vie des deux et d'un fils ou d'une fille, chaque année pour 1.600 mrs. et quatre paires de poules, avec la caution de Pedro González de Huete, cardero.
+
+En 1460, Juan Fernández de Villaseca tient à cens du monastère de Sto. Domingo el Real, et de la religieuse María Rodríguez de Toledo, une partie de maison située à la colación de S. Miguel, en la cuesta de la Plaça del Seco, l'autre partie appartenant à Antón, neveu de ladite María Rodríguez, l'ensemble de la maison jouxtant une maison de Juan de la Serra, une maison d'Arias Díaz, capellán mayor de la chapelle de los Reyes, et la rue.
+
+SD-46, ANH Clero, Libro 15118
+
+Medidas de casas de Santo Domingo el Real de Toledo (1460)
+
+Tyene Johan Ferrandes de Villaseca a tributo infiteosyn del dicho monesterio e de Maria Rodrigues de Toledo monja del dicho monesterio una parte de casas en la collaçion de (une ligne de correction en bas de page: es emendado en esta plana o dis altura) /f° 13 r°/ Sant Miguell en la cuesta de la plaça del Seco, la qual parte alinda con la otra parte de las dichas casas de Anton sobrino de la dicha Maria Rodrigues e las dichas casas han por linderos de la una parte casas de Johan de la Serra e de la otra parte casas de Arias Dias capellan mayor de la capilla de los Reyes e la calle Real, en la qual dicha parte de casas con un palaçio el mayor como entran en las dichas casas a la mano derecha con un sotano debaxo del, en el qual palaçio ay siete varas en luengo e en ancho tres varas e el sotano de yuso es de boveda e ay en el en luengo siete varas e terçia e en ancho dos varas e terçia, tiene ma su parte de corral de las dichas casas e su entrada e salida, lo qual tyene a tributo por çiento e çinquenta mrs. cada anno para sienpre jamas.	cL ¯;. 
+
+Le Corral de la Carbonera. 
+
+Le 18/12/1463, Pedro de Samanes, escudero de l'évêque de Burgos, habitant de Burgos, au nom de sa belle-mère, Francisca López, veuve de Maestre Giralte, ensayador, habitante de Burgos (avec procuration de celle-ci, donnée à Burgos, le 28/11/1463), et en son nom propre, ainsi que Juana Díaz, femme d'Alfonso Gutiérrez, fils de feu Antón García, notario, vendent à Diego González, racionero, curé de S. Nicolás, une maison de la même Francisca López, située à la colación de S. Miguel, jouxtant de deux côtés des maisons de l'acheteur, de l'autre le Corral de la Carbonera, et la rue, libre de charges, pour 10.000 mrs. de la monnaie usuelle.
+
+Le four de San Miguel, à la Plaza del Seco.
+
+Le 8/11/1443, Antón González Castellano, sastre, a vendu à l'Hôpital de la Misericordia un cens de 900 mrs. sur des camaras «que estan junto con las sus casas e se mandan de partes (de) fuera», à la colación de S. Miguel, à la Plaza del Seco, jouxtant le four de San Miguel et une maison d'Alfonso González de Vozmediano et de ses frères (ou de ses héritiers), l'achat ayant été effectué avec les mrs. légués par le chanoine et bachelier Pedro Fernández. La maison a été ensuite tenue par la veuve et les héritiers d'Antón González, et vendue le 20/12/1448 à Juan González de la Puebla.
+
+Le 29/10/1468, Catalina Alvarez de San Juan, veuve d'Alfonso Alvarez, criado du chanoine et bachelier défunt Juan Alfonso, pour elle-même et au nom de ses enfants (et dudit Alfonso Alvarez), Alfonso, Pedro et Catalina, déclare que le chanoine mentionné avait laissé une maison, située à la colación de S. Miguel, jouxtant  le four de la Plaza del Seco, une maison de Diego de Torrijos, pedrero, une maison de Fernand Alfonso, racionero, tributaire au chapitre de 1.600 mrs., et avait légué 15.000 mrs. par son testament à Juan, fils d'Alfonso Alvarez, en laissant pour héritier universel cet Alfonso Alvarez. Sur quoi elle avait été en procès avec ledit Juan pour les 15.000 mrs. et avait été condamnée, par Alfonso Gómez, archiprêtre d'Escalona, à payer ces 15.000 mrs. En conséquence, elle vend à Diego González, racionero, curé de S. Nicolás, la maison mentionnée, pour Marina Alvarez, nièce du curé, femme de l'alcaide Juan de Figueroa, au prix de 18.000 mrs. de la monnaie usuelle.
+
+Le 30/03/1486, Diego de Figueroa et Juana de Salazar, son esposa, reconnaissent devoir à Juan de Contreras, neveu de Francisco de Contreras, 14.100 mrs. du prix de certaine marchandise, et ils hypothèquent spécialement la moitié d'une maison à la colación de S. Miguel, jouxtant une maison de Diego de Torrijos, pedrero, le four de la Plaza del Seco, et une maison où demeure Alfonso de Quemada, racionero.
+
+D'autres maisons à la Plaza del Seco.
+
+Le 3/05/1484, Antón de la Calleja, capellán de la chapelle des Reyes Nuevos, demande au capellán mayor de cette chapelle l'autorisation de faire donation à sa nièce, Juana de Escobar, d'une maison située à la Plaza del Seco, à la colación de S. Miguel, jouxtant une maison de Juan de Valladolid, mercador, une autre des héritiers d'Andrés de Magán, et la dite place et rue royale, avec la charge de 1.200 mrs. et trois paires de poules en faveur de cette chapelle, et Juana de Escobar, présente, effectue la reconnaissance.
+
+Le 12/08/1484, Rodrigo de Vargas, dans une affaire de commerce de savon qu'il traite avec Pedro Gallego, hypothèque une maison qu'il possède au dessus de la Plaza del Seco, jouxtant d'une part une maison de Juan de Hita, décédé,  de l'autre une maison de Francisco Díaz, pedrero, et de l'autre encore une maison de la mère du même Rodrigo de Vargas, et la rue royale.
+
+Le 24/07/1465, Francisco Díaz, pedrero, fils de  Cristobal Rodríguez, pedrero, passe un accord avec Gonzalo Fernández, pedrero, à propos du mur séparant leurs deux maisons, à la colación de S. Yuste.
+
+Le 16/11/1484, Diego Sánchez, carpintero, loue à Pedro de Toledo, tejedor de paños, la moitié d'une cámara de la maison où il demeure, à la Plaza del Seco, pour un an, depuis le 15/08/84, au prix de 12 réaux d'argent castillans (soit 372 mrs.).
+
+La Rehollada
+
+Le 10/01/1418, Martín Fernández de Magán, recuero, comme tuteur de Cristobal, fils de Juan Sánchez, podador, reconnaît un cens de 70 mrs. en faveur du monastère de Sta. Clara sur une maison, à la colación de S. Miguel, jouxtant une bodega de Francisco Fernández de Torrijos, une maison de García Fernández, albañil, qui résulte du partage de la précédente, une maison d'Alfonso Gutiérrez, maison qu'il a achetée pour ledit Cristobal de Domingo Fernández de Mazarambroz et Juana Fernández, sa femme.
+
+Le 31/12/1485, Juan de Segovia, tejedor de seda, reconnaît un cens de 70 mrs. au monastère de Sta. Clara sur une maison, située à la colación de S. Miguel, a la Rehoyada, jouxtant une maison des héritiers de Juan de Bonilla, une maison du curé de S. Pedro, qu'il a eue de Diego Sánchez.
+
+Le 13/10/1495, Pedro de Bonilla reconnaît un cens de 70 mrs. en faveur du monastère de Sta. Clara sur une maison située à la colación de S. Miguel, jouxtant une maison d'Alfonso García de Orgaz, el Romo, une maison de Marcos, corredor, et la rue, maison qu'il a achetée de Juan de Talavera, carpintero, vendant au nom de Pedro de Bonilla et Juana Díaz, sa femme, habitants de Cifuentes, qui la tenaient pour ce cens.
+
+Le 24/11/1526, Rodrigo de Luján, fils et héritier de Pedro de Bonilla et de Leonor de Luj́an, sa femme, tous deux défunts, reconnaît le cens de 70 mrs. sur la maison située à la colación de S. Miguel, a la Rehoyada, avec deux portes, l'une à la plazuela l'autre à  la Rehoyada.
+
+Le 13/07/1498, Antón de Palomares, tejedor de seda, comme curateur de Juan de Segovia et tuteur d'Alonso, tous deux fils de Juan de Segovia, décédé, et d'Inés Fernández, et la même Inés Fernández, veuve de Juan de Segovia, reconnaissent un cens de 70 mrs. en faveur du monastère de Sta. Clara, sur une maison située à la colación de S. Miguel, en la Rehollada, jouxtant une maison de Pedro de Bonilla, une maison de Lazaro García, et une maison des Beatas de S. Pedro, maison dont ils ont hérité par le décès de Juan de Segovia. Dans le partage qui en est résulté, Inés Ferná́ndez a eu une partie de la maison, avec charge de 30 mrs., Juan de Segovia et Alfonso, chacun une autre partie, avec pour chacun la charge de 20 mrs.
+
+

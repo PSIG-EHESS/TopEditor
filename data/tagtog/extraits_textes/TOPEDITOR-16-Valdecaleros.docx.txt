@@ -1,0 +1,414 @@
+La synagogue de Valdecaleros est mentionnée par plusieurs documents au cours des XIVe et XVe siècle, avec, en 1355, une maison localisée à  la colación de S. Salvador (sic), en Barrio de Caleros et jouxtant la sinoga de los judios, et en 1402, une maison, prise à cens par Juan González de Bonilla, pellejero, avec quatre tiendas au dessus, située à la colación de Santo Tomé, jouxtait la Xinoga de Barrio de Caleros. Cette synagogue reste identifiée comme telle durant le premier quart du XVe siècle, mais elle, ou son emplacement  aurait été achetée, en 1434 par l'archidiacre de Niebla, don Fernando Díaz de Toledo.  Et elle n’apparaît pas ensuite dans les documents du chapitre cathédral, ni en 1491-92, ni auparavant.
+
+Le 13/01/1328, le testament de Gonzalo Alfonso Cervatos, fils de don Alfonso Pérez Cervatos, lègue, sur le tiers de ses biens, à sa petite-fille, Beatriz, deux maisons et quatre tiendas, situées en Barrio de Caleros, avec interdiction de vendre.
+
+Le Barrio de Caleros, et la place du même nom, étaient située, en 1334, à la porte séparant l’Alacaba de la grande juiverie, c’est-à-dire entre l’une et l’autre juderías. Le 9 février 1334, Isabel Sánchez, qui était casera de Ruy García de Bargas, tutrice de García, son fils et celui dudit Ruy García, vend, avec autorisation de l'alcalde, à Per Alfonso, fils d'Alfonso Martínez Pantoja et de doña Teresa Pérez, commandeur de Villanueva de Lares, une maison située en Barrio de Caleros, jouxtant une maison dite del Pañolero, le corral de milia, une maison des religieuses de San Pedro, maison que Ruy García avait léguée à son fils, avec condition de ne pas pouvoir vendre ni aliéner, mais qui se trouvait en mauvais état, en grand danger de s'effondrer. Les experts ont constaté les dégats, avec notamment un trou dans un mur qui passait à la plaça de la porte de l'Alacaba. Le prix de la vente est de 1.100 mrs. de la monnaie blanche de 10 deniers le mri. La porte de l'Alacaba est celle de la grande juiverie enmuraillée donnant vers l'Alacaba, et non celle de cette dernière dont on sait qu'elle n'était pas close.
+
+En 1355, doña Inés, fille de don Alfonso Ibáñez et veuve de Juan Alfonso Carillo, vend à sa bru, Teresa Alfonso, fille de Diego González Daza, et veuve de son fils Fernand Ordóñez, une maison située à la colación de San Salvador, en Barrio de Caleros, jouxtant la synagogue des juifs et d'autre part, une maison ayant appartenu à Alfonso Gómez, criado de García Suárez de Meneses et alors d'Urraca Alfonso, sa fille, femme de Suer González, alcalde à Tolède pour Gonzalo Fernández, et les deux rues, pour le prix de 1.400 mrs. de la monnaie usuelle, de 10 deniers le mri. L'acheteuse déclare avoir acheté pour et avec l'argent de Tel Fernández, fils de don Ferrand Vicente.
+
+Le 9/10/1395, Gonzalo Díaz Pantoja, fiel mayor de Tolède, et Juana Díaz, sa femme, donnent à cens à Juan Rodríguez Montesino et Inés Rodríguez, sa femme, une maison, à la colación de Santo Tomé, à Barrio de Caleros, dite del Pozo, jouxtant une maison del mantero, une maison des bailleurs, pour 250 mrs. de vieille monnaie chaque année. Le 29 décembre 1396, dans un échange entre Gonzalo Díaz Pantoja, fils de Pedro Díaz Pantoja, et Juana Díaz, sa femme, d'une part, doña Urraca García Pantoja, sœur de Gonzalo Díaz, et religieuse à Santa Ursula, de l'autre, les premiers donnent une maison, située à la colación de Santo Tomé,  dans le Barrio de Caleros, dite las casas del pozo, jouxtant un terrain où ils ont commencé à faire une maison, une maison de Pedro Fernández, mantero, tejedor de mantas, et la rue, contre une heredad à la Zarzuela, au término de Maqueda.
+
+En 1469 (?), l'abbesse doña  Inés García de Cervatos et les religieuses de S. Clemente donnent à cens à Juan Maxes, platero, fils d'Alfonso González Maxes, une casa, avec la bodega située en dessous, localisée en Barrio de Caleros, à la colación de Sto. Tomé, jouxtant une maison des héritiers de Nicolás Gómez, tendero, et une maison de Gonzalo de la Plazuela, précédemment tenue par Pedro de Toledo, sastre, fils de Fernand Sánchez Toledano, qui en a fait abandon.
+
+Le 4/08/1484, Francisco de San Marcos loue à Alfonso de Yepes un palacio, une cámara et un sótano, à gauche en entrant, dans une maison où il demeure, située à Barrio de Caleros, dans la colación de S. Román, pour un an à partir du 15/08/1484, au prix de 20 réaux castillans
+
+Le torno de la seda, ou casa de la seda, à Valdecaleros, mentionné à partir de 1439 et jusqu'en 1491.
+
+En 1491, le chapitre cathédral détient à Valdecaleros trois possessions (CH_TO_01 à CH_TO_03), dont l’une (CH_TO_01) jouxte la maison du torno de la seda Nous ignorons tout sur ce tour de la soie. Au moins, de même que les nombreux noms de sederos attestés dans d’autres documents tolédans contemporains montre-t-il la réalité du travail de la soie dans la ville durant le XVe siècle.
+
+CH_TO_01
+
+Aljibillos, calle del  n° 7.
+
+CH_TO_01. En 1372, à Sto. Tomé, Alfonso Domínguez, tient la maison que tenait auparavant Jacob Pardo, pour deux ans, depuis le 15/08/1370, chaque année pour 60 mrs. Mais également à Sto. Tomé, Alfonso Domínguez tient une maison pour 300 mrs., dont il a payé 100 au titre du terme de Noël.
+
+CH_TO_01. En 1380, Abrahen Pardo et de sa femme, doña Sol, et Mose, anzolero, et sa femme Reina, tiennent, à Sto. Tomé, la maison que tenait auparavant Jacob Pardo, perpetuas, pour 150 mrs. par ań
+
+CH_TO_01. En 1391, Mosé, anzolero, et Reina, sa femme, tiennent la maison que tenait auparavant Jacob Pardo, perpetuas, pour 150 mrs. par an. En 1396, 1401, 1408, 1412, les titulaires de la maison sont Juan López, anzolero, et sa femme doña Sol, toujours en bail viager pour 150 mrs. par an, ce qui donne à penser qu’il s’agit des mêmes Mose et Reina, convertis durant les événements de 1391, ou peu après. 
+
+CH_TO_01. En 1408, apparaît la localisation à Barrio de Caleros de la maison que tenait auparavant Jacob Pardo, tenue par Juan López, anzolero, et doña Sol, pour 150 mrs. que paie María Alfonso, el ama, qui la tient, au double soit 300 mrs.
+
+CH_TO_01. En 1412, Juan López et doña Sol tiennent encore la maison, localisée à Barrio de Caleros, pour les 150 mrs. anciens, convertis en 300 de blancas.
+
+CH_TO_01. En 1417, Juan López et sa femme, doña Sol, tiennent la maison que tenait précédemment Jacob Pardo, à Barrio de Caleros, pour 150 mrs. viejos par an (300 mrs. de blancas). Ces mrs. sont payés par María Alfonso, el ama… (effectivement María Alfonso el ama a payé le premier tiers, Sol García les deux autres)
+
+CH_TO_01. En 1422, Alvar García et sa femme, doña Sol, et pour la vie de Pero González Zora Buena Díaz, ses fils, ont pris du chapitre la maison que tenait auparavant Jacob Pardo, à Barrio de Caleros, pour 300 mrs. de blancas, ou 150 mrs. de vieille monnaie.
+
+CH_TO_01. En 1439, la maison tenue auparavant par Alvar García de Illescas se trouve tenue par Juan Rodríguez, doncel, pour 1.331 mrs. depuis le 15 juillet 1438. Elle jouxte d'une part la roue de la casa de la seda, et d'autre part les coins de rues. 
+
+CH_TO_01. En 1443, sous Caleros, la maison que tenait Pedro González de Illescas a été baillée, perpetuas e por reparadas, le 25/01/1441, à don Salamón, judío, pergaminero,  pour sa vie et celle de sa femme, au prix de 1.340 mrs. de blancas et une paire de poules à Noël, avec la caution de Pedro García de Palencia, tejedor de sargas, et Juan González de Madrid, jubetero. En marge:  le 19/08/1443, la maison a été baillée à Nicolás Gómez, tendero, pour sa vie et celle de Marina González sa femme.
+
+CH_TO_01. Le 19/08/1443, le chapitre baille à Nicolás Gómez, tendero, et Marina González, sa femme, une maison située à la colación de (blanc) à Barrio de Caleros, jouxtant la casa dite de la seda de Pedro López de Ayala, et les coins des rues, vacante par abandon de Salamón, judio, pour 700 mrs. de vieille monnaie, ou le double de la monnaie à courir, avec la caution de Diego López, candelero, et de Diego de Sevilla, frutero. 
+
+CH_TO_01. En 1450 et 1465, la maison que tenait auparavant don Salamón, judío, reste depuis 1443, tenue par Nicolás Gómez, tendero, pour 700 mrs. de vieille monnaie, ou le double, et deux paires de poules, par an. Le 2/01/1471, le chapitre a autorisé la vente de la maison que tenait Nicolás, tendero, à Juan Sánchez, carpintero, avec la charge de 1.500 mrs. et quatre paires de poules.
+
+CH_TO_01. En 1491, la maison antérieurement tenue par Juan Rodríguez, doncel, est tenue à cens par Juan Sánchez, carpintero, pour 1.500 mrs. et quatre paires de poules. Elle jouxte encore las casas del torno de la seda et les coins de rues, et possède a quatre portes sur la rue.
+
+Ensuite la maison est divisée en trois. La première partie (CH_TO_01a) reste, avec la charge de 500 mrs. et une paire de poules, à Fernand Sánchez, fils de Juan Sánchez, qui fait reconnaissance le 27/09/1491. La deuxième partie (CH_TO_01b) revient avec la charge de 500 mrs., une paire de poules et deux tiers, à Juan Sedeno, carpintero, fils de Juan Sánchez, qui la vend, le 30/05/1494, avec licence du chapitre, à Diego de Mora, jubetero, qui fait reconnaissane. La troisième partie (CH_TO_01c) revient à Juana Sánchez, fille de Juan Sánchez, et sœur des précédents, qui fait reconnaissance le 27/09/1491. Cette division perdure en 1496.
+
+CH_TO_01_1439
+
+OF 356bis 
+
+Las casas que solia tener Alvar garçia de yllescas tienelas Juan rrodrigues donsel cada Año por preçio de mill e tresientos e treynta e un maravedis e tomolas en 15 de Jullio año de 38 Años.
+
+En 20 de Junio Año de 1439 Años fueron deslindadas estas casas por Juan dias rraçionero e mayordomo de la eglesia de toledo. Et ha por linderos de la una parte la rrueda de la cassa de la seda e las esquinas Et tiene quatro puertas A la calle. La prinçipal tiene en la entrada un patin e ha la mano de derecha un portal que ha en luengo syete varas e en Ancho quatro varas e ensomo una Açotea descobierta este portal tiene una de las dichas puertas a la calle e enfrente esta un palaçio que ha en luengo nueve varas e media en Ancho tres varas Et ensomo una camara de su tamaño. Et debaxo un sotano de su tamaño Et A la mano esquierda esta otro palaçio que ha en luengo seys varas e media e en Ancho tres varas e terçia Et a esta mano esta una camara con su puerta A la calle que ha en luengo seys varas e media e en Ancho tres varas e quarta e debaxo un sotano de su tamaño Et A la mano esquierda Junto con el dicho portal esta una casa con su puerta a la calle que ha en luengo dies varas e en ancho quatro varas e ensomo una camara de su tamaño. Testigos fernand alonso rraçionero e diego lopes omme de cabilldo.
+
+(firmado) Ludovicus Luppi apostolico ordinario notario. 
+
+CH_TO_01_1492
+
+OF 356 
+
+Las casas que solia tener Juan Rodrigues donsel, tienelas agora Juan Sanches carpintero a çenso perpetuo por mill e quinientos mrs. e quatro pares de gallinas. Han por linderos de la una parte las casas del torno de la seda e las esquinas e tiene quatro puertas a la calle./f° 77 v°/
+
+En dies e siete dias del dicho mes de mayor del dicho anno de noventa e un anno el venerable sennor Alvar Peres de Montemayor canonigo e vesitador de las posisiones de la santa yglesia de Toledo deslindo estas casas. La puerta prinçipal tiene a la entrada un portal que tiene seys varas en largo e quatro en ancho e luego un patin que tiene seys varas en largo e quatro en ancho e enfruente esta un palaçio que ha en luengo nueve varas e media e en ancho tres e ensomo una camara de su tamanno e un sotano debaxo de su tamanno, e a la mano ysquierda esta otro palaçio que ha en luengo seys varas e media e en ancho tres e terçia, a esta mano esta una camara con puerta a la calle que ha  en luengo seys varas e media e en ancho tres e quarta e debaxo un sotano de su tamanno e a la mano ysquierda junto con el dicho portal esta una casa con su puerta a la calle que tiene dies varas en largo e quatro en ancho e ensomo una camara de su tamanno e ensomo del primero portal una açutea descubierta de al tanto. Estas conçiertan con el libro viejo. Que fueron testigos Anton de Mesa criado del sennor Cristoval de Villaminaya e Diego de Obregon criado del dicho sennor Alvar Peres. (signé) Juan de Mayorga notario apostolico.
+
+CH_TO_02
+
+Aljibillos, calle del  n° 7.
+
+CH_TO_02. Le 28/01/1402, le chanoine Alfonso Martínez baille à Diego García, zapatero, criado de Juan Ramírez de Guzmán, et Marina Alfonso, sa femme, une maison avec des tiendas adjacentes, située à la colación de Santo Tomé, jouxtant des tiendas d’Alvar González de las Roelas, une maison de Juan Gaitán, une tienda du bendicho, et la rue, pour la vie de chacun des deux, au prix de 500 mrs. par an de la monnaie à courir.
+
+CH_TO_02. Le 24/05/1405, le chapitre baille à Diego García, zapatero, criado de Juan Ramírez de Guzmán, Marina Alfonso, sa femme, et Alvaro, leur fils, une maison située à Barrio de Caleros, jouxtant une maison de Lope Gaitán, des tiendas d'Alvar González de las Roelas, une maison où demeure le bendicho, pour leurs vies, au prix de 16 florins d’or d’Aragon par an, avec la caution de García Fernández, el bueno.
+
+CH_TO_02. En 1408 et 1412, la maison qui avait été d'Alfonso Martínez, bachiller, à Barrio de Caleros, est baillée depuis 1404, à Diego García, zapatero, criado de Juan Ramírez de Guzmán, à María Alfonso, sa femme, et Alvaro, son fils, pour 16 florins d'or d'Aragon par an. En 1408, les 16 florins ont été payés à 54 mrs. de la monnaie nouvelle le florin, soit 864 mrs. En 1412, chaque florin a été compté à 50 mrs.
+
+CH_TO_02. En 1417, la maison qui avait été d'Alfonso Martínez, bachiller, à Barrio de Caleros, a été baillée, le 11/02/1416, à Diego García, zapatero, et María Alfonso, sa femme, pour 300 mrs. viejos ou le double (600 mrs.) de la monnaie à courir, pour leur vie.
+
+CH_TO_02. En 1422, la maison qui avait été d'Alfonso Martínez, bachiller, à Barrio de Caleros, a été baillée, perpetuamente, à Diego García, zapatero, et Marina Alfonso, sa femme, pour 300 mrs. viejos, ou le double (600 mrs.) de blancas, depuis le 1/01/1416.
+
+CH_TO_02. Le 8/05/1436, le chapitre baille à Fernand González Pavón, arcador, et à Marina González, sa femme, de une maison et morada avec deux tiendas, située à Barrio de Caleros, dans laqualle il y a en bas deux palacios et comme un establo et en haut deux cámaras et deux andenes, jouxtant vers le haut une tienda d'Alfonso Sánchez de Jaén, et d'autre part une maison tienda ayant appartenu à Juan Gaitán, une maison tienda dite du Bendicho et maintenant de Pedro Alfonso, boticario, et la rue publique devant la porte, avec les actions contre Diego García, zapatero, ses biens et ses garants, en raison de la détérioration de la maison et des tiendas.
+
+CH_TO_02. En 1439, la maison, précédemment tenue par Diego García, zapatero, est tenue par Marina González, femme de Ferrand González Pavón, pour 682 mrs., depuis le 8/05/ 1436. Elle jouxte d'un côté une maison de Pedro Alfonso, jurado, et de l'autre une maison de don Simuel, tornero, et se trouve divisée en trois parties, avec chacune une porte.
+
+CH_TO_02. En 1443, la maison qui avait été  du chanoine Alfonso Martínez, bachiller, et que tenait aupa(avant Diego García, zapatero, a été baillée, perpetuas e por reparadas, le 8/05/1438, à Fernand González Pavón, arcador, et Marina González, sa femme, au prix de 341 mrs. viejos par an, ou le double (682 mrs.) de blancas, avec la caution de Juan Sánchez de Guadalupe, notario, et Juan López de Salamanca, pergaminero.
+
+CH_TO_02. En 1450, la maison qui avait été du chanoine Alfonso Martínez et que tenait auparavant Diego González, zapatero, est tenue depuis 1436 par Fernand González, arcador, et María González, sa femme, pour 341 mrs. de vieille monnaie, ou 682 mrs. de celle courante, par an, avec la caution de Juan Sánchez de Guadalupe, notario, et de Juan López de Salamanca, pergaminero. A une date non précisée, Marina González, à la place de son (premier) mari défunt, a donné la caution d'Alvar Ruiz, son (nouveau) mari.
+
+CH_TO_02. Le 22/12/1464, le chapitre baille la maison précédemment tenue par Alfonso Sanchez, cardador, et Marina González, à Pedro Sánchez Pavón et Catalina González, sa femme, pour la vie des deux, 2.000 mrs. courants et cinq paires de poules, avec la caution de Lope Pavón et Pedro Pavón, frères de Pedro Sánchez. Le 8/05/1465, Pedro Sánchez donne comme caution à la place de son frère, Juan Pavón, Alfonso de Gandía, pergaminero, et Juan de Burujón, tejedor de paños, fils de Pedro Martíndez de … . 
+
+CH_TO_02. En 1491, la maison que tenait auparavant Marina González, femme de Fernand González Pavón, est maintenant tenue par Pedro Sánchez Pavón e Catalina, sa femme, pour la vie des deux, au prix de 2.000 mrs. par an et 5 paires de poules, et jouxte d'un côté une maison de Gonzalo Hurtado e de l'autre une maison de doña Guiomar.
+
+CH_TO_02. Le 8/03/1492, Catalina, à la place de Pedro Sánchez Pavón, son mari défunt, donne la caution de son fils, Alfonso Pavón, odrero.
+
+CH_TO_02_1439
+
+OF 356bis 
+
+Las casa que solia tener diego garçia çapatero tienelas marina gonçales muger de ferrand gonçales pavon por preçio de seysçientos e ochenta e dos maravedis e tomolas en ocho dias de mayo año de 36 Años.
+
+En 20 de Junio año de 1439 Años fueron deslindadas estas casas por Juan dias rraçionero e mayordomo de la eglesia de toledo ha por linderos de la una parte casas de pero Alfonso Jurado e de la otra parte casas de don symu el tornero. Estas casas estan partidas en tres partes Et cada una dellas tiene su puerta A la calle Et la primera parte que es çerca las casas de pero alfonso Jurado tiene un portal en la ……… que ha en luengo tres varas e media e en Ancho dos varas Et Adelante un patin Et A la mano derecha del un palaçio que ha en luengo ocho varas e en ancho quatro varas Et ensomo una camara de su tamaño con sus andores. Et enfrente un palaçio que ha en luengo syete varas e terçia e en Ancho quatro varas Et ensomo una cosina de su tamaño con sus andores Et A la mano esquierda esta un establo que ha en luengo quatro varas e en Ancho dos varas e dos varas e quarta. Et ensomo esta una camara que toma la entrada de la puerta primera e de su tamaño. Et la terçera parte ha en luengo syete varas e en Ancho quatro varas Et ensomo tiene dos suelos uno sobre otro El primero es del tamaño del portal debaxo Et el segundo ha en luengo syete varas e en Ancho seys varas e dos terçias. Testigos ferrand alonso rraçionero e diego lopes omme de cabilldo.
+
+(firmado) Ludovicus Luppi apostolico ordinario notario. 
+
+CH_TO_02_1492
+
+OF 356 
+
+Las casas que solia tener Marina Gonçales muger de Ferrand Gonçales Pavon, tienelas agora Pedro Sanches Pavon e Catalina su muger por vida de anbos a dos por presçio de dos mill mrs. en cada un anno e çinco pares de gallinas, linderos de la una parte casas de Gonçalo Furtado e de la otra casas de donna Guiomar./f° 78 r°/
+
+En dies e siete dias del dicho mes de mayor del dicho anno de noventa e un anno el venerable sennor Alvar Peres de Montemayor canonigo e vesitador de las posisiones de la santa yglesia de Toledo deslindo estas casas, las quales estan partidas en tres partes e cada una dellas tiene su puerta a la calle. E la primera parte que es çerca las casas de Pedro Alfon jurado tiene un portal en la entrada que ha en luengo tres varas e media e en ancho dos varas e adelante un patin e a la mano derecha del un palaçio que ha en luengo ocho varas e en ancho quatro varas e ensomo una camara de su tamanno con sus andores e enfruente un palaçio que ha en luengo siete varas e terçia e en ancho quatro varas e ensomo una cosina de su tamanno con sus andores e a la mano ysquierda esta un establo que ha en luengo quatro varas e en ancho dos e dos terçias. La segunda parte ha en luengo seys varas e media e en ancho tres varas e quarta e ensomo esta una camara que toma la entrada de la puerta primera e de su tamanno. E la terçera parte ha en luengo siete varas e en ancho quatro varas e ensomo tiene dos suelos uno sobre otro. El primero es del tamanno del portal debaxo e el segundo ha en luengo siete varas e en ancho seys varas e dos terçias. Que fueron testigos Anton de Mesa criado del sennor Cristoval de Villaminaya e Diego de Obregon criado del dicho sennor Alvar Peres. (signé) Juan de Mayorga notario apostolico.
+
+CH_TO_03
+
+Valdecaleros, plaza de. N°2.
+
+La maison CH_TO_03, récemment léguée au chapitre par le curé de l’église de la Magdalena, ne se trouve pas d'abord indiquée dans le Libro de Medidas de casas de 1491-92, mais est ensuite ajoutée
+
+CH_TO_03. Le 11/04/1491, la maison que tenait auparavant Isabel Rodríguez de Gálvez, femme de Diego de Valcarcel, est baillée à Alfonso Pérez de San Ginés, pour sa vie et celle de sa femme, Catalina de (Enetrana ? sans doute pour Llerena) et d'un fils ou d'une fille, au prix de 5.000 mrs. et dix paires de poules, avec la caution de Francisco Fernández de Toledo, trapero.
+
+CH_TO_03. En 1491, la maison laissée au chapitre par le curé  de la Magdalena, est tenue par Alfonso Pérez de San Ginés au prix de 5.000 mrs. et 10 paires de poules, pour sa vie et celles de sa femme et d'un fils. Elle jouxte d'un côté une maison de Juan de San Pedro et de l'autre une maison d'Alfonso de Herrera.
+
+CH_TO_03. Le 4/07/1497, Alfonso de San Ginés, pour lui-même et au nom de Catalina de  Llerena (de Lerena, ou del Erena), sa femme, a fait abandon de la maison qu'ils tenaient au prix de 5.000 mrs. et dix paires de poules, et le chapitre a baillé la maison à Pedro de la Peña, pour sa vie et celle d'un fils ou d'une fille, avec la condition que si Alfonso Pérez a des enfants de Catalina de Llerena, Pedro de la Peña aura la maison pour sa vie et celles de Guiomar de Uceda, sa femme, et d'un fils ou d'une fille à désigner par eux, au même prix de 5.000 mrs. et 10 paires de poules, avec la caution de Diego de León.
+
+CH_TO_03_1492
+
+OF 356 
+
+Las casas que dexo el cura de la Madalena al cabillo, tienelas agora Alfon Peres de Sant Gines por presçio de çinco mill mrs. e dies pares de gallinas por vida suya e de su muger e de un fijo. Ha por linderos de la una parte casas de Juan de Sant Pedro e de la otra parte casas de Alfonso de Ferrera.
+
+En este dicho dia dies e siete de mayor de noventa e un anno el dicho sennor Alvar Peres de Montemayor vesitador suso dicho deslindo estas casas e fallose en ellas en la entrada un portal en que ay dies varas en largo e tres en ancho con un soberado ensomo de al tanto e una vara mas de ancho que vuela a la calle e a la mano ysquierda tiene un palaçio en que ay trese varas e media en largo e tres e media en ancho e un portal delante del en que ay siete varas en largo e dos en ancho con una camara e un portal ençima de su tamanno e debaxo del palaçio ay un sotano que es establo de su tamanno e frontero de la puerta otro palaçio en que ay nueve varas en largo e quatro en ancho con un portal delante de la puerta en que ay ocho varas e media en largo e una e media en ancho e debaxo del dicho palaçio un sotano de su tamanno e ensomo un soberado de al tanto del palaçio e portal e a la mano derecha un portal con su lugar de tinajas en que ay çinco varas en largo e dos en ancho con otro portal sobrello de su tamanno. De que fueron testigos los dichos Anton de Mesa e Diego de Obregon. (signé) Juan de Mayorga notario apostolico. /f° 78 v°/
+
+Des maisons de l'archidiacre de Niebla à Barrio de Caleros.
+
+Le 17/08/1433, dans un échange réalisé entre les religieuses de S. Clemente et Diego Alfonso de Palma, comme procureur de Fernando Díaz de Toledo, archidiacre de Niebla, les premières reçoivent une maison située à Barrio de Caleros, jouxtant d'un côté une maison du judío tornero, et de l'autre une maison du même archidiacre de Niebla, et la rue, contre une maison située à la colación de S. Román, près de S. Pedro Mártir, et 300 mrs. de cens sur une autre maison jointive.
+
+Le 21/03/1441, on mentionne, à Barrio de Caleros, une maison qui est maintenant de l'archidiacre de Niebla, et en 1460 une maison qui fut de l'archidiacre de Niebla, à la Judería, comme confront d'une même maison de Sto. Domingo el Real, ainsi que le cobertizo du même archidiacre. 
+
+Les maisons de Santo Domingo el Real, à Barrio de Caleros, jouxtant la synagogue.
+
+Becerro de SDR
+
+Siglo XVI
+
+p. 347 una casa en barrio caleros
+
+alinde con casa de johan de ecija fustanero y sor agora de alvaro de San Martín tributario
+
+de otra con casa y tiendas del dicho monasterio que son en la calzada barrio de Caleros y algunas de ellas viene encima de estas dichas casa y la calle real, tiene johan de fuente jubetero y aldoneza Rodríguez su mujer 900 mrs.
+
+legaron por urraca Téllez luego a la priora en pago de cierta mrs solia tener diego lopez de orgaz zapatera y después las compra alonso alvarez fuensalida lencero
+
+p. 347
+
+“ y agora de alinda tributario del hospital de la misericordia casas y tiendas del dicho monasterio que son en la calzada barrio caleros y algunas de ellas viene encima de ellas y la calle real.
+
+La tercera casa de la dicha calzada alinde a las espaldas alinda con la plaza que es delante de las casas del conde de Cifuentes que fueron del arcediano de niebla y otra parte la calle real, encima de las casas que tiene Juan de Fuentes jubetero que estan…”.
+
+p. 348
+
+1488/ 1492  hizo troque entre el monasterio de una parte y de la otra el señor don juan de silva conde de cifuentes y la condesa doña catalina de Toledo su mujer, al monasterio dio 900mrs. de tributo de la casas que tenia Juan de fuente jubetero ademas 
+
+600mrs diego lopez … 		latonero
+
+900mrs. ferrand de Ayala baldreso
+
+2 950mrs, 7 pares de gallinas al conde diese 3 600mrs. porque la dicha casa 
+
+estaban en logar peligroso junto aon las casas principales del dicho señor conde estuvieron en peligro de los
+
+1508
+
+p. 349 (Santo Tome)
+
+una casa en la collación De Santo Tome a barrio de caleros
+
+una de las tres casas que estan en la calzada en la calle que va a alas casas del Conde de Cifuentes que fueron del arcediano de Niebla la cual dichas casas son al esquina de la dicha calzada que hace la calle que va hacia la iglesia de San Salvador
+
+trib. Diego Lopez hijo de Garcia de Toledo caboneros alinda con la dicha esquina y de la otra con casa del dicho monasterio… e viene encima de la casa suso escrita que tiene Johan de fuentes jubetero
+
+¿?? Al monasterio de sor Teresa Téllez Palomeque mayor – titulo Isabel Lopez, 160 mrs. al año 1505 quedaron
+
+p. 351 barrio de caleros
+
+casa de medio de la dicha calzada alinda con diego lopez y otra casa del dicho monasterio que tiene fernando de Avila baldresero y con la calle eal por precio de 500mrs.
+
+de sor Teresa Téllez Palomeque después el monasterio dío a Teresa Alvarez de Orellana madera y david aria judios y después daba en alquiler después…… pergaminero 1472
+
+1482 el carta con el monasterio dia a don david sastre judio 1441 por 260 mrs. i gall
+
+david adesin judio sastre 1464
+
+P.353
+
+Barrio de Caleros. Tres casa de la dicha calzada alinda con las casas descripta  tiene Garcia de Toledo latonero y las espaldas con la plaza de las casa de Conde de Cifuente que fueron del archediano de Niebla y otra con la C. Real y viene estas casas encima de las casa que tiene Juan fuente Jubetero que estan escrit en este libro.
+
+Le 3/09/1402, Mencía García, fille de Juan García, et veuve de Juan Fernández, platero, religieuse à Santo Domingo el Real, donne à cens à Juan González de Bonilla, pellejero, une maison et quatre tiendas au dessus d'elle, situées, à la colación de Sto. Tomé, à Barrio de Caleros, jouxtant  une maison de Juan Martínez Sevillano, curtidor, la synagogue (la xinoga) de Barrio de Caleros, et les rues, au prix de 700 mrs. par an de la monnaie à courir.
+
+En mai 1418, la prieure et les religieuses de Sto. Domingo el Real réalisent un échange avec Pedro Díaz Alhavete, concernant une maison et trois tiendas, situées dans le Barrio de Caleros, jouxtant la synagogue, et appartenant à sœur Mencía García de Toledo et soeur Urraca Téllez, sa sœur.
+
+Le 21/03/1441, Juan González Pericón, majordome de Sto. Domingo el Real baille à don Davi de Guadalajara, sastre, juif, unas camaras casa tienda con su portada, situées en Barrio de Caleros, à la colación de Sto. Tomé, antérieurement tenues par Juan González de Mora et María González, sa femme, jouxtant de deux côtés des maisons et tiendas du même monastère, la maison qui est maintenant de l'archidiacre de Niebla, et la rue, à trois vies, chaque année pour 260 mrs. et une paire de poules.
+
+En 1460, le monastère de Sto. Domingo el Real possède une maison, a la Juderia, tenue par don Davi, sastre, pour sa vie, celles de sa femme et d'un fils ou d'une fille, pour 260 mrs. et une paire de poules, jouxtant celle tenue par María González, panadera, et vers le haut la maison qui fut de l'archidiacre de Niebla, venant sur la maison de Diego López de Orgaz.
+
+
+
+
+un palacio el frontero como entran en ellas como un retrete dentro y dos ccamaras de dicho palacio y la boveda de las dichas casas”
+
+1455
+
+1467 Tesorero Alonso… vendio a Maria Rebel el tributo”
+
+p. 405
+
+“en San Roman y al alacava dentro en el adarve que dicen de golondrinos.. que esta junto con ellas que tiene su puerta por si…
+
+alinda ppor una parte con casa de francisco de consolación cordonero tributario al Hospital de la Misericordia… otra con casas principales y con unas almacerías de pedro Jarada mercador y con la calle del dicho adarve… 1008mrs.”
+
+p. 407 año 1509
+
+“al alacava dentro en el adarve que dicen de los golondrinos la cual tiene alfonso perez Golondrino 1050mrs. Alinda con casa de herederos de francisco de consolación tributario hospital de la Misericordia y casa de … Prado y con trascorral de Diego Lopez Moyano platero… ”
+
+año 1541
+
+Moyano francisco lopez moyano vendio al bachiller Cristóbal de espinosa clerigo unas casa que susa eal adarve de las golondrinos 1050mrs”
+
+Il semble qu'en 1488 une maison appartenant à Lope de Acre et située dans l'Adarve de los Golondrinos jouxte un corral qui était auparavant une synagogue (que solia ser sinagoga de los judios). Mais le document utilisé est plutôt confus
+
+En 1500, Alfonso de Illescas, mercador, et sa femme, Juana Díaz de Pineda, reconnaissent un cens en faveur de deux religieuses de Santo Domingo el Real, pesant sur une maison achetée par eux, à la colación de San Roman, dans l'adarve de los Golondrinos, jouxtant la calle del dicho adarve.
+
+En 1499, une maison située dans l'Alacaba, à S. Román, appartenant à Alonso Pérez Golondrino, jouxtant d'une part une maison de Francisco Fernández Golondrino, son frère, et de l'autre l'Adarve del Sordo et la rue, paie 1.000 mrs. de tributo au chapitre des curés et bénéficiers de la ville
+
+Maria Ortiz
+
+Casa al alacava en el adarve de los golondrinos  linda casa de los herederos de Francisco de la consolacion trib al Hosp de la Miseric. Y otras de Gutierre Pardo  pagaron Alfonso Perez Golondrinos  en 1500  el vendo la casas a Alfonso Martinez de Yepes curas  y despues lo vendo a Francisco Lopez Platero  
+
+Despues en 1541 lo vendo a Bachiller cristobal de Espinosa 
+
+Despues Martin ni~õ 
+
+Cristobal de Mora 
+
+ Fernando de la parra    en 1638 era Francisco Pablo ynza
+
+La plazuela de l'Alacaba, bordée de bodegas.
+
+Le 9/12/1433, Juan González Lanero, fils de Gutierre González Lanero, vend à Fernand González Husillo une maison située à la colación de San Roman, avec des chambres et un sotano, jouxtant une maison de son frère, Manuel González Lanero, et une autre de Juan González Sorje, localisées a la plazuela de l'Alacaba. 
+
+Le 5//09/1439, il a été acheté pour l'Hôpital de la Misericordia, avec les mrs. de l'archidiacre don Vasco Ramírez, un cens de 350 mrs. pesant sur des almazreas et un sótano en dessous, dont la porte donne sur la rue, à la colación de S. Román, sur la plazuela de l'Alacaba. Selon un autre document, ce sont 330 mrs. qui ont été achetés, en 1439, avec l'argent de l'archidiacre, sur des almacerias et un sotano en dessous d'elles, avec la porte sur la rue, situées à la colación de S. Román, à la Plazuela del Alacaba, jouxtant d'une part une maison de Juan García de la Higuera, et de l'autre une maison de Sancho González, et la rue. Vers 1450, la maison est tenue par Juan Rodríguez de San Miguel, el mozo, depuis 1446.
+
+Vers 1450, l'Hôpital de la Misericordia possède 200 mrs. de cens qu'il a achetés, en 1437, sur une maison située à la colación de S. Román, dans l'Alacaba, jouxtant une maison des héritiers de Fernand González Mecina et une maison de Manuel González Lanero, et la rue, la maison étant alors tenue par Gutierre García Havete.
+
+Vers 1450 encore, l'Hôpital de la Misericordia possède 250 mrs. de tributo, achetés en 1446, de Juan González de la Rúa et Inés González sa femme, sur une maison située à la colación de S. Román, à l'Alacaba, jouxtant une maison de Fernand González Alfandari, trapero, une maison de María González, la brosladora, et la rue. Selon un autre document de l'hôpital, la maison est située à la Plazuela del Alacaba
+
+Le 25/11/1458, dans un échange entre les monastères de Santo Domingo el Real et de Santa María del Carmen, le second donne au premier des cens pesant sur deux maisons, situées à la colación de San Roman, à la plazuela de l'Alacaba, dont la première est tenue pour 345 mrs. par Fernand Martínez de Toledo, escribano del rey, jouxtant d'un côté une maison du jurado Juan Núñez, promutor, tributaire à Sto. Domingo el Real et de l'autre une maison du juif don Mayr Ardutel.
+
+Becerro de SDR
+
+Siglo XVI
+
+Fol. 301r: Aqui comiença la collaçion de Sant Roman.
+
+Sant Roman
+
+Ynes franca
+
+Unas casas en esta dicha çibdad de toledo en la collaçion de sant Roman Al alacava en la plaçuela de la dicha alacava que disen la plaçuela del promotor las quales dichas casas tiene a çenso ynphiteosyn para siempre jamas la muger e herederos de iohan de madrid mercador vesino de toledo por quatroçientos maravedis cada Año para siempre jamas... las quales dichas casas alindan de la una parte con casas de .................................... (espacio en blanco) que fueron de don mayor Ardune? Judio e de la otra parte con casas que fueron de ferrand martinez procurador que solian ser tributarias al dicho monesterio de santo domingo el Real e Agora son tributarias al monesterio de santa maria del carmel (sic) por que gelo dio en troque el dicho monesterio de santo domingo por otro tributo e de las otras partes alindan con las calles Reales este tributo fue de soror ynes franca monja profesa del dicho monesterio que dios aya que se conpro de dineros suyos que le dio el thesorero pedro franco su padre que dios aya e conprose del comendador alfonso de caçeres e de doña marina de Rojas su muger e teniendo el monesterio este tributo le dio e señalo con otros tributos a la señora doña maria de toledo monja profesa del dicho monasterio que dios aya en pago de los maravedis de su dote que le dieron los señores pero suares de toledo señor de galves e doña Juana de guzman sus padre e madre los quales maravedis el convento tomo para la lavor de las Alcayçerias, e solia tener estas casas a tributo iohan Nuñes promutor Jurado et despues las tomo mayor lopes muger de alonso gonçales de la plaçuela e despues se tornaron al dicho iohan Nuñez Jurado el qual las dio a aldonça Nuñez su fija e a gonçalo Rodrigues de madrid Notario su marido los quales las vendieron al dicho iohan de madrid mercador e las tienen Agora la dicha su muger e herederos e con condiçiones de diesmo e comiso a dos años.
+
+Becerro de SDR
+
+Siglo XVI
+
+p. 393
+
+“plazuela de la alacava, dicen plazuela de… (promodor)
+
+alinde (blaco)
+
+feran martinez procurador”.
+
+En 1447, doña Mencia de Fuensalida, veuve de Pedro Gómez Barroso, donne à cens à Martín García Arroyal, fils de feu Gutierre García Arroyal, un cellier voûté, avec son équipement vinaire (una bodega fecha de boveda de froga, con su lagar e viga e piedra e pertrechos), à la colación de San Roman, jouxtant notamment une autre bodega et la calle e plaça publica del Rey. En 1450, la même dame donne le cens aux frères du couvent de San Pedro Martir, afin qu'ils disent un anniversaire pour l'âme de doña Teresa de Barroso, sœur de Pedro Gómez. En 1455, les frères de San Pedro Martir accensent à don Mayr Ardutel, juif morador à Tolède, la bodega située à la colación de San Roman en la plaça del Alacava, et jouxtant notamment la bodega des héritiers de Gutierre García Arroyal. En 1492, Alfonso de Córdoba, fils de Juan de Córdoba, sedero, reconnaît le cens sur la bodega qu'il a achetée d'Ysaque Ardutel. En 1500, Alfonso de Carrión, sedero, reconnaît à son tour le cens sur la bodega avec son cellier et appareillage, située à la colación de San Roman en la plaçuela dite de l'Alacava», qu'il a achetée d'Alfonso de Córdoba, sedero.
+
+En 1460, Juan Núñez, promutor, jurado, tient à cens pour 400 mrs. par an, du monastère de Sto. Domingo el Real et de la religieuse Inés Franca, une maison située à la plazuela de l'Alacaba, à la colación de San Román, jouxtant d'un côté une maison du juif Mayr Ardutel, et de l'autre une maison de Ferrand Martínez, escribano, tributaire au monastère d'el Carmen, et les rues des deux côté.
+
+En la plazuela que llamanban del Promotor y lindaban parte con otra casas de Mair Artudel  y de la otra casas de Ferrand Martinez Procurador  que tambien fuero trib. Del Convento 
+
+En 1595 dio dichas casas a Fernando de Villareal  
+
+ Plazuela de Villareales lindaba casa de Gorje nuñez Portuges y hacia esquina a una callejuela que baja a dar a la prteria de San Francisco de San Juan de los Reyes  en 1647 
+
+Se a caido en Maria de Villalpando trib. 
+
+SD_ AY_84_1460 
+
+SD-84, ANH Clero, Libro 15118
+
+Medidas de casas de Santo Domingo el Real de Toledo (1460)
+
+Primeramente unas casas en la plaçuela del Alacava en la collaçion de Sant Roman, las quales tyenen a tributo e de Ynes Franca monja del dicho monesterio Johan Nunnes promutor jurado por quatroçientos mrs.  cada anno, que han por linderos de la una parte casas de Mayr Ardutel judio e de la otra parte casas de Ferrand Martines escrivano tributarias al monesterio del Carmen e de las otras dos partes las calles, en las quales ay en la entrada desta casas un portal en que esta un lugar de tinajas e el escalera en que ay nueve varas e media en luengo e dos varas en ancho, e este portal esta doblado e una açutea ensomo de la dicha anchura/f° 28 r°/e largura. Yten ay una quadra como entran a la mano derecha en que ay en luengo çinco varas e media e en ancho quatro varas e media e tiene una camara ensomo de la dicha anchura e largura, Yten un portal frontero de la entrada en que ay en luengo quatro varas e terçia e en ancho tres varas e dos terçias e tyene este portal debaxo un sotano e ensomo una camara de la dicha anchura e largura. Yten ay mas un palaçio a la mano ysquierda en que ay de luengo dies varas e de ancho tres varas e tiene ensomo este dicho palaçio una camara de la dicha anchura e largura e ensomo de la camara una açutea cubierta con sus pilares de la dicha largura e anchura e en el patyn desta casa ay en luengo quatro varas e en ancho tres varas e media e su alto fasta el çielo.	cccc ¯;. 
+
+Le 8/12/1435, Juan González de la Cava, fils de Juan Martínez, et Aldonza González, sa femme, vendent au chanoine  don Fernando Díaz de Toledo, une maison située à la colación de S. Román, jouxtant une maison de Pedro Rodríguez de Canales, une maison de Diego Fernández, lencero, et une bodega de Gutierre García Arroyal, au prix de 4.000 mrs. de la monnaie usuelle, dont deux blancas font un mri. Le 9/12/1435, le docteur Fernando Díaz denToledo, archidiacre de Niebla et d'Algeciras,  donne la maison à cens aux deux vendeurs précédents, pour 205 mrs. par an de la monnaie à courir. Le 10/02/1436, le même Fernando Díaz de Toledo, donne ces 205 mrs. de cens dans un échange avec le monastère de Sto. Domingo el Real. Le 16/05/1436, Aldonza González, veuve de Juan González de la Cava, fait reconnaissance de ce même cens au monastère de Sto. Domingo el Real.``
+
+Casas al Alacava linda parte casas de los Pilos y de la otra casas de Joan de la Cava  y con la calle publica  en 1507  
+
+Estaba en la plazuela que llamanban de la Cava entrando por ella enfrente a una rinconada que hace adarve y havia dos casas y hera la mano derecha  1646
+
+Becerro de SDR
+
+Siglo XVI
+
+Fol. 303r: Sant Roman.
+
+Catalina Rodriguez e doña maria de toledo
+
+Unas casas en esta dicha çibdad de toledo en la collaçion de la eglesia de sant Roman Al alacava que alindan de la una parte con casas de los pilos e de la otra parte con casas de iohan de la cava? e con la calle las quales dichas casas tiene a çenso ynphiteosyn Anton de la cava platero vesino de toledo por dosientos maravedis cada Año... esta posesyon se ovo e quedo al convento de catalina Rodrigues hermana de miguell Rodrigues que se ovo este tributo a troque de unas casas suyas et despues teniendolo el convento dio e señalo este tributo con otros tributos que estan en este libro a la señora doña maria de toledo monja profesa del dicho monesterio que dios aya en satisfaçion de los maravedis de su dote que le dieron los señores pero suares de toledo señor de galves e doña Juana de gusman su muger sus padre e madre los quales maravedis tomo el convento para la lavor de las Alcayçerias, las quales dichas casas solia tener por los dichos dosientos e çinco maravedis de tributo Aldonça gonçales muger de iohan gonçales de la cava que dios aya et por su fin ovo e heredo la una terçia parte dellas con cargo de la terçia parte del dicho tributo catalina Rodrigues muger de iohan Rodrigues de la cava fija de la dicha Aldonça gonçales e madre del dicho Anton de la cava e las otras partes de las dichas casas con cargo de las otras dos terçias del dicho tributo ovo e heredo marina lopes fija de la dicha Aldonça gonçales e muger de iohan de sevilla, et en XXIX dias de agosto año de 1492 ferrand garçia de molina vesino de talavera por sy e en nonbre de guiomar Nuñes su muger fija de la dicha marina lopes e del dicho iohan de sevilla su marido e en nonbre de las otros herederos de la dicha marina lopes pidio liçençia para vender las dichas partes de las dichas casas con cargo de las dichas dos terçias partes del dicho tributo a la dicha catalina Rodrigues madre del dicho Anton de la cava e al dicho Anton de la cava e A alfonso de la cava su hermano por 12.400 maravedis...
+
+Las escripturas e titulos que Ay desta posesyon
+
+Una carta en pergamino de commo iohan de la cava e aldonça gonçales su muger vendieron al dotor ferrando dias de toledo arçediano de niebla e de algesira las dichas casas por 4.000 maravedis fecha a VIII dias de disienbre año de 1435 años...
+
+Otra carta en pergamino commo el dicho Arçediano dio a çenso ynphiteosyn las dichas casas a los dichos iohan gonçales de la cava e aldonça gonçales su muger por dosientos e çinco maravedis... (1435).
+
+Otra carta en pergamino de troque e cambio entre el dicho monesterio et el dicho arçediano de niebla en quel dicho Arçediano dio al monesterio los dichos dosientos e çinco maravedis de tributo quel monesterio le dio en unas casas a baldecaleros que tenia iohan gomes de yepes çapatero fecha A X dias de febrero año de 1436 años...
+
+SD_ AY_85_1460 
+
+SD-85, ANH Clero, Libro 15118
+
+Medidas de casas de Santo Domingo el Real de Toledo (1460)
+
+Yten otras casas en la dicha collaçion de Sant Roman al Alacava, que tiene a tributo infiteosyn del dicho monesterio Aldonça Gonçales muger de Johan Gonçales de la Cava por dosientos e çinco mrs. cada anno, que han por linderos de la una parte casas de Johan Gonçales Palo e de la otra parte casas de Johan de la Cava e la calle, en las quales dichas casas ay en el patyn seys varas e media en luengo e en ancho seys varas e a la mano derecha como entran en las dichas casas esta un palaçio en el qual ay en luengo dies varas e en ancho tres varas e terçia e tiene ençima una camara desta mesma anchura e longura. Yten tyene un portal çerca del dicho palaçio con un lugar de tinajas en el qual ay en luengo çinco varas e en ancho tres varas e en este portal esta una cueva que entra debaxo de las casas que tiene Payo Correa del dicho monesterio que se mandan por el adarve del Sordo, en la qual cueva ay en largo dose varas e terçia e en ancho quatro varas, e ençima deste portal esta otro portal vano que es corredor de la dicha anchura e largura. Yten ay otro palaçio frontero como entran en que ay en luengo seys varas e terçia e en ancho tres varas e este palaçio tiene ençima una camara de la mesma anchura/f° 28 v°/e largura del dicho palaçio e ençima de la camara una açutea cubierta sobre pilares de la dicha anchura e gordura. yten ay mas en el dicho portal de casa baxo e del escalera una cosina en que ay trs varas en luengo e en ancho dos varas e dos terçias e tiene su altura fasta el çielo.
+
+Maria Rebel 
+
+San Roman  al alacava
+
+Fueron de Gomez fernades Golondrinos  linda casa que fueron  del mismo trib de Sdviejo  con casas de de la muger de Pedro de Toledo  y con la calle real. 
+
+ 1599 
+
+Pedro Fernandez Golondrinos  350mrs 
+
+En 1549 Pero lopez Usillo e Mayor Alvarez su muger
+
+En 1571 se demole las viviendas alta dejando solo las bajas  con las hoy se subsiste  Tiene el nombre de la casa de las golondrinas.  A las bulas viejas. 
+
+En 1770 pertenece a Agustina de Cisneros 
+
+Becerro de SDR
+
+Siglo XVI
+
+p. 395
+
+casa en la colación de san Roman en la alacava que alinda de una parte con casas de los pilos y de la otra parte con casa de johan de la cava y con la calle… tiene a censo Naton de la Cava platero por 205mrs.
+
+Johan Gonzalez de la Cava y aldonzo gonzalez su mujer vendieron al doctor ferrando diaz de toledo arcediano de Niebla y algecira la dicha casa por 4 000mrs. 8diciembre 1435
+
+Troque y cambio entre el dicho monasterio y el dicho arcediano de Niebla en que el dicho arcediano dio al monasterio 205mrs. de tributo de la dichas casas por otro 200mrs. de tributo que el monasterio le dio unas casas en Valdecaleros que tenia johan gomez de yepes zapatero fecha 10 febrero 1436
+
+p. 396
+
+En 1460, Santo Domingo el Real possède une maison, à la colación de San Román, à l'Alacaba, tenue à cens par Aldonza González, femme de Juan González de la Cava, pour 205 mrs. par an, jouxtant d'un côté une maison de Juan González Palo e de l'autre une maison de Juan de la Cava, et la rue. La description de la maison mentionne une cave qui se trouve sous la maison que Payo Correa tient du monastère et qui est desservie par l'Adarve del Sordo.
+
+SD_ AY_86_1460 
+
+SD-86, ANH Clero, Libro 15118
+
+Medidas de casas de Santo Domingo el Real de Toledo (1460)
+
+Yten otras casas en la dicha collaçion de Sant Roman en el adarve que disen del Sordo, las quales tyene perpetuas del dicho monesterio e de Ysabel Garçia de Orellana monja del dicho monesterio Payo Correa por quinientos mrs. cada anno, que han por linderos de la una parte las dichas casas de Aldonça Gonçales muger de Johan Gonçales de la Cava que tiene a tributo del dicho monesterio que son en el Alacava e de la otra parte casas de la muger de Ferrand Gonçales Fandary Baladron e el dicho adarve, en las quales dichas casas ay luengo tras la entrada a la mano derecha como entran un establo en que ay en luengo quatro varas e media e dos varas en un entresuelo que esta para pajar… seys varas e media e en el establo ay de ancho dos varas e quarta e en el entresuelo de ancho vara e media e ençima deste dicho establo esta otro entresuelo que es de la mesma anchura del dicho establo que es quatro varas e media e dos varas e quarta de ancho e el otro suelo de arriba es de otras casas de Estevan Rodrigues tannedor. Yten la entrada desta casa do esta la puerta del establo ay en el portal en luengo tres varas e media e en ancho una vara e dos terçias e dende en adelante va el dicho portal fasta la entrada de la casa que esta descubierta en que ay en luengo seys varas e en ancho dos varas e media e la camara que esta ençima desta entrada es de otra casa del dicho Estevan Rodrigues tannedro, e luego esta un patinejo descubierto que es entrada para las dichas casas e para la cosina en que ay en luengo tres varas e en ancho dos varas e media, e luego frontero del dicho portal e entrada esta una cosina en que esta un poso manantial en la qual dicha cosina ay en luengo quatro varas e en ancho tres varas e tres quartas e esta [en bas de page: je ne peux pas lire sur la photocopie]
+
+/f° 29 r°/sensilla pero el çielo de arriba es desta dicha casa e luego a la entrada desta dicha cosina ay de ancho dos varas e dos terçias por que entra en ella un esquina de un palaçio de las casas de Martin Gonçales espeçiero. yten ay una entrada para entrar al patyn de las dichas casas que ay en el en luengo tres varas e siete ochavas e en ancho una vara e dos terçias. Yten a par desta entrada esta un palaçio como entran a la mano ysquierda en que ay en luengo siete varas e quarta e en ancho dos varas e dos terçias e tiene este dicho palaçio una camara ençima desta dicha anchura e largura e quanto el dicho palaçio e la entrada del patyn. Yten ay otro palaçio pequenno en medio en que ay con la gordura del escalera çinco varas e media en luengo e en ancho tres varas e ençima deste palaçio esta una camara de la dicha anchura e longura con lo que toma la escalera. Yten ay mas otro palaçio frontero como entran en que ay en luengo seys varas e tres quartas e en ancho tres varas e dos terçias e ençima deste dicho palaçio ay otra camara de la dicha anchura e longura del dicho palaçio. Yten ay un portal luego a la entrada con un lugar de tynajas en que ay en luengo çinco varas e en ancho una vara e dos terçis e ençima un corredor de la dicha largura e anchura e este patyn e palaçio e con las camaras e cosina sube fasta el çielo, a lo qual estovo presente el dicho Payo Correa.	d ¯;. 
+
+Le 16/1/1456, Alfonso de Cáceres, commandeur de Campo de Criptana dans l'Ordre de Santiago, et doña María de Rojas, sa femme, vendent pour 8.000 mrs. de la monnaie usuelle, au monastère de Sto. Domingo el Real, et à la religieuse Inés Franca, 400 mrs. de cens qu'ils possèdent sur une maison à la colación de S. Román, jouxtant une maison du juif Mayr Ardutel, une maison de Fernand Martínez, escribano, tenue par Mayor López, veuve d'Alfonso González de la Plazuela.
+
+Le 11/06/1466, le trésorier Alfonso Cota, regidor de Tolède, et sa femme Teresa González, vendent pour 15.000 mrs. de la monnaie usuelle, à María Rebel, professe de Sto. Domingo el Real et au monastère, 600 mrs. de cens sur une maison à la colación de S. Román jouxtant une petite maison de Gómez Fernández, sedero, fils de Juan Fernández, sedero, une maison de Martín González, especiero, une maison de Pedro González, alfayate, et la rue, cens qu'ils avaient acheté, le 18 janvier 1465, dudit Gómez Fernández.
+
+Mais il y a là également des maisons où demeurent des membres de la bourgeoisie marchande urbaine, même s'il n'en ont pas la pleine propriété. En 1514, l'inventaire fait par Fernando de Cuenca, mercador de seda, après le décès de sa femme, Juana Díaz, commence par la maison où il réside (las prinçipales de la morada del dicho Ferrnando de Cuenca), située à la colación de San Román, a la plaça del Alacava, jouxtant la rue et plazuela, et chargée d'un cens en faveur de l'Hôpital de la Visitación, la maison étant ainsi estimée à 100.000 mrs..
+
+En guise de conclusion: les transformations de la ville au Bas Moyen Âge.
+
+Contrairement à ce que suggère une première impression, qui s'est imposée dans le passé à l'auteur de ces lignes, la ville a connu de profondes transformations dans la période terminale du Moyen Âge, et particulièrement durant le  XVe siècle.
+
+Ces transformations n'ont, à vrai dire, certainement pas commencé avec la période à laquelle nous nous sommes limités, en grande partie du fait de l'abondance de documents inédit disponibles pour ces deux siècles, et qui ont fait l'objet de patients dépouillements. La documentation chronologiquement antérieure, malgré son caractère exceptionnel, par sa relative abondance, et du fait notamment qu'elle se trouvait écrite en arabe, ne permettait pas une étude aussi détaillée. Cette documentation en langue arabe des XIIe et XIIIe siècles permet néanmoins de mettre en évidence certaines différences avec l'époque postérieure, à partir des toutes premières années du XIVe siècle, où elle se trouve désormais rédigée en castillan.
+
+En premier lieu, la ville a d'abord été transformée en son centre, avec la construction, à partir du début du XIIIe siècle, de la nouvelle cathédrale, pour partie sur l'emplacement de l'ancienne, héritée de la grande-mosquée de l'époque islamique, mais également à la place de tout un quartier, qui a disparu sans laisser de trace, y compris dans la toponymie. La Kudyat al-ḥaṭab (la butte du bois à brûler) n'est plus mentionnée après 1181 et 1291, sans qu'aucun terme latin ou roman ne vienne en prendre le relai, celui d'Alcudia, qui en constituerait le calque exact n'apparaissant pas dans les documents originaux, mais seulement dans leurs traductions réalisées au XXe siècle. Peut-être l'ensemble désigné au XVe siècle comme le Corral Viejos de las Vacas en constitue-t-il un reliquat. Le dégagement des abords de la cathédrale est encore en cours au début du XVe siècle, avec la création de la Plaza de la Oliva, face aux portes méridionales de la cathédrale, et aussi la disparition des boutiques des barbiers (alfajemes) et des charpentiers (cañaderos), encore collées au début du siècle au chevet de la cathédrale.
+
+Un autre secteur proche de la cathédrale, disparaît également, quoique un peu plus tardivement, situé quant à lui plutôt vers l'emplacement de l'actuelle Plaza del Ayuntamiento, celui du Prunillo. Là se trouvait en 1212 un funduq royal et les boutiques des teinturiers (ḥawānit al-ṣabbāġīn). Ces dernières sont remplacées au XIVe siècle par l'expression a los Tintoreros Viejos, les ateliers de teinture se trouvant, au XVe siècle, relégués en bordure du Tage, évidemment à cause des mauvaises odeurs qu'ils dégageaient, outre leurs besoins en eau. Il n'y a plus trace aux XIVe et XVe siècles dans ce secteur central de ce qui avait été le funduq, ou l'alfondega, ou l'alhóndiga du roi, et l'on est en peine de situer son emplacement exact, le plus vraisemblable étant celui où sera édifié au XIVe siècle l'hôpital de Sta. María de la Paz, qui deviendra ensuite l'Hôtel de Ville (l'Ayuntamiento). Une autre alhóndiga, qui est quant à elle asssurément une halle aux grains apparaitra, au XVIe siècle, à proximité du Zocodover.
+
+On sait que l'actuelle Plaza del Ayuntamiento mettra des siècles, jusqu'au courant du XVIe, pour être constituée dans sa configuration actuelle. Au moins a-t-elle été entamée, dès le XIVe et peut-être un peu plus tôt, avec la disparition du Prunillo et des boutiques des teinturiers. Dans les dernières années du XIVe, ou les premières du suivant, une série de boutiques, appelées les Tiendas Nuevas, sont construites par la chapitre cathédral en contrebas de l'actuelle Plaza del Ayuntamiento. La maison municipale elle-même, l'Ayuntamiento, commence d'être édifiée dans les dernières années du XIVe siècle, comme en témoignent, outre les textes qui la mentionnent, son ancienne façade remise au jour à la fin du XXe siècle.
+
+Dans le courant du XIVe siècle, on a vu le témoignage du début d'un agrandissement de la place du Zocodover. Mais c'est à partir de la seconde moitié du XIVe siècle que se multiplient les transformations dans l'organisation de l'espace urbain. Il ne s'agit pas seulement de mutations périphériques, avec la destruction ou la ruine de maisons, ou de secteurs entiers, situés sur les limites de la ville, probablement ou certainement consécutifs aux troubles du milieu du siècle et particulièrement au siège subi par la ville en 1369, encore que les destructions occasionnées par celui-ci ne se limitent pas à la Judería et à l'Arrabal, mais sont également attestées à l'intérieur de la ville, notamment vers les Bains du Cenizal. Les dramatiques événements de 1391 ont du également provoquer des destructions dans la Judería, encore que, comme on l'a vu, elles aient débuter auparavant
+
+C'est avec la fin du XIVe siècle que se produit la mutation majeure dans l'organisation urbaine, avec la destruction du quartier de l'Alcaná et son remplacement par le cloître de la cathédrale. C'est un bouleversement de première importance parce qu'il modifie toute l'organisation du cœur de la ville, en rompant l'axe qui allait du Zocodover à la cathédrale. Désormais l'ancien Barrio de Francos (Rabaḍ al-Ifranǧ ou Vicus Francorum) perd son unité, et le terme de Cal de Francos tend à s'appliquer seulement au petit tronçon contournant le cloître nouvellement créé, à partir de la place des Cuatro Calles (ou Plaza de los Cambios), soit l'actuel Hombre de Palo, la Candelería du XVe siècle, jusqu'aux abords du palais archiépiscopal. Une partie seulement de l'ancienne Alcaná, jusque là dénommée los Huseros, ou las Asaderías, subsiste, désormais désignée comme las Asaderías Viejas, et plus ou moins intégrée à la Candelería.
+
+Le long tronçon majeur s'étendant du Zocodover à la place des Cuadro Calles est dépourvu de toute dénomination unitaire, avec seulement une partie correspondant au XVe siècle à la Lencería ou à la Pellejería, et rouvera son unité seulement au XIXe siècle, sous le nom de la Calle del Comercio.
+
+La destruction de l'ancienne Alcaná s'accompagne, ou est suivie, dans la première moitié du XVe siècle, d'une série d'autres transformations dans la même partie centrale de la ville. Il y a d'abord, dès les années 1370, la création par doña Inés de Ayala de l'alcaicería de los paños, qui deviendra ensuite une double alcaicería, celle des orfèvres (de los orebces), se juxtaposant à celle des draps (de los paños), passée ensuite par héritage au monastère de Sto. Domingo de Real, et qui située à proximité du nouveau cloître, dans un ancien adarve de la Cadena, vient substituer une alcaicería antérieure, déjà détruite au terme de la guerre civile des années 1360, et qui se trouvait plus à proximité du Zocodover, au Corral de Don Diego, le palais des Diego García de Toledo.
+
+Cette alcaicería de Sto. Domingo el Real est doublée, dans la première moitié du  XVe siècle, par un nouvel ensemble clos de boutique construit par le chapitre cathédral et d'abord désigné, en 1443, comme la nouvelle alcaicería du chapitre, puis appelée la Rúa Nueva. On a vu qu'elle correpondait à l'actuelle Cuesta de la Sal.
+
+La disparition des boutiques de l'ancienne Alcaná, en même temps qu'elle a permis la construction du cloître de la cathédrale, a entrainé leur tranfert vers une nouvelle Alcaná, également dite de los Alatares, dotée de plusieurs portes, dont l'une, celle d'en bas, donne vers la place des Cuatro Calles, et une autre fait face à la place du Solarejo (ou Bercería), où se trouve la petite mosquée des musulmans, et une autre encore vers le haut, appelée Puerta de la Sal.
+
+Au cours du XVe siècle, plusieurs incendies ravagent le centre commercial de la ville, et contribuent à sa réorganisation, comme l'avait déjà fait auparavant l'incendie de l'ancienne Alcaná, prélude et prétexte de sa destruction. Dans la première moitié du siècle, un incendie survenu dans les Cuatro Calles, au cours des années 1430, donne déjà lieu à la reconstruction de plusieurs maisons. L'incendie de 1467, consécutif à l'émeute bien connue de cette année là, a des conséquences de bien plus grande portée et entraine la reconstruction et le réaménagement d'une bonne partie de l'espace compris entre les Cuatro Calles, la Cathédrale et le secteur des Carnicerías et Pescadería. C'est dans le dernier quart du XVe siècle que sont reconstuites les rues de la Chapinería et de la Correería, entrainant par exemple la disparition de l'ancien Mesón del Lino situé dans la Correería, et qu'apparaissent les deux rues significativement nommées les Calles Nuevas, tandis que les abords des Carnicerías et de la Pescadería demeurent en cours de restructuration jusqu'aux dernières années du siècle.
+
+Le Zocodover, après avoir connu des aménagements, qui semblent limités, dès le XIVe siècle, en subit de plus profonds durant le XVe. Dès avant le milieu du siècle, la façade de la place tournée vers la fleuve a vu la fermeture de la porte dite de la Coracha suivi par l'apparition de la Puerta Nueva. Avant la fin du siècle, c'est une autre face du Zocodover, celle tournant le dos à Barrio de Rey, qui est renouvelée, et avec elle la rue montant vers l'Alcázar, auparavant dénonmmée la Calle del Trigo (de nos jours la Cuesta del Alcázar ou Calle de Carlos V). Si le Mesón del Trigo disparaît, c'est pour laisser place à plusieurs mesónes ayant la même destination de la vente du blé, l'ancien Mesón del Trigo étant devenu le Corral de los Toros, avant que l'on ne voit, désormais au XVIe siècle, installée dans un autre parage urbain, une nouvelle alhóndiga municipale affectée au commerce et au stockage des grains.
+
+A l'autre extrémité de la ville, une partie de la Grande Juiverie apparaît en partie détruite, autour des Bains de Zayd (Hamanzeit), dès la seconde moitié du XIVe siècle et le début du XVe. Les bains eux-mêmes sont démolis dès la fin du XIVe, mais une maison appartenant au chapitre cathédral dans ce secteur continue de fournir un revenu jusqu'à la fin du siècle suivant, tandis qu'y apparaissent plusieurs bâtiments, ou ensembles de constructions, relationnés avec l'aristocratie: Corral de la Duquesa, Palais de la duchesse d'Arjona, Palais du marquis de Villena, qui s'identifient peut-être partiellement entre eux.
+
+Dans les dernières années du XVe siècle, la construction du couvent de San Juan de los Reyes entraine la destruction d'une autre partie de l'ancienne Judería Mayor, désormais désignée comme Barrio Nuevo, mais également de maisons situées en dehors de celle-ci, notamment celle du contador royal Alfonso Alvarez de Toledo. Mais apparaît en 1503, quoique encore non localisée, la maison principale du comendador mayor de León, qui est probablement l'ultérieur palais des ducs de Maqueda, situé déjà à la colación de S. Martín.
+
+

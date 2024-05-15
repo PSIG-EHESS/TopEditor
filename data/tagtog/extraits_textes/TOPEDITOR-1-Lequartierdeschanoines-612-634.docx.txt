@@ -1,0 +1,170 @@
+Avec les maisons de la Plaza del Oliva, on entre dans le secteur urbain  où se rencontre la plus forte concentration, bien que non vraiment exclusive, des membres de la corporation capitulaire, justifiant la désignation qui lui a été déjà appliquée de quartier des chanoines (CH_AV_05 : Las otras casas junto con estas [CH_AV_04 a et b] … han por linderos de la una parte las casas ya dichas e de la otra el esquina…).
+
+On rappelera seulement ici qu’il était constitué de trois secteurs. L'Adarve de los Canónigos, correspond à l'actuelle Calle de la Carcel del Vicario, avec dix maisons (CH_AV_01 à CH_AV_10). Le Pozo Amargo  répond dans l’actualité aussi bien à la Calle del Pozo Amargo, la Calle de los Illanes du XVe siècle, qu’à la Plaza et à la Bajada du même nom. On y recense vingt-six possessions du chapitre (CH_DO_01 à CH_DO_26), dont les dernières sont situées à la colación de S. Yuste, ou à celle de S. Andrés. L'Adarve del Atocha, est l'actuel Callejón de San Pedro, avec quatorze maisons (CH_B0_01 à CH_B0_11, avec des subdivisions).
+
+L'Adarve de Canónigos, actuelle Calle de la Cárcel del Vicario.
+
+L'Adarve de Canónigos est mentionné en 1279, comme Darb al-Aqāsa, avec une maison dont les portes donnent à la rue qui descend vers le Bain, probablement les Bains du Cenizar , ou l'un ou l'autre des établissements similaires du secteur.
+
+Une maison, non identifiée, au milieu du XIVe siècle, dans l'Adarve de los Canónigos.
+
+Le 23/03/1346, les chanoines et majordomes du chapitre louent, pour six ans, au chanoine Fernando Díaz une maison située dans l'Adarve de los Canónigos, dans laquelle demeurait auparavant Maestre Martín, en jouxtant une autre où demeure Pedro Lorence, au prix de 100 mrs. par an de la monnaie blanche de dix d. le mri.
+
+Un Adarve de Fernand López, signalé trois ans auparavant, est peut-être le même Adarve de Canónigos. Le 24/04/1343, le chapitre loue à Juan Alfonso, escribano, fils d'Alfonso Ibáñez, une maison située çerca el adarbe de Ferrand Lopes et jouxtant d'autres maisons du chapitre, pour deux ans à partir du 15/08/43, au prix de 69 mrs. par an de la monnaie blanche de dix d. le mri., avec la caution de Pedro Fernández de Godos, fils de Fernand Miguel, demeurant à la colación de S. Miguel.
+
+Une maison de l'Adarve de Canónigos, disparaît après 1419, pour dégager la cathédrale sur son côté Sud.
+
+CH_AO_00
+
+CH_AO_00. En 1372, don Diego Fernández, prieur de Guadalupe, tient une maison où il demeure, perpetuas, pour 250 mrs.
+
+CH_AO_00. En 1379 et 1380, Juan González, chantre de Sigüenza, tient la maison que tenait auparavant le prieur de Guadalupe, perpetuas, 250 mrs. par an. En 1391, Juan González, archidiacre de Calatrava, tient la maison que tenait le prieur de Guadalupe, pour 250 mrs., et les casillas d’Aparicio Pérez, qu'il lui a réunies, pour 50 mrs., soit 300 mrs, de même en 1401.  En 1408, de même avec les casillas d'Aparcio Pérez de Lillo, le tout toujours pour 300 mrs., soit au double 600 mrs.
+
+CH_AO_00. Le 2/09/1411, le chapitre cathédral baille au chanoine don Diego Fernández, archidiacre de Sigüenza, bachiller en décrets, une maison dans l’Adarve de los Canónigos, précédemment tenue par don Juan González, archidiacre de Calatrava, défunt, jouxtant une maison de l’archidiacre de Tolède, et une maison du chapitre située dans le même adarve et tenue par le chanoine Toribio Sánchez, qui y demeure (CH_AA_04a+b), con el establo que esta açerca de la puerta de fuera, e con la bodega, le tout comme le possédait ledit archidiacre de Calatrva quand il vivait, pour sa vie, au prix de 1.600 mrs. de vieille monnaie par an, avec la caution de Lope Gonzlez, racionero.
+
+CH_AO_00. En 1412, Diego Fernández, bachiller, archidiacre de Sigüenza, tient la maison que tenait précédemment don Juan González, archidiacre de Calatrava, avec l'establo, au prix de 1.600 mrs. de vieille monnaie, soir 3.200 mrs. de blancas. Le racionero Lope González avait tenu la maison après le décès de l’archidiacre de Calatrava, et l’a laissée à l’archidiacre de Sigüenza. 
+
+CH_AO_00. En 1417, la maison que tenait et possédait auparavant l'archidiacre de Calatrava, avec l'establo et la cueva de son appartenance, est tenue par l'archidiacre de Tolède, qui ne paie rien à ce moment. En marge il est ajouté que, de cette maison, Lope Sánchez, refitorero, le déclarant, a reçu pour cette année (1417) 3.000 mrs. donnés par Juan Fernández, bachiller, receptor de los vistuarios.
+
+CH_AO_00. La maison disparaît après 1419, pour dégager la cathédrale. Le 3/1/1419, dans un échange entre le chapitre cathédral et don Vasco de Guzmán, archidiacre de Tolède, agissant au nom de sa dignité, ce dernier donne ses écuries, corral, huerto, et anciennes écoles, et toutes les autres maisons jusqu'à l'Adarve de los Canónigos, et le chapitre donne la maison qu'il possède, jouxtant celle de la dignité de l'archidoyenné de Tolède, précédemment baillée à don Juan González, qui était archidiacre de Calatrava, cela pour faire plaça pour la cathédrale. En 1422, la maison que tenait l'archidiacre de Calatrava, avec l'establo et la cueva, est tenue par l'archidiacre de Tolède, sans mention de paiement.
+
+CH_AO_01
+
+Calle de la Cárcel del Vicario, 1
+
+CH_AO_01. A l'entrée de l'Adarve de Canónigos, jouxtant la prison de l'archevêque.
+
+110 mrs. par an. 
+
+CH_AO_01. En 1372, Juan González, notario, tien les cuadras, perpetuas, au prix de 110 mrs. par an. 
+
+CH_AO_01. Le 20/11/1375, le chapitre cathédral baille au chanoine Domingo Fernández une maison où demeurait précédemment Juan González, notario, située à l'entrée de l'Adarve de los Canónigos, jouxtant la prison archiépiscopale (CH_AO_03), pour sa vie, à partir du 15/8/1375, au prix de 240 mrs. par an de la monnaie usuelle dont 10 d. novenes font le mri. Dans les deux ans à venir il devra effectuer toutes les réparations nécessaires dans la maison, avec la caution de Bartolomé Sánchez de Yepes, racionero.
+
+CH_AO_01. En 1380, l'archidiacre de Mayorga tient la maison auparavant tenue par Juan González, notario, perpetuas, pour 240 mrs. par an.
+
+CH_AO_01. En 1391, Domingo Fernández, archidiacre de Mayorga, tient la maison que tenait précédemment Domingo Fernández de Pastrana, perpetuas e por reparadas, depuis le 15/8/1384, pour 250 mrs. par an, avec la caution de Luis López, racionero. 
+
+CH_AO_01. En 1396, Miguel Sánchez, físico, tient la maison que tenait auparavant l’archidiacre de Mayorga, perpetuas e por reparadas, au prix de 350 mrs. par an, mais le chapitre en fait grâce à ce bachelier tant qu'il sera son officier, depuis le 1/1/1394.
+
+CH_AO_01. En 1401, le chanoine Remón Narbona tient la maison laissée par Juan Rodríguez, au prix de 460 mrs. par an de la monnaie à courir, depuis le 15/8/1399, avec la caution de Diego Pérez, racionero. En 1408, 1412 et 1417, le chanoine don Remón Narbona (ou Mosén Remón) tient la maison laissée par Juan Rodríguez de Villaizán, pour 460 mrs. de la monnaie à courir
+
+CH_AO_01. Le 8/07/1418, le chapitre cathédral baille à Ferrand González de Illescas, racionero, une maison dans l’Adarve de los Canónigos, la plus petite de celles que tenait auparavant le chanoine Mosén Remón, jouxtant la prison archiépiscopale, et au dos la grande maison que tenait le même Mosén Remón (CH_BO_02), et la rue, pour sa vie, au prix de 500 mrs. de vieille monnaie par an ou le double, avec la caution de Fernand Sánchez de Navamorcuende, racionero. 
+
+CH_AO_01. En 1422, la maison que tenait auparvant don Remón Narbona, à l'Adarve de Canónigos, la plus petite à la porte de la prison archiépiscopale, est tenue depuis le 8/07/1418, par Fernand González, racionero, pour 500 mrs. de vieille monnaie, avec la caution de Fernand Sánchez de Navamorcuende.
+
+CH_AO_01. Le 16/06/1424, le chapitre baille à Alfonso Sánchez Morejón, criado de l’archidiacre de Tolède, don Vasco Ramírez de Guzmán, une maison dans l’Adarve de los Canónigos, précédemment tenue par Ferrand González de Illescas, racionero, défunt, jouxtant une maison de Martín Ruiz de Riaza, bachelier en décrets (CH_BO_02), la prison archiépiscopale, et la rue, pour sa vie, 710 mrs. de vieille monnaie ou le double, avec la caution de Juan Ortiz, frère du racionero Alfonso Ortiz, et de Ferrand Pérez, peraile. 
+
+CH_AO_01. Le 17/12/1432, le chapitre baille à Juan Fernández, cardador, habitant de Tolède, une maison, près de la prison archiépiscopale, al cantoncillo, jouxtant ladite prison, et en descendant à l'Adarve del Atocha, une maison de l’Église tenue par don Martín Ruiz, archidiacre d’Ubeda (CH_BO_02), précédemment tenue par Alfonso Sánchez, peraile, pour sa vie, 715 mrs. de vieille monnaie ou 1430 mrs. de blancas, avec caution de Madalena Ruiz, femme du preneur, et Miguel Sánchez, tintorero. 
+
+CH_AO_01. Le 27/05/1447, le chapitre a baillé à Sancho García, broslador, une maison, à l'Adarve de los Canónigos, précédemment tenue par Juan Fernández, cardador, pour sa vie et celle de Catalina Rodríguez, sa femme, au prix de 1.430 mrs. courants et trois paires de poules, avec caution de Martín Ruiz de Riaza, racionero.
+
+CH_AO_01. Le 24/05/1464, la maison que tenait auparavant Sancho García, broslador, a été baillée à Sancho et à Juan Ortiz, son neveu, pour la vie des deux, au prix de 1.830 mrs. par an et 5 paires de poules. 
+
+CH_AO_01. Le 26 avril 1471, parce que Juan Ortiz et sa femme, Inés Alfonso de Morales, ont fait certaines dépenses dans la maison que tenait auparavant Sancho García, broslador, puis Sancho et ledit Juan Ortiz, son neveu, le chapitre la baille aux deux, pour leur vie, 1900 mrs. et six paires de poules par an, avec caution de Juan de Palencia, sastre, et d’Alfonso González de Talavera, mantero.
+
+CH_AO_01. Le 16/11/1474, une partie de cette maison ayant brûlé, et Juan Ortiz ayant à la rétablir comme elle l'était, le chapitre a baillé à nouveau la maison au même Juan Ortiz, broslador, pour sa vie et celle d'une personne à nommer par lui quand il le voudra, au même prix de 1.900 mrs., avec la caution de Juan de Palencia, sastre, de Gonzalo de las Cuevas, broslador, et d'Iñigo, pintor, ce contrat restant en vigueur en 1482.
+
+CH_AO_01. Le 2/03/1492, María Quixada, veuve de Juan Ortiz, broslador, a montré qu'elle a été désignée par son mari pour cette maison, et, à la place du défunt, elle a donné la caution de Diego de Lizana, pedrero. Le 23/02/1495, Diego de Lizana étant décédé, elle a donné la caution de Juan de Valladares.
+
+CH_AO_01. En 1492  la maison que Juan Ortiz, broslador, tenait pour sa vie et celle d'une personne à nommer par lui, est maintenant tenue par sa femme, Marina Quixada, pour sa vie, au prix de 1.900 mrs. et six paires de poules par an. Elle jouxte d'un côté la prison de l'archevêque (CH_AO_02+ CH_AO_03)  et  de l'autre le coin de la rue, et au dos des maisons de l'Église.
+
+CH_AO_01_1492 
+
+
+
+OF 356
+
+Las casas que tenia Juan Ortiz broslador por su vida e de una persona qual nonbrasen, tienelas agora Marina Quixada su muger por su vida, por presçio de mill e nueveçientos mrs. e seys pares de gallinas cada anno. Han por linderos de la una parte la carçel del arçobispoAO_ e de la otra parte el esquina de la calle real, e a las espaldas casas de la dicha iglesia.
+
+En diez e nueve dias del mes de março anno del nasçimiento del nuestro Salvador Ihu Cristo de mill e quatroçientos e noventa e dos annos, los sennores Cristobal de Villaminaya e Alvar Peres de Montemayor canonigos vesitadores de las posisiones de la dicha santa iglesia en presençia de mi el notario e testigos ynfra escriptos vesitaron estas casas e  fallose en ellas a la entrada un portal, en que ay siete varas en luengo e en ancho dos varas, e adelante esta un patin hueco que ha en luengo çinco varas e quarta e en ancho tres varas e dos terçias, e de baxo del esta un establo que se manda por cabe la puerta de la calle de su tamanno e luego esta una bodega en que ay siete e tres quartas en luengo e otro tanto en ancho. Ensomo esta una quadra de su tamanno e tiene a la mano derecha una camara en que ay quatro varas en luengo e tres varas en ancho e a la mano ysquierda un corralejo que tiene çinco varas en largo e quatro en ancho. Sobre esta quadra esta otra del mismo tamanno. Junta con esta esta otra quadra en que ay siete varas e media en largo e çinco e media en ancho con un sotano debaxo de su tamanno, ensomo otra quadra del mismo tamanno, esta quadra alta tiene dos retretes, el que esta /f°1 v°/ frontero de la puerta sobre el portal de la calle tiene tres varas e media en largo e en ancho dos varas e media, ensomo del otro de su tamanno, el otro retrete que esta a la mano ysquierda tiene quatro varas e quarta en largo e en ancho tres varas. A la sobida del escalera esta a la mano derecha una cosina con su chymenea que ha çinco varas e quarta en luengo e quatro varas en ancho, a la mano ysquierda esta una camara que tiene tres varas e quarta en largo e tres varas en ancho, ensomo un suelo de su tamanno con un cobertiso sobre la calle de la carçel  que tiene en luengo tres varas e en ancho dos varas e quarta, desta camara sale otro balcon cobre la dicha calle que tiene en luengo quatro varas en largo e una en ancho, subiendo de la cosina a esta camara a la mano derecha esta un corredor que sale a la plaça de la iglesia que tiene quatro e una quarta en largo e vara e media en ancho. Ensomo esta otro corredor que tiene siete varas e tres quartas en largo e vara e media en ancho. Sobre el patin sale un corrredor que tiene seys varas en largo e tres e quarta en ancho e otro tanto ençima. 
+
+Testigos que fueron presentes Diego de Obregon e Françisco de Morales criados de los dichos sennores.
+
+
+
+
+	CH_AO_08+ CH_AO_09
+
+Calle de la Cárcel del Vicario, 6 , 4 
+
+CH_AO_08+ CH_AO_09, dans l'Adarve de Canónigos. 
+
+Sur le côté droit de l’Adarve de Canónigos, il y a deux maisons (ou cuerpos de casas), d'abord réunies, puis séparées à partir de 1447.
+
+CH_AO_08+ CH_AO_09, ou CH_AO_04a+b ? En 1417, la maison que tenait le chanoine Toribio Sánchez, dans l'Adarve de los Canónigos, a été baillée à Alfonso Martínez, doyen de Braga, perpetuamente, pour 850 mrrs. de vieille monnaie par an, soit 1.700 mrs. de blancas, depuis le 15/08/1412, avec la caution de don Remón. Il s'agit de la grande maison, avec la petite jointive, que tenait auparavant Alfonso Ortiz.
+
+CH_AO_08+ CH_AO_09. Le 11/04/1421, le chapitre baille au chanoine Alfonso Álvarez de Sevilla, bachelier en décrets, une maison, à l’Adarve de los Canónigos, précédemment tenue par Alfonso Martínez, doyen de Braga, jouxtant d’un côté une maison de l'archidiacre de Tolède et de l’autre les rues, pour sa vie, au prix de 900 mrs. de vieille monnaie par an ou le double de celle de blancas.
+
+CH_AO_08+ CH_AO_09. En 1422, la maison que tenait le doyen de Braga est tenue par le chanoine Alfonso Alvarez de Sevilla, pour sa vie, au prix de 900 mrs. de vieille monnaie, soit 1.800 mrs. de blancas, par contrat du 11/04/1421. En marge, il est ajouté que, le 23/02/1423, le chapitre a baillé la maison à Juan Martínez et Alfonso Martínez de la Fuente, racioneros, pour leur vie, au prix de 905 mrs. de vieille monnaie.
+
+CH_AO_08+ CH_AO_09. Le 3/02/1423, le chapitre baille à Juan Martínez et Alfonso Martínez de la Fuente, racioneros et capellanes du roi, la maison située dans l'Adarve de los Canónigos, constituée de deux cuerpos de casas, précédemment tenue par le chanoine Alfonso Alvarez de Mesa, bachelier en décrets, jouxtant une maison de l'archiaconné de Tolède, et les rues, pour leur vie, au prix de 905 mrs. de vieille monnaie, ou le double de blancas, avec la caution de Fernand  Pérez, racionero, et d'Alfonso González de Vozmediano, notario . 
+
+CH_AO_08+ CH_AO_09. Le 9/06/1424, le chapitre baille à Luis García, racionero, une maison, à l’Adarve de los Canónigos, comportant deux cuerpos de casas, dont il a été fait abandon le même jour au nom de Juan Martínez et Alfonso Martínez de la Fuente, racioneros et capellanes du roi, qui la tenaient jusque là, jouxtant une maison de la dignité de l'archidiaconné de Tolède et les rues, au prix de 800 mrs. de vieille monnaie ou le double, avec la caution de Fernand Alfonso de Villarreal, racionero, capellán des Reyes Viejos.
+
+CH_AO_08+ CH_AO_09. En 1443, la maison que tenait auparavant le doyen de Braga a été baillée le en 1424 à Luis García, racionero, pour 800 mrs. viejos, soit 1.600 mrs. de blancas. En marge, il est ajouté que le 3/12/1443, la maison a été baillée au chanoine et bachelier Juan González Franco, pour sa vie, au prix de 1.200 mrs. de vieille monnaie et quatres paires de poules, avec la caution du bachelier García, fils Juan González Sendal, et de Pedro Romanco, capellán, criados du bachelier Franco
+
+CH_AO_08+ CH_AO_09. Le 3/12/1443, le chapitre cathédral baille au chanoine Juan González Franco, bachelier en décrets, pour sa vie, une maison, à la colación de la chapelle de San Pedro, dans l’Adarve de Canónigos, vacante par le décès de Luis García, racionero, et jouxtant une maison de l'archidiaconné de Tolède, et la rue, au prix de 1.200 mrs. de vieille monnaie ou le double de la monnaie à courir, avec la caution du bachelier García, fils de Juan González Cendal, et de Pedro Romano, capellán, ses criados.
+
+CH_AO_08. Le 16/05/1447, le chapitre cathédral baille à Andrés Martínez, racionero, une maison, à la colación de la capilla de San Pedro, dans l’Adarve de Canónigos, jouxtant d’un côté une maison de l’archidiacre de Tolède, de l’autre un maison du chapitre, et la rue, dont a fait abandon le bachelier et chanoine Juan González Franco, pour sa vie, au prix de 1.600 mrs. de la monnaie à courir et deux paires de poules, avec la caution du bachelier Juan González Franco. En 1450, Andrés Martínez, curé d’Alía, racionero, tient la maison depuis 1447, au prix de 1600 mrs. Il s'agit du corps principal de la maison que tenait auparavant le bachelier Juan González Franco, que  son dos pares.
+
+CH_AO_08. Le 22/09/1458, le chapitre cathédral baille au chanoine Pedro González de Ocaña une maison, à la colación de la capilla de San Pedro, près de la prison archiépiscopale, jouxtant une maison du chapitre tenue par le bachelier Gonzalo Rodríguez, curé de San Román (CH_AO_09), une maison de la dignité de l’archidiaconné de Tolède, dont a fait abandon Fernand Gutiérrez de Caceres, tesorero de l’Église, pour sa vie, au prix de 1.000 mrs. par an, avec la caution de Francisco Ramírez de Cáceres, racionero. 
+
+CH_AO_08. Le 17/01/1472, le chapitre a baillé la maison à Juan Aguado de Fermosilla, escudero de don Alvar Pérez de Guzmán, pour la vie du même Pedro González, et au même prix, avec la caution de Juan de Montoya. Mais la maison est vacante depuis fin mai 1472. Le 2/03/1473, le chapitre a baillé la maison au bachelier Diego López de Ajofrín, au prix de 2.400 mrs. et cinq paires de poules par an.
+
+CH_AO_08. Le 28/03/1477, le chapitre a baillé au bachelier Rodrigo de León, clérigo, maestro de gramática, la maison que tenait auparavant le bachelier Diego López de Ajofrín, pour sa vie, 2.400 mrs. et cinq paires de poules, avec la caution du chanoine Cristobal de Villaminaya.
+
+CH_AO_08. En 1492, la maison que tenait le bachelier de Ajofrín, est tenue par le bachelier Rodrigo de León, pour sa vie, au prix de 2.400 mrs. et cinq paires de poules par an, et jouxte d'un côté une maison de l'archidiacre de Tolède de l'autre une maison de l'Église.
+
+CH_AO_08. Le 20/01/1492, il a été fait abandon au nom du licenciado de León de la maison qu'il tenait, et le chapitre a baillé la maison à Fernando del Castillo, escribano de la Obra, pour sa vie, au prix de 2.400 mrs. et cinq paires de poules, avec la caution de Gutierre Fernández del Arroyal.
+
+CH_AO_08a_1492
+
+
+
+OF 356
+
+ Las casas que tenia el bachiller de Ajofrin, tienelas el bachiller Rodrigo de Leon por su vida por presçio cada anno de dos mill e quatroçientos mrs. e çinco pares de gallinas. Han por linderos de la una parte casas del arçediano de Toledo e de la otra parte casas de la iglesia.
+
+En xix dias del dicho mes de março del dicho anno de noventa e dos annos los sennores Cristoval de Villaminaya e Alvar Peres de Montemayor canonigos en la santa iglesia de Toledo e vesitadores de las posisiones de la dicha santa iglesia e en presençia de mi el notario e de los testigos ynfra escriptos vesitaron estas casas e fallose en ellas a la entrada un portal que ha en luengo seys varas e media e en ancho quatro varas e media e ensomo una camara de su tamanno /f° 4 r°/ doblada con un açutea ensomo del mismo tamanno e del dicho portal a la mano derecha sale un establo que ha en luengo quatro varas e dos terçias e en ancho tres varas e dos terçias e ensomo dos suelos uno sobre otro de su tamanno, adelante esta un patin e a la mano derecha del esta un palaçio que ha en luengo ocho varas e en ancho dos e media e ensomo dos camaras una sobre otra de su tamanno, frontero esta un palaçio que ha en luengo dies varas e media e en ancho tres varas e media, ensomo dos suelos uno sobre otro de su tamanno, a la mano derecha esta un comedor que ha en luengo quatro varas e en ancho al tanto, ensomo dos suelos uno sobre otro de su tamanno, entre el comedor e la entrada de la puerta esta otro palaçio que ha siete varas e en ancho quatro varas doblado dos vezes. E estas dos camaras de ensomo estan medidas en la casa que alindan con ellas que son de la dicha iglesia e las tiene agora Pedro de Aviles raçionero. De que fueron testigos Diego de Obregon e Françisco de Morales criados delos dichos sennores. (signé) Juan de Mayorga notario apostolico.
+
+CH_AO_09
+
+ Calle de la Cárcel del Vicario, 4
+
+CH_AO_09. Le 11/07/1447, le chapitre cathédral baille à Fernando Díaz Sigunci, platero, une maison, à la colación de la chapelle de San Pedro, dans l'Adarve de Canónigos, précédemment tenue par le bachelier et chanoine Juan González Franco, et jouxtant d’un côté une maison du chapitre tenue par Andrés Martínez, racionero (CH_AO_08), de l’autre une maison de l’archidiacre de Tolède, et l’adarve, pour sa vie et celle d’Inés Díaz, sa femme, au prix de 750 mrs. de la monnaie à courir et deux paires de poules, avec la caution du même bachelier Juan González Franco et d’Alfonso González Pepión, sastre.
+
+CH_AO_09. En 1450, l'autre maison plus petite que tenait le même Juan González, près de la précédente (CH_AO_08), a été baillée, le 11/07/1447, à Fernando Díaz Sigunci, platero, pour sa vie et celle de sa femme, Inés Díaz, au prix de 750 mrs. courants et deux paires de poules, En outre Juan González Franco doit payer pour cette maison 50 mrs. par an, qui lui sont imputés sur la maison qu'il tient au Pozo Amargo.
+
+CH_AO_09. Le 7/12/1464, l'autre corps de maison que tenait Fernand Martínez, capellán de los reyes, celui-ci en ayant fait abandon, a été baillée à Maestre Juan, imaginero, et sa femme, Catalina Alvarez, pour la vie des deux, au prix de 800 mrs. et quatre paires de poules par an, avec la caution de Gudufre, pichelero. 
+
+CH_AO_09. Le 7/12/1464, le chapitre a baillé à Maestre Juan, imaginero, et à Catalina Álvarez, sa femme, l'autre cuerpo de casas que tenait Ferrand Martínez, capellán de los Reyes, pour la vie des deux, au prix de 800 mrs. et quatre paires de poules, avec :a caution de Gudufre, pichelero, En 1472, la maison reste à Maestre Juan, imaginero, et sa femme. 
+
+CH_AO_09. Le 30/06/1474, le chapitre a renouvelé le contrat de cette maison à Catalina Alvarez, et son (nouveau) mari, Maestre Enrique, vidriero, pour la vie des deux, au même prix, avec la caution de Maestre Egas et de Francisco de las (Cuevas ?), pedrero.
+
+CH_AO_09. Le 16/09/1480, le chapitre a baillé à Pedro Martínez de Avilés et Isabel Díaz, sa casera, la maison que tenait précédemment Fernando de Soto, platero, et dont celui-ci a fait abandon, pour la vie des deux et d’une autre personne à désigner par le racionero, au prix de 1.550 mrs. et quatre paires de poules, avec la caution de Diego de Zamora, capellán.
+
+CH_AO_09. En 1492, l'autre corps de maison qui anciennement allait avec la précédente (CH_AO_08), est tenu par Pedro Martínez de Avilés, racionero, au prix de 1.550 mrs. et quatre paires de poules par an, et jouxte d'un côté une maison de l'Église où demeure Rodrigo de León (CH_AO_08) et de l'autre une maison de l'archiacre de Tolède.
+
+CH_AO_09. Le 4/05/1495, le chapitre a baillé à Francisco de Santiago, la maison que tenait précédemment María López de Peñaranda, ama de Pedro Martínez de Avilés, racionero, par abandon de celle-ci, pour sa vie, 1550 mrs. et quatre paires de poules, avec la caution de Cristobal de Santiago, racionero.
+
+CH_AO_09_1492
+
+
+
+El otro cuerpo destas casas que antiguamente estaua junto con estas, tienelas agora Pero Martines de Aviles raçionero por presçio de mill e quinientos e çinquenta mrs. e quatro pares de gallines cada anno, linderos de la una parte casas de la dicha iglesia que mora Rodrigo de Leon [A 8] e de la otra parte casas del arçediano de Toledo.
+
+En xix dias del dicho mes de março del dicho anno de noventa e dos annos los sennores Cristoval de Villaminaya e Alvar Peres de Montemayor canonigos en la santa iglesia de Toledo e vesitadores de las posisiones de la dicha santa iglesia e en presençia de mi el notario e de los testigos ynfra escriptos vesitaron estas casas e fallose en ellas a la entrada un portal que ha en luengo siete varas e en ancho dos varas e quarta. /f° 4 v°/ Sobre este portal e sobre la puerta de la calle estan dos suelos uno sobre otro de su tamanno, luego esta un patin e a la mano derecha del esta una camara que ha en luengo siete varas e en ancho quatro varas, el palaçio debaxo desta camara esta metido en las casas de la dicha iglesia en que mora el bachiller Rodrigo de Leon [CH_AO_08], a la mano ysquierda esta un palaçio que ha en luengo siete varas e en ancho tres e quarta, ensomo del una camara de su tamanno con un corredor delante que sale sobre el patin e debaxo esta un establo de su tamanno con la puerta a la calle frontero esta un corredor sobre el dicho patin del largo del dicho patin e de ancho vara e media. De que fueron testigos Diego de Obregon e Françisco de Morales criados delos dichos sennores. (signé) Juan de Mayorga notario apostolico.
+
+CH_AO_11_1439 
+
+
+
+OF 356bis
+
+Las casas que solia tener alfonso garçia doctor tienelas el maestre escuela por preçio de mill e quatroçientos maravedis tomolas en veynte e ocho dias de mes de mayo año de 34.
+
+En 18 de Jullio año de mill e quatroçientos e treynta e nueve años fueron deslindadas estas casas por Juan gonçales cornejo canonigo e Juan dies rraçionero e mayordomo de la eglesia de toledo. Et han por linderos de cada parte
+
+ (En el margen izquierdo, en otra letra) marcos dias.
+
+

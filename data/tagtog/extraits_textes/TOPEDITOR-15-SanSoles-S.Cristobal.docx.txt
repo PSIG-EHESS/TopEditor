@@ -1,0 +1,1052 @@
+Sous la rubriques Sant Soles (pour San Zoil), on trouve en 1491, douze possessions du chapitre cathédral (CH_BC_01 à CH_BC_12) parmi les quelles, il y a un four (CH_BC_05), localisé à proximité de l'église de San Soles, et plus précisément par le coin de la rue, ou plutôt des deux rues, et dans un adarve désigné précisément comme celui du four.
+
+Le 3/08/1373, Frère Pedro Rodríguez de Barrio, commandeur du monastère de Sta. María de la Merced à Séville, et prieur provincial de l'ordre en Castille et Portugal, vend à Diego Gómez, alcalde mayor de Tolède, une maison située à Tolède, à la colación de S. Soles, jouxtant une maison d'Alfonso Alvarez, une maison de Lope Pérez, racionero dans l'Église de Tolède, une maison de Juan Alfonso Garado (?) et la rue, maison que lui avaient donnée pour le rachat des captifs chrétiens Martín Fernández et María Pérez, sa femme, vecinos de Tolède, demeurant à Torrijos, au prix de 1.500 mrs. de la monnaie en usage, dont chaque mri. est un réal.
+
+La maison principale de doña Sancha de Ayala.
+
+Le 2/03/1394, doña Sancha de Ayala, veuve de Mosén Manuel de Villanova, fait donation à Pedro Fernández, son criado, d'une maison située près de l'église de S. Soles, jouxtant les casas mayores de la donatrice, une maison de Juan Alvarez, une maison des héritiers de Lope Pérez Cabeza de Mazo, et la rue.
+
+Le 31/05/1398, Pedro Fernández de Valencia de Aragón, criado de Mosén Manuel de Villanova, et sa femme, Teresa Fernández, demeurant à la colación de S. Soles, vendent à Sœur Teresa Téllez, religieuse à Sto. Domingo el Real, une maison située à la même colación de S. Soles, jouxtant une maison de doña Sancha de Ayala, une maison des héritiers de Lope Pérez Cabeza de Mazo, une maison de Francisco Sánchez, mayordomo du monastère de S. Clemente, et la rue, au prix de 1.000 mrs. de la monnaie blanche de 10 d. le mri. Le même jour Teresa Téllez donne la maison à cens aux vendeurs, pour 100 mrs. par an de la monnaie à courir.
+
+En 1460, Costanza Alvarez, veuve de Rodrigo de Mesa, tient à cens du monastère de Sto. Domingo el Real une maison à la colación de S. Soles, pour 100 mrs. par an, jouxtant une maison d'Isabel Sánchez sœur du provisor, une maison de Diego Fernández de Madrid, et la rue.
+
+SD_BC _70_1460 
+
+SD-70, ANH Clero, Libro 15118
+
+Medidas de casas de Santo Domingo el Real de Toledo (1460)
+
+Yten mas otras casas en la collaçion de Sant Soles las quales tyene a tributo Costança Alvares muger que fue de Rodrigo de Mesa que son del convento del dicho monesterio de que paga cada anno de tributo çient mrs. que ha por linderos de la una parte casas de Ysabel Sanches hermana del provisor e de la otra parte casas de Diego Ferrs de Madrid e la calle Real, en las quales dichas casas ay en la entrada desde la puerta fasta el corral quatro varas en ancho e tres varas e ochavaa en lunego. Yten ay en el patyn del corral e el portal frontero ocho varas en luengo e seys varas en ancho con un portal que esta sobre el escalera que es a la sobida de las camaras e ay ensomo de la entrada de la puerta dos camaras una sobre otra del ancho e luengo de la entrada del dicho portal de la calle e el portal frontero tyene una camara ensomo del tamanno deste dicho portal. Yten un palaçio como entran en las dichas caasas a la mano ysquierda con una alhania en que ay en luengo honse varas e una ochava e en ancho tres varas e dos terçias. Yten tyene este dicho palaçio dos camaras una sobre otra desta mesma longura e anchura.	c ¯;. 
+
+La maison principale de Tello de Guzmán, et celle de Juan de Ayala, seigneur de Cebolla.
+
+Le 11/07/1481, doña Juana de Toledo, dame de Pinto, inclut dans le majorat qu'elle fonde pour son neveu, Vasco Suárez de Toledo, fils légitimé de son frère, Tello de Guzmán, avec les biens de ce dernier, les casas principales qui avaient été de ce Tello de Guzmán, situées à la colación de S. Soles, jouxtant une maison de Juan de Ayala, seigneur de Cebolla, et les rues publiques.
+
+Le 18/07/1397, Fernand García, fils de Martín Fernández de Consuegra, et mari de Francisca Fernándes, demeurant à Parla, lieu de l'archiprêtré de Madrid, vend à Juana García, fille de García Fernández, une maison située à Tolède, à la colación de S. Soles, jouxtant une maison de Pedro González, alguacilejo et molinero, une maison du chapitre cathédral, et la rue, au prix de 1.050 mrs. de la monnaie usuelle.
+
+Le 30/10/1402, Juana García, fille de García Fernández, et Mayor García, fille de la même Juana García, et veuve de Fernand García, qui était alguacil à Tolède, vendent à Fernand Martínez, peraile, fils de Lope Martínez, et à Urraca Martínez, sa femme, une maison située à la colación de S. Soles, jouxtant une maison de Pedro González, fils de Diego González, el alguacilejo, pergaminero, une maison du chapitre cathédral où demeure Sancho Sánchez, tejedor de paños, au prix de 2.200 mrs.  de la monnaie usuelle.
+
+Le 7/10/1407, Fernand Martínez, peraile, fils de Lope Martínez, pergaminero, et Urraca Martínez, sa femme, demeurant à la colación de S. Soles, vendent à Sœur Catalina Fernández, fille de Pedro Fernández, escribano de libros, et de María Fernández, sa femme, religieuse à Sto. Domingo el Real, une maison située à la colación de S. Soles, jouxtant une maison de Juan Pérez Barroso, une maison de la Chicalona, vecina de Tolède, et la rue, au prix de 4.100 mrs. de la monnaie en usage dont deux blancas font un mri. Lors de la prise de possession ont trouve dans la maison un homme appelé Juan, criado de Fernand Martínez, peraile.
+
+Le 15/04/141́6, Leonor Sánchez, religieuse (freyra) au monastère de Sta. Ursula et sa sœur, María Sánchez, beata, filles de Miguel Sánchez de Ocaña, vendent à María González, fille d'Alfonso García et d'Urraca González de Avila, une maison siutée à la colación de S. Soles, jouxtant une maison de l'Église de Tolède et une maison de María González, religieuse (monja) au monastère de Sta. Ursula, au prix de 6.000 mrs. de la monnaie en usage.
+
+Une maison du chapitre cathédral, où demeurait Juan González, alcalde de la justicia, disparue après 1408.
+
+Le 9/08/1388, le testament du chanoine Alvar López, capellán mayor, déclare que ving-six ans auparavant il a acheté, avec son propre argent, la maison où à ce moment demeure Juan González, alcalde de la justicia, son criado, située à la colación de S. Soles. Il veut que ce Juan González, et sa femme, y habitent leur vie durant, en la tenant bien réparée, et en payant 30 mrs. par an à la mense du refitor. La maison exigeant des réparations, il veut que l'on donne à cet alcalde 600 mrs. pour les effectuer, et qu'à la fin de leurs jours, lui et sa femme laissent la maison ainsi réparée au chapitre.
+
+En 1396 et 1401, c'est la maison où demeure Juan González, alcalde de la justicia, léguée au chapitre par le testament du chanoine Alvar López, capellán mayor, et que le chapitre a donnée à cens à cet alcalde, avec la condition que lui et sa femme, durant leur vie, paient les 30 mrs. par an au chapitre, et qu'ensuite leurs héritiers, ou qui tiendra la maison, paient 160 mrs. de cens par an.
+
+En 1408, pour la maison où demeurait auparavant Juan González, alcalde de la justicia, Fernand Alfonso, gendre de cet alcalde, et ses fils paient 160 mrs. de vieille monnaie, ou le double de blancas, soit 320 mrs.
+
+Le 11/10/1407, Pedro García de Villoldo donne, dans un échange, avec Juan Alfonso de Oviedo, escudero de la reine de Castille, une maison située à la colación de S. Soles, jouxtant une maison de Sancho Arias, escribano, une maison bodega de l'église de S. Soles, et la rue, avec un trascorral jointif de la maison, tributaire aux clercs de l'église Sta. Leocadia la Vieja, de 15 mrs. de vieille monnaie par an, contre une maison bodega au Pozo Amargo, à la colación de S. Andrés.	
+
+CH_BC_01
+
+Santa Catalina plaza N°4
+
+CH_BC_01. Le 29/01/1414, María Blázquez, femme d'Alfonso Sánchez de Palencia, escribano del rey, fait donation au chapitre d'une maison située à la colación de S. Soles (confronts en blanc) et c'est elle que l'on trouve dans la maison et que l'on y met pour qu'elle la tienne pour le chapitre.
+
+CH_BC_01. Le 25/01/1416, le chapitre baille à Alfonso Martínez, archiprêtre de Canales, capellán dans la capilla de los Reyes, une maison située à la colación de S. Soles, dont lui a fait donation María Blázquez, qui avait été la femme d'Alfonso Fernández de Palencia, notario, jouxtant d'une part la maison où demeure Pedro González, albañil, et de l'autre une maison de Pedro Fernández Paniagua, pour sa vie, 220 mrs. de vieille monnaie ou le double, avec obligation de cloturer un corral qui se trouve derrière la maison, et avec la caution de Pedro Sánchez, cantor de la reine.
+
+CH_BC_01. En 1417, la maison donnée au chapitre par María Blázquez, qui était  la femme d'Alfonso Fernández de Palencia, notario, criada de Gonzalo Fernández, recebtor, a été prise, depuis le 1/1/1416, perpetuas et por reparadas, par Alfonso Martínez, archiprêtre de Canales et capellán de la chapelle du roi don Enrique, au prix de 220 mrs. de vieille monnaie par an, ou le double (440 mrs.) de la monnaie à courir, au choix du refitorero, avec la caution de Pedro Sánchez, cantor de la reine.
+
+CH_BC_01. En 1422, la maison donnée au chapitre par María Velázquez, est tenue, perpétuellement, par Alfonso Martín, archiprêtre, capellán (de la chapelle) du roi don Enrique, pour 226 mrs. de vieille monnaie, depuis le 1/01/1416, avec la caution de Pedro Sánchez, cantor de la reine.
+
+CH_BC_01. Le 3/12/1428, le chapitre baille à Diego García de Villalobos, notario, neveu du chanoine Pablos García, une maison à la colación de San Soles, jouxtant une maison de Pedro González, albañil, et la rue, précédemment tenue par Alfonso Martínez, archiprêtre de Canales, pour sa vie et celle de Catalina García, sa femme, au prix de 200 mrs. de vieille monnaie ou le double, avec la caution de Lope García, curé de Casalgordo.
+
+CH_BC_01. En 1439, la maison que tenait auparavant Alfonso Martínez, curé de Sto. Tomé, est tenue par Diego Fernández, capellán, pour 770 mrs. par an, depuis le 30/07/1438. Elle jouxte une maison de Juan González Sorje et le coin de rue.
+
+CH_BC_01. En 1443, la maison que tenait auparavant Diego García, neveu de Pablos García, et sa femme, Catalina García, a été baillée, perpetuas e por reparadas, le 30/07/1437, à Diego Fernández, clérigo de S. Román, au prix de 770 mrs. desta moneda par an, avec la caution du chanoine Pablos García. En marge: le 13/02/1444, le chapitre a baillé la maison à Gonzalo Díaz Romano, agujetero, et Inés González, sa femme.
+
+CH_BC_01. Le 23/02/1444, le chapitre baille à Gonzalo Díaz Romano, agujetero, et Inés González, sa femme, une maison située à la colación de S. Soles, jouxtant une maison de Juan González Sorje, et le coin des rues, pour la vie des deux, au prix de 300 mrs. de vieille monnaie ou le double de celle à courir, avec la caution de son frère, Diego González Romano, escribano del rey.
+
+CH_BC_01. En 1450 et 1465, la maison que tenait auparavant Juan Fernández, clérigo de S. Román, est baillée, depuis 1444, à Gonzalo Díaz Romano, agujetero et Inés González, sa femme, pour 600 mrs. par an.
+
+CH_BC_01. Le 20/03/1469, le chapitre a baillé la maison que tenait auparavant Gonzalo Díaz, agujetero, à Francisco González, mayordomo de Sta. Ursula, et Teresa López, sa femme, pour la vie des deux, au prix de 800 mrs. courants et trois paires de poules, avec la caution de son frère, Juan Martínez, mantero.
+
+CH_BC_01. Le 7/03/1487, Francisco González, mayordomo de Sta. Ursula, et Teresa López, sa femme, ont fait abandon de la maison qu'ils tenaient, et le 21/3, la maison a été adjugée à Diego de Villalobos, et à son frère, Rodrigo de Villalobos, en son nom, au prix de 2.010 mrs. et quatre paires de poules par an, et le contrat reste ne vigueur en 1496 et 1499
+
+CH_BC_01. En 1491, la maison que tenait auparavant Diego Fernández, capellán, est maintenant tenue par Diego de Villalobos, pour deux vies, au prix de 2.010 mrs. et quatre paires de poules et jouxte d'un côté le coin de rue.
+
+CH_BC_01_1439
+
+OF 356bis
+
+Las Casas que tenia alfonso martines Cura de santo thome tienelas diego ferrandes capellan de la eglesia por preçio de seteçientos e setenta maravedis e tomola en 30 dias de Jullio Año de 38 Años.
+
+En trese de Junio Año de 1439 Años fueron deslindadas estas casas por Juan gonçales cornejo canonigo e Juan dias Raçionero mayordomos de la eglesia de toledo, e ha por linderos de la una parte casas de Juan gonçales sorge e de la otra parte la esquina. Et tiene en la entrada un portal que ha en luengo tres varas e terçia e en Ancho dos varas e dos terçias. Et Adelante esta un patin e A la mano esquierda del esta un palaçio que ha en luengo quatro varas e dos terçias e en Ancho tress varas e terçia. Et ensomo una camara que ha en luengo siete varas e de la Anchura del dicho palaçio. Et Adelante esta otro palaçio que ha en luengo ocho varas e en Ancho tres varas e ensomo una camara de su tamaño. Et despues esta una despensa que ha en luengo tress varas e Al tanto en Ancho e toma la camara del dicho palaçio la dicha espensa. Et en fruente esta otro palaçio que ha en luengo ocho varas e dos terçias e en Ancho tres varas Et ensomo una camara de su tamaño Et A la mano derecha esta un portal que ha en luengo quatro varas e dos terçias e en Ancho tres varas. Et Allende del palaçio frontero esta un trascorral que ha en luengo dies varas e terçia e en Ancho dies varas. Et tiene una casylla pequeña que ha en luengo tres varas e en Ancho dos varas. Testigos ferrand alfonso Raçionero e gil martines capellan.
+
+(firmado) Ludovicus Luppi apostolico e ordinario notario. 
+
+(En el margen izquierdo, en otra letra) diego de villalobos.
+
+CH_BC_01_1492
+
+OF 356 
+
+Las casas que solia tener Diego Ferrandes capellan, tienelas agora Diego de Villalobos por dos vidas por presçio de dos mill e dies mrs. e quatro pares de gallinas e han por linderos de la una parte al esquina.
+
+En xii dias del dicho mes de agosto del dicho anno de noventa e un annos, los venerables sennores Cristoval de Villa/f° 185 v°/minaya e Alvar Peres de Montemayor canonigos e vesitadores de las posisiones de la santa yglesia de Toledo deslindaron estas casas e fallose en ellas un portal en la entra de en que ay tres varas e terçia en largo e dos varas e dos terçias en ancho e adelante un patin e a la mano ysquierda del esta un palaçio en que ay çinco varas en largo e tres e terçia en ancho e ensomo una camara de su tamanno en el ancho e en el largo tiene siete varas e adelante esta otro palaçio en que ay ocho varas e media en largo e tres en ancho e ensomo una camara de su tamanno e despues esta adelante deste otro palaçio en que ay ocho varas en largo e tres en ancho e ensomo un suelo de al tanto e ay una despensa en que ay tres varas en largo e tres en ancho e toma la camara del dicho palaçio la dicha despensa de frente esta otro palaçio en que ay ocho varas e dos terçias en largo e tres en ancho, ensomo una camara de su tamanno e a la mano derecha esta un portal en que ay quatro varas e dos terçias en largo e tres en ancho, e en el dicho palaçio frontero ay un trascorral en que ay dies varas e terçia en largo e dies en ancho, e tiene una casilla en que ay tres varas en largo e dos en ancho. De que fueron testigos Diego de Obregon e Diego Serrano criados del dicho sennor Alvar Peres. (signé) Juan de Mayorga notario apostolico.
+
+CH_BC_02
+
+CH_BC_02. Voir à l'église de S. Sebastián.
+
+San Sebastián, calle de. N°8.
+
+CH_BC_03
+
+San Sebastián, calle de. N°8.
+
+CH_BC_03. Le 2/08/1471, le chapitre a autorisé Martín de Torres, pedrero, à vendre la maison donnée au chapitre par le chantre de Sigüenza, et que ce Martín de Torres tenait à cens pour 500 mrs., à Alfonso del Quintanar, escribano del rey, qui a fait reconnaissance.
+
+CH_BC_03. Le 2/06/1475, le chapitre a autorisé Alfonso del Quintanar à vendre la maison chargée de 500 mrs. de cens, à Juan de Andujar, molinero, qui a fait reconnaissance
+
+CH_BC_03. En 1491, la maison que tenait Alfonso del Quintanar, est tenue par Juan de Andujar au prix de 500 mrs. de cens perpétuel. Elle jouxte d'un côté la maison susdite (CH_BC_02 ?) et de l'autre Diego, tintorero.
+
+CH_BC_03. Le 9/04/1495, le chapitre a autorisé Catalina Gómez, femme de Juan de Andujar, molinero, à vendre la maison qu'elle tenait avec la charge de 500 mrs., à Francisco Fernández, molinero, qui a fait reconnaissance.
+
+CH_BC_03_1492
+
+OF 356 
+
+Las casas que tenia Alfon del Quintanar, tienelas agora. Juan de Andujar por presçio de quinientos mrs. de çenso perpetuo. Han por linderos de la una parte las sobredichas casas e de la otra Diego tintorero.
+
+En xii dias del dicho mes de agosto del dicho anno de noventa e un annos, los venerables sennores Cristoval de Villaminaya e Alvar Peres de Montemayor canonigos e vesitadores de las posisiones de la santa yglesia de Toledo deslindaron estas casas e fallose en ellas en la entrada un portal en que ay quatro varas e terçia en largo e quatro en ancho, con dos soberados ensomo de al tanto, e a la mano derecha esta un eetablo en que ay quatro varas e media en largo e tres e dos terçias en ancho, e un callejon descubierto en que ay çinco varas en largo e tres e media en ancho el qual esta losado, e luego un patin e a la mano derecha del esta un palaçio en que ay nueve varas e dos terçias en largo e tres en ancho, e dentro del dicho palaçio esta un establo en que ay quatro varas e media en largo e quatro e media en ancho, e saliendo del palaçio esta un comedor en que ay ocho varas e terçia en largo e dos e media en ancho con su logar de tinajas con su corredor de al tanto, e luego esta otro palaçio en que ay ocho varas e terçia en largo e tres e media en ancho, ay en esta casa un sotano debaxo del patio e luego esta una cosina en que ay ocho varas en largo e quatro en ancho con su chimenea, e luego saliendo della esta otro palaçio en que ay siete varas e media en largo e tres e terçia en ancho, e ensomo della e de parte de la cosyna ay una camara en que ay nueve varas e terçia en largo e tres e media en ancho. De que fueron testigos Diego de Obregon e Diego Serrano criados del dicho sennor Alvar Peres (signé) Juan de Mayorga notario apostolico. (en marge, annotation écriture. XVIe s. illisible sur le microfilm)/f° 187
+
+Le four de S. Soles (CH_BC_05), près de l'église de S. Soles, à l'entrée de l'adarve désigné par ce four.
+
+Il semble qu'il y ait en fait deux fours à la colación de S. Soles, ayant appartenu, durant un certain temps au moins au chapitre cathédral, situés, pour l'un près de l'église de S. Soles (CH_BC_5), dont le chapitre garde le domaine éminent jusqu'à la fin du XVe siècle, et pour l'autre, à S. Salvador, face au mur du monastère de Sta. Ursula, dont le cens est échangé, dans les années 1460, et qui, par conséquent n'apparaît pas dans le Libro de medidas (OF 356) de 1491-1492. Il est parfois difficile de distinguer l'un de l'autre
+
+CH_BC_05
+
+Cristo de la Parra, callejón del. N°1. Horno
+
+CH_BC_05. Le 2/04/1376, le chapitre baille à Martín Fernández, fils de (blanc) et à sa femme, María Domínguez, fornera, le four situé près de l'église de S. Soles, pour la vie de chacun des deux, 200 mrs. de la monnaie usuelle de 10 d. le mri., avec obligation de réparer dans une année tout ce qui sera néccessaire dans le four, et la caution d'Andrés Pérez, pergaminero. 
+
+CH_BC_05. En 1391, Juan López a pris le four à partir du 15/08/1386, pour 150 mrs, avec la caution de Pedro Fernández et Domingo Fernández. En 1401 et 1408, Juan López, molinero, a pris le four, en perpetuo et pour réparé, pour 150 mrs., depuis août 1386.
+
+CH_BC_05. Le 4/11/1409, le chapitre baille au chanoine Diego Pérez, le four situé près de l'église de S. Soles, pour sa vie, 110 mrs. de vieille monnaie, avec la caution de Lope Sánchez, capellán. En 1412, le four que tenait auparavant Juan Lopez, molinero, est tenu par le chanoine Diego Pérez, perpetuo, au prix de 110 mrs. de vieille monnaie par an, qui sont 200 mrs. de blancas
+
+CH_BC_05. En 1417 et 1422, le four que tenait auparavant, à S. Soles, Juan López, molinero, se trouve baillé, depuis 1409, au chanoine Diego Pérez, pour sa vie, au prix de 110 mrs. de vieille monnaie, avec la caution de Lope Fernández, capellán.
+
+CH_BC_05. Le 14/10/1430, le chapitre baille à Fernand González de Plasencia, une casa forno, à la colación de S. Soles (confronts en blanc, et la rue), pour sa vie, 484 mrs. de vieille monnaie ou le double, avec la caution de Fernand González de Olmeda et Pedro Fernández de Cidadoncha.
+
+CH_BC_05. En 1439, le four de S. Soles que tenait auparavant le chanoine Diego Pérez, est tenu par Fernand Rodríguez de Plasencia, au prix de 968 mrs., depuis 1430. Il jouxte d'un côté une maison de la Hermandad de los capellanes et de l'autre le coin de la rue.
+
+CH_BC_05. Le 7/02/1446, le chapitre baille à Pedro González de Alcocer, peinador, et sa femme, Juana González, le four avec sa casa, à la colación de S. Soles, jouxtant une maison de la Hermandad de los capellanes de l'Église de Tolède, et le coin des rues, la casa faisant 10 2/3 varas sur 7 1/2, pour la vie de chacun des deux, 375 mrs. de vieille monnaie ou le double, avec la caution de Sancho de Flores et Sancho García de Medina, perailes.
+
+CH_BC_05. En 1450, pour le four, avec sa cámara, situé à S. Soles, baillé, le 15/09/1449, à Diego Fernández de Mesegar et María González, sa femme, pour leur vie, au prix de 600 mrs. courants, avec la caution de Francisco Rodríguez, carpintero et albañil, María González a payé un terme, Diego Fernández, tejero, le deuxième, mais le chapitre a ordonné de faire grâce à ce Diego, en aumône, des 200 mrs. du dernier terme.
+
+CH_BC_05. Le 24/04/1450, le chapitre baille à Juana Gómez, veuve de Pedro Escudero,  un four, vec sa casa, situé à Sta. Ursula, dans la colación de l'église de S. Soles, jouxtant une maison de Fernando de Sotomayor et le coin des rues publiques, perpetuamente, pour sa vie, au prix de 800 mrs. de la monnaie à courir.
+
+CH_BC_05. Le 18/04/1451, le chapitre baille à Juana González, hornera, un four situé à la colación de l'église de S. Soles, (confronts en blanc), dont a fait abandon Diego Fernández de Mesegar, qui le tenait auparavant, pour sa vie, au prix de  600 mrs. par an de la monnaie à courir
+
+CH_BC_05. Le 22/09/1460, le chapitre baille à Miguel Fernández de Bonilla et María Sánchez, sa femme, un four à pain (una casa forno de pan coser), situé à la colación de S. Soles, à l'entrée de l'adarve dudit four, jouxtant une maison que tient Pedro López, bancalero, vers le haut la calle real, la rue dudit adarve où se trouve la porte de la casa forno, dont ont fait abandon au chapitre Juana Sánchez, femme de Martín Fernández de Revenga, et Alfonso Martinez, son fils, pour la vie de chacun des deux, au prix de 500 mrs. et une paire de poules, avec pour condition, d'ici la fin août 1461 de réparer le bâtiment (casa) où se trouve le four, ainsi que le four lui-même, et d'en daller le sol, avec la caution d'Alfonso de Bonilla, cardero, habitant aux Tiendas Nuevas.
+
+CH_BC_05. En 1465, 1472 et 1482, le four que tenait Juan Sánchez à S. Soles a été baillé, le 22/09/1460, à Miguel Fernández de Bonilla et María Sánchez, sa femme, pour la vie des deux, avec l'obligation de le réparer, au prix de 500 mrs. et une paire de poules par an, avec la caution d'Alfonso de Bonilla, cardero.
+
+CH_BC_05. Le 19/05/1488, Miguel Fernández de Bonilla et sa femme ont fait abandon du four qu'ils tenaient, et le chapitre a baillé ce four au chanoine Pedro Fernández de Villalobos et à Catalina de Villalobos, sa nièce, pour la vie des deux, au prix de 500 mrs. et une paire de poules, avec la condition qu'ils fassent une casa, avec son sobrado, dans le terrain qui se trouve devant le four, ce contrat restant en vigueur en 1496, au nom du chanoine Pedro Fernández de Villalobos, et en 1499 à celui de Catalina de Villalobos.
+
+CH_BC_05. En 1491, le four que tenait antérieurement Pedro Fernández de Bonilla est tenu par Pedro Fernández de Villalobos, pour deux vies, au prix de 500 mrs. et une paire de poules. Il jouxte d'un côté le coin de rues et de l'autre une maison de Lorenzo Núñez
+
+CH_BC_05. En 1496, le four reste tenu par le chanoine Pedro Fernández de Villalobos, et en 1499, par sa nièce, Catalina de Villalobos,  toujours pour 500 mrs. et  une paire de poules.
+
+CH_BC_05_1439 
+
+OF 356bis
+
+El forno que tenia diego peres canonigo de sant soles tienelo ferrand Rodrigues de plasençia cada Año por nueveçientos e sesenta e ocho maravedis e tomolo en 14 de otubre Año de 1430 Años.
+
+En 16 dias de Junio Año de 1439 Años fue deslindado este forno por Juan dias Raçionero e mayordomo de la eglesia de toledo, e ha por linderos de la una parte casas de la hermandad de los capellanes e de la otra la esquina. Et ha en luengo este forno dies varas e dos terçias e en Ancho siete varas e media. Testigos ferrand Alfonso Raçionero e Juan sanches de vargas capellan de la dicha eglesia.
+
+(firmado) Ludovicus Luppi apostolico e ordinario notario. 
+
+(En el margen izquierdo, en otra letra) pedro de villalobos.
+
+CH_BC_05_1492
+
+OF 356 
+
+El horno que so1ia tener Pedro Ferrandes de Bonilla tienelo Pedro Ferrandes de Villalobos por dos vidas por presçio de quinientos mrs. e un par de gallinas. Ha por lynderos de la una parte el esquina e de la otra parte casas de Lorenço Nunnes. /f° 187 v°/
+
+En xii dias del dicho mes de agosto del dicho anno de noventa e un annos, los venerables sennores Cristoval de Villaminaya e Alvar Peres de Montemayor canonigos e vesitadores de las posisiones de la santa yglesia de Toledo deslindaron este horno e fallose en el dies varas e media en largo e siete e dos terçias en ancho. De que fueron testigos Diego de Obregon e Diego Serrano criados del dicho sennor Alvar Peres (signé) Juan de Mayorga notario apostolico.
+
+CH_BC_05_bis 
+
+CH_BC_05 bis. Le 13/06/1495, la maison laissée au chapitre par le chanoine Pedro Fernández de Villalobos a été adjugée au chanoine Alvar Pérez de  Montemayor pour 3.000 mrs. et six paires de poules. Le 3/05/1496, Alvar Pérez a fait abandon de la maison, et la maison a été baillée à Diego de Toledo, guantero, pour sa vie et celles de sa femme, Catalina Gómez, et d'un fils ou d'une fille des deux, au même prix. Le 9/06/96 Diego de Toledo a donné la caution de son frère, Alfonso de Toledo, pellejero, puis la femme s'est obligée.
+
+CH_BC_5001
+
+CH_BC_5001. Le 26/06/1404, le chapitre baille à Martín Rodríguez, pintor, et María Arias (?) sa femme, une maison situé à la colación de S. Soles, qui avait appartenu à Pedro Díaz, qui était racionero de l'Église de Tolède, pour la vie de chacun des deux, au prix de 242 mrs. par an de la monnaie à courir, avec la caution de Juan Fernández, pintor, criado du chanoine Alfonso Fernández de Mesa
+
+CH_BC_5001. En 1408, 1412, 1417 et 1422, Martín Rodríguez, pintor, et sa femme, María Ortiz, tiennent, depuis le 1/01/1405, la maison qui avait été de Pedro Diaz, et que don Fulco Pérez avait donnée au chapitre, perpétuellement, pour 240 mrs. par an de la monnaie à courir.
+
+CH_BC_5001. Le 17/04/1425, le chapitre baille à Marina Alfonso, Catalina González et Catalina Fernández, beatas, une maison précédemment tenue par Martin Rodríguez, pintor, qui en a fait abandon le même jour, située près de S. Soles, jouxtant une maison des frères du monastère de la Sisla, une maison des mêmes beatas, et la rue, pour la vie de chacune d'elles, au prix de 122 mrs. de vieille monnaie, ou le double, avec la caution du chanoine Juan González Cornejo. Suit une description de la maison.
+
+CH_BC_5001. En 1439, la maison que tenait Marina Alfonso, la beata, située près de S. Soles, a été échangée contre une tienda et une cámara au-dessus d'elle, près de la Calahorra. Cet échange doit remonter à 1427, car à cette date reconnnaissance est faite au chapitre d'un cens de 250 mrs. sur  la tienda avec une cámara, située à la Calahorra, que Marina Alfonso, la beata, avait donnée au chapitre pour libérer une maison qu'elle tenait près de S. Soles. En 1450, la maison que tenait Martín Rodríguez, pintor, a été échangée (à une date non précisée) avec Marina, la beata, contre une tienda et une cámara, à la Calahorra.
+
+CH_BC_06
+
+Cristo de la Parra, callejón del. N°4 y 5 cobertizo san Bartolome*.
+
+CH_BC_06. Le 28/06/1482, le chapitre a autorisé María González, femme de García de Cogolludo, à vendre à García de Aguilera, une maison située à la colación de S. Soles, dont elle avait le domaine utile, chargée d'un cens 300 mrs. ayant été donné au chapitre par l'archevêque dans un échange portant sur la heredad de la Granja. García de Aguilera a payé 75 mrs. pour trois mois de cette année  1482.
+
+CH_BC_06. En 1491, la maison que tenait auparavant la mense archiépiscopale, est tenue par García de Aguilera, à cens perpétuel, au prix de 300 mrs. par an. Elle jouxte d'un côté une maison de l'Église tenue par Bartolomé de Aguilera et de l'autre une maison de Lorenzo Núñez. 
+
+CH_BC_06. Le 25/01/1497, Teresa García, veuve de García de Aguilera, a fait reconnaissance des 300 mrs. de cens, pour elle-même et comme tutrice de ses enfants
+
+CH_BC_06_1492
+
+OF 356
+
+Las casas que solia tener la Mesa arçobispal, tienelas agora Garçia de Aguilera a çenso perpetuo por presçio de tresientos mrs. cada anno. Ha por linderos de la una parte casas de la santa yglesia que tiene Bartolome de Aguilera e de la otra parte casas de Lorenço Nunnes. 
+
+En xii dias del dicho mes de agosto del dicho anno de noventa e un annos, los venerables sennores Cristoval de Villaminaya e Alvar Peres de Montemayor canonigos e vesitadores de las posisiones de la santa yglesia de Toledo deslyndaron estas casas e fallose en ellas un portal en la entrada en que ay quatro varas en largo e tres e media en ancho, e luego esta un establo en que ay seys varas e dos terçias en largo e quatro e media en ancho, e dos soberados en que ay en el primero otro tanto como en el establo e otro tanto en el otro. Ay mas otra camara que cae sobre las camaras de Bartolome de Aguilera en que ay nueve varas en largo e tres e media en ancho, tiene mas frontero un palasio en que ay ocho varas e terçia en largo e tres e media en ancho con otros dos soberados de al tanto, ay en el primero soberado una puerta que sale a la calle e delante del dicho palaçio ay un portal en que ay seys varas en largo e tres en ancho con otro portal corredor de su tamanno e tiene otro portal a la mano ysquierda en que ay çinco varas e media en largo e tres en ancho, con otro portal corredor de su/f° 188 r°/ tamanno con sotano tamanno como los portales. De que Diego de Obregon e Diego Serrano criados del dicho sennor Alvar Peres (signé) Juan de Mayorga notario apostolico.
+
+L'adarve du four de San Soles.
+
+CH_BC_07
+
+Cristo de la Parra, callejón del. N°7b*.
+
+CH_BC_07. Le 2/06/1486, le chapitre reçoit dans un échange avec la ville 1.500 mrs. de cens sur une maison, située dans l'adarve du four de S. Soles, qui avait été de las Cornejas, et dont le domaine utile appartient à María Núñez, jouxtant une maison d'Alfonso Ortiz, curé de Sta. Leocadia la Vieja, une maison de (blanc) et la rue de l'adarve.
+
+CH_BC_07. Le 27/11/1486, María Núñez de Torres fait reconnaissance au chapitre des 1.500 mrs. de cens que la ville a donnés dans un échange sur une maison qu'elle tient à la colación de S. Soles, dans l'adarve où se trouve le four à pain dit de S. Soles, jouxtant d'un côté une maison d'Alfonso Ortiz, curé de Sta. Leocadia la Vieja,  de l'autre (blanc, et la rue de l'adarve. Le 27/06/1488, le chapitre autorise María Núñez de Torres, représentée par Pedro  de Frías, racionero, à vendre la maison qu'elle tient, à la colación de (blanc), jouxtant (blanc), avec la charge de 1.500 mr. de cens, pour le prix de 40.000 mrs et 840 mrs. de diezmo, à Bartolomé de  Aguilera, qui tient encore la maison en 1496.
+
+CH_BC_07. En 1491, la maison que tenait auparavant María Núñez, femme de Pedro Fernández, est tenue par Bartolomé de Aguilera au prix de 1.500 mrs. à cens perpétuel. Elle jouxte d'un côté une maison de l'Église et de l'autre une maison de Juan de Cuenca.
+
+CH_BC_07.  Le 18/11/1497, Gonzalo de Reolid, gendre de Bartolomé de Aguilera, à qui ce dernier a donné la maison en mariage avec sa fille, Elvira de Aguilera, pour lui-même et au nom de Catalina de Villasilos, sa fille et celle de sa femme défunte, a fait reconnaissance des 1.500 mrs. de cens.
+
+CH_BC_07_1492
+
+OF 356 
+
+La casas que solia tener Mari Nunnes muger de Pedro Fernandes, tienelas agora Bartolome de Aguilera por presçio de mill e quinientos mrs. a çenso perpetuo, e ha por linderos de la una parte casas de la santa yglesia e de la otra casas de Juan de Cuenca.
+
+En xii dias del dicho mes de agosto del dicho anno de noventa e un annos, los venerables sennores Cristoval de Villaminaya e Alvar Peres de Montemayor canonigos e vesitadores de las posisiones de la santa yglesia de Toledo deslindaron estas casas e fallose en ellas en la entrada un portal en que ay quatro varas en largo e otras quatro en ancho, e a la mano derecha del dicho portal ay un establo en que ay quatro varas e media en largo e tres en ancho, e sobre el portal ay dos soberados de al tanto e luego esta un patin e a la mano derecha esta un palaçio en que ay siete varas en largo e quatro en ancho con dos soberados de al tanto e luego esta una despensa en que ay nueve varas en largo e tres e media en ancho con dos soberados ençima de al tanto e saliendo de la dicha despensa esta un palaçio en que ay seys varas en largo e quatro en ancho, e tiene un portal delante del dicho palaçio. en que ay çinco varas en largo e dos en ancho, e ençima del dicho palaçio e portal esta un soberado de al tanto con otro portal comedor en que ay dies varas en largo e tres e terçia en ancho con una camara de al tanto. Tiene /f° 188 v°/ esta casa un poso llovedizo. De que fueron testigos Diego de Obregon e Diego Serrano criados del dicho sennor Alvar Peres (signé) Juan de Mayorga notario apostolico.
+
+
+
+Le 14/12/1486, Ana Gutiérrez, sœur de Diego González de Ayllón, qui était racionero de l'Église de Tolède, vend à Juan López de Cuenca et Francisco Fernández de Cuenca, son frère, traperos, une maison qu'elle possède à la colación de S. Soles, qui avait été de son frère défunt, avec deux portes sur les rues, et jouxtant d'une part une maison de Maestre Hanequin, de l'autre une maison qui avait été de María de S. Soles, de l'autre une maison de García de Aguilera, et les rues, l'une allant de S. Soles vers S. Cebrián, et l'autre étant l'adarve du four, libre de cens, pour le prix de 195.000 mrs. de la monnaie usuelle. Les acheteurs reconnaissent rester à devoir 145.000 mrs., 50.000 à payer au 15/08/87 et 95.000 à Todos Santos. Ana Gutiérrez restera dans la maison jusque là.
+
+Une autre maison, également située dans l'adarve du four de San Soles, disparaît des possessions du chapitre cathédral, en 1483, par suite d'un échange.
+
+CH_BC_04001
+
+CH_BC_04001. Le 16/06/1430, le chapitre baille au racionero Fernand Pérez, une maison avec des petites casillas, à la colación de S. Soles, constituant les casas mayores dans l'adarve dit de (blanc), jouxtant une maison de Per Alfonso, jurado, une maison de Juan Fernández de Bonilla, escribano, la calle publica del dicho adarve del rey, et les casillas jouxtant (blanc), pour sa vie, 430 mrs. de vieille monnaie ou le double, avec la caution de Juan Sánchez de Frias, racionero.
+
+CH_BC_04001. Le 11/08/1434, le chapitre baille à Fernand Alfonso de Treviño, escribano de cámara del rey, et criado du relator Fernando Díaz, représenté par Gonzalo Sánchez de Arévalo, procurador, et à María Alvarez, femme de Fernand Alfonso, présente, une maison à l'adarve du four de San Soles, la dernière de l'adarve, qui avait appartenu à don Pedro Fernández, maestrescuela de Cuenca, décédé, et à doña Juana, sa fille, vacante par le décès de Fernand Pérez, racionero, qui la tenait du chapitre, sans des casillas que le chapitre avait données à la même doña Juana, au prix de 715 mrs. de vieille monnaie ou le double, avec la caution du même Gonzalo Sánchez (de Arévalo).
+
+CH_BC_04001. Le 28/11/1449, le chapitre baille à Juan Fernández de Paredes et Catalina Rodríguez, sa femme, une maison située à la colación de S. Soles, jouxtant une maison du bachelier Alfonso Rodríguez, et une maison de Martín Fernández de Bonilla, escribano público à Tolède, précédemment tenue par  Gonzalo Sánchez de Arévalo, pour la vie de chacun des deux, au prix de 1.000 mrs. de la monnaie à courir et une paire de poules, avec la caution de Diego López de Sanabria.
+
+CH_BC_04001. En 1450, la maison que tenait auparavant Fernand Alfonso de Treviño, escribano del rey, est tenue, depuis le 28/11/1449, par Juan Fernández de Paredes et Catalina Rodríguez, pour 1.000 mrs. courants et une paire de poules, avec la caution de Diego López de Sanabria.
+
+CH_BC_04001. La maison que tenait auparavant Juan Fernández de Paredes a été donnée à cens, le 17/08/1454, au prix de 960 mrs. à Diego de Alarcón, qui tient la maison de 1465 à 1482.
+
+CH_BC_04001. Le 27/03/1483, le chapitre cathédral fait un échange avec doña Leonor de Silva, et donne notamment 960 mrs. de cens sur une maison située à la colación de S. Soles, dans l'adarve où se trouve le four, et dont Diego de Alarcón, jurado, a le domaine utilé.
+
+CH_BC_4001_1439 
+
+OF 356bis
+
+Las Casas que fueron del coletor que son dentro en el Adarve del forno de sant soles por preçio de mill e quatroçientos e treynta maravedis e tomolas en 11 de Agosto Año de 34 Años.
+
+En 16 de Junio Año de 1439 Años fueron deslindadas estas casas por Juan dias Raçionero e mayordomo de la eglesia de toledo. Et ha por linderos de la una parte casas de Alfonso Rodrigues bachiller e de la otra parte casas de martin ferrandes de bonilla. Et tiene en la entrada un portal que ha en luengo çinco varas e dos terçias e en Ancho tres varas. Et ensomo una cosina de su tamaño. Et luego esta un patin e A la mano esquierda esta un palaçio que ha en luengo siete varas e dos terçias e en Ancho quatro varas e ensomo una camara de su tamaño. Et Adelante esta una camara sobre las casas de pero Alfonso de oviedo Jurado e ha en luengo nueve varas e dos terçias e en Ancho tres varas e media. Et en fruente estan dos Palaçios uno sobre otro. El primero ha en luengo onse varas e dos terçias e en Ancho quatro varas. El segundo es de la longura del primero e ha en Ancho tres varas. Et debaxo de Amos esta una bodega de su tamaño. Et Adelante destos dos palaçios esta una camara que ha en luengo dies varas e en Ancho quatro varas Et debaxo un establo de su tamaño. Et çerca deste establo esta un corral pequeño con su puerta A la calle çerca de martin ferrandes de bonilla e çerca de los dichos Palaçios esta una Açotea descobierta. Et çerca della una camara pequeña que ha en luengo siete varas e en Ancho quatro varas e media e debaxo un portal que toma la puerta del corral. Testigos ferrand Alfonso Raçionero e Juan sanches capellan de la dicha eglesia.
+
+(firmado) Ludovicus Luppi apostolico e ordinario notario.
+
+La rue (ou l'adarve) de Gonzalo Vélez, escribano mayor de la ville, à la colación de S. Soles.
+
+CH_BC_04
+
+Cristo de la Parra, calle  del. N°s. -8*. y callejón
+
+CH_BC_04. Le 12/07/1419, Antón Sánchez, barbero, et María García, sa femme, vendent au chapitre cathédral une maison, avec trois tiendas attenantes avec elle, située à la colación de S. Soles, passant à la rue où réside Gonzalo Vélez, escribano mayor de Tolède, jouxtant d'un côté une bodega des héritiers de Juan Alfonso, gendre d'Esteban Illán, et de l'autre une bodega des héritiers de Pedro Rodríguez de Hita, et la rue, au prix de 12.500 mrs. de la monnaie courante. Dans l'acte de prise de possession, il n'y a pas d'autre occupant mentionné de la maison et des trois tiendas, qui donnent à l'adarve de Gonzalo Vélez.
+
+CH_BC_04. En 1422, la maison que le chapitre a achetée d'Antón Sánchez, barbero, avec trois tiendas donnant à la Calle de Gonzalo Vélez, est tenue par Juan García, père de Gonzalo, capellán, pour sa vie et celles de Catalina González, et de Gonzalo, pour 250 mrs. de vieille monnaie, ou le double (500 mrs.) de blancas, depuis le 25/08/1419.
+
+CH_BC_04. En 1439, la maison achetée par le chapitre et les trois tiendas donnant à la Calle de Gonzalo Vélez, sont tenues par Catalina García, femme de Juan García de Bonilla, au prix de 500 mrs., depuis le 15/08/1429. Elles jouxtent d'un côté une maison de Pedro de Hita et de l'autre une maison des héritiers du bachelier Juan Fernández de Talavera, et comporte notamment des cámaras avec leurs porte à la rue du four.
+
+CH_BC_04. Le 9/03/1442, le chapitre baille à Diego Ruiz, fils de Juan García, une maison avec trois tiendas, à la colación de S. Soles, achetées par le chapitre d'Antón Sánchez, barbero, les trois tiendas se tenant avec la maison et passant à la rue où demeurait auparavant Gonzalo Vélez, qui était escribano mayor de Tolède, la maison jouxtant une bodega des héritiers de Juan Alfonso, gendre d'Esteban Illán, et une bodega des héritiers de Pedro Rodríguez de Hita, et la rue, le tout ayant été précédemment tenu par Gonzalo Sánchez, capellán, frère de Diego Ruiz, pour sa vie et celle de la première femme qu'il épousera, au prix de 300 mrs. de vieille monnaie ou le double de blancas et une paire de poules, avec la caution de Pedro González, albañil, et de Lope Loarte, pintor.
+
+CH_BC_04. En 1450, la maison, avec trois tiendas, située à la Calle de Gonzalo Vélez, précédemment tenue par Gonzalo Sánchez, capellán, a été baillée en 1442, à Diego Ruiz, frère de Gonzalo Sánchez, pour 600 mrs. et une paire de poules
+
+CH_BC_04. Le 19/09/1460, le chapitre baille à Cristobal Cerezo et María Alvarez sa femme, une maison à la colación de S. Soles, jouxtant une maison des héritiers de Pedro Ortiz, escribano, une maison de Diego de la Cruz, et la rue, précédemment tenue par Diego Ruiz Orejón et (blanc) sa femme, au nom de qui il a été fait abandon, pour la vie des deux, 600 mrs. et deux paires de poules, avec la caution de Fernando Valenciano, barbero.
+
+CH_BC_04. En 1465 et 1472, Cristobal Cerezo et María Alvarez (ou María Alfonso), sa femme, tiennent la maison précédemment tenue par Diego Ruiz, et dont celui-ci a fait abandon en 1460, pour leur vie, au prix de 600  mrs. et deux paires de poules, avec la  caution de Fernando de Valencia, barbero (ou Fernando Valenciano).
+
+CH_BC_04. Le 26/08/1485, le chapitre baille la maison, vacante par le décès de Cristobal Cerezo, située à la colación de San Soles, au chanoine et docteur Alfonso Ortiz, pour sa vie, 2.100 mrs. et quatre paires de poules, avec la caution de l'archidiacre de Tolède (ou de Talavera?), don Juan de Cabrera.
+
+CH_BC_04. En 1491, la maison que tenait Cristobal Cerezo, l'est désormais par le docteur Alfonso Ortiz, pour sa vie, 2.100 mrs. et quatre paires de poules, et jouxte d'un côté une maison du même Alfonso Ortiz et de l'autre une maison de Miguel de la Cruz.
+
+CH_BC_04_1439
+
+OF 356bis 
+
+Fol. 91r: Las Casas que conpro el cabilldo con tres tiendas que salen A la calle de gonçalo? velles tienelas catalina garçia muger de Juan garçia de bonilla cada Año por quinientos maravedis e tomolas en dia de santa maria de Agosto de Año de 29 Años.
+
+(En el margen izquierdo, en otra letra) … dotor alfonso ortiz.
+
+En 13 de Junio Año de 1439 Años fueron deslindadas estas casas por Juan gonçales cornejo canonigo e Juan dias Raçionero mayordomos de la eglesia de toledo e ha por linderos de la una parte casas de pedro de hita e de la otra casas de herederos de Juan ferrandes bachiller de talavera. Et tiene en la entrada un Portal que ha en luengo tres varas e media e en Ancho dos varas e dos terçias. Et Adelante esta un patin e A la mano derecha del esta un palaçio que ha en luengo onse varas e media e en Ancho quatro varas. Et ensomo una camara de su tamaño con su puerta A la calle del forno. Et Adelante deste Palaçio esta un portal que ha en luengo çinco varas e en Ancho doss varas e media. Et ensomo otro portal de su tamaño. Et en fruente esta otro Palaçio que ha en luengo nueve varas e en Ancho tres varas e terçia ensomo una camara de su tamaño. Et Adelante esta otro palaçio que ha en luengo seys varas e en Ancho tres varas e media e ensomo una camara de su tamaño con su puerta A la calle del forno. Et A la mano esquierda del dicho patin esta una cosina que ha en luengo seys varas e dos terçias e en Ancho tres varas e una terçia e debaxo un sotano con su puerta A la calle que ha en luengo quatro varas e en Ancho tres varas e terçia e ensomo del primer portal e de la cosina esta una camara que ha en luengo seys varas e en Ancho tres varas e terçia. Testigos ferrand Alfonso Raçionero e gil martines Capellan.
+
+(firmado) Ludovicus Luppi apostolico e ordinario notario. 
+
+CH_BC_04_1492
+
+OF 356 
+
+Las casas que solia tener Cristoval çereso, tienelas agora el sennor dotor Alfon Ortiz por su vida por presçio de dos mil e çient mrs. e quatro pares de gallinas, e han por lynderos de la una parte casas del dicho Alfon Ortiz e de la otra parte de Miguell de la Crus.
+
+En xii dias del dicho mes de agosto del dicho anno de noventa e un annos, los venerables sennores Cristoval de Villaminaya e Alvar Peres de Montemayor canonigos e vesitadores de las posisiones de la santa yglesia de Toledo deslindaron estas casas e fallaronse en ellas en la entrada un portalejo en que ay quatro varas en largo e tres en ancho, e luego esta un patin e a la mano derecha un palaçio en que ay dose varas e media en largo e tres e media en ancho, con una camara de su tamanno con su puerta a la calle que sale al horno de la santa yglesia e delante tyenen un portal en que ay çinco varas en largo e tres en ancho, e saliendo del dicho palaçio a la mano derecha esta otro palaçio en que ay nueve varas en largo e tres e terçia en ancho, e ensomo una camara de.su tamanno e adelante otro palaçio en que ay seys varas en largo e tres e media en ancho, e ensomo una camara de al tanto con otra puerta que sale al horno e a la mano derecha del dicho patyn esta una cosina en que ay seys varas e dos terçias en largo e tres e terçia en ancho e debaxo un sotano con puerta a la calle en que ay quatro varas en largo e tres e terçia en ancho, e ensomo del portal de la entrada e de la cosina esta una camara en que ay seys varas en largo e tres e terçia en ancho. De que fueron testigos Diego de Obregon e Diego Serrano criados del dicho sennor Alvar Peres (signé) Juan de Mayorga notario apostolico.
+
+La rue allant de S. Soles à S. Sebastián.
+
+CH_BC_08
+
+Cristo de la Parra, callejón del. N°3.
+
+CH_BC_08. Le 26/09/1427, Juan Rodríguez et Teresa Rodríguez, sa femme, demeurant à Casarrubios, vendent au chanoine et bachelier Juan Fernández de Talavera, une maison, à la colación de S. Soles, jouxtant d'un côté une maison du chanoine Diego Pérez et des deux autres côtés la rue, pour 4.000 mrs. de la monnaie usuelle.
+
+CH_BC_08. En date du 12/08/1431, le testament du chanoine Juan Fernández de Azután, bachiller, a légué des tiendas bodega qu'il avait à S. Soles, jouxtant une maison de l'Église tenue par Gonzalo Sánchez, capellán, et le four situé dans l'adarve, à sa nièce, María de Ferrera, pour sa vie et celle de Tello, son neveu, de telle façon que si ceux-ci mouraient sans enfant légitime, les tiendas reviendraient à l'Église de Tolède, avec une vigne au pago de Loches. En 1443 et 1450, María de Ferrera est décédée et Tello de Vera encore en vie.
+
+CH_BC_08. Le 31/01/1460, le chapitre baille à Juan de la Cruz, fils de Juan Alfonso de las Tazas, et Catalina Sánchez, sa femme, une maison et tienda, située entre l'adarve où se trouve le four de S. Soles et la rue allant de S. Soles à S. Sebastián, dont il a été fait abandon au nom de Juan Alfonso Mozárabe, pour la vie des deux et d'un fils ou d'une fille, au prix de 650 mrs. de la monnaie à courir et trois paires de poules, avec la caution de Pedro González del Mercado, jurado. 
+
+CH_BC_08. Le 21/04/1462, pour la maison bodega léguée au chapitre par le bachelier et chanoine Juan Fernández, baillée en 1460 à Juan de la Cruz, avec la caution de Pedro González de los Mercados, agujetero, sont entrés comme caution Luis González Santarén, alarife, demeurant à la Judería, et Francisco Santarén, son neveu, à la place de Pedro González, agujetero. En 1465,  Juan de la Cruz, fils de Juan Alfonso de la Cruz, et Catalina Sánchez, gardent la maison. Le 29/11/1471, Juan de la Cruz et Catalina Sánchez étant décédés, Antón García de Porcuna, tuteur de leur fils, Miguel, s’est engagé au nom de celui-ci.
+
+CH_BC_08. En 1491, la maison que tenait Juan Alfonso Mozárabe, est tenue par Miguel de la Cruz, au prix de 650 mrs. et trois poules, pour sa vie et celle de sa femme et d'un fils, et jouxte une maison du señor Ortiz e le coin de rue.
+
+CH_BC_08. En 1499, la maison que tenait auparavant Juan Alfonso Mozárabe est au nom de Miguel dela Cruz et Diego de la Cruz, son tuteur. Il est clair que Juan Alfonso Mozárabe est Juan Alfonso de las Tazas, le père de Juan de la Cruz, mentionné en 1460.
+
+CH_BC_08_1492 
+
+OF 356
+
+Las casas que solia tener Juan Alfon Moçarave, tienelas agora Miguell de la Cruz por presçio de seysçientos e çinquenta mrs. e tres gallinas por su vida e de su muger e de un fijo. Han por linderos casas del sennor Ortiz e de la otra parte el esquina.
+
+En xii dias del dicho mes de agosto del dicho anno de noventa e un annos, los venerables sennores Cristoval de Villaminaya e Alvar Peres de Montemayor canonigos e vesitadores de las posisiones de la santa yglesia de Toledo deslindaron estas casas e fallose en ellas una camara en entrando por la puerta en que ay çinco varas e media en largo e quatro en ancho con un soberado de al tanto e luego ay un portalejo en que ay tres varas en largo e dos e media en ancho e mas adentro una camara en que ay seys varas e media en largo e tres en ancho e debaxo de todas estas tres pieças ay otro tanto e mandase por otra puerta que sale a la otra calle.	
+
+
+CH_BC_08a_1492
+
+OF 356 
+
+	Ay mas en estas dichas casas otra parte en que ay en la entrada una casa puerta en que ay seys varas e media en largo e çinco en ancho, e luego esta junto con esta otra camara en que ay siete varas en largo e tres en ancho con camaras ençima de al tanto con otro tanto de baxo de lo sobredichà.	
+
+
+CH_BC_08b_1492
+
+OF 356 
+
+	Ay mass en estas dichas casas otra terçera parte en que ay en la entrada una casa puerta en que ay quatro varas e media en largo e tres e media en ancho con otro tanto ençima e otro tanto debaxo con un portalejo fecho tienda en que ay tres varas e terçia en largo e dos en ancho. De que fueron testigos Diego de Obregon e Diego Serrano criados del dicho sennor Alvar Peres (signé) Juan de Mayorga notario apostolico./f° 189 r°/
+
+L'adarve de Ramiro de Guzmán;
+
+CH_BC_09+ CH_BC_10
+
+San Bartolome Clj. sin salida, cerrado, ultima a la izquierda.
+
+CH_BC_09+ CH_BC_10. Le 25/05/1470, le chapitre a autorisé Juan Ramírez de Béjar et sa femme, qui tenaient la maison que le tesorero avait donnée au chapitre pour sa chapellenie, à vendre la maison à Juan García de Villaseca, curé de Cuerva, capellán, qui a fait reconnaisance des 500 mrs. de cens. Le 11/05/1472, Fernando de Illescas et Bernal García, capellanes, comme héritiers de Juan García, ont fait reconnaissance.
+
+CH_BC_09
+
+CH_BC_09. Le 27/07/1474, le chapitre a autorisé Inés de Ludueña, femme d'Alfonso de Zayas, jurado, à vendre la maison qu'elle tenait avec la charge de 150 mrs., à Alvar Nuñez de Herrera, qui a fait reconnaissance. En 1489, la maison est au nom de Costanza Nuñez, femme d'Alvar Núñez de Herrera.
+
+CH_BC_09. En 1491, la maison que tenait Inés de Lurueña, est tenue par les héritiers d'Alvar Núñez de Herrera, au prix de 150 mrs. de cens perpétuel. Elle se trouve dans l'adarve de Ramiro de Guzmán,  au bout, à gauche, et jouxte (rien).
+
+CH_BC_09. Le 5/04/1494, concernant la maison que tenait Costanza Rodríguez, femme d'Alvar Núñez de Herrera, avec charge de 150 mrs., le chapitre a autorisé la dite Costanza Rodríguez, et Luis Husillo son (nouveau) mari, à vendre la maison à Cristobal de Morata, tejedor de seda, et Mencía Vázquez, qui ont fait reconnaissance.
+
+CH_BC_09_1492
+
+OF 356 
+
+Las casas que solia tener Ynes de Luruenna tienenlas agora los herederos de Alvar Nunnes de Ferrera por presçio de çiento e çinquenta mrs. de çenso perpetuo. Estan en el adarbe de Ramiro de Gusman al cabo de la mano ysquierda han por linderos (rien).
+
+En xii dias del dicho mes de agosto del dicho anno de noventa e un annos, los venerables sennores Cristoval de Villaminaya e Alvar Peres de Montemayor canonigos e vesitadores de las posisiones de la santa yglesia de Toledo deslindaron estas casas e fallose en ellas en la entrada un patin e a la mano derecha esta un palaçio en que ay nueve varas en largo e quatro en ancho con una camara ensomo de su tamanno, e frontero de la entrada esta otro palaçio en que ay quatro varas e media en largo e tres e media en ancho con una camara ensomo de su tamanno, ay mas en esta casa una camara que esta sobre el cobertiso en que ay seys varas en largo e tres en ancho e debaxo del palaçio que esta frontero de la puerta esta un sotano del tamanno del dicho palaçio. De que fueron testigos Diego de Obregon e Diego Serrano criados del dicho sennor Alvar Peres (signé) Juan de Mayorga notario apostolico.
+
+CH_BC_10
+
+San Bartolome Clj. sin salida, cerrado, ultima a la derecha
+
+CH_BC_10. Le 20/12/1480, le chapitre a autorisé Fernando de Trujillo, qui tenait l'autre cuerpo mayor de la maison susdite (CH_BC_9), avec charge de 350 mrs. et une paire de poules, à le vendre à doña Costanza Carrillo. En 1489, ce cuerpo mayor est au nom de doña Costanza Carrilllo, monja de Sta. Clara.
+
+CH_BC_10. En 1491, l'autre cuerpo mayor jointif de estas casas (CH_BC_9), de l'autre côté du cobertizo, à droite, que tenait Fernando de Trujillo, est tenu par doña Costanza Carrillo, religieuse de Santa Clara, au prix de 300 mrs. et une paire de poules de cens perpétuel.
+
+CH_BC_10. En 1496 et 1499, le chapitre a autorisé, le 10/03/1491, Diego (ou Francisco) de Vargas, alcaide de Azután, à vendre la maison qu'il tenait, à Alfonso Ramírez, qui a fait reconnaissance de 350 mrs. et une paire de poules.
+
+CH_BC_10_1492
+
+OF 356 
+
+El otro cuerpo mayor que esta junto con estas casas de la otra parte del cobertizo a la mano derecha que solia tener Ferrando de Trugillo, tienelas agora donna Costança Carrillo monja de Santa Clara por presçio de tresientos mrs. e un par de gallinas de çenso perpetuo.
+
+En xii dias del dicho mes de agosto del dicho anno de noventa e un annos, los venerables sennores Cristoval de Villaminaya e Alvar Peres de Montemayor canonigos e vesitadores de las posisiones de la santa yglesia de Toledo deslindaron estas casas e fallose en la entrada un portal establo en que ay dose varas e media en lago e dos en ancho con dos soberados ençima e luego esta un patin/f° 189 v°/. Esta un palaçio a la mano derecha en que ay ocho varas en largo e quatro en ancho con una camara ensomo de su tamanno e luego esta otro palaçio en que ay siete varas en largo e quatro en ancho con dos soberados de al tanto con un sotano de su tamanno con otro palaçio en que ay diez varas en largo e tres en ancho con su soberado de al tanto con corredores que çercan todo el patin. De que fueron testigos Diego de Obregon e Diego Serrano criados del dicho sennor Alvar Peres (signé) Juan de Mayorga notario apostolico.
+
+CH_BC_11
+
+CH_BC_11. Le 9/03/1457, à Yuncler, Pedro Alvarez, fils de Juan Alvarez, María Alvarez, sa femme, et Inés González, veuve d'Alfonso García de Ocaña et tante de Pedro Alvarez, disent que Pedro Alvarez, en son nom et en celui des deux femmes, avait vendu au chanoine Fernando de Sotomayor, au prix de 4.000 mrs., 200 mrs. de cens sur une maison appartenant audit Pedro Alvarez située à la colación de S. Soles, jouxtant une maison de Juan de Avila, fils de Diego García de Avila, une maison de Juana Rodríguez de Villahizan, religieuse de S. Clemente, et la rue, et dont Inés González avait fait don à Pedro Alvarez. Les deux femmes approuvent cette vente.
+
+CH_BC_11. Le 15/09/1463, Esteban de Toro, pedrero, a fait reconnaissance de 200 mrs. de cens sur une maison située à la colación de S. Soles, qui avait été de Pedro Alvarez, fils de Juan Alvarez, alcalde de la Hermandad, jouxtant une maison de Juana Rodríguez de Villaquirán, religieuse de S. Clemente (ou de Sta. Ursula), cens donné au chapitre par Fernando de Sotomayor pour l'enlever du four de Sta. Ursula, sur lequel le chapitre avait d'abord ce cens. En 1482, Esteban Ruiz de Toro, pedrero, tient la maison pour les 200 mrs. de cens.
+
+CH_BC_11. En 1491, la maison sur laquelle Fernando de Sotomayor a donné 200 mrs. de tributo pour les enlever du four de Santa Ursula, est tenue par Esteban Ruiz, pedrero, au prix de 200 mrs. de cens. Elle jouxte d'un côté une maison de Diego López de Ayala et de l'autre une maison de Rodrigo, tintorero.
+
+CH_BC_11. Le 3/12/1492, Inés Alfonso Azafrán, qui était la femme d'Esteban Ruiz, remariée à Juan Ruiz, platero, a fait reconnaissance pour elle-même et comme tutrice de ses enfants, nés d'Esteban Ruiz. Ensuite le chapitre a échangé les 200 mrs. avec l'Hôpital de la Misericordia, contre les 200 mrs. que payait le refitor à l'Hôpital pour la maison qui avait été du bachelier Pedro González de Alcalá, à l'Adarve de Cogombros.
+
+CH_BC_11_1492
+
+OF 356
+
+Las casas en que dio Ferrando de Sotomayor dosientos mrs. de tributo para quitarlos del horrno de Santa Ursula, tienelas agora Estevan Ruys pedrero por presçio de dosientos mrs. de çenso. Ha por linderos de la una parte casas de Diego Lopes de Ayala e de la otra parte casas de Rodrigo Tyntorero.
+
+En xii dias del dicho mes de agosto del dicho anno de noventa e un annos, los venerables sennores Cristoval de Villaminaya e Alvar Peres de Montemayor canonigos e vesitadores de las posisiones de la santa yglesia de Toledo deslindaron estas casas e fallose en ellas en la entrada un portal en que ay quatro varas e media en largo e dos en ancho, luego en entrando esta un patin e a la mano ysquierda tiene un palaçio en que ay ocho varas e media en largo e quatro en ancho e con un soberado de al tanto sobre el dicho palaçio e portal e saliendo del dicho palaçio ay un portal en que ay seys varas en largo e tres en ancho con un soberado de al tanto. Ay otro palaçio frontero de la entrada en que ay siete varas e media /f° 190 r°/ en largo e quatro en ancho con un soberado de al tanto e con un sotano de su tamanno e sobre el dicho palaçio ay otro soberado e sobre el dicho patin que dise un soberado ay dos e sobre el palaçio de a mano ysquierda ay un sotano (sic) del tamanno del dicho palaçio. De que fueron testigos Diego de Obregon e Diego Serrano criados del dicho sennor Alvar Peres (signé) Juan de Mayorga notario apostolico.
+
+CH_BC_13
+
+CH_BC_13. Le 13/04/1436, Pedro Alfonso, boticario, a fait reconnaissance de 30 mrs. de cens sur une cámara située en face de la maison où demeure Juan Díaz, racionero.
+
+CH_BC_13. En 1439, la cámara située en face de la maison de Juan Díaz est tenue par Pedro Alfonso, jurado, pour 30 mrs. de cens, depuis avril 1436. Elle jouxte une maison de Pedro Alfonso, boticario, et le coin de rue.
+
+CH_BC_13. En 1450, le cens de 30 mrs. est payé par les héritiers de Pedro Alfonso, boticario.
+
+CH_BC_13. En décembre 1452, Miguel Sánchez, ballestero, a fait reconnaissance des 30 mrs. de cens sur la tienda qu'il a achetée, située en face de la maison où demeure Juan Díaz, racionero, et que tenait auparavant Pedro Alfonso, boticario. En 1465, Miguel Sánchez, ballestero, paie les 30 mrs., mais en 1472, la tienda est effondrée et les héritiers sont partis
+
+CH_BC_13? En 1482 et 1489, les 35 mrs. de cens que le chapitre avait sur la tienda que tenait Juan Martínez, escribano de libros, ont été vendus pour l'achat de 1.000 mrs. de cens sur la maison dite de los gallos, à la colación de S. Lorence.
+
+Une école de grammaire suscitant l'opposition des habitants de la colación de S. Soles.
+
+Le 30/07/1416, Alfonso González, notario, Pedro Alvarez, fils de Pedro Alfonso, et Juan Sánchez, carpintero, comme  paroissiens de la colación de S. Soles, se plaignent devant le juge en disant que Fernand Martínez, escribano, possédait une maison dans cette colación, qu'il avait  louée à (blanc) bachiller de la gramática lequel y avait mis une escuela de gramática. Les plaignants affirment qu'il n'avait jamais été coutume de faire une école de escolares dans cette maison, et demandent que pour éviter escandalo dans le barrio le juge interdise au bachelier de mettre une école dans la maison, mais qu'il puisse y habiter s'il le désire.
+
+La plazuela de San Marcos.
+
+CH_BC_14. Le 11/06/1493, le chapitre a acheté 1.000 mrs. de cens qu'Antón del Castillo, pour lui-même et au nom et comme tuteur et curateur de ses fils et filles, et de María de Albornoz, sa femme, a imposés sur une maison située à la plazuela de S. Marcos, à la perrocha de S. Soles, avec possibilité de rachat. En 1496, la maison est au nom des héritiers d'Antón del Castillo
+
+Becerro de SDR
+
+Siglo XVI
+
+Fol. 251r: Sant Soles. Doña maria de guzman e doña elvira su hermana e doña teresa de ayala priora e mari gonçalez de toledo.
+
+Item tiene el dicho monesterio unas casas en esta dicha çibdad de toledo en la collaçion de la eglesia de sant soles que alindan de la una parte con casas de ferrand vasquez Jurado e de la otra parte casas del Jurado iohan çapata e de la otra parte con la calle Real e a las espaldas con la plaça de sant marcos donde son las casas de doña teresa de haro, las quales estas dichas casas tienen unas camaras que se mandan por sy por la calle a par de la puerta prinçipal de las dichas casas, estas casas fueron del señor gonçalo pantoja Regidor e de doña elvyra portocarrero su muger difuntos que dios aya e por su fin e herençia las ovieron e heredaron doña maria de guzman e doña elvira portocarrero sus fijas monjas profesas del dicho monesterio e las copieron con otros çiertos bienes... et dentro en estas casas esta un palaçio que no es de las dichas casas salvo es de catalina de villalobos vesina de toledo et todas las dichas casas e el dicho palaçio era tributario al monesterio de sant pedro de las dueñas desta çibdad de toledo que Agora se llama de la conçepcçion convyene saber las dichas casas de çiento e ochenta maravedis cada año para siempre Jamas los quales era obligado el dicho monesterio de santo domingo de los pagar al dicho monesterio de la conçepçion e el dicho palaçio... sesenta maravedis... las quales dichas casas solian andar en alquile porque no se podian atributar por ser tributarias A otro señorio et porque estan muy viejas e andando en alquile se gastava cada año en Reparo dellas tanto quanto Rentavan de alquile e por las poder atributar el monesterio las ahorro de los dichos ciento e ochenta maravedis... por troque que se fiso con el dicho monesterio de sant pedro que disen de la conçepçion por los quales dichos 240 maravedis de tributo se les dieron çient maravedis de tributo quel convento tenia sobre unas casas aqui en toledo en la collaçion de santa leocadia en la plaça que dizen de los alamyllos çerca la puerta de la çervata del dicho monesterio el qual tributo quedo al monesterio de mari gonçalez de toledo que los conpro de sancha gonçalez priora de eçija por mill maravedis e estas casas tenia a tributo por los dichos çient maravedis cada Año costança de loarses monja del dicho monesterio de la conçepçion. Et mas se les dio en el dicho troque otros çiento e çinquenta maravedis de tributo en otras casas en el arraval desta çibdad en la collaçion de santiago que disen las casas de la figuera e son çerca de las casas de la sortija las quales dichas casas tiene a tributo mari gonçalez muger de pedro de esquivyas suegra de pero gonçalez de Roa escrivano publico el qual dicho tributo quedo al monesterio de la señora priora doña teresa de Ayala que santa gloria aya... çinco dias de setienbre año de 1503 años.
+
+Despues de aforrados las dichas casas se dieron a tributo ynphiteosyn a ferrando sedeño colchero e a Juana Rodrigues la marfila su muger syn el palaçio... 1508 años... (muerto) ... las dichas casas quedaronse en el monesterio.
+
+Despues se tornaron a dar las dichas casas a çenso ynphiteosyn A pedro de logroño texedor de terçiopelo vesino de toledo...
+
+La bodega del Estera, à la colación de S. Antolín ou sur celle de S. Soles.
+
+Le 8/01/1448, Sœur doña Catalina, petite-fille du roi don Pedro, prieure de Sto. Domingo el Real, au nom du monastère, rappelle l'acte du 18/08/1419, inséré, par lequel avait été donnée à Alfonso González, tejedor de mantas de pared, et à sa femme, Pascuala González, maintenant défunte,  une maison bodega dite del Estera, située à la colación de S. Antolín, au prix de 24 florins d'or d'Aragon par an. Le florin valait alors en Castille, et à Tolède, 45 mrs. et 50 mrs. de la monnaie usuelle maintenant en cours, mais en 1443 il vaut, depuis plus de dix ans, 93 mrs. de cette monnaie usuelle, et, sur la requête d'Alfonso González, la religieuse dit que désormais il paiera 1.900 mrs. de la monnaie usuelle pour ces 24 florins, soit à 80 mrs. le florin, et 20 mrs. de moins, que monte ou que baisse la valeur du florin.
+
+En 1460, Alfonso González del Estera, mantero, tient du monastère de Sto. Domingo el Real, une maison bodega dite del Estera, pour sa vie et celle de ses fils et filles, située à la colación de S. Soles, pour 1.900 mrs. par an, jouxtant une maison du monastère de Sto. Domingo el Viejo, une maison de la Cathédrale tenue par Rodrigo, peraile, et des deux autres côtés, les rues, avec 20 jarres et une cuve. On y mentionne un puits qui est desservi par l'extérieur.
+
+SD_BC _67_1460 
+
+SD-67, ANH Clero, Libro 15118
+
+Medidas de casas de Santo Domingo el Real de Toledo (1460)
+
+Primeramente tyene perpetuo del dicho monesterio Alfon Gonçales del Estera mantero por su vida e de sus fijos e fijas unas casas bodega que disen del Estera que son en la collaçion de la eglesia de Sant Soles por contia de mill e nueveçientos mrs. cada anno, que han por linderos de la una parte casas del monesterio de Santo Domingo el Viejo e de la otra parte casas de Santa Maria que tiene Rodrigo perayle e de las otras partes entramas las calles Reales con veynte tinajas e una cuba, en las quales dichas casas\20 v°/ ay en lo hueco baxo dellas en la pared frontera de la entrada fasta el Rencon del lugar del poso dies e seys varas e entrando a par de la puerta frontero de lo suso dicho ay seys varas e en luengo desde la puerta fasta la dicha pared frontera ay trese varas e una camara que esta sobre el portal frontero como entran en la dicha casa non es de estas casas e es de las dichas casas de Santo Domingo el Viejo que ay en luengo nueve varas e quarta e en ancho quatro varas e en el portal primero que es a la mano derecha como entran en las dichas casas es la camara de ençima destas dichas casas de largura de ocho varas e en el cabo frontero de ancho quatro varas e entrando a par de la puerta tres varas. Yten sobre la entrada de la casa puerta ay otra camara que llega de pared a pared entre amas calles que ay seys varas en luengo. Yten en el portal frontero de la entrada de casa ay un lagar e una entrada que viene en derecho fasta el esquina de la camara de Santo Domingo el Viejo de tres varas e media en ancho e en luengo seys varas e media e sobre este lagar e entrada esta una camara sta mesma anchura e largura e un portal delante della sobre el poso doblado que se manda por la calle que va a Sant Marcos de partes de fuera. Yten dentro deste portal baxo a par del dicho lagar esta un palaçio que solia ser bodega que ay en el en luengo dies varas e dos terçias e en ancho tres varas e media e ençima desta bodega esta una camara desta mesma largura e anchura, la qual se manda con las otras casas que se mandan por la dicha calle pueden subyr fasta el çielo. Yten en estas dichas casas ay una entrada por do entran a la cueva e sobre esta entrada esta un palaçio de las casas del dicho monesterio de Santo Domingo el Viejo que ay en ella en luengo ocho varas e en ancho tres varas e dentro desta entrada esta una cueva que es destas dichas casas , la qual viene debaxo de las dichas casas de Santo Domingo el Viejo e ay en esta cueva una calle que ay en luengo ocho varas e en ancho tres varas e dentro desta dicha calle esta otra boveda que esta debaxo de un/f° 21 r°/  portal de las dichas casas de santo domingo el viejo e lo otro va debaxo de la calle Real, en la qual ay en luengo quatro varas e en ancho tres varas e media e en estas dichas casa ha de aver cubas e tinajas e aderesço segund paresçe por el contrato a esta medida fue estovo presente el dicho Alfon Gonçales mantero.	i V d cccc ¯;. 
+
+La teinturerie des Beatas de doña María García.
+
+En 1460, Diego García, tintorero, tient du monastère de Sto. Domingo el Real une maison à la colación de S. Soles, une maison pour sa vie et celles de sa femme, et d'un fils ou d'une fille ou d'une nièce, pour 500 mrs. et une paire de poules par an, jouxtant une maison de Gonzalo Días, tapiador, un tinte des Beatas de doña María García, une maison de Rodrigo Servendo, et la rue.
+
+Le 2410/1471, Diego Quemasantos, albañil, vend à Gonzalo Martínez, racionero, une maison située à la colación de S. Soles, jouxtant une maison d'Alfonso González, molinero, défunt, el tinte de las Beatas de doña María García, une maison de Juan de Requena, clavero, libre de cens, au prix de 5.500 mrs. de la monnaie usuelle, dont deux blancas font un mri.
+
+SD_BC _68 *1460 
+
+SD-68, ANH Clero, Libro 15118
+
+Medidas de casas de Santo Domingo el Real de Toledo (1460)
+
+Yten otras casas en la dicha collaçion de Sant Soles que tiene perpetuas del dicho monesterio por su vida e de su muger e de un fijo o fija o sobrina suya Diego Garçia tintorero por preçio de quinientos mrs. e un par de gallinas cada anno, que han por linderos de la una parte casas de Gonçalo Dias tapyador e de la otra parte tinte de las beatas de donna Maria Garçia e de la otra parte casas de Rodrigo Servendo e con la calle, en las quales dichas casas ay una entrada de casa puerta doblado ençima de su camara que ay de luengo quatro varas e media e de ancho dos varas e entrando por la puerta a la mano ysquierda esta una quadra que tiene çinco varas en lunego e tres varas en ancho. Yten como entran a las dichas casas a la mano ysquierda esta un palaçio en que ay en luengo siete varas e terçia e en ancho tres varas e quarta e la camara de ensomo deste dicho palaçio e de la dicha quadra de la largura del dicho palaçio e quadra e desta mesma anchura se manda por una puerta sobre sy por la calle de arriba fasya las casas de Johan de Olias tintorero. Yten ay en las dichas casas un palaçio frontero en que ay siete varas en luengo e en ancho tres varas con su camara ençima de la dicha anchura e largura e dentro en esta camara esta una quadra a parte que viene sobre el alhania del palaçio mayor de las dichas casas que ay en ella en largo tres varas e terçia e en ancho tres varas. Yten un palaçio como entran en las dichas casas a la mano derecha frontero que ay en el en luengo nueve varas e en ancho quatro varas e este palaçio es sensillo e dentro deste palaçio a la mano ysquierda ay una alhania que sube desde el sotano de baxo e sube fasta la quadra medida de arriba que sale con la camara e esta dicha quadra es de la dicha largura e anchura/f° 21 v°/ que es la dicha quadra de ençima della. Yten debaxo deste dicho palaçio ay un sotano que se manda por un corralejo que ay en el en luengo ocho varas e media e en ancho quatro varas e en cabo deste sotano debaxo del alhania es de ver una puerta que se çerro fasya las casas de Rodrigo Servendo por que se çeroo. Yten por do entran a este dicho sotano esta un trascorral que ay en el en luengo honse varas e media e en ancho seys varas. Yten en el patyn destas dichas casas ay en luengo dies varas e en ancho ocho varas e dos terçia. a la qual medida e vista fue presente el dicho Diego Garçia tintorero.	d ¯;. 
+
+En 1460, Pedro González, alarife, tient à cens du monastère de Sto. Domingo el Real, et de Catalina Fernández, la sous-prieure, une maison à la colación de S. Soles, pour 150 mrs. par an, jouxtant une maison de los curas tenue à cens par Diego Díaz de Cetina, albañil, une maison de Martín Sánchez de Bonilla, et la rue des deux côtés.
+
+Casa de Catalina Fernandez
+
+ En 1646 estaba bajando de la cuesta de San Torcaquato la ultima a mano derecha y hacia la esquina para revolver a san Cebrian tenia caballeriza. 
+
+Becerro de SDR
+
+Siglo XVI
+
+f.155
+
+Casa tributaria que adminiestra el cura de San Xristoval don Andres Bravo.
+
+Tiene el dicho convento en la dicha parrochia un titulo de 250 maravedis a dezima y comiso sobre casas que estan a la cuesta de San Torcuato, y son las ultimas como se baja por dichao cuesta que hacen esquina, y oy lindan por la parte de arriva ocn solares de casas arruinadas y por las espaldas con casas de la Santa Charidad y por delante con la calle real, y oy paga el tributo don Andres Bravo cura de la parrochia de San Xristoval de esta ziudad …
+
+Dacion de estas casas con el cargo de el tributo de 250 maravedis a Alonso Gonzales clerigo, por doña Cathalina Fernandez cuyas eran con licencia que para ella la dio en nombre del convento la señora doña Cathalina, nieta de el rey don Pedro, priora en 19 de septiembre de 1447…
+
+SD_BC _69 *1460 
+
+SD-69, ANH Clero, Libro 15118
+
+Medidas de casas de Santo Domingo el Real de Toledo (1460)
+
+Yten otras casas que son en la dicha collaçion de Sant Soles las quales tyene a tributo del dicho monesterio e de Catalia Ferrs sopriora del dich monesterio Pero Gonçales alarife por çiento e çinquenta mrs. cada anno, que han por linderos de la una parte casas de los curas que tiene a tributo Diego Dias de Çetina alvanni e de la otra parte casas de Martin Sanches de Bonilla e la calle Real de amas partes. en las quales dichas casas ay una entrada de la casa puerta que es un portalejo en que ay çinco varas e siete ochavas en lunego e en ancho una vara e tres quartas. Yten como entran en las dichas casas a man ysquierda esta un palaçio que ay en luengo siete varas e terçia e en ancho tres varas e dos terçias e tiene debaxo un sotano e ençima del dicho palaçio una camara todo de la dicha anchura e largura e el dicho sotano tyene la puerta de la calle. Yten como entran en las dichas casas a la mano ysquierda ay un palaçio pequenno en que ay en luengo quatro varas e en ancho dos varas e çinco seysmas e sobre este palaçio fuellan de las otras casas del dicho Diego Dias de Çetina. Yten otro palaçio frontero como entran en las dichas casas en que ay en luengo seys varas e en ancho tres varas e terçia e una camara ençima de la dicha anchura e largura. Yten en el patyn de las dichas casas ay en luengo çinco varas e en ancho quatro varas e media e a la una parte del dicho patyn como entran por la puerta a la mano derecha ay fecha el escalera e un portalejo ençima orilla de la pared de la calle. /f° 22 r°/
+
+En 1460, Costanza Alvarez, veuve de Rodrigo de Mesa, tient à cens du monastère de Sto. Domingo el Real une maison à la colación de S. Soles, pour 100 mrs. par an, jouxtant une maison d'Isabel Sánchez sœur du provisor, une maison de Diego Fernández de Madrid, et la rue.
+
+Le 1/09/1488, devant le chanoine Marcos Díaz de Mondéjar, administrateur de la chapelle de l'archevêque don Sancho de Rojas, Bernaldino de Palenzuela demande et obtient l'autorisation de vendre à Juan et Pedro, les fils d'Alfonso de Ocaña, correero, la moitié de la maison qu'il tient à la colación de S. Soles et qu'il a achetée, avec l'autorisation du même Marcos Díaz, d'Aldonso de Ocaña avec la charge de 500 mrs. de cens, pour le prix de 4.765 mrs. et Alfonso de Ocaña effectue la reconnaissance.
+
+Les tanneries de la colación de San Soles.
+
+Le 7/01/1396, Pedro Alfonso de Ocaña, pergaminero, fils de Pedro Fernández de Ocaña, et Inés Fernández, sa femme, demeurant à la colación de S. Lorence, vendent à Francisco Fernández, escribano público à Tolède, fils de Juan Fernández del Paraíso, et Juana Díaz, sa femme,  toute la part leur appartenant d'une maison située à la colación de S. Soles, jouxtant une maison et tanneries des religieuses de S. Pedro, une maison des héritiers d'Alfonso Domínguez, cañadero, et la rue, au prix de 335 mrs. de la vieille monnaie blanche, dont 10 d. novenes viejos  font le mri.
+
+Le 15/06/1398, Francisco Fernández del Paraíso, fils de Juan Fernández del Paraíso, et escribano público à Tolède, veudent à Sœur Inés Alvarez, du monastère de Sto. Domingo el Real, une maison située à la colación de S. Soles, jouxtant une maison des tanneries du monastère de S. Pedro, une maison de Cristina Alfonso, qui était la femme d'Alfonso Domínguez, cañadero, et un solar des vendeurs, au prix de 1.500 mrs. de la monnaie blanche de 10 d. le mri.
+
+Le 8/12/1417, Sœur Teresa García, fils du Maître défunt don García Alvarez, professe à Sto. Domingo el Real, donne à cens à Gonzalo Fernández, fils de Juan Fernández de Roa, et à sa femme, Juana García, une maison située à la colación de S. Soles, jouxtant une maison des héritiers de Cristina Alfonso, une maison tanneries des religieuses de S. Pedro et les rues, au pris de 150 mrs. de la monnaie à courir.
+
+En face de l'église de S. Sebastián.
+
+En 1168 et 1189, est vendue une maison située dans la ḥawma de l'église S. Sebastián, jouxtant une rue allant vers la Porte des Tanneurs (Bāb al-Dabbāġīn). Cette porte est l'une des rares de celles de la ville mentionnée dans les sources arabes musulmanes. La Porta de Adabakim ou de Abaguinh est mentionnée dans des documents royaux de 1142 et 1179. Mais on n'a plus de mention jusqu'au XVe siècle, de l'église mozarabe de S. Sebastián qui reste sur pied jusqu'à aujourd'hui. La ḥawma des šakkāzīn est mentionnée en 1169, mais il semble s'agir plutôt de l'ultérieure Correeria, actuelle Calle de Martín Gamero.
+
+Le 14/07/1432, Juan Díaz, racionero, héritier et exécuteur testamentaire de Juan Rodríguez de Bedoya, Juan Sánchez, escribano de libros, comme tuteur des enfants du défunt et de sa femme Marina Rodríguez, fille de la femme de Juan Rodríguez de Bedoya, Marina Alfonso, et la même Marina Rodríguez, vendent à Pedro Alfonso, jurado, fils de Maestre Juan, físico et boticario, une maison que lesdits Juan Rodríguez de Bedoya et Marina Alfonso, décédés, possédaient à la colación de S.  Soles, jouxtant une maison qui avait été des mêmes Juan Rodríguez et Marina Alfonso, un solar de Pedro Alfonso de Oviedo, jurado, et la rue, faisant face à l'église de S. Sebastián, et tributaire de 15 mrs. aux curé et bénéficiers de cette église, au prix de 2.000 mrs.
+
+Le 27/03/1465, Juan de Ayllón, criado du jurado Diego Serrano, dit que ce dernier lui a fait don de 350 mrs. de cens que Diego de Alcaraz, boticario, fils du jurado défunt Per Alfonso, boticario, et María Flores, sa femme, lui devaient en raison de deux pares de casas, situées à la colación de S. Soles, en face de l'église de S. Sebastián, jouxtant les casas mayores, une maison de Miguel de Valladolid, la maison de (blanc) et les casas menores, et il prend possession.
+
+Le 1/10/1465, Juan Alfonso de Alcaraz, escribano de libros, fils du jurado défunt Pedro Alfonso, au nom de son frère Diego Rodríguez de Toledo, boticario, maintenant vecino de Medina del Campo, avec une procuration de ce dernier, faite à Medina del Campo, le 18/06/1465, vend au chanoine Cristobal Alfonso de Valladolid, une maison que son mandant avait à la colación de S. Soles, frontero de l'église de S. Sebastián, jouxtant d'une part une maison de Miguel Sánchez, ballestero, de l'autre une maison de (blanc) et les rues, libre de cens, plus 250 mrs. et une paire de poules de cens que doit Diego de Toledo, tintorero, fils de Juan González de Sevilla, tintor, pour des cámaras situées au-dessus de la maison vendue, avec leur porte donnant sur la rue qui se trouve de l'autre côté de la maison, le tout pour 7.000 mrs.
+
+A la même date, García Rodríguez de Guadalajara, trapero, déclare que Diego Rodríguez, boticario, fils du jurado défunt Pedro Alfonso, et sa femme, María Flores, lui avait vendu, à lui et à sa femme, Beatriz Rodríguez, 325 mrs. de cens sur une maison située à la colación de S. Soles, face à l'église de S. Sebastián, jouxtant d'une par une maison de Miguel Sánchez, ballestero,  et de l'autre (blanc) et les rues, mais qu'il avait été trouvé que Diego Rodríguez et sa femme avaient vendu et imposé un autre tribut sur la même maison au jurado Diego Serrano, qui l'avait donné à son criado Juan de Ayllón, ce qui était contraire au droit. En conséquence, il s'est mis d'accord avec Juan Alfonso de Alcaraz, escribano de libros, fils du jurado Pedro Alfonso, et frère de Diego Rodríguez, au nom de ce dernier, pour qu'il lui rende les mrs. que García Rodríguez et sa femme lui avaient donnés.
+
+Le 2/01/1474, Diego Díaz de Cetina, albañil, reconnaît un cens de 700 mrs. sur une maison, située à la colación de S. Soles, en face de S. Sebastián, jouxtant une maison de (blanc) et la rue, précédemment dûs au chanoine Cristobal Alfonso et que celui-ci a légué au monastère de Montesión.
+
+L'église de San Sebastián, à la colación de San Soles (parfois à la colación de S. Sebastián).
+
+CH_BC_02
+
+San Sebastián, calle de. N°8.
+
+CH_BC_02. Le 26/08/1460, le chapitre baille à Francisco de Lozana et María Alvarez, sa femme, une maison située à la colación de S. Soles, face à l'église de S.  Sebastián, (confronts en blanc), dont a fait abandon Diego Machuca qui la tenait précédemment, pour la vie des deux et d'un fils ou d'une fille, au prix de 942 mrs. et deux paires de poules, avec la caution de Juan del Moral, fils de Juan Martínez del Moral, et de la même María Alvarez .
+
+CH_BC_02. Le 19/11/1462, le chapitre a bailllé à Alfonso Durán et Inés de Cabrera, sa femme, la maison que tenait auparavant Francisco de Lozana et María Alvarez, sa femme, pour la vie des deux, au prix de 1.000 mrs. et quatre paires de poules, avec la caution de Gonzalo Martínez, racionero. Mais le 22/11/1463, la maison a été à nouveau baillée aux mêmes Francisco de Lozana et María Alvarez, pour la vie des deux et d'un fils ou d'une fille, au prix de 942 mrs. et deux paires de poules, avec la caution de Juan del Moral, fils de la même María Alvarez.
+
+
+ /f° 27 v°/e otro corredorçillo ensomo de la puerta del palaçio pequenno en que ay en luengo quatro varas e en ancho una vara e ençima un açutea. Yten a par del dicho corredor ençima de la entrada de la puerta ay una camara que viene sobre el cobertiso del adarve que es a par de las dichas casas, el qual carga de la una parte sobre las dichas casas e de la otra parte sobre las casas de Lope Ferrnandes Cota e ay en esta camara en luengo quatro varas e en ancho tres varas e tyene otra camara ensomo della desta mesma anchura e largura. Yten ay mas en estas dichas casas unas almaçrias que tienen otra puerta que sale a la calle de arriba, en las quales ay en la entrada de la puerta e un portal a par della que ay en luengo en todo quatro varas e en ancho tres varas por que entra la neçesaria tras el portal. Yten ay en las dichas almaçrias una palaçio como entran en ellas por la puerta de arriba a la mano derecha en que ay en luengo seys varas e en ancho tres varas e tiene una camara ençima desta mesama largura e anchura. Yten otro palaçiete a la sobida del escalera, la qual viene sobre el dicho cobertiso de la entrada del adarve, que ay en luengo quatro varas e en ancho dos varas e ençima ay un camaranchon para gallinas e todas estas casas e almaçrias tienen sus patines e su altura fasta el çielo.	ccc ¯.  
+
+Le 6/12/1475, Juan de Valladolid, mercador, dit qu'il tient, à la colación de S. Lorence, une maison avec une bodega et un corps de maison en dessous, chargée de 1.200 mrs. de cens à Francisco de Rojas et doña Mencía de Ayala, sa femme, avec la condition de pouvoir donner les 1.200 mrs. sur d'autres maisons. Comme il a donné 600 mrs. qu'a imposé Pedro de Toledo, fils de feu Francisco González de Torrijos, sur une maison ssituée à la colación de Sto. Tomé, dans l'Adarve de Caños de Oro, il ne reste plus que 600 mrs. sur celle de la colación de S. Lorence.
+
+Le 21/09/1486, le contador Diego de Uceda veut vendre à Inés Gómez, veuve d’Alfonso Fernández el Albo, absente, et au frère de celle-ci, Gómez de la Cruz, une maison située à la colación de Santo Tomé, dans l'Adarve de Caños de Oro, tributaire à l’Hôpital de la Miséricorde de 300 mrs., une maison de Gómez de la Cruz figurant parmi les confronts.
+
+Le 2/05/1491
+
+Le 24/06/1493, le chapitre achète certains cens du monastère de San Bernaldo, dont 255 mrs. imposés sur une maison almaçrias et une bodega au dessous, dont Alvar González Jarada a le domaine utile, et dont la porte donne à l'Adarve de Caños de Oró.
+
+En 1512, la ville ordonne la démolition du cobertizo de la maison située à l'entrée de l'Adarve de Caños de Oro.
+
+Beatrice de Sosa 
+
+Al adarve que dicen de caño de Oro  linda casa de alonso Alcaraz trib del convento  y del otro alfonso de Cordova  … frontero de las casa de Juan de Torres. 
+
+Becerro de SDR
+
+Siglo XVI
+
+p. 367 en el adarve caño de oro
+
+la cual tiene a tributo pedro de toledo
+
+alinda casa de alonso de alvarez tributario del monasterio otra alonso de cordova y con la otra parte con la calle del dicho adarve de C. Oro con la calle del dicho adarve de Caño del oro
+
+tiene dos puertas una en Caño del oro por donde se manda los bajo de la dichas casas y tiene otra puerta por donde se manda los alto en la calle real forntero de las casas de johan de Torres mayordomo de Toledo
+
+¿?? Cayer a la dicha ana Sánchez la parte de abajo que tiene su puerta en el dicho adarve de Caño del oro y hay en esta parte dos palacios y un sotano debajo de un palacio y dos portales y un zaguan con una necesaria detrás de la puerta y su patin y pozo del cual pozo se ha de prochar lo alto de las dichas casas haciendo por arriba por la escalera un abujero por donde la parte de arriba pueda sacar agua… ¿?
+
+L'Adarve de la ferreria, ou de las ferrerias viejas, face au palais des Dávalos du XVe siècle, ultérieur couvent de  S. Antonio.
+
+Le 27́/03/1365, les religieuses de San Clemente louent pour six ans à don Mosé, fils de don Abrahem Nahaman, juif demeurant à Tolède les deux pares de casas e almaçrea qu'elles possèdent dans la Judería, et où il demeure, avec trois tiendas, où l'on accoutumait travailler la forge, l'une qu'elles ont ordonné de fermer et d'incorporer à ces maisons, et les deux autres restant ouvertes pour les travaux de la forge, maisons et tiendas attenantes et jouxtant aussi une maison du monastère tenue à cens par don Todros, pour 150 mrs. de la monnaie blanche de 10 deniers le mri. chaque année, soit 900 mrs., sur lesquels il a déjà dépensé 785 mrs. en travaux sur l'ordre des religieuses.
+
+Le 14/12/1423, les religieuses de San Clemente donnent à cens à Gonzalo Sánchez de la Faya, des almaçreas, à la colación de Sto. Tomé, au dessus de la casa mesón de Pedro Carrillo, que solia ser ferrerias, jouxtant une maison de Juan Fernández Manayre, sastre, une maison de García Alvarez el fr…, et la rue, pour 40 mrs. de la monnaie à courir.
+
+Le 24/01/1470, Alvaro de Benavente reconnaît un cens de 300 mrs. en faveur du monastère de S. Pedro Mártir, sur une tienda avec une cámara au dessus d'elle, qu'il a achetée de Rodrigo Cota, fils du jurado Juan Núñez, et située en la plaça de Santo Thome, face à la maison de Ruy López de Dávalos, jouxtant d'un côté l'adarve de la ferreria, de l'autre une maison de Fernand Rodríguez, jubetero, et le four de Pedro de Montoya. Ce document confirme qu'il faut entendre sous Plaza de Sto. Tomé, toute l'actuelle Calle de Sto. Tomé, et non pas seulement une place au sens propre actuel du terme, et permet de situer l'Adarve de la ferrería, soit à l'actuel Callejón de las vacas (ou del alarife), soit plutôt à celui de los naranjos, le palais des Dávalos étant bien localisé à l'ultérieur couvent de S. Antonio.
+
+Le 18/06/1459, Catalina González, veuve d'Alfonso González de Santo Tomé, escribano público, déclare que son mari et elle tenaient à tributo du curé et des bénéficiers de San Yuste, pour 120 mrs. par an, une tienda situé dans l'adarve de la ferreria vieja, jouxtant une maison de (blanc) Cabrillas, et le mesón de Pedro Carrillo. Elle fait don de la tienda à Juan Ximénez, barbero, qui reconnaît le cens. Le 15 juin 1464, Pedro Fernández, escribano, habitant de Burujón, déclare qu'il a traité d'acheter de Gonzalo de Avila, albañil, une maison située à la colación de Sto. Tomé, jouxtant le mesón dit de Pedro Carrillo et une maison de Luis Cirguelo, tributaire de 120 mrs. au curé et aux bénéficiers de San Yuste, pour 500 mrs. de la monnaie usuelle.
+
+CH_BD_14
+
+Herrera, callejón de. N°1A. (Carnicerías Santo Tomé.) antes Herrería,
+
+Santo Tome Plaza n°2 * (desaparecida)
+
+CH_BD_14. En 1489, on apprend que l'Hôpital de la Misericordia a donné au chapitre 240 mrs. de cens pesant sur une maison, à la colación de Sto. Tomé,  dans l'Adarve de la herrería, dont Salamon Aben Umayte, judío demeurant à Tolède, a le domaine utile. 
+
+CH_BD_14. En 1491, à Santo Tomé, dans l’Adarve de la herrería, se trouve effectivement une forge, à l'intérieur d'une tienda jouxtant d'un côté le coin de rue et de l'autre une maison de Ferrand Sanches molinero. Le 11 mai 1492, le chapitre autorise Salamon Aben Humayt  à vendre la tienda à Francisco Husillo, mercador.
+
+Le 8/01/1496, le curé de S. Yuste accense à Fernando de Villarreal, trapero, et Isabel González, sa femme, une maison située dans l'Adarve des ferrerias viejas, précédemment tenue par Diego Pérez, carpintero, qui en a fait abandon. La maison jouxte des deux côtés une maison d'Alfonso Dávalos, une maison mesón de Pedro Rodríguez de Dueñas, mercador, une maison de Pedro de San Pedro, pour 600 mrs. de la monnaie à courir et une paire de poules.
+
+ Le 6/03/1501, Juan Pérez de Villarreal, mercador, reconnaît le cens de 600 mrs. et une paire de poules, en faveur du curé et des bénéficiers de S. Yuste, sur une maison qu'il a achetée d'Isabel Alvarez, veuve de Fernando de Villarreal, et de Pedro de Villarreal et Rodrigo de Villarreal, ses fils, située à la colación de Sto. Tomé, dans l'Adarve dit de las Herrerías Viejas, jouxtant sur deux côtés des maison du señor Alonso Dávalos, la calle real, et par devant la calle del dicho adarve.
+
+Le 30/01/1511, dans le partage des biens d'Alonso Dávalos, défunt, parmi les biens qui restent pour la chapellenie, il y a cinq pares de casillas, appelées les tiendas de la herrería, situées dans l'adarve qui fait face aux casas principales du señor Hernando Dávalos, à la colación de Sto. Tomé.
+
+CH_BD_14_1492
+
+OF 356 
+
+El espital de la misericordia dio al cabillo dosientos e quarenta mrs. de çenso e tributo sobre unas casas e herreria que son a Santo Tome en el adarbe que disen de la herreria, linderos de la una parte el esquina e de la otra casas de Ferrand Sanches molinero./f° 195 v°/
+
+En xix dias del dicho mes de agosto del dicho anno de noventa e un annos, el venerable sennor Alvar Peres de Montemayor canonigo e vesitador de las posisiones de la santa iglesia de Toledo deslindo estas casas e fallose en la tienda donde esta la ferreria un portal en la entrada en que ay ocho varas en largo e çinco en ancho, con una camara ensomo de su tamanno con una boveda tamanno como la dicha casa e entra debaxo de las casas de Ferrand Sanches molinero. De que fueron testigos Diego de Obregon e Diego Serrano criados del dicho sennor Alvar Peres. (signé) Juan de Mayorga notario apostolico.
+
+Le palais des Dávalos, situé en bordure de la grande juiverie, et devenu au XVIe siècle, le couvent de S. Antoine de Padoue, avec une porte arrière (postigo) donnant sur la Judería.
+
+Le 4/5/1386, dans le partage des biens de doña Mayor, fille de don Pedro Suárez et de doña María Ramírez de Guzmán, femme de Juan Carrillo, qui avait été alcalde mayor de Tolède, il revient notamment à María Carrillo, fille mineure de la défunte et de Juan Carrillo, également défunt, une maison, estimée à 5.000 mrs., située dans la Judería de Tolède, dans l'adarve dit d'Abenamias, jouxtant une maison des héritiers de don Symuel Abenxuxen de Guadalajara, et les casas mayores revenues audit Juan Carrillo.
+
+Le 25/06/1483, Ferrand Alfonso de Toledo, majordome de l'archevêque de Tolède, pour lui-même et au nom de sa femme, Inés Lorenzo, accense, pour 5.500 mrs. de la monnaie courante, à Alfonso Yáñez de Sevilla, contador de cuentas du roi et de la reine, et à sa femme, Inés de Córdoba, deux maisons jointives, situées à Tolède, colación de Santo Tomé, jouxtant une maison des preneurs, une maison de Francisco García de Toledo, frère du baillenr, une maison de Jaco Valençi, juif, batidor, face à un corral, emplacement d'une ancienne synagogue (un corral que fue xinoga). De ces deux maisons, l'une a sa porte principale près de la maison des preneurs, et l'autre a sa porte par où l'on entre alors à la juiverie, près du postigo de Ruy López Dávalos donnant à la Judería (por donde agora sa manda a la juderia, çerca del postigo de las casas del sennor Ruy Lopes Davalos que sale a la juderia).
+
+Le 26/05/1518, Alonso Yáñez de Sevilla et Inés Gómez, sa femme, déclarent qu'ils possèdent deux pares de casas jointives, à la colación de Sto. Tomé, jouxtant avec Juan de Illescas, une maison de Fernando de Avalos, et une maison des héritiers de Francisco de Badajoz, maisons sur lesquelles Alonso Yáñez avait imposé 5.500 mrs. de tributo en faveur d'Alonso del Marmol. Ce dernier, avant son décès, les avait légués au monastère de S. Pedro Mártir.
+
+Le 4/08/1494, le testament d'Alonso del Marmol, escribano du conseil des souverains, fait à Ségovie, veut qu'on l'enterre dans une chapelle où se trouvent ses ancêtres au monastère de San Pedro Mártir, auquel il lègue 5.500 mrs. de cens sur deux maisons ayant appartenu à son aïeule, à la colación de Sto. Tomé. Il dit aussi que son père, qu'il ne nomme pas, a fait déposer son corps à Consuegra, pour être ensuite porté à la chapelle en question de San Pedro Mártir, et il demande à frey Pedro, son frère, de s'en occuper.
+
+Le 24/02/1479, don Luis de Torres, archidiacre de Medina et chanoine de Tolède, vend à don Symuel Anacagua, juif demeurant à Tolède, fils de don Symuel (ou don Frayme?) Anacagua, défunt 205 mrs. des 410 mrs. de cens qu'il possède sur une maison, colación de Sto. Tomé , à la Judería, dans la rue du postigo de Ruy López Dávalos, maison qui avait été de don Ysaque Mohes, juif, décédé, qui la tenait avec la charge des 410 mrs., jouxtant d'un côté une maison de la femme de Mayr Çarcaçan et de l'autre une maison de don Çag Maleque. Il vend ces 205 mrs., avec le domaine direct sur la moitié de la maison, pour 5.000 mrs. de la monnaie usuelle.
+
+Casa clj Del postigo davalos
+
+AHP I-441
+
+Casa clj. Del postigo davalos
+
+Benito sanchez texedor de seda compre de mari diaz mujer de miguel sanchez hilador de seda morador de anover unas casa en la coll de st tome a barrio nuevo alindan  de una parte con casa de los herederos de Rodrigo Ortiz y de la otra casa del Bachiller Bartolome Ayllon y por delante la calle publi real trib del monasterio del espiritu Santo que fundo martin alonso de Hinajosa.
+
+Don luis de torres archediano de medina canonigo de la sar iglesia de toledo otorga que vendo a vos don samuel anacagua judio morador  hijo de samuel anacagua difunto
+
+250mrs trib de 410 (vend un trib.)
+
+en la coll de st Tome en la juderia en la calle del postigo de Ruis Lopez davalos las cuales dichos casa fueron de don Isaq mohe judio difunto esta casa han por linderos de la una parte casa de la muger de mayr çarcazan y de la otra parte casa de don çaj maleq las cuales dicho 200mrs los vendo con derecho dominio… a la mitad a las dichas casas mitad de 410mrs
+
+24 febre 1479
+
+don Yusaf ardiutel chamorro sastre judio
+
+Le 8/07/1485, Juan de Sepúlveda, clérigo, pour prendre possession des 1.000 mrs. et deux paires de poules de cens) qu'il a achetés de Rabí Salamon, físico, et sa femme, pesant sur une maison de ce Rabí Salamon et de sa femme, située dans la Judería, so ciertos linderos, ferme une porte d'un palacio de la maison.
+
+Avant 1489, certaines dettes sont payées à Rabí Salamon, físico de Tolède, en exécution du testament de don Alvar Pérez (de Guzmán) et doña Leonor, sa femme. En 1453, le roi Juan II donnait à Rabí Salamon, físico de la comtesse doña Juana Pimentel, un moulin à huile dit de la Horden, situé à Maqueda, confisqué au connétable don Alvaro de Luna.
+
+Le 14/05/1492, Yuçaf Perrne, juif demeurant à Tolède, vend à Martín Alfonso de Hinojosa, une maison située à la colación de Sto. Tomé, jouxtant une maison d'Alfonso López, platero, une maison ayant appartenu à Rabi Hayn, judio, située au postigo de Fernando de Avalos, libre de cens, pour 22.500 mrs. 
+
+Le 11/10/1493, le commandeur Diego Ramírez de Lucena, regidor de Tolède, et sa femme, Beatriz Núñez, donnent au monastère de San Miguel de Tolède, où ils mettent en religion leur fille, Lucina Ramírez, les 2.000 mrs. et une paire de poules de cens qu'ils possèdent sur une maison située à la colación de Sto. Tomé, jouxtant d'un côté une maison de Fernando de Dávalos, regidor de la ville, et de l'autre une maison de Diego Moyano, et par devant l'adarve dit de Fernando Dávalos. 
+
+Le 7/05/1499, doña Mayor de Guzmán, veuve de Juan Manuel de Villena, déclare qu'elle a acheté ce jour de Diego Vázquez et Francisca Alvarez, sa femme, une maison située à la colación de Sto. Tomé à la rue du postigo dit du señor don Fernando Dávalos, jouxtant une maison de García de Avila, une autre de Martín de Rojas, une autre de Juan de Lucena, escribano de libros, une autre de Pedro de la Vega, carpintero, et la rue. La maison est tributaire de 1.000 mrs. au monastère de Sta. Clara. Le 31/12/1503, Bernaldino de Navarra, reconnaît le cens de 1.000 mrs. en faveur du monastère de Sta. Clara, sur la maison située à la colación de Sto. Tomé, dans la rue del postigo dit du señor don Fernando Davalos, avec lesmêmes confronts que précédemment, qu'il a achetée de doña Mayor de Guzmán, femme du señor Juan Manuel.
+
+Le 27/10/1508, Pedro Zapata, regidor de Tolède, donne en majorat à Juan Zapata,  son fils mâle ainé légitime, 5.000 mrs. de tributo qu'il possède sur une maison constituée de deux cuerpos, située à la colación de Sto. Tomé dans l'adarve de Fernando Dávalos (confronts en blanc), que sont obligés de donner la femme et les héritiers de Francisco de Segovia, sastre, pour que ces mrs. soient distribués chaque année à des personnes menestrosas envergonçantes, à la disposition de ce Juan Zapata et de ses successeurs, de l'abbesse de San Miguel et de Cecilia Zapara, mi hija, professe du monastère, tant qu'elle vivra.
+
+Le 30/01/1511, dans le partage des biens d'Alonso Dávalos, décédé, figure parmi les biens qui reviennent à une chapellenie, 500 mrs. et une poule de tributo sur la maison de Gutierre de Palma, où il y a deux cuerpos de casas, a la colación de Sto. Tomé, jouxtant une  maison de Fernand Alvarez de Toledo et de l'autre côté l'ancienne boucherie des juifs (la carneceria que fue de los judios), constituant la moitié de tout le tributo pesant sur la maison, et figure également 670 mrs. et une poule sur une autre maison de Gonzalo Ruiz, tejedor de terciopelo, jouxtant la précédente, moitié de tout le tributo pesant sur la maison.
+
+Le 14/11/1512, Juan Fernández de Oseguera, fils de feu Alfonso Fernández de Oseguera, vend à Fernando de Alba, secrétaire du prieur de San Juan, décédé, pour 19.000 mrs., une casa tienda, située en la plaça de Santo Tome (soit la rue du même nom), jouxtant l'adarve de Fernando Dávalos, un four à pain du jurado de León, e por delante la plaça publica, tributaire de 300 mrs. au monastère de S. Pedro Mártir.
+
+Le 25/03/1513, le testament de María de la Peña, fille d'Estebán de la Peña, fait dans sa demeure dans la Calle de la Campana, en la plaça de Santo Tome, ne nomme pour tout parent que Juana de Lizana, sa nièce, fille de sa sœur, Isabel de la Peña, et de Diego de Lizana, fils de Luis Fernández, dorador, vecino de Séville, et dit qu'elle n'a ni ascendant ni descendant. Ce document infirme l'explication selon laquelle le nom de l'actuelle Calle de la Campana remontrerait à un épisode des Comunidades de Castille.
+
+Le 20/10/1525, les religieuses de S. Antoine de Padoue achetèrent à Charles-Quint, les maisons qui forment aujourd'hui leur couvent, et avaient été confisquées au regidor comunero Hernando de Avalos. Ces maisons jouxtaient d'une part une maison de la de Juan Xarada et de l'autre une maison de la femme de Lorenzo de Zamora, et par derrière une maison de Valverde, et la Boucherie de Santo Tomé.
+
+Les demeures aristocratiques en bordure de la Judería: le palais de Fuensalida et le Taller del Moro.
+
+Sur les limites de la grande juiverie, mais en dehors de celle-ci, on trouvait au XVe siècle, une série de demeures aristocratiques, aux colaciones de Santo Tomé et de San Salvador, dont les plus connues sont le palais de Fuensalida et celui appelé, de nos jours, le Taller del Moro, l'un et l'autre encore présents à l'heure actuelle dans le paysage urbain, tandis que d'autres ont disparu, le plus souvent transformés en couvents, ou absorbés par eux, ainsi le palais des Dávalos, déjà mentionné, devenu le couvent de S. Antonio.
+
+Le palais de Fuensalida, la plaza del conde, et les écuries du palais.
+
+L'actuelle Plaza del Conde de Fuensalida est bien attestée dans la documentation, bien qu'elle n'apparaisse pas dans le Libro de medidas de casas du chapitre cathédral de 1491-1492, avec le palais qui s'y dresse, édifié et agrandi, dans le courant du XVe siècle par Pedro López de Ayala (III), alcalde mayor de Tolède, fils cadet du chancelier du même nom (Pedro López de Ayala II), et par son fils Pedro López de Ayala (IV), qui reçut en 1470 le titre de comte de Fuensalida, en même temps que la seigneurie de cette localité, détachée de la juridiction urbaine de Tolède.
+
+La première mention de ce qui sera le palais des comtes de Fuensalida apparaît en 1424, lorsque Pedro López de Ayala (III), alcalde mayor de Tolède, réalise un échange avec les religieuses de San Clemente, par lequel il reçoit le cens qu'elles percevaient sur une maison, située à la colación de Santo Tomé et jouxtant une autre lui appartenant. Le but de l'opération est vraisemblablement de procéder à l'agrandissement de la maison principale du magnat. 
+
+De même, le 6//03/1424, le vicaire général de l'archevêché de Tolède autorise les religieuses de Sta. Ursula  à procéder à un échange par lequel elles donneront les 450 mrs. de cens qu'elles possèdent sur une maison située à la colación de Sto. Tomé, jouxtant une maison de Pedro López de Ayala, alcalde mayor de Tolède, et une maison de Juan Sánchez, pellijero, qui avait appartenu à Juan González, molinero, et est  maintenant de ses héritiers,  contre 500 des 700 mrs. de cens que Pedro López a sur une maison bodega située à la Cruz.
+
+Le 21/03/1432, à Tolède, dans son palais, proche de l'église Santo Tomé (en las casas de la morada del honrrado e noble cauallero Pero Lopes de Ayala, alcall mayor por nuestro señor en Rey en esta dicha çibdad e un del su consejo, las quales son çerca la eglesia de Santo Thome desta dicha çibdat), Pedro López de Ayala (III) donnent les biens constituant la dot de sa fille décédée, doña Leonor de Ayala, aux fils de celle-ci, ses petits-enfants. En 1435, le majorat fondé par Pedro López de Ayala (III) et doña Elvira de Castañeda, mentionne en premier leur palais tolédan, a la paroisse de Santo Tomé, avec la rue et place devant la porte principale: las nuestras casas mayores de nuestra morada que son comunes de entramos a dos, las quales son en esta çibdad de Toledo, a la colaçion de Santo Thome, çerca de la dicha yglesia, que se tienen de la una parte con casas bodega que fueron de Diego Alfon Haybari mercador, vesino de Toledo, e son agora de Pero Lopez de Davalos e de doña Maria de Horozco su muger e de la otra parte con casas de donna Juana Palomeque, muger de Juan Ramirez de Guzman, e de la otra parte con casas de Juan Alfon de don Marcos e de la otra parte con la calle e plaça que esta delante la puerta mayor de las dichas nuestras casas.
+
+En 1478, doña María de Orozco, veuve de Pedro López Dávalos, dispose de la maison où elle demeure, entre l'église Santo Tomé et le palais du comte de Fuensalida (las mis casas de mi morada que yo tengo en esta dicha çibdad de Toledo, en la collaçion de la eglesia de Santo Tome, que alindan de la una parte con la dicha eglesia de Santo Tome e de la otra parte con casas del conde de Fuensalida).
+
+En 1489, apparaissent simultanément la place et les écuries du comte de Fuensalida:  dentro en unas casas que son en esta dicha çibdad de Toledo en la collaçion de la yglesia de Santo Tome˙… que alindan con la puerta pequeña del señor conde de Fuensalida, tributarias al magnifico señor don Pero Lopez de Ayala, conde de Fuensalida, alcalde mayor desta dicha çibdad difunto, que Dios aya, lecture étant donnée d’un mandement de l’alcalde, à la demande d’Aldonza Carrillo, veuve du comte, disant que celui-ci avait laissé certains biens, et notamment des cens en tres pares de casas que son en la plaça del conde… que son junto con la cavalleriza del dicho señor conde de Fuensalida», et l’on va prendre possession a tres pares de casas que son en la plaça del dicho señor conde… e en otra casa en la dicha plaçuela junto con la caballeriza del dicho señor conde .
+
+La colación de San Salvador
+
+Le Taller del Moro.
+
+Au dos du palais de Fuensalida, on trouvait, au XVe siècle, celui connu de nos jours sous le nom du Taller del Moro, construit dans la première moitié du XIVe siècle, ainsi que l'atteste le testament, en date du 4/06/1349, de doña Mayor Téllez, fille de Tel Garcia de Meneses, et veuve de Lope González (Palomeque), lèguant à son fils, Gonzalo Díaz la moitié qui lui appartient de toutes les casas mayores où elle demeure, et de toutes les autres maisons  jointives, situées à la colación de S. Salvador, en avantage sur ses frères et sœurs, constituant un majorat.
+
+Le 23/07/1409, doña Teresa González Palomeque, fille de don Lope González Palomeque, et femme de Fernand Gudiel de Cervatos, donne à sa nièce, doña Juana Palomeque, fille de son frère, Tel González Palomeque, et femme de Juan Ramírez de Guzmán, une maison située à la colación de San Salvador, jouxtant une maison de Juan Pantoja, fils de Gutierre González Pantoja, et une autre d'Alvar González de las Roelas
+
+En 1435, la maison de doña Juana Palomeque, femme de Juan Ramírez de Guzmán, mentionnée parmi les confronts du palais de Fuensalida, est vraisemblablement le palais que l'on appelle de nos jours le Taller del Moro.
+
+Le 21/02/1439, dans une maison située à la colación de San Salvador, ayant appartenu à l'honrrado caballero Tello Guzmán, décédé, sa veuve, doña Mencía de Haro, fait désigner par l'alcalde un curateur à ses enfants, nommés Juan Ramírez de Guzmán, Tello, doña Juana, doña María et doña Leonor, pour le procès qu'elle a contre eux, concernant la perception de ses arras.
+
+En 1490, Juan Ramírez de Guzmán, s'intitulant seigneur de Las Villaverdes, constitue un majorat commençant par les dehesas de Las Villasverdes, suivies de son palais (las mis casas prinçipales de la mi morada), situé à Tolède, à la paroisse de San Salvador, et jouxtant notamment la maison du contador Pedro de Uceda et le palais du comte de Fuensalida. On retrouvera le contador Pedro de Uceda avec la maison CH_BB_04.
+
+Le 26/11/1510, dans la maison ayant appartenu à Tello de Guzmán, regidor de Tolède, décédé, sise à la colación de San Salvador et jouxtant d'une part des petites maisons de Fernand Pérez de Guzmán, son beau-frère (cuñado), et d'autres de Pedro Zapata, et par derrière celle du comte de Fuensalida, est décernée la tutelle et curatèle des enfants du défunt à sa veuve, doña Francisca de Zúñiga.
+
+A San Salvador.
+
+En 1491, sont recensées et mesurées quatre possessions du chapitre (CH_BB_01 à CH_BB_04) sous la rubrique Sant Salvador. Parmi elle, on retiendra la maison alors tenue par Pedro de Uceda. (CH_BB_04) et CH_BB_01.
+
+Le monastère de Santa Ursula et le four situé en face de son mur.
+
+Le 7/06/1380, María Alfonso, fille de Gudiel Alfonso Cervatos, et femme d'Alfonso Meléndez de Fuensalida, avec autorisation de celui-ci, vend au monastère de Sta. Ursula, un four à pain, situé à la colación de S. Salvador, jouxtant une maison de Sancha Díaz Cervatos, qui était la femme de Gonzalo Alfonso Corralejo, une maison de l'église S. Salvador, une maison de Fernand Martínez, pergaminero, et la rue, au prix de 3.800 mrs. de la monnaie blanche de dix d. le mri.
+
+Le 3/11/1391, le chapitre baille à Martín Martínez, capellán de l'Église de Tolède, une maison située près du monastère de Sta. Ursula, dans laquelle demeurait auparavant Juan Sánchez de Jaén, racionero, jouxtant d'une part une maison de Costanza Rodríguez, qui était la femme de Fernand Alfonso de Vargas, et de l'autre une maison del Granado, appartenant à Sancho García de Torrijos, au prix de 110 mrs. de vieille monnaie, avec la caution de Juan Sánchez de Jaén, racionero.
+
+Le 30/07/1415, Alfonso Fernández de Cadahalso, trapero, et sa femme, María Alvarez, vendent au chapitre cathédral un four (una casa forno) situé à la colación de S. Salvador, face au mur du monastère de Sta. Ursula, jouxtant d'une part une maison et bodega d'Aldonza Fernández de Vargas et de l'autre la rue, en même temps qu'une autre maison située à l'Alhandaque, le tout pour 15.000 mrs. de la monnaie de blancas.
+
+En 1417, le 30/07/1415, le chapitre a acheté, avec les mrs. de don Ruy Gutiérrez, archidiacre de Calatrava, un four situé en face du mur de Sta. Ursula, d'Alfonso Fernández de Cadahalso et María Alvarez, sa femme, et il l'a loué à Juan Alfonso de Villarreal et Catalina Martínez, sa femme, demeurant près de ce four, pour deux ans, au prix de 350 mrs. par an de la monnaie à courir, depuis le 15/08/1415, avec la caution de Martín Fernández de las Carretillas. Ajouté en marge: le 21/05/1417, le chapitre a loué ce four pour deux ans, à partir du 15/08/17, à Martina Sánchez, qui était la femme d'Alfonso Fernández, cerero, pour 370 mrs. par an de la monnaie à courir. Juan Alfonso de Villarreal, hornero, a payé les trois termes de 1417, le chapitre lui faisant compter 30 mrs. de bois para la primera calda del forno.
+
+En 1422, le four de Sta. Ursula a été baillé, par les mayordomos (du chapitre) à Teresa García, pour un an, depuis le 1/09, au prix de 450 mrs. de blancas
+
+Le 22/08/1424, le chapitre baille à Pascual Martínez de Gálvez, fils d'Alfonso Martínez, demeurant à la colación de S. Soles, une maison et four située près du monastère de Sta Ursula, à la colación de S. Salvador, achetée d'Alfonso Fernández de Cadahalso et María Alvarez, jouxtant vers le bas une maison bodega d'Aldonza Fernández de Vargas et vers le haut une maison dite del foyo, faisant le coin avec les deux rues, et en face des murs du monastère de Sta. Ursula, pour sa vie, au prix de 325 mrs. de vieille monnaie ou le double, avec la caution de son frère, Alfonso Fernández, peinador, demeurant à la colación de S. Cristobal, et de Bartolomé Sánchez, fils de Francisco Fernández, demeurant à celle de S. Soles.
+
+Le 25/10/1425, possession est prise au nom du monastère de Sta. Ursula d'un four, situé à la colación de S. Salvador, jouxtant une maison des héritiers de Francisco Vázquez, caballero, défunt, une maison dite de las tres cabezas, et la rue, avec insertion de l'acte de vente au monastère, daté du 18/06/1380.
+
+Le 26/06/1431, le chapitre baille à Juan Cid, un four et casa situé près du monastère de Sta. Ursula, jouxtant d'une part une maison d'Inés Alvarez de Sotomayor et de ses enfants, de l'autre une maison de la même Inés Alvarez et ses enfants, et la rue, précédemment tenu par Pascual Martínez, défunt, pour sa vie et celle de Catalina Rodríguez, sa femme, au prix de 847 mrs. de la monnaie de blancas, ou en proportion de celle à courir, avec la caution de Juan  Fernández, fils de Fernand García, labrador, demeurant à la colación de S. Miguel, et de Juan Sánchez de Novés, demeurant dans la Judería, al Marmol.
+
+En 1439, le four situé à Sta. Ursula est tenu par Juan Cid pour 847 mrs. par an depuis 1431 et jouxte d'un côté le coin de rue et de l'autre une maison de doña Aldonza de Vargas.
+
+En 1443, le four situé à Sta. Ursula a été baillé par le chapitre, perpetuo e por reparado, le 1/07/1431, à Juan Martínez Cid et Catalina Rodríguez, sa femme, pour 847 mrs. de blancas par an, avec la caution de Juan Fernández, fils de Fernand García, labrador, et Juan Sánchez de Novés, demeurant al Marmol.
+
+En 1450, le four situé à Sta. Ursula est baillé depuis le 25/06/1431 à Juan Martínez Cid, pour sa vie et celle de Catalina Rodríguez, sa femme, pour 847 mrs. courants, avec la caution de Juan Fernández, fils de Fernand García, labrador, et Juan Sánchez de Novés, demeurant al Marmol. En marge : Le 24/04/1450, le chapitre a baillé ce four à Juana Gómez, qui était la femme de Pedro Escudero, pour 800 mrs. courants.
+
+Le 4/04/1450, le chapitre baille à Juana Gómez, veuve de Pedro Escudero, un four avec sa casa, localisé à Santa Ursula, à la colación de S. Soles, jouxtant une maison de Fernando de Sotomayor et le coin des rues publiques, pour sa vie, 800 mrs. de la monnaie à courir, avec la caution de Diego López, albañil, et de Gil Fernández, tintorero.
+
+En 1465 et 1472, pour le four situé à Sta. Ursula que tenait pour 600 mrs. le chanoine Fernando de Sotomayor, ce dernier a donné ces mrs. et deux paires de poules sur des maisons à S. Soles (CH_BC_11) et Sta. Leocadia.
+
+Un mesón, avec trois tiendas, sur la place de San Salvador.
+
+CH_BB_01
+
+CH_BB_01. Le 21/12/1318, Diego Alvarez et García Alvarez, fils d'Alvar Ibáñez Corvillo et de María Díaz, vendent au chapitre cathédral, au prix de 3.000 mrs. de la monnaie blanche de dix d. le mri., un mesón et trois tiendas attenantes, près de l'église San Salvador, qu'ils ont eus en héritage de leur mère, qui elle-même les avait eus de doña María. La porte du mesón donne sur la place et une porte arrière sort sur la rue où l'on vend les peaux (la calle do venden los pellejos). Une tienda est tournée vers la place et les deux autres vers la rue où l'on vend les peaux. Ces tiendas jouxtent cette rue et une maison des héritiers de Fernand Gudiel et le mesón jouxte la place et un mesón de María Gudiel et de María Arnaldez.
+
+Egalement en décembre 1318, Alvar Ibáñez, fils de don Alvar Ibáñez Corvillo, pour lui-même et au nom de García et Inés, ses enfants mineurs sous sa garde, Diego Alvarez, García Alvarez, et Teresa Alvarez, fils et fille du même Alvar Ibáñez, disent que María Díaz, femme d'Alvarez Ibáñez, leur mère, est décédée et qu'ils ont partagé ses bien.
+
+CH_BB_01
+
+San Salvador, plaza de. N°2, 3, 4, Clj. Alarife n°3*.
+
+CH_BB_01. En 1380, Pascual García, tejedor, tient une maison en perpetuo, avec les trois tiendas, que tenait auparavant Domingo Alfonso, capellán, pour 160 mrs. par an.
+
+CH_BB_01. En 1401, Juana Ruiz, femme de García Sánchez, cirujano, tient une maison en perpetuo, avec les trois tiendas, que tenait auparavant Domingo Alfonso, capellán, pour 160 mrs.
+
+CH_BB_01. Le 2/01/1403, le chapitre baille à Pedro Gutiérrez, vizcaíno, de Villapadierna, une casa mesón, avec trois tiendas attenantes, précédemment tenu par Juana Ruiz, qui avait été la femme de García Sánchez, cirujano, situé à la colación de San Salvador, jouxtant le mesón de enmedio appartenant à San Salvador, et la rue, au prix de 1.000 mrs. de la monnaie à courrir, avec les cautions de Pedro Fernández de Villamaña, demeurant à la colación de la Magdalena, d'Alfonso Fernández de Sahagún, demeurant à la colación de S. Nicolás, et de Gonzalo Sánchez Montero, demeurant à Barrio de Rey.
+
+CH_BB_01. Le 27/10/1408, le chapitre baille à don Pedro García, capiscol, le mesón avec les trois tiendas, près de l'église de S. Salvador, le tout précédemment tenu par Pedro Fernández (sic), vizcaíno, avec les mêmes confronts qu'en 1403, pour 560 mrs. et un diezmo, de vieille monnaie ou le double de celle à courrir, avec la caution de Diego González Cornejo, chanoine de la collégiale de Santa María de Talavera, neveu du même capiscol.
+
+CH_BB_01. En 1417 et 1422, la maison, avec les trois tiendas, que tenait auparavant Pedro Gutiérrez, vizcaíno, à S. Salvador, est tenue par don Pedro García, capiscol, au prix de 560 mrs. et un diezmo de vieille monnaie, soit 616 mrs. viejos, et 1.232 mrs. de blancas, depuis le 15/08/1408, avec la caution de son neveu, Diego González Cornejo.
+
+CH_BB_01. Le 29/06/1431, le chapitre baille la maison, avec les tiendas, que tenait le capiscol à la porte de S. Salvador, jouxtant une maison, de Costanza Fernández, religieuse du monastère de S. Pedro, à Antón Sánchez, herrador, pour 1.500 mrs. par an. Le 7/05/1438, Antón Sánchez a donné la caution de son frère, Pedro Rodríguez, barberó. 
+
+CH_BB_01. En 1439, la maison que tenait auparavant Pedro García, capiscol, avec les cámaras, à S. Salvador, est tenue par Antón Sánchez, herrador, pour 1.500 mrs. par an, depuis le 19/06/1431. Elle jouxte d'une part le mesón de enmedio, et de l'autre le coin de rue, et comporte trois portes sur la rue, avec une cámara au dessus, avec deux portes à la rue du four de S. Salvador.
+
+CH_BB_01. En 1450, la maison et les cámaras que tenait le capiscol à la porte de S. Salvador est tenue depuis le 29.06/1431, par Antón Sánchez, herrador, pour  1.500 mrs. courants. Il a donné le 7/05/1438, le caution de son frère, Pedro Rodríguez, barbero .
+
+CH_BB_01. Le 5/12/1461, le chapitre baille la maison vacante par le décès d'Antón Sánchez, herrador, avec les cámaras, jouxrant une maison tributaire à l'église S. Salvador tenue par Juan de Gualda, apuntador, au dos une maison de Fernand García, lencero, et sur deux côtés les rues, à Pedro Rodríguez, barbero, frère du défunt, et Juana Rodríguez, sa femme, pour la vie des deux, au prix de 2.500 mrs. et six paires de poules, avec la caution de Pedro Rodríguez, cardero.
+
+CH_BB_01. Le 12/06/1471, Pedro Rodríguez, en son nom et en celui de sa femme, a fait abandon de la maison, que le chapitre a baillée à Alfonso Rodríguez, tendero, et Juana Rodriguez, sa femme, pour la vie des deux, 2.600 mrs. et six paires de poules par an, Pedro Rodríguez, barbero, restant caution. 
+
+CH_BB_01. En 1491, la maison avec ses cámaras que tenait auparavant Pedro Rodríguez, barbero, est désormais tenue par Alfonso Rodríguez, tendero, chaque année pour 2.700 mrs. et six paires de poules. Elle jouxte d'un côté une maison de Ruy López de Santiago et de l'autre une maison de Pedro Rodríguez, barbero. On y mentionne une porte dans la callejuela que viene de palaçio para Sant Salvador, mais également la casa tienda qui se trouve au coin en entrant par cette rue  à la plaça de S. Salvador.
+
+CH_BB_01. Le 22/11/1496, la maison est adjugée à Pedro de Palencia, notario et pertiguero du chapitre, pour 4.950 mrs. et dix paires de poules par an.
+
+CH_BB_01. Le 13/01/1498, Pedro de Palencia, pertiguero, a fait abandon de la maison tiendas qu'avait tenue Alfonso Rodríguez, tendero, et le chapitre l'a baillée à Diego de la Zarza et Quiteria Gómez, sa femme, et à Alfonso de Toro, carpintero, fils de Fernand Alfonso de Toro, pour la vie de Diego de la Zarza, de Quiteria Gómez, et d'un fils ou d'une fille, au prix de  4.950 mrs. et dix paires de poules. En 1499, en vertu de ce contrat, la maison est au nom d'Alfonso Gines de Toro et Diego de la Zarza. 
+
+CH_BB_01_1439
+
+OF 356bis 
+
+Las Casas que tenia pero garçia capiscol con las camaras A sant salvador tienelas Anton sanches ferrador Cada año por mill e quinientos maravedis e tomolas e 29 dias de Junio Año de 31 Años.
+
+En 20 de Junio Año de 1439 Años fueron deslindadas estas casas por Juan dias Raçionero e mayordomo de la eglesia de toledo Et ha por linderos de la una parte el meson de medio e de la otra la esquina. Et tiene tres puertas A la calle. Et tiene en la entrada un  portal que ha en luengo ocho varas e en ancho çinco varas e una quarta. Et ensomo una camara  de su tamaño con un andor a la calle Et Adelante esta un establo que ha en luengo dies varas e en Ancho çinco varas. Et ensomo una camara partida en dos e de su tamaño con dos puerta a la calle del forno de sant salvador. Et despues esta un Apartado con su puerta A la calle que ha en luengo çinco varas e en Ancho tres varas e media. Et ensomo una camara de su tamaño con sus Andores A la calle. Et çerca desta camara esta otra camara que ha en luengo onse varas e media e en Ancho çinco varas e quarta. Testigos ferrand Alfonso Raçionero e diego lopes omme de cabilldo.
+
+(firmado) Ludovicus Luppi apostolico ordinario notario. 
+
+CH_BB_01_1492
+
+OF 356 
+
+Las casas con sus camaras que solia tener Pedro Rodrigues barvero tienela agora Alfon Rodrigues tendero por presçio cada anno de dos mill e seteçientos mrs. e seys pares de gallinas. Han por linderos de la una parte casas de Ruy Lopes de Santiago e de la otra casas de Pedro Rodrigues barvero.
+
+En ix dias del dicho mes de agosto del dicho anno de noventa e un annos, los venerables sennores Cristoval de Villaminaya e Alvar Peres de Montemayor canonigos e vesitadores de las posisiones de la santa yglesia de Toledo deslindaron estas casas e fallose en ellas en la /f° 183 v°/ primera puerta que esta en la callejuela que viene de palaçio para Sant Salvador una camara en que ay quatro varas e media en largo e otras quatro e media en ancho, la qual es hueca e tiene otra camara ensomo e junto con esta casa otra con puerta a la dicha callejuela en que ay çinco varas en largo e quatro en ancho, la qual es hueca e tiene otra camara ensomo, tiene otra terçera puerta en la dicha callejuela junto con esta en que ay un escalera por donde suben a las camaras destotras dos casas con otra camara en que ay tres varas e media en largo e tres en ancho, la qual cae sobre la casa tienda que esta en el esquina de como entran por la dicha calle a la plaça de Sant Salvador en que ay en ella tres varas e media en largo e tres en ancho, tiene mas un corredor que sale sobre las puertas que estan en la plaça de Sant Salvador en que ay honse varas en largo e una en ancho, ay mas en estas dichas casas pasada esta tienda del esquina junto con la puerta de la calle otra puerta que tiene en entrando por ella un callejonçillo en que ay çinco varas en largo e una e dos terçias en ancho, suben por aqui a una camara en que ay siete varas e media en largo e tres e media en ancho e debaxo desta camara ay otra casa con la puerta prinçipal a la dicha plaça en que ay un portal que tiene siete varas en largo e seys en ancho, en el qual portal esta atajado para una tendesuela con puerta a la dicha plaça y mas adentro del dicho portal ay un establo en que ay nueve varas en largo e seys en ancho. De que fueron testigos Diego de Obregon e Diego Serrano criados del dicho sennor Alvar Peres. (signé) Juan de Mayorga notario apostolico.
+
+CH_BB_02
+
+CH_BB_02. Le 3/02/1474, Alfonso de Toledo, escribano de cámara du roi, et Teresa Vázquez, sa femme, ont imposé et vendu au chapitre 1.000 mrs. de cens sur la maison qu'ils tiennent à S. Salvador .
+
+CH_BB_02. Le 14/12/1478, le chapitre a autorisé Teresa Vázquez, femme d'Alfonso Alvarez, notario, à vendre la maison qu'elle tenait avec 1.000 mrs. de charge, à Pedro de Uceda, fils de Fernando Díaz de Uceda. En 1491 et 1496, la maison reste au nom de Pedro de Uceda, jouxtant une autre maison du même Pedro de Uceda, libre de charge, et une autre du même, tributaire à Gonzalo Hurtado.
+
+CH_BB_02. Le 21/11/1498, le chapitre a libéré Pedro de Uceda de ces 1.000 mrs. de charge sur la maison, parce qu'il a acheté pour le chapitre autant de mrs. de tributo sur une maison à la perrocha de S. Yuste tenue par le jurado Diego de Carranza et sa femme.
+
+CH_BB_02_1492
+
+OF 356 
+
+Las casas que solia tener la muger de Alfonso Alvares notario, tienelas Pedro de Uzeda a çenso por mill mrs. cada anno, linderos de la una parte casas del dicho Pedro de Useda horras e de la otra casas del susodicho tributarias a Gonçalo Hurtado. /f° 184 r°/
+
+En ix dias del dicho mes de agosto del dicho anno de noventa e un annos, los venerables sennores Cristoval de Villaminaya e Alvar Peres de Montemayor canonigos e vesitadores de las posisiones de la santa yglesia de Toledo deslindaron estas casas e fallose en ellas en entrando un portal en que ay dies varas en largo e dos e quarta en ancho, e por en cabo deste portal entran a un cuerpo destas casas en el qual ay en entrando un patyn e a la mano ysquierda un çenador en que ay seys varas en largo e tres e tres quartas en ancho, con un establo debaxo de su tamanno e suben por el a una cosina en que ay dies varas en largo e çinco por lo mas ancho con otra camara ensomo que se manda por el otro cuerpo destas casas e frontero un palaçio en que ay honse varas en largo e tres e dos terçias en ancho con otro ensomo de su tamanno con un sotano debaxo e a la puerta un portal en que ay siete varas e quarta en largo e dos en ancho con un corredor ençima de su tamanno e a la manderecha a la salida deste palaçio ay otro en que ay nueve varas e quarta en largo e tres en ancho con una camara ensomo de su tamanno e junto con este palaçio ay un retrete que se manda por las otras casas que son del dicho Pedro de Useda en que ay çinco varas e quarta en largo e tres en ancho con un soberado ensomo de al tanto, ay en el otro segundo cuerpo, que esta en entrando por el dicho portal un portalejo a la entrada en que ay quatro varas en largo e dos e dos terçias por lo mas ancho e entrando al patin a la mano ysquierda un palaçio en que ay quatro varas e dos terçias en largo e tres e media en ancho con dos soberados ensomo de al tanto deste palaçio e del portal e frontero otro palaçio en que ay çinco varas en largo e quatro en ancho con dos soberados ensomo de su tamanno e un sotano debaxo de al tanto, tiene mas sus corredores al derredor de todo el patin. E en el terçero soberado un corredor del tamanno deste palaçio. De que fueron testigos Diego de Obregon e Diego Serrano criados del dicho sennor Alvar Peres. (signé) Juan de Mayorga notario apostolico. /f° 184 v°/
+
+CH_BB_03
+
+Trinidad, calle de la. N°22*.
+
+CH_BB_03. En 1443, Ruy González, sastre, le 13/10/1433, a reconnu le cens de 150 mrs. de la monnaie à courir pesant sur la maison et bodega que Fernando Niño a donné au chapitre dans un échange, située au dos de la maison du même Fernando Niño, et il tient encore la maison en 1450.
+
+CH_BB_03. En 1439, Ruy González, sastre, tient une maison, à S. Salvador, à cens pour 150 mrs., depuis le 23/10/1433.
+
+CH_BB_03. Le 13/07/1457, Francisco González Carrasco, fils de Juan González, tintor, a montré que la maison lui a été donnée en mariage avec Isabel González, sa femme, et il a fait reconnaissance.
+
+CH_BB_03. Le 20/10/1469, le chapitre a autorisé Francisco González, zapatero, à vendre  le tiers de la maison et bodega qu'il tenait à cens, à Fernando de Santa Catalina et Elvira Alvarez, sa femme, avec la charge des 150 mrs. et cela reste valide en 1482.
+
+CH_BB_03. En 1491, la femme de Fernando de Santa Catalina tient la maison et bodega que tenait Francisco González Carrasco, tintorero, sur le tiers desquelles le chapitre a 150 mrs. de cens, la maison jouxtant d'un côté une maison de Fernand Suárez et de l'autre une maison d'Alfonso de Illescas. 
+
+CH_BB_03. Le 30/07/1493, Juan de Toledo, mercador, pour lui-même et au nom d'Inés Alvarez, sa femme, fille et héritière de Fernando de Santa Catalina, a fait reconnaissance des 150 mrs. de cens sur le tiers de la maison que tenait auparavant Fernando de Santa Catalina. En 1496 et 1499, cela reste au nom de Juan de Toledo, gendre de Fernando de Santa Catalina.
+
+CH_BB_03_1439
+
+OF 356bis 
+
+Las Casas que tiene Ruy gonçales sastre A sant salvador tienelas en çenso cada Año por çiento e çinquenta maravedis e tomolas en 23 de otubre Año de 33 Años.
+
+En 20 de Junio Año de 1439 Años fueron deslindadas estas casas por Juan dias Raçionero mayordomo de la eglesia de toledo Et ha Por linderos de la una parte casas del Arçediano de niebla e de la otra parte casas tributarias A sant Roman e tiene en la entrada un portal que ha en luengo quatro varas e media e en Ancho quatro varas e ensomo una camara de su tamaño. Et A la mano derecha un palaçio que ha en luengo çinco varas e en ancho Al tanto e debaxo del e del portal esta un sotano de su tamaño. Et Adelante esta un patin con sus portales Aderredor frontero tiene un palaçio que ha en luengo çinco varas e media e en Ancho tres varas Et ensomo tiene una camara de su tamaño. Et debaxo un sotano. Testigos ferrand Alfonso Raçionero e diego lopes omme de cabilldo. 
+
+(firmado) Ludovicus Luppi apostolico ordinario notario. 
+
+(En el margen izquierdo, en otra letra) ferrando de santa catalyna.
+
+CH_BB_03_1492
+
+OF 356
+
+Las casas e bodega que tenia Françisco Gonçales Carrasco tintorero, en que tiene el cabillo çiento e çinquenta mrs. de çenso en la terçia parte dellas, tienelas la muger de Ferrando de Santa Catalyna. Han por linderos de la una parte casas de Ferrand Suares e de la otra casas de Alfon de Yllescas barvero.
+
+En ix dias del dicho mes de agosto del dicho anno de noventa e un annos, los venerables sennores Cristoval de Villaminaya e Alvar Peres de Montemayor canonigos e vesitadores de las posisiones de la santa yglesia de Toledo deslindaron estas casas e fallose en ellas en la terçia parte que los sennores dean e cabillo tienen los dichos çiento e çinquenta mrs. un portal en que ay çinco varas en largo e quatro e dos terçias en ancho con una camara ensomo de su tamanno e debaxo una bodega con puerta a la calle en que ay quatro varas e quarta en largo e quatro en ancho. De que fueron testigos Diego de Obregon e Diego Serrano criados del dicho sennor Alvar Peres. (signé) Juan de Mayorga notario apostolico.
+
+CH_BB_04
+
+Trinidad, calle de. N°14
+
+CH_BB_04. Le 23/08/1479, le chapitre a autorisé Juan Alfonso, fils de Pedro Alfonso, à vendre à Pedro de Uceda, fils de Fernando Díaz de Uceda, le tiers de tribut pesant sur la même  maison (que CH_BB_03) avec ses tiendas, tiers s'élevant à 733 mrs. et 2 cornados et une paire de poules. Le 17/08/1480, Alvar Gómez Maldonado, fils du chanoine bachiller défunt, Diego Gómez de la Cámara, a vendu au chapitre 733 mrs. 2 cornados et une poule qu'il avait sur cette maison, qui est le second tiers pesant sur la maison, tandis que le troisième tiers appartient à la chapelle de l'archevêque don Sancho de Rojas.
+
+CH_BB_04. Le 6/11/1487, Pedro de Uceda, fils de Fernando Díaz de Uceda, fait reconnaissance d'un cens de  733 mrs. 2 cornados et une poule dû à la chapelle de l'archevêque don Sancho de Rojas, qui a été acheté pour cette chapelle du licenciado García Fernández de Alcalá, agissant pour lui--même et au nom de son oncle Fernand Ramírez, pesant sur la maison que ce Pedro de Uceda possède à la colación de S. Salvador, jouxtant la maison du roi et de la reine et la maison du même Fernand Ramírez. Pedro de Uceda avait déjà fait reconnaissance de ce tiers de cens au moment où il avait acheté la maison
+
+CH_BB_04. En 1496, le chapitre a deux tiers et une paire de poules sur la maison, que tient Pedro de Uceda, pour 1.466 mrs. et 4 cornados.
+
+CH_BB_04. En 1491, la maison que tenait auparavan Juan Alfonso, fils de Pedro Alfonso, est tenue par Pedro de Uceda au prix de 1.466 mrs., 4 cornados et une paire de poules, pour les deux tiers du tribut de la maison, l'autre tiers étant de la chapelle de l'archevêque don Sancho de Rojas, la maison jouxtant des deux côtés une maison du roi (casas del Rey) et comportant une tienda, que esta junto con el postigo de las casas del rey.
+
+L'Adarve de Pedro de Uceda.
+
+Le 15/07/1484, Gonzalo Hurtado loue à Juan de Cordoba une maison située à la colación de S. Salvador, dans l'Adarve de Pedro de Uceda, jouxtant une maison du même Pedro de Uceda et une maison de Pedro Rodríguez, barbero, pour un an, à partir du 15/08/84, au prix de 2.100 mrs. et trois paires de poules.
+
+Le 24/12/1485, dans une maison située à la colación de S. Salvador, où demeure Pedro de Uceda, contador et alcalde mayor de don Pedro López de Ayala, comte de Fuensalida, en présence de ce Pedro de Uceda, Diego Pérez, vecino de Fuensalida, présente un écrit de soupçon contre lui.
+
+Une maison jouxtant l'église de S. Salvador, acquise en 1357, par l'archidiacre de Talavera, don Diego González.
+
+Le 5/08/1353, Juan Fernández (Carrillo), fils de don Fernando Díaz, qui avait été alcalde mayor de Tolède, et sa femme, María Alfonso, demeurant à la colación de San Juan, engagent à Men Rodríguez Tenorio, une maison située à la colación de San Salvador, avec les deux petites maisons attenantes, et jouxtant ladite église de San Salvador, une maison de Diego Sánchez de Toledo, et les trois rues, en raison des 3.000 mrs. qu'ils ont reçus de lui, pour trois ans à partir de la Sainte Marie d''août à venir, en décomptant pour la location, 200 mrs. par an.
+
+Le 22/05/1357, les mêmes Juan Fernández Carrillo, fils de Fernando Díaz, et María Alfonso, vendent, au prix de 15.000 mrs., à don Diego González, archidiacre de Talavera, les deux tiers leur appartenant d'une maison, à la colación de San Salvador, et les deux tiers de maisonettes incoporée à elle, le tout indivis avec l'autre tiers appartenant à Fernand Alfonso, frère de María Alfonso, jouxtant notamment l'église de San Salvador. Ils avaient eu ces deux tiers, pour un sixième par achat de Berenguella Alfonso, sœur de Maria Alfonso, et pour une moitié par héritage de Juan Alfonso de Ajofrín, père de María Alfonso. Quelques jours plus tard, María Fernández, exécutrice testamentaire de Fernand Alfonso, fils de Juan Alfonso de Ajofrín, vend, pour 7.000 mrs., l'autre tiers de la maison au même don Diego González, archidiacre de Talavera. La maison jouxte l'église San Salvador, une maison ayant appartenu à Dia Sánchez de Quesada et maintenant à l'acheteur, une maison de Juan Alfonso, criado de Fernand Rodríguez de Barroso.
+
+Le 23/08/1358, María Fernández, fille de Fernand Gudiel et veuve de Nuño López, exécutrice testamentaire de Fernand Alfonso, fils de Juan Alfonso de Ajofrín, vend à don Diego González, archidiacre de Talavera, une maison, avec un solar attenant, que Fernand Alfonso avait à la colación de S. Salvador, jouxtant les trois rues, au prix de 700 mrs. de la monnaie blanche de dix d. le mri.
+
+Le 2/05/1388, dans le partage des biens de María González, décédée, fille de don Gonzalo Fernández, qui était alcalde mayor de Tolède, et veuve de Fernand Sánchez Carrillo,  entre ses petits-enfants, fils et filles de son fils, Juan Carrillo, qui était camarero mayor du roi, et son arrière-petit-fils, Juan Carrillo, fils de Fernand Carrillo, qui était alcalde mayor de Tolède, il revient à Pedro Carrillo, fils mineur de Juan Carrillo, la demeure de la défunte, située à la colación de S. Salvador, jouxtant une maison de Costanza Fernández, qui était la femme de Sancho García de Torrijos, une maison de la cathédrale, et les rues.
+
+Le monastère de la Trinité, à San Salvador, et la maison de Pedro Suárez de Toledo, regidor de Madrid, aux premières années du XVIe siècle.
+
+Becerro de SDR
+
+Siglo XVI
+
+Maria de Meneses 
+
+San Salvador 
+
+ Casa tienda con su sotano de bajo sita en esta ciudad a la colacio de san Salvador frontero de la torre de dicha iglesia y cerca del pozo que llaman del salvador  1491
+
+  3_1CDS. 
+
+Fol. 263r: Aqui comienza la collaçion de Sant Salvador.
+
+Sant Salvador
+
+Maria de meneses e doña marquesa ponçe
+
+Iten una casa tienda con su sotano debaxo en esta dicha çibdad de toledo en la collaçion de la iglesia de sant salvador frontero de la torre de la dicha iglesia de sant salvador çerca del pozo que ende esta, la qual dicha casa tienda e sotano tiene pedro lanero vesino de toledo por doscientos e cuarenta e çinco maravedis de tributo cada Año… solia tener esta casa ferrando garval fijo de diego gonçales garbal vesino de toledo e primero la tenya el dicho diego gonçales garval su padre e alinda de la una parte con casas del dicho pedro lanero e de la otra parte casas que fueron del dicho ferrando garval que son de sus fijos e la calle Real e por bienes del dicho ferrando garval por el Reçeptor de la santa inquisicion fueron Rematadas en iohan de toledo almotaçen el qual con liçençia del monasterio las traspaso en el dicho pedro lanero, este tributo fue de maria meneses monja profesa del dicho monasterio e se conpro de dineros suyos del comendador alonso de …...? e de doña marina de Rojas su muger por V mil maravedis e despues de la vida de la dicha doña maria de meneses tenyendolo el monasterio lo dio A doña elvira duque monja del dicho monasterio que lo señalo con otros tributos en pago de çiertos maravedis suyos que el convento tomo pora la lavor de las Alcayçerias…
+
+Las escripturas que Ay desta posesyon
+
+Una carta en pergamino de commo doña mayor gonçales corralero muger de alonso ferrandes el nieto vesina de toledo dio a çenso para siempre jamas a gonzalo ferrandes boque alvañil e A isabel ferrandes su muger la dicha casa tienda con su camara ençima frontera del poso de sant salvador syn el sotanyllo por CLXX maravedis cada año fecha a XIII dias de Junio año de 1419 años…
+
+Otra carta en papel de Reconoçimiento que fiso diego gonçales de garbal vesino de toledo a doña marina de Rojas muger del comendador alonso de …... de los dichos 245 maravedis de tributo de la dicha casa tienda porque lo tenya a tributo de doña ynes alonso cervatos madre de la dicha doña marina e era finada e cupo a la dicha doña marina el dicho tributo… XI dias de enero del Año de 1448…
+
+Otra carta en pergamino de commo el dicho comendador …… E doña marina de Rojas su muger vendieron los dichos 245 maravedis del dicho tributo al dicho monasterio de santo domingo el Real e a la dicha maria de meneses monja profesa del por çinco mill maravedis fecha a XVI dias de Noviembre año de 1451 años…
+
+Otra carta en pergamino del dicho Reconoçimiento del dicho tributo que fiso el dicho pedro lanero que paso el dicho dia XIII dias de Junio Año de 1491 años…
+
+En viernes XII dias del mes de agosto de 1519 años ferrando lanero mayordomo de sant bernaldo vesino de toledo commo albaçea e testamentario del Alfonso lanero que dios Aya fijo del dicho pedro lanero pidio liçençia para vender estas dichas casas tienda con su sotano A iohan de vargas vesino de toledo por presçio de veynte mill e çiento e setenta maravedis…
+
+Becerro de SDR
+
+Siglo XVI
+
+P. 341
+
+Pero Lavero
+
+Alinda con casa de Pedro Lavero y otra Fernando garnal-
+
+p. 341
+
+“casa tiendra con su sotano debajo en col. de la iglesia San Salvador frontero de la torre y cerca del pozo que ende (mas aya) esta la cual casa tiene Perro Lavero 240mrs solia tener Fernando garbal aligna con casa de Pero Lavero y otra casa del dicho fernando garval y calle real.”
+
+1419 “doña mayor gonzale corralejo”
+
+1448
+
+1519
+
+Le 19/10/1431, doña María González de Estepar, professe de Santa Ursula, donne à cens à María González la Cendala, femme de García Alvarez, criado de Pedro Carrillo, décédé, et à Juan González de Toledo, mesonero, une maison mesón, à la colación de San Salvador, jouxtant le monastère de la Santa Trinidad, les rues, et la maison des capellanes de la Reine doña Catalina, pour 1.400 mrs.
+
+Le 22/06/1438, Pedro Alfonso, jurado de Tolède, reconnaît un cens de 1.200 mrs. en faveur de doña María González de Estepar, professe du monastère de Santa Ursula, sur une maison sise à la colación de l'église S. Salvador, avec les maisons jointives, le tout jouxtant le monastère de la Trinité, une maison des chapelains de la reine doña Catalina tenue par Juana Gómez, veuve de Fernand Gómez de la Puebla, et que que tenait auparavant Lope Sánchez de Arévalo et sa femme, la maestra de los ojos, et les rues, ayant acheté ce cens de Juan González Cendal, avec licence de la prieure de Santa Ursula.
+
+Le 21/07/1447, Teresa García, veuve de Diego García, contador, exécutrice testamentaire de María Sánchez, femme de Fernand Martínez de Bercial, notario, nomme comme possesseur d'une tienda, située à San Salvador, frontero del pozo, Pedro Martínez de Bercial, notario, fils de Fernand Martínez, avec pour condition de payer, lui et ses successeurs, chaque année, aux clercs de San Salvador, les 30 mrs. de cens qu'ils ont sur cette tienda, et du reste de ce qu'elle rapportera 150 mrs. au monastère de San Francisco, et 120 mrs. à San Salvador, pour des anniversaires.
+
+En 1448, Diego González Garval, sastre, reconnaît un cens de 245 mrs. pesant sur une maison achetée par lui (mais ne dit pas de qui), à la colación de Santo Tomé, jouxtant une maison du monastère de la Trinité et une maison de Diego González, tendero, tributaire au même monastère. La maison avait été tributaire à doña Inés Alfonso de Cervatos, femme de Martín Vázquez de Sosa, précédemment regidor de Tolède, puis avait hérité du cens doña Marina de Rojas, fille d'Inés Alfonso et femme du commandeur Alfonso de Cáceres, ce dernier recevant alors la reconnaissance au nom de sa femme.
+
+ Le 16/11/1456, Alfonso de Cáceres, commandeur de Campo de Criptana dans l'Ordre de Santiago, et sa femme, doña Marina de Rojas, vendent à Santo Domingo el Real 245 mrs. de cens pesant une maison tienda, située à la colación de San Salvador, en face du puits, jouxtant une tienda de Pedro Rodríguez, barbero, tributaire au monastère de la Trinité, une maison de Juan de Xerez, escribano público à Tolède, la rue et la place devant l'église San Salvador, la maison étant tenue par Diego González Garval, sastre, pour ces 245 mrs., au prix de 5.000 mrs. 
+
+En 1460, le monastère de Santo Domingo el Real possède una casa tienda à la colación de Santo Tomé, près de l'église de S. Salvador et face au puits de S. Salvador, tenue à cens du monastère et de la religieuse Isabel García de Orellana, par Diego González Garbal pour 245 mrs. par an, jouxtant une tienda de Pedro Rodríguez, barbero, tributaire au monastère de la Trinité, au dos une maison du même Pedro Rodríguez, barbero, tenue du monastère de la Trinité, et vers le haut une maison de Juan de Xerez, escribano público.
+
+SD_BD _73_1460 
+
+SD-73, ANH Clero, Libro 15118
+
+Medidas de casas de Santo Domingo el Real de Toledo (1460)
+
+Primeramente una casa tienda en la collaçion de Santo Thome çerca de la eglesia de Sant Salvador e frontero del poso de Sant Salvador, la qual tyene a tributo del dicho monesterio e de Ysabel Garçia de Orellana monja del dicho monesterio Diego Gonçales Garbal por dosientos e quarenta e çinco mrs. cada anno, que ha por linderos de la una parte tyenda de Pero Rodrigues barvero tributaria al monesterio de la Trenidad e a las espaldas casas del dicho Pero Rodrigues barvero que tiene del dicho monesterio de la Trenidad e de la otra parte de arriba casas de Johan de Xeres escrivano publico, e ay en esta casa de hueco en el luengo quatro varas e quarta e de ancho tres varas e media ochava e esta tienda tyene un sotano debaxo desta anchura de la casa e de longura, sale el dicho sotano tanto quanto es la salida de los canes del portal que sale a la plaça. Yten tyene esta dicha tienda una camara ençima de la dicha anchura de la casa e de longura sale mas que la casa sobre ca…s a la calle una vara debaxo destas camaras tyene sennorio del portal debaxo fasya la calle para faser poyo o poner mesa e esta casa tyene todo lo de baxo e alto suyo fasta el çielo.	cc xLv ¯;. 
+
+Le 16/04/1491, Pedro Lanero reconnaît un cens de 245 mrs. appartenant à doña Evira Duque, professe à Sto. Domingo el Real, pesant sur une maison, avec son sótano, à la colación de San Salvador, près du puits de San Salvador, jouxant une autre maison du même Pedro Lanero, une maison ayant appartenu à Fernando Garbal et maintenant à ses fils, et le rue. Il a acheté la maison du receveur des biens confisqués en raison de l'hérésie, et elle appartenait antérieurement à Fernando Garbal, lequel avait été condamné par Inquisition.
+
+A Santo Tomé, ou San Salvador, existait au XVe siècle un monastère de la Trinité, forcément distinct de celui (ou de l'église) de la Trinidad, proche du palais archiépiscopal, et dont le nom a été donné à une rue du centre de la ville. Le 22/12/1459, Alfonso de Toledo, majordome de l'archevêque de Tolède à Talavera, reconnaît un cens de 700 mrs., moitié du cens total de 1.400 mrs., en faveur du monastère de Santa Ursula, sur une moitié de maison achetée par lui de Gonzalo de Alcaraz, fils de feu Pedro Alfonso, fisico, habitant de Séville (la meytad de unas casas e la meytad de dos camaras tiendas que con ellas se contienen), ayant appartenu audit Pedro Alfonso, físico, à la colación de Santo Tomé, jouxtant d'un côté le monastère de la Santa Trinidad, et de l'autre une maison appartenant à un juif, pellejero, et les rue.
+
+Le 25/10/1510, dans un échange entre le monastère de Sta. Ursula et celui de la Trinidad, le premier donne au second, 1.400 mrs. de cens sur une maison, avec deux cámaras tiendas attenantes, situées à la colación de Sto. Tomé, en face de l'église de S. Salvador, jouxtant le monastère de la Trinidad, une maison d'Hernando Díaz de Uceda, et les rues, et qui avaient appartenu au bachelier Alonso Rodríguez de Alcaraz, físico, défunt, et sont maintenant de son fils, Hernando de Torres
+
+Le 15/07/1513, Juan Sedeño, majordome de Pedro Suárez de Toledo, regidor de Madrid, donne en location pour un an à Francisco López de San Ginés, mercader, la maison principale de ce Pedro Suárez, située à Tolède, à la colación de l'église San Salvador, face au monastère de la Santa Trenidad, jouxtant une maison de Juan Álvarez Zapata, pour qu'y demeure le commandeur de Mora, Diego López Dávalos, à partir du 15 août suivant, au prix de 16.000 mrs.
+
+A la même colación de San Salvador, il y a plusieurs mentions d'une maison appartenant à la famille du secrétaire des Rois Catholiques, Fernand Alvarez de Toledo, les Alvarez Zapata.
+
+Juan Álvarez Zapata, regidor de Tolède, possédait en 1442, une maison, paroisse Santo Tomé, près de San Salvador. Le 22/10/1462, Diego de Toledo, regidor de Tolède, achète un cens sur un terrain, paroisse San Salvador, figurant parmi les témoins Juan Álvarez regidor, c'est à dire son père. Le 24/04/1475, le contador Diego de Toledo, regidor, et sa femme María de Santa Cruz, achètent une maison faisant face à la leur, à la paroisse San Salvador. 
+
+Le 21/11/1487, Juan Alvarez Zapata et Francisca Alvarez sa femme, vendent à Diego López Zapata, regidor de Tolède, et sa femme María de Santa Cruz, une maison, située à la colación de San Salvador, jouxtant d'une part une maison de l'honrado caballero Juan de Ayala, de l'autre une maison de Vasco Suárez, et de l'autre une maison de García de Toledo, tributaire de 330 mrs. à l'honrado Martín Niño, au prix de 100.000 mrs. de la monnaie usuelle. 
+
+En 1498, María de Santa Cruz est abbesse du monastère de San Miguel de Tolède, fondée par son défunt mari, le contador Diego López de Toledo. En 1498 et 1507, une maison du secrétaire Fernand Álvarez est signalée comme confront d'une autre maison localisée paroisse Santo Tomé, près de la place du comte de Fuensalida.
+
+Le 23/01/1506, dans une maison de la colación de S. Salvador, en face de la vieille prison (carcel vieja), jouxtant d'une part les casas principales de Luis Alvarez de Toledo, regidor de la ville, de l'autre une maison de son frère, Pedro Zapata, également regidor, et de l'autre une maison de Pedro Alvarez de la Serna, et sur le devant la rue, en présence d'Aldonza López, femme d'Alfonso del Carpío, et de son frère, Pedro de Fuensalida, Luis Alvarez de Toledo dit qu'il a acheté d'Alfonso del Carpío, et Aldonza López, le tiers d'une maison, et il en prend possession, avec pour témoins les fils de l'acheteur, le licenciado Bernardino Zapata, et Fernando Alvarez.
+
+Le palais des comtes de Cifuentes, antérieurement maison de l'archidiacre de Niebla, don Fernando Díaz de Toledo, et encore auparavant palais des Tenorio, et appartenant aux souverains à la fin du XVe siècle.
+
+Le 5/02/1397, le roi Enrique III confirme, sur la requête de l'archevêque don Pedro Tenorio, l'achat effectué par le prélat pour la chapelle de San Blas, d'une maison qui avait appartenu à son père, Diego Alfonso Tenorio, située à Tolède près de la Trinidad, jouxtant d'une part une maison de Gonzalo Días Pantoja et d'autre part une maison qui avait appartenu à Gonzalo Fernández Palomeque, maestrescuela de l'Église de Tolède, et était alors du chapitre cathédral. Après le décès de Diego Alfonso Tenorio la maison était revenue en partage à Alfonso Jufré Tenorio, frère de l'archevêque, puis après le décès d'Alfonso Jufré, à Diego Tenorio, son fils, et enfin à Mayor López, veuve d'Alfonso Jufré et mère de Diego Tenorio. L'archevêque n'avait pas alors revendiqué la maison, parce qu'il aimait Mayor López, comme si elle avait été sa sœur. Le testament de Mayor López avait ordonné la vente de la maison, pour que son prix fût employé en des œuvres pieuses, et l'archevêque, comme l'un de ses exécuteurs testamentaires, n'avait pas voulu la contredire et avait acheté la maison pour 25.000 mrs.
+
+CH_BB_04
+
+Trinidad, calle de. N°14
+
+CH_BB_04. Le 22/04/1460, Fernand Ramírez de Toledo, fils du trésorier décédé Juan Ramírez de Toledo, vend au comte de Cifuentes, don Juan de Silva, pour 150.000 mrs., un tiers du corps principal de la maison de feu l'archidiacre de Niebla, don Fernando Díaz de Toledo, frère du même trésorier, située à Tolède, paroisse San Salvador, mentionnant la rue qui va du monastère de la Trinité à la place de l'église S. Salvador, et citant parmi les confronts le bachelier Diego Ramírez, archidiacre de Reyna, son frère, et le bachelier Diego Gómez, son cousin: ils sont tous trois les héritiers de l'archidiacre de Niebla (linderos casas del vendedor que fueron del dicho arçediano y otras casa menores tanbien suias, que se mandan por la calle Real que (…) del monesterio de la Trinidad a la plaza de la iglesia de San Salvaror y de la otra parte son linderos casas menores del dicho Fernan Ramirez y del bachiller don Diego Ramirez arcediano de Reyna su hermano y del bachiller Diego Gomez su primo, todos tres herederos del dicho señor arçediano de Niebla).
+
+CH_BB_04. Le 10/05/1469, Fernand Ramírez, fils du trésorier Juan Ramírez, donne procuration au bachelier García Fernández de Alcalá, pour vendre le cens qu'il possède sur une autre maison, paroisse San Salvador, comme l'un des héritiers de l'archidiacre de Niebla.
+
+CH_BB_04. Le 27/05/1469, le bachelier García Fernández de Alcalá, fils du licencié Juan Fernández de Alcalá, décédé, au nom de Fernand Ramírez, fils du trésorier décédé Juan Ramírez, neveu et l'un des trois héritiers de l'archidiacre de Niebla, don Fernando Díaz de Toledo, en vertu d'une procuration donnée le 10 du même mois, vend pour 16.000 mrs. de la monnaie usuelle, à Arias Gómez de Silva, regidor de Tolède, 733 mrs., 2 cornados et une poule, de cens pesant sur une maison sise à Tolède, colación de San Salvador, tenue par don Abraen Hadida, pellejero, judio demeurant à Tolède, jouxtant la maison du comte de Cifuentes, une maison du même Fernand Ramírez, et la rue, ce cens constituant le tiers des 2.200 mrs. eta 3 poules, que le juif et ses héritiers devaient aux héritiers de l'archidiacre de Niebla.
+
+CH_BB_04. Le 30/05/1469, Arias Gómez de Silva donne au chapitre cathédral 550 mrs. de cens pesant sur une maison à San Salvador tenue par Abrahen Hadida, pellejero, pour les enlever de ceux imposés sur une maison à la paroisse de San Vicente, et il donne également 183 mrs. et 2 cornados et une poule qu'il possède sur la maison de S. Salvador en plus des 550, si bien que le chapitre a 773 mrs. 2 cornados et une poule de cens sur la maison, et Abrahen Hadida effectue la reconnaissance le 9 juin. Le 9/02/1473, avec licence du chapitre, la maison est vendue à Catalina Gómez, veuve du licencié de la Fuente (Alfonso López de la Fuente, jurado), laquelle effectue la reconnaissance. 
+
+CH_BB_04. Le 23/08/1478 (ou 1479), le chapitre a autorisé la vente à Pedro de Uceda, fils de Fernando Díaz de Uceda, du tiers du tribut pesant sur la maison que tenait Juan Alfonso, fils de Pedro Alfonso, avec ses tiendas, tiers s'élevant à 733 mrs. 2 cornados et une poule. 
+
+CH_BB_04. Le 17/08/1480, Antón Gómez Maldonado, fils du bachelier et chanoine Diego Gómez Maldonado, décédé, vend au chapitre un autre tiers du tribut pesant sur la maison, le dernier tiers appartenant à la chapelle de l'archevêque don Sancho de Rojas.
+
+CH_BB_04. Le 6/11/1487, Pedro de Uceda, fils de Fernando Díaz de Uceda, fait reconnaissance à la chapelle de don Sancho de Rojas des 733 mrs. (etc.) que les chanoines, comme administrateurs de la chapelle, avait achetés de García Fernández de Alcalá et Fernand Ramírez, son oncle, sur une maison qu'il possèdait, située en bordure de la maison du roi et de la reine et de la maison du même Fernand Ramírez (en linde de las casas de nuestro sennor el Rey e la Reyna e de las casas del dicho Fernand Ramires)́́.
+
+CH_BB_04. En 1491, sur la maison précédemment tenue par Juan Alfonso, fils de Pedro Alfonso, et à ce moment-là par Pedro de Uceda, les deux tiers du cens reviennent au chapitre et un tiers à la chapelle de l'archevêque Sancho de Rojas. Cette maison jouxte des deux côtés une maison appartenant au roi, et on mentionne la porte arrière de cette maison du roi (el postigo de las casas del rey). Ce Pedro de Uceda était jurado de la ville, et contador du comte de Fuensalida, et se trouvait décédé en 1509. Le 24/12/1485, dans la maison où demeurait Pedro de Uceda, contador et alcalde mayor du comte de Fuensalida, à Tolède, à la colación de S. Salvador, et en sa présence, lecture était faite par un habitant de Fuensalida, d'un escripto de sospecha.
+
+CH_BB_04. En 1496 et 1499, les deux tiers appartenant au chapitre de la maison que tient Pedro de Uceda, s'élèvent à 1.466 mrs. 4 cornados et une paire de poules.
+
+Il paraît clair que la maison du roi et de la reine, mentiononnée en 1487 et 1491, est la  maison du comte de Cifuentes de 1469, acheté par celui-ci en 1460, et ayant apppartenu à l'arrchidiacre de Niebla, don Fernando Díaz de Toledo, et peut-être celle des Tenorio du XIVe siècle, et notamment de l'archevêque don Pedro Tenorio.
+
+CH_BB_04_1492
+
+OF 356 
+
+Las casas que solia tener Juan Alfon fijo de Pedro Alfon, tienelas agora Pedro de Uzeda por presçio de mill e quatroçientos e sesenta e seys mrs. e quatro cornados e un par de gallinas, esto por los dos terçios del tributo de las dichas casas por quel otro terçio es de la capilla del arçobispo don Sancho de Rojas, lasquales han por lynderos de la una parte e de la otra casas del Rey.
+
+En ix dias del dicho mes de agosto del dicho anno de noventa e un annos, los venerables sennores Cristoval de Villaminaya e Alvar /f° 185 r°/ Peres de Montemayor canonigos e vesitadores de las posisiones de la santa yglesia de Toledo deslindaron estas casas e fallose en ellas en la primera parte destas casas una tienda en que ay ocho varas en largo e en lo de cabe la puerta tres e dos terçias e en lo de mas adentro siete varas e media en ancho con un sotano debaxo de su tamanno con un soberado ensomo de su tamanno ay en la otra segunda tienda un portal en que ay quatro varas en largo e tres e dos terçias en ancho con una camara ensomo en que ay ocho varas en largo e tres e dos terçias en ancho. Esta camara esta junto con esta otra camara de la primeta parte e tyene otro soberado ensomo tamanno como entramas estas dos casas. Ay en la otra terçera parte destas casas otra tienda que esta junto con el postigo de las casas del rey un portal en que ay siete varas e media en largo e çinco e media en ancho con dos soberados ensomo que ay en el primero siete varas en largo e seys en ancho con dos suelos ensomo de al tanto. De que fueron testigos Diego de Obregon e Diego Serrano criados del dicho sennor Alvar Peres. (signé) Juan de Mayorga notario apostolico.
+
+Le 25/10/1510, le bachelier Alfonso Rodríguez de Alcaraz, físico, étant décédé, une maison qui lui avait appartenu, située à la colación de Santo Tomé, face à l'église San Salvador, se trouve désormais à son fils, Hernando de Torres, le monastère de Santa Ursula cédant à celui de la Trinité le cens de 1400 mrs. qui pèse sur la maison.
+
+La colación de San Cristobal
+
+On rencontre d'abord à la colación de S. Cristobal, entre 1415 et 1461, une prison royale, évidemment distincte de celle située à proximité de l'Hôtel de Ville. 
+
+Le 21/06/1415, Alfonso Rodríguez, pertiguero de l'Église de Tolède, loue à Olalla Alfonso, veuve de Martín García, à Lucía Martín, fille de Juan Fernández, et à sa tante Mencía Alfonso, une maison située à la colación de S. Cristobal, jouxtant une maison de Fernando Niño et la carcel del rey de cette ville, pour un an à partir du  15/08/15, au prix de 340 mrs. de la monnaie dont deux blancas font un mri.
+
+A San Cristobal, il n'y a en 1491 que deux possessions du chapitre (CH_BJ_01 et CH_BJ_02). Ce secteur n'apparaît pas dans les documents du chapitre cathédral avant 1426, et notamment pas dans les livres du refitor de 1417 et 1422 .
+
+CH_BJ_01
+
+CH_BJ_01. Le 3/10/1426, le chapitre baille à Alfonso Rodríguez, albañil, fils de Ferrand Alvarez, carpintero, et à Mencía González, sa femme, une maison et demeure, située près de S. Cristobal, jouxtant d'un côté la prison royale (la carcel del rey) et de l'autre une maison de Juan García, pintor, et la rue publique devant la porte principale entre l'église et la maison, pour la vie des deux et de leur premier enfant à naître, chaque année pour 185 mrs. de vieille monnaie ou le double, avec la caution d'Alfonso Díaz de Vargas et de Juan Rodríguez Garbanzo, corredor de las heredades.
+
+CH_BJ_01. Le 23/07/1428, le chapitre baille à Martín Fernández de Alcubillete, capellán dans l'église de Tolède, une maison située près de l'église S. Cristobal, jouxtant une maison dite del granado, une maison de l'église Santa Yusta, et au dos la prison royale, dont a fait abandon Mencía Rodríguez, veuve d'Alfonso Rodríguez, albañil, pour sa vie, 190 mrs. de vieille monnaie ou 380 desta, avec la caution de Diego Rodríguez de Torrijos, notario.
+
+CH_BJ_01. En 1443, la maison située près de S. Cristobal, que le chapitre a achetée des biens de Pedro Alfonso de la Cruz, a été baillée, perpetuas e por reparadas, à Martín Fernández de Alcubillete, au prix de 190 mrs. de vieille monnaie, ou le double (380 mrs.) de blancas.
+
+CH_BJ_01. Le 11/11/1461, Martín Fernández de Alcubillete, curé de Pulgar, a fait abandon de la maison qu'il tenait du chapitre à la colación de San Cristobal, jouxtant une maison de Ruy López de Madrid, au dos de la prison royale, et le chapitre l'a baillée à Francisca Rodríguez et Juana Ramírez, sa fille, pour la vie des deux femmes, à raison de 400 mrs. et une paire de poules chaque année, avec la caution de Pedro González, curé de Colmenar del Arroyo. 
+
+CH_BJ_01. Le 14/10/1480, le chapitre a baillé la maison que tenait Juana Ramírez, à Gonzalo Rodríguez de Madrid, racionero, pour sa vie, au prix de 2.300 mrs. et cinq paires de poules, sans rien à payer la première année, comme aide aux réparations. 
+
+CH_BJ_01. Le 31/05/1484, le chapitre baille la maison que tenait Gonzalo Rodríguez, racionero, à San Cristobal, à Francisco Marchano, tejedor de seda, et Juana Gómez, sa femme, à trois vies, pour la même somme, avec la caution de Francisco de Vargas, qui avait été alcaide d'Azután, et Fernando de Escobar, beau-frère de Francisco Marchano. 
+
+CH_BJ_01. Le 3/12/1492, le chapitre a baillé la maison à Alfonso del Aguila, pintor, pour sa vie, celle de María Alvarez de Montes, sa femme, et d'un fils ou d'une fille, et la même somme.
+
+CH_BJ_01. En 1491, la maison précédemment tenue par Martín Fernández de Alcubillete est tenue par Alfonso del Aguila, pour sa vie et celle de sa femme et d'un fils, au prix de 2.300 mrs. et 5 paires de poules par an. Elle jouxte d'un côté une maison de Fernand Alvarez et de l'autre le jurado Juan Rodríguez de Madrid.
+
+CH_BJ_01 1492 
+
+Las casas que solia tener Martin Ferrandes de Alcubillete, tienelas agora Alfon del Aguila por su vida e de su muger e de un fijo por presçio de dos mill e trezientos mrs. e çinco pares de gallinas. Ha por linderos de la una parte casas de Ferrand Alvares e de la otra parte el jurado Juan Rodriguez de Madrid.
+
+En xi dias del dicho mes de novienbre del dicho anno de noventa e un annos el venerable sennor Cristoval de Villaminaya vesitador de los posisiones de la santa iglesia de Toledo e por ante mi Alvar Peres de Montemayor notario apostolico canonigos en la dicha santa iglesia e ante los testigos de yuso escriptos deslindo estas casas e fallose en ellas en la entrada un portal que ha en largo quatro varas e dos en ancho e adelante un patin e a la mano derecha del esta un palaçio que ha quatro varas en largo e en ancho tres e ensomo de la entrada esta una cosina de su tamanno con sus portales adelante e çerca del esta un callejon con su lanterna que ha en luengo quatro varas e media e dos en/f° 203 v°/ ancho e ensomo una camara de su tamanno e en fruente otro palaçio que tiene siete varas e media en largo e tres e terçia en ancho e ensomo una camara de su tamanno. De que fueron testigos Diego de Obregon e Françisco de Sant Roman criados de los dichos sennores. (signé) Juan de Mayorga notario apostolico.
+
+Le 27/05/1465, Ana Vázquez, veuve de Fernand Martínez de Aguilar, loue pour trois ans à Alfonso González, molinero, et María González, sa femme, une maison située à la colación de San Cristobal, jouxtant une maison de la même Ana Vázquez, une maison de Maestre Enrique, et une maison de (blanc) appartenant maintenant à Gutierre de la Peña, à partir du 15 août suivant, pour 1.000 mrs. par an.
+
+CH_BJ_02
+
+San Cristobal Plaza S/N (desap)
+
+CH_BJ_02. Le 22/06/1466, Diego de Ribadeneyra et Gutierre de Carrión, fils tous deux de feu Fernand Martínez de Carrión, vendent à Juan Sánchez de Sotos Albos, racionero de l'église de Tolède, 300 mrs. de cens et une paire de poules qu'ils possèdent sur une maison située à la colación de San Cristobal, jouxtant une maison de Juan Rodríguez Francés, tributaire à Pedro Martínez de Carrión et une maison de Leonor Núñez, maison tenue par Alfonso de Soto et sa femme, pour 6.200 mrs. de la monnaie usuelle.
+
+CH_BJ_02. Le 8/01/1466, Alfonso de Soto a fait reconnaissance des 300 mrs. de cens sur une maison, à la colación de San Cristobal, qui ont été donnés au chapitre. Le 26/11/1472, le chapitre a autorisé Juan Porcel, notario, escudero du chanoine Diego Delgadillo, à céder la maison, chargée de 300 mrs. et une paire de poules, à Diego de León, capellán del coro. Le 6/04/1482, Catalina Alvarez, mère et héritière de Diego de León, a fait reconnaissance.
+
+CH_BJ_02. Le 2/03/1485, le chapitre a autorisé Catalina Alvarez, femme de Luis Fernández, solador, à vendre, au prix de 10.000 mrs., la maison, située à la colación de Santo Tomé, près de S. Cristobal, jouxtant d'un côté une maison de Juan Rodríguez Francés, alarife, et de l'autre une maison de Luis Boquín, carnicero, à Diego de León, amo de Luis Alvarez, regidor.
+
+CH_BJ_02. En 1491, la maison que tenait auparavant Catalina Alvarez, femme de Luis Fernández, solador, est tenue par Diego de León por 300 mrs. et une paire de poules de cens. Elle jouxte d'un côté une maison tributaire à l'Hôpital que tient le même Diego de León et de l'autre une maison de la veuve du regidor Juan de Córdoba.
+
+CH_BJ_02_1492
+
+OF 356 
+
+Las casas que solia tener Catalina Alvares muger de Luys Ferrandes solador, tienelas agora Diego de Leon por trezientos mrs. e un par de gallinas de çenso. Ha por linderos de la una parte casas tributarias al ospital las quales tiene el dicho Diego de Leon e de la otra parte casas de la muger del regidor Juan de Cordova, que Dios aya.
+
+En xi dias del dicho mes de novienbre del dicho anno de noventa e un annos el venerable sennor Cristoval de Villaminaya vesitador de los posisiones de la santa iglesia de Toledo e por ante mi Alvar Peres de Montemayor notario apostolico canonigos en la dicha santa iglesia e ante los testigos de yuso escriptos deslindo estas casas e fallose en ellas en la entrada una casa puerta en que ay ocho varas en largo e seys e media en ancho con otro soberado ensomo de su tamanno e otro debaxo de al tanto con puerta calle que sale a la plaça del alamillo, tiene mas en el soberado de en medio un corredor que tiene ocho varas en largo e una e media en ancho. De que fueron testigos Diego de Obregon e Françisco de Sant Roman criados de los dichos sennores. (signé) Juan de Mayorga notario apostolico.
+
+Le 17/07/1477, le chanoine don Luis de Torres, archidiacre de Medina, donne à cens à Pedro de Grisaleña, albañil, et Leonor Alvarez, sa femme, une maison neuve, située à la colación de San Cristobal, sous la vue de ses casas prinçipales, avec un corral desde la dicha casa nueva fasia donde se abre un çimiento de las casas de Gonçalo Serrano, carniçero e de Alfonso de Hontiveros, el qual dicho corral se a sacado e saquedes por derecho del tamaño del dicho Alfonso de Hontiveros e que podades sacar e saquedes la puerta por donde mandedes las dichas casas a la calle de las casas que tiene a tributo de mi …Pero Garçia Carrso, la qual dicha puerta podades faser por donde pueda entrar e salir un asno cargado de la dichas casas, jouxtant las dichas mis casas prinçipales, un corral de mi, une maison d'Antón de Xeres tributaria a mi, pour 600 mrs. et une paire de poules
+
+L'église de San Cristobal.
+
+Le 21/03/1432, Pedro López de Ayala (III), alcalde mayor de Tolède, et sa femme, doña Elvira de Castañeda, renouvellent la dot qu'ils avaient faite à leur fille décédée, doña Leonor de Ayala, femme de Diego López de Dávalos (fils du connétable Ruy López de Dávalos), en faveur de leurs petits-enfants, Rodrigo, Pedro, Juan, Iñigo et Fernando, fils de Diego López et doña Leonor, et comprenant notamment une maison ayant appartenu à doña Sancha de Ayala et que Pedro López et doña Elvira avaient achetée, pour 2.240 florins d'or, située à la colación de San Salvador, jouxtant d'une part une petite maison de Gutierre González Pantoja, une maison ayant appartenu au bachelier Domingo Fernández, l'église de S. Cristobal, et la rue.
+
+Montichel, à la colación de S. Cristobal.
+
+Le 12/10/1394, le curé et les clercs de l'église San Salvador accense à Juan Alvarez, tintor de paños, fils de García Alvarez de Palencia, un terrain qui fut maison, situé près de Montechel, jouxtant d'un côté une maison des mêmes clercs et de l'autre une maison de María Martínez, fille de Nuño Díaz de Verague, un autre solar de Tolède, dans lequel il ne restait rien debout et ne leur rapportait rien depuis longtemps, pour 10 mrs. de la monnaie usuelle, dont 10 d. novenes font un mri, avec pour condition de ne rien payer les trois premières années.
+
+Le 17/05/1431, un accord est passé entre Diego Martínez, pedrero, et le monastère de Santa Ursula, concernant l'héritage revenant à María, fille de Diego Martínez et de Leonor Gómez, sa femme, décédée, religieuse à Santa Ursula, par la mort de sa mère et de son frère, Alfonso. Diego Martínez donne au monastère une maison située a Montechel, libre de cens, se tenant d'un côté avec une maison de Diego Martínez, et de l'autre une maison d'Alfonso de Guzmán, et la rue. 
+
+Le 18/08/1462, les religieuses de Santa Ursula accensent à Marina Rodríguez, femme de (blanc), et Inés Alvarez, sa fille, une maison, à la colación de San Cristobal, jouxtant une maison d'Alfonso de Guzmán et une maison de Gil González, molinero, pour 265 mrs. par an. 
+
+Le 13/07/1484, Alfonso Martínez, curé de l'église Santa Olalla de Tolède, reconnaît un cens de 266 mrs. et 4 cornados en faveur du monastère de Santa Ursula, sur une maison qu'il a achetée de Francisco Ramírez de Peñalosa, escribano público, au nom d'Inés Alvarez, femme de Juan Sánchez, barbero, habitante de Villacarrillo, maison située a Montichel, à la colación de San Cristobal, et jouxtant une maison de Juan de Valladolid, et une autre de Juan de Silva.
+
+Le 18/03/1438, Juan Gutiérrez de Gualda, peraile, fils de Miguel Fernández de Gualda, reconnaît un cens de 100 mrs. en faveur de Pedro López de Ayala, alcalde mayor de Tolède, pesant sur deux étendoirs à draps (dos tiradores para tirar paños) qu'il a achetés d'Alvar Sánchez, tejedor da mantas de pared, exécuteur testamentaire de Diego López, peraile, et tuteur des enfants de celui-ci, Elvira et Cristobal. Ces étendoirs faisaient partie des cinq que Diego López possédait à Montechel dans les tiradores de Pedro López de Ayala, alcalde mayor de Tolède, en el corral de arriba, el un tirador que disen ahorca cepas e el otro tirador largo, que se tienen… de la una parte con tirador de Iohn Ferrnandes del Hito e de la otra parte con tiradores que fueron de Estevan Ferrnandes, perayle, defunto.
+
+Le 30/04/1471, l'ayuntamiento de Tolède, à la requête de Diego de Ayala, fils de feu García Barroso, lui donne un terrain pour édifier une maison, à l'emplacement d'un dépotoir, situé à Montichel (un suelo por hazer e hedificar casas que por agora esta hecho muladar, que es a Montichel), jouxtant le postigo de la Patrona, corral de arriba que es de Catalina de la Fuente e de la otra parte la calle Real donde mora Alfonso rruys perayle e de la otra parte la calle de la cuesta del dicho Montichel .
+
+Le 19/07/1484, doña María Carrillo, veuve de (blanc), loue à Pedro de Arévalo, carpintero, un palacio, une cámara et un portal dans une maison qu'elle possède à Montichel, jouxtant une maison de Payo Cuello et une maison d'Alfonso Carrillo, pour un an, à partir du 15/08/84, au prix de 1.000 mrs. et une paire de poules.
+
+Le 10/09/84, dans une maison de la colación San Cristobal, où demeure doña María Carrillo, veuve de Juan de Salazar, on réclame à la dame une somme pour laquelle Juan de Salazar avait engagé certains biens, en présence de Gabriel Niño, frère de la dame, et Alfonso de Cañizares, serviteur dudit Salazar.
+
+Le 5/01/1533, le licenciado Francisco Franco, jurado de Tolède, dit qu'il possédait une maison, à la colación de San Cristobal, à Montichel, en dessous du corral dit del arcediano, jouxtant une maison ayant appartenu à Pedro Díaz, tocinero, une maison del Carrasco, tributaire de 600 mrs. et une paire de poules au Collège de Santa Catalina, auquel don Francisco Alvarez de Toledo, maestrescuela, avait laissé le tribut.
+
+
