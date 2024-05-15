@@ -6,14 +6,16 @@ Porteur (PI) : Jean Passini, Directeur de recherche Émérite au CNRS, CRH CNRS/
 Contributeurs :
 - Sara Garcia, éditrice et curatrice des données
 - Silvia Garcia, traductrice
-- Carmen Brando, Plateforme géomatique / CRH CNRS/EHESS
-- Eric Mermet, CNRS, Ecole d'économie de Toulouse
+- Carmen Brando, Plateforme géomatique / CRH CNRS EHESS
+- Eric Mermet, CNRS, TSE
   
 ### Etablissement coordinateur
 Casa de Velázquez : https://www.casadevelazquez.org/ 
 
 ### Partenaires
-- EHESS : https://www.ehess.fr/fr 
+- EHESS : https://www.ehess.fr/fr
+- CRH CNRS EHESS : http://crh.ehess.fr
+- Plateforme géomatique de l'EHESS : http://psigehess.hypotheses.org/
 - OpenEdition : https://www.openedition.org/
 - Métopes : http://www.metopes.fr/ 
 - Huma-Num : https://www.huma-num.fr/
