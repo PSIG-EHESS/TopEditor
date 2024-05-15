@@ -23,6 +23,6 @@ Casa de Velázquez : https://www.casadevelazquez.org/
 - ABES : https://abes.fr/ 
 
 ### Références
-- TopEditor s'inscrit dans le cadre de Toledo Espacio y Tiempo (http://toledo.medievalgis.fr/), un projet plus large mené par Jean Passini depuis une vingtaine d'années.
+- TopEditor s'inscrit dans Toledo Espacio y Tiempo (http://toledo.medievalgis.fr/), un projet plus vaste mené par Jean Passini depuis une vingtaine d'années.
 - TopEditor dans Ouvrir la science : https://www.ouvrirlascience.fr/topeditor/ 
 - TopEditor au Centre des recherches historiques (CRH CNRS/EHESS) : http://crh.ehess.fr/index.php?7737 
