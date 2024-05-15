@@ -1,5 +1,6 @@
-# TOPEDITOR
-Le projet TOPEDITOR financé par le Fond national de la science ouverte (FNSO)se propose de matérialiser, parmi 480 maisons médiévales identifiées et géo-localisées à Tolède, dans une publication innovante les relations entre textes médiévaux et morphologie urbaine ancienne, d'après “Los libros de medidas de casas de 1439, 1491-1492".
+# PROJET TOPEDITOR
+## L’organisation urbaine de Tolède au XVe siècle d’après “los libros de medidas de casas de 1439, 1491-1492"
+Financé par le Fonds national de la science ouverte (FNSO), TOPEDITOR se propose de matérialiser, parmi 480 maisons médiévales identifiées et géo-localisées à Tolède, dans une publication innovante les relations entre textes médiévaux et morphologie urbaine ancienne.
 
 Porteur (PI) : Jean Passini, Directeur de recherche Émérite au CNRS, CRH CNRS/EHESS
 
