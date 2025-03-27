@@ -1,0 +1,7211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI
+change="commons_edition"
+xmlns="http://www.tei-c.org/ns/1.0"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xi="http://www.w3.org/2001/XInclude"
+xmlns:ns="http://www.tei-c.org/ns/1.0"
+xmlns:mml="http://www.w3.org/1998/Math/MathML"
+xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0"
+><teiHeader
+><fileDesc
+><titleStmt
+><title
+type="main"
+>Libro de medidas</title
+></titleStmt
+><publicationStmt
+><ref
+type="volume_xml"
+></ref
+><ab
+type="editorial_workflow"
+><date
+type="received"
+></date
+><date
+type="accepted"
+></date
+></ab
+><ab
+type="expression"
+><bibl
+><publisher
+></publisher
+><availability
+><licence
+target="#"
+></licence
+><p
+></p
+></availability
+></bibl
+></ab
+><ab
+type="book"
+><bibl
+><date
+type="publishing"
+when="2025-12-16"
+>16-12-2025</date
+><biblScope
+from=""
+to=""
+unit="page"
+></biblScope
+><availability
+><licence
+></licence
+><p
+></p
+></availability
+></bibl
+></ab
+><ab
+subtype="PDF"
+type="digital_download"
+><bibl
+><idno
+subtype="-"
+type="DOI"
+></idno
+><ref
+type="DOI"
+></ref
+><ref
+type="site"
+></ref
+><distributor
+></distributor
+><date
+type="publishing"
+></date
+><dim
+extent=""
+type="weight"
+unit="Mo"
+></dim
+><availability
+><licence
+></licence
+><p
+></p
+></availability
+></bibl
+></ab
+><ab
+subtype="EPUB"
+type="digital_download"
+><bibl
+><idno
+type="ISBN-13"
+></idno
+><idno
+subtype="-"
+type="DOI"
+></idno
+><ref
+type="DOI"
+></ref
+><ref
+type="site"
+></ref
+><distributor
+></distributor
+><date
+type="publishing"
+></date
+><availability
+><licence
+></licence
+><p
+></p
+></availability
+><dim
+extent=""
+type="weight"
+unit="Ko"
+></dim
+></bibl
+><desc
+type="accessMode"
+>textual</desc
+><desc
+type="accessMode"
+>visual</desc
+><desc
+type="accessibilityFeature"
+>ARIA</desc
+><desc
+type="accessibilityFeature"
+>highContrastDisplay</desc
+><desc
+type="accessibilityFeature"
+>readingOrder</desc
+><desc
+type="accessibilityFeature"
+>structuralNavigation</desc
+><desc
+type="accessibilityFeature"
+>tableOfContents</desc
+><desc
+type="accessibilityFeature"
+>unlocked</desc
+><desc
+subtype="soundHazard"
+type="accessibilityHazard"
+>noSoundHazard</desc
+><desc
+subtype="flashingHazard"
+type="accessibilityHazard"
+>noFlashingHazard</desc
+><desc
+subtype="motionSimulationHazard"
+type="accessibilityHazard"
+>noMotionSimulationHazard</desc
+><desc
+type="accessModeSufficient"
+>textual,visual</desc
+><desc
+type="accessibilitySummary"
+>Cette publication est conforme aux normes d’accessibilité WCAG 2.0, au moins au niveau A.</desc
+></ab
+><ab
+subtype="HTML"
+type="digital_online"
+><bibl
+><distributor
+>OpenEdition</distributor
+><name
+type="CMS"
+>Lodel</name
+><idno
+subtype="-"
+type="DOI"
+></idno
+><ref
+type="DOI"
+></ref
+><ref
+type="site"
+></ref
+><date
+type="publishing"
+>--</date
+><date
+type="embargoend"
+></date
+><idno
+type="documentnumber"
+></idno
+><availability
+><licence
+></licence
+><p
+></p
+></availability
+></bibl
+></ab
+></publicationStmt
+><sourceDesc
+><p
+>Version Métopes : 3.1</p
+><p
+>Written by OpenOffice</p
+></sourceDesc
+></fileDesc
+><encodingDesc
+><tagsDecl
+><rendition
+scheme="css"
+xml:id="Cell1.A1"
+>border:none;</rendition
+><rendition
+scheme="css"
+xml:id="Cell2.A1"
+>border:none;</rendition
+><rendition
+scheme="css"
+xml:id="Cell1.A1"
+>border:none;</rendition
+><rendition
+scheme="css"
+xml:id="Cell3.A1"
+>border:none;</rendition
+><rendition
+scheme="css"
+xml:id="Cell4.A1"
+>border:none;</rendition
+><rendition
+scheme="css"
+xml:id="Cell3.A1"
+>border:none;</rendition
+><rendition
+scheme="css"
+xml:id="Cell5.A1"
+>border:none;</rendition
+><rendition
+scheme="css"
+xml:id="Cell6.A1"
+>border:none;</rendition
+><rendition
+scheme="css"
+xml:id="Cell5.A1"
+>border:none;</rendition
+><rendition
+scheme="css"
+xml:id="Cell7.A1"
+>border:none;</rendition
+><rendition
+scheme="css"
+xml:id="Cell8.A1"
+>border:none;</rendition
+><rendition
+scheme="css"
+xml:id="Cell7.A1"
+>border:none;</rendition
+><rendition
+scheme="css"
+xml:id="Cell9.A1"
+>border:none;</rendition
+><rendition
+scheme="css"
+xml:id="Cell10.A1"
+>border:none;</rendition
+><rendition
+scheme="css"
+xml:id="Cell9.A1"
+>border:none;</rendition
+><rendition
+scheme="css"
+xml:id="Cell11.A1"
+>border:none;</rendition
+><rendition
+scheme="css"
+xml:id="Cell12.A1"
+>border:none;</rendition
+><rendition
+scheme="css"
+xml:id="Cell11.A1"
+>border:none;</rendition
+><rendition
+scheme="css"
+xml:id="Cell13.A1"
+>border:none;</rendition
+><rendition
+scheme="css"
+xml:id="Cell14.A1"
+>border:none;</rendition
+><rendition
+scheme="css"
+xml:id="Cell13.A1"
+>border:none;</rendition
+><rendition
+scheme="css"
+xml:id="Cell15.A1"
+>border:none;</rendition
+><rendition
+scheme="css"
+xml:id="Cell16.A1"
+>border:none;</rendition
+><rendition
+scheme="css"
+xml:id="Cell15.A1"
+>border:none;</rendition
+><rendition
+scheme="css"
+xml:id="Cell17.A1"
+>border:none;</rendition
+><rendition
+scheme="css"
+xml:id="Cell18.A1"
+>border:none;</rendition
+><rendition
+scheme="css"
+xml:id="Cell17.A1"
+>border:none;</rendition
+><rendition
+scheme="css"
+xml:id="Cell19.A1"
+>border:none;</rendition
+><rendition
+scheme="css"
+xml:id="Cell20.A1"
+>border:none;</rendition
+><rendition
+scheme="css"
+xml:id="Cell19.A1"
+>border:none;</rendition
+><rendition
+scheme="css"
+xml:id="Cell21.A1"
+>border:none;</rendition
+><rendition
+scheme="css"
+xml:id="Cell22.A1"
+>border:none;</rendition
+><rendition
+scheme="css"
+xml:id="Cell21.A1"
+>border:none;</rendition
+></tagsDecl
+></encodingDesc
+><profileDesc
+><langUsage
+><language
+ident="fr-FR"
+></language
+></langUsage
+><textClass
+></textClass
+></profileDesc
+><revisionDesc
+><listChange
+><change
+type="creation"
+when="2024-12-16"
+>Conversion Métopes v3 vers Commons</change
+><change
+type="creation"
+when="2024-12-16"
+>Révision</change
+></listChange
+></revisionDesc
+></teiHeader
+><text
+type="##"
+xml:id="text"
+><front
+><div
+type="titlePage"
+><p
+rend="title-main"
+><anchor
+xml:id="OLE_LINK514"
+></anchor
+><anchor
+xml:id="OLE_LINK511"
+></anchor
+>Libro de medidas</p
+></div
+></front
+><body
+><div
+type="section1"
+xml:id="div1"
+><head
+>Le quartier des chanoines (<hi
+rend="italic"
+>Barrio de Canónigos</hi
+>).</head
+><p
+rend="TEI_localparaDonnees"
+xml:id="p1"
+>Avec les maisons de la<hi
+rend="italic"
+> Plaza del Oliva</hi
+>, on entre dans le secteur urbain où se rencontre la plus forte concentration, bien que non vraiment exclusive, des membres de la corporation capitulaire, justifiant la désignation qui lui a été déjà appliquée de quartier des chanoines<hi
+rend="sup"
+><note
+n="1"
+place="foot"
+xml:id="ftn1"
+><p
+xml:id="p2"
+>. Passini, Molénat, 1995.</p
+></note
+></hi
+> (CH_AV_05: <hi
+rend="italic"
+>Las otras casas junto con estas</hi
+> [CH_AV_04 a et b] <hi
+rend="italic"
+>… han por linderos de la una parte las casas ya dichas e de la otra el esquina…</hi
+>).</p
+><p
+rend="TEI_localparaDonnees"
+xml:id="p3"
+>On rappellera seulement ici qu’il était constitué de trois secteurs. L'<hi
+rend="italic"
+>Adarve</hi
+> <hi
+rend="italic"
+>de</hi
+> <hi
+rend="italic"
+>los Canónigos</hi
+>, correspond à l'actuelle <hi
+rend="italic"
+>Calle de la Carcel del Vicario</hi
+>, avec dix maisons (CH_AV_01 à CH_AV_10). Le <hi
+rend="italic"
+>Pozo Amargo</hi
+><hi
+rend="italic"
+> </hi
+><hi
+rend="italic"
+> </hi
+>répond dans l’actualité aussi bien à la <hi
+rend="italic"
+>Calle del Pozo Amargo</hi
+>, la<hi
+rend="italic"
+> Calle de los Illanes</hi
+> du XV<hi
+rend="sup"
+>e</hi
+> siècle<hi
+rend="italic"
+>,</hi
+> qu’à la <hi
+rend="italic"
+>Plaza</hi
+> et à la <hi
+rend="italic"
+>Bajada</hi
+> du même nom. On y recense vingt-six possessions du chapitre (<anchor
+xml:id="OLE_LINK4034"
+></anchor
+><anchor
+xml:id="OLE_LINK4033"
+></anchor
+>CH_DO_01 à CH_DO_26), dont les dernières sont situées à la <hi
+rend="italic"
+>colación</hi
+> de S. Yuste, ou à celle de S. Andrés. L'<hi
+rend="italic"
+>Adarve</hi
+> <hi
+rend="italic"
+>del</hi
+> <hi
+rend="italic"
+>Atocha</hi
+>, est l'actuel <hi
+rend="italic"
+>Callejón de San Pedro</hi
+>, avec quatorze maisons (<anchor
+xml:id="OLE_LINK4036"
+></anchor
+><anchor
+xml:id="OLE_LINK4035"
+></anchor
+>CH_B0_01 à CH_B0_11, avec des subdivisions).</p
+><div
+type="section2"
+xml:id="div2"
+><head
+><anchor
+xml:id="OLE_LINK515"
+></anchor
+><anchor
+xml:id="OLE_LINK516"
+></anchor
+>L'Adarve de Canónigos, actuelle Calle de la Cárcel del Vicario.</head
+><p
+rend="TEI_localparaDate"
+xml:id="p4"
+>L'<hi
+rend="italic"
+>Adarve de Canónigos</hi
+> est mentionné en 1279, comme <hi
+rend="italic"
+>Darb al-Aqāsa</hi
+>, avec une maison dont les portes donnent à la rue qui descend vers le Bain, probablement les Bains du Cenizar, ou l'un ou l'autre des établissements similaires du secteur<hi
+rend="sup"
+><note
+n="2"
+place="foot"
+xml:id="ftn163"
+><p
+xml:id="p5"
+>. MT 660. اقاسة doit être un pluriel, non signalé dans les dictionnaires, de <hi
+rend="italic"
+>qass</hi
+> ou <hi
+rend="italic"
+>qissīs</hi
+> signifiant prêtre en arabe.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDonnees"
+xml:id="p6"
+>Une maison, non identifiée, au milieu du XIV<hi
+rend="sup"
+>e</hi
+> siècle, dans l'<hi
+rend="italic"
+>Adarve de los Canónigos</hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p7"
+>Le 23/03/1346, les chanoines et majordomes du chapitre louent, pour six ans, au chanoine Fernando Díaz une maison située dans l'<hi
+rend="italic"
+>Adarve de los Canónigos</hi
+>, dans laquelle demeurait auparavant Maestre Martín, en jouxtant une autre où demeure Pedro Lorence, au prix de 100 mrs. par an de la monnaie blanche de dix d. le mri<hi
+rend="sup"
+><note
+n="3"
+place="foot"
+xml:id="ftn164"
+><p
+xml:id="p8"
+>. CT E.12.C.1.12. </p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p9"
+>Un <hi
+rend="italic"
+>Adarve de Fernand López</hi
+>, signalé trois ans auparavant, est peut-être le même <hi
+rend="italic"
+>Adarve de Canónigos</hi
+>. Le 24/04/1343, le chapitre loue à Juan Alfonso, <hi
+rend="italic"
+>escribano</hi
+>, fils d'Alfonso Ibáñez, une maison située <hi
+rend="italic"
+>çerca el adarbe de Ferrand Lopes</hi
+> et jouxtant d'autres maisons du chapitre, pour deux ans à partir du 15/08/43, au prix de 69 mrs. par an de la monnaie blanche de dix d. le mri., avec la caution de Pedro Fernández de Godos, fils de Fernand Miguel, demeurant à la colación de S. Miguel<hi
+rend="sup"
+><note
+n="4"
+place="foot"
+xml:id="ftn165"
+><p
+xml:id="p10"
+>. CT E.12.C.1.11, avec signatures arabes.</p
+></note
+></hi
+>.</p
+></div
+><div
+type="section2"
+xml:id="div3"
+><head
+>Une maison de l'<hi
+rend="italic"
+>Adarve de Canónigos</hi
+> disparaît après 1419, pour dégager la cathédrale sur son côté Sud.</head
+><p
+rend="TEI_localMcode"
+xml:id="p11"
+>CH_AO_00</p
+><p
+rend="TEI_localparaDate"
+xml:id="p12"
+>CH_AO_00. En 1372, don Diego Fernández, prieur de Guadalupe, tient une maison où il demeure, <hi
+rend="italic"
+>perpetuas</hi
+>, pour 250 mrs.<hi
+rend="sup"
+><note
+n="5"
+place="foot"
+xml:id="ftn166"
+><p
+xml:id="p13"
+>. OF 929, f° 34 r°, <hi
+rend="italic"
+>Caserias que tienen algunos señores de la eglesia</hi
+>.</p
+></note
+></hi
+></p
+><p
+rend="TEI_localparaDate"
+xml:id="p14"
+><anchor
+xml:id="OLE_LINK4037"
+></anchor
+><anchor
+xml:id="OLE_LINK4038"
+></anchor
+>CH_AO_00. En 1379 et 1380, Juan González, chantre de Sigüenza, tient la maison que tenait auparavant le prieur de Guadalupe, <hi
+rend="italic"
+>perpetuas</hi
+>, 250 mrs. par an<hi
+rend="sup"
+><note
+n="6"
+place="foot"
+xml:id="ftn167"
+><p
+xml:id="p15"
+>. OF 930, f° ∞. OF 931, f° 44 r°. </p
+></note
+></hi
+>. En 1391, Juan González, archidiacre de Calatrava, tient la maison que tenait le prieur de Guadalupe, pour 250 mrs., et les <hi
+rend="italic"
+>casillas</hi
+> d’Aparicio Pérez, qu'il lui a réunies, pour 50 mrs., soit 300 mrs, de même en 1401. En 1408, de même avec les <hi
+rend="italic"
+>casillas</hi
+> d'Aparcio Pérez de Lillo, le tout toujours pour 300 mrs., soit au double 600 mrs.<hi
+rend="sup"
+><note
+n="7"
+place="foot"
+xml:id="ftn168"
+><p
+xml:id="p16"
+>. OF 932, f° 50 r°. OF 935, f° 52 r° (<hi
+rend="italic"
+>Caserias</hi
+>). OF 936, f° 68 r° (<hi
+rend="italic"
+>Caserias</hi
+>).</p
+></note
+></hi
+></p
+><p
+rend="TEI_localparaDate"
+xml:id="p17"
+>CH_AO_00. Le 2/09/1411, le chapitre cathédral baille au chanoine don Diego Fernández, archidiacre de Sigüenza, <hi
+rend="italic"
+>bachiller</hi
+> en décrets, une maison dans <hi
+rend="italic"
+>l’Adarve de los Canónigos</hi
+>, précédemment tenue par don Juan González, archidiacre de Calatrava, défunt, jouxtant une maison de l’archidiacre de Tolède, et une maison du chapitre située dans le même <hi
+rend="italic"
+>adarve</hi
+> et tenue par le chanoine Toribio Sánchez, qui y demeure (CH_AA_04a+b), <hi
+rend="italic"
+>con el establo que esta açerca de la puerta de fuera, e con la bodega, </hi
+>le tout comme le possédait<hi
+rend="italic"
+> </hi
+>ledit archidiacre de Calatrava quand il vivait, pour sa vie, au prix de 1.600 mrs. de vieille monnaie par an, avec la caution de Lope Gonzalez, <hi
+rend="italic"
+>racionero</hi
+><hi
+rend="sup"
+><note
+n="8"
+place="foot"
+xml:id="ftn169"
+><p
+xml:id="p18"
+>. OF 1073, f° 63 r°. </p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p19"
+>CH_AO_00. En 1412, Diego Fernández, <hi
+rend="italic"
+>bachiller</hi
+>, archidiacre de Sigüenza, tient la maison que tenait précédemment don Juan González, archidiacre de Calatrava, avec l'<hi
+rend="italic"
+>establo</hi
+>, au prix de 1.600 mrs. de vieille monnaie, soir 3.200 mrs. de <hi
+rend="italic"
+>blancas</hi
+>. Le <hi
+rend="italic"
+>racionero</hi
+> Lope González avait tenu la maison après le décès de l’archidiacre de Calatrava, et l’a laissée à l’archidiacre de Sigüenza<hi
+rend="sup"
+><note
+n="9"
+place="foot"
+xml:id="ftn170"
+><p
+xml:id="p20"
+>. OF 937, f° 13 v°, <hi
+rend="italic"
+>Adarve de Canonigos</hi
+>.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p21"
+>CH_AO_00. En 1417, la maison que tenait et possédait auparavant l'archidiacre de Calatrava, avec l'<hi
+rend="italic"
+>establo</hi
+> et la <hi
+rend="italic"
+>cueva</hi
+> de son appartenance, est tenue par l'archidiacre de Tolède, qui ne paie rien à ce moment. En marge il est ajouté que, de cette maison, Lope Sánchez, <hi
+rend="italic"
+>refitorero</hi
+>, le déclarant, a reçu pour cette année (1417) 3.000 mrs. donnés par Juan Fernández, <hi
+rend="italic"
+>bachiller</hi
+>, <hi
+rend="italic"
+>receptor de los vestuarios</hi
+><hi
+rend="sup"
+><note
+n="10"
+place="foot"
+xml:id="ftn171"
+><p
+xml:id="p22"
+>. OF 9438, f° 27 r°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p23"
+>CH_AO_00. La maison disparaît après 1419, pour dégager la cathédrale. Le 3/1/1419, dans un échange entre le chapitre cathédral et don Vasco de Guzmán, archidiacre de Tolède, agissant au nom de sa dignité, ce dernier donne ses écuries, <hi
+rend="italic"
+>corral</hi
+>, <hi
+rend="italic"
+>huerto</hi
+>, et anciennes écoles, et toutes les autres maisons jusqu'à l<hi
+rend="italic"
+>'Adarve de los Canónigos</hi
+>, et le chapitre donne la maison qu'il possède, jouxtant celle de la dignité de l'archi doyenné de Tolède, précédemment baillée à don Juan González, qui était archidiacre de Calatrava, cela pour faire <hi
+rend="italic"
+>plaça </hi
+>pour la cathédrale<hi
+rend="sup"
+><note
+n="11"
+place="foot"
+xml:id="ftn172"
+><p
+xml:id="p24"
+>. OF 1079, f° 4.</p
+></note
+></hi
+>. En 1422, la maison que tenait l'archidiacre de Calatrava, avec l'<hi
+rend="italic"
+>establo</hi
+> et la <hi
+rend="italic"
+>cueva</hi
+>, est tenue par l'archidiacre de Tolède, sans mention de paiement<hi
+rend="sup"
+><note
+n="12"
+place="foot"
+xml:id="ftn173"
+><p
+xml:id="p25"
+>. OF 939, f° 26 r°. </p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localMcode"
+xml:id="p26"
+>CH_AO_01</p
+><p
+rend="TEI_localMlocalisation"
+xml:id="p27"
+><ref
+target="http://psig.huma-num.fr/toledo/liste-des-rues/vicario-clj/vicario-clj-n1/"
+><hi
+rend="underline"
+>Calle de la Cárcel del Vicario, 1</hi
+></ref
+></p
+><p
+rend="TEI_localparaDonnees"
+xml:id="p28"
+><anchor
+xml:id="OLE_LINK517"
+></anchor
+><anchor
+xml:id="OLE_LINK518"
+></anchor
+>CH_AO_01. A l'entrée de l'<hi
+rend="italic"
+>Adarve de Canónigos</hi
+>, jouxtant la prison de l'archevêque.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p29"
+><anchor
+xml:id="OLE_LINK4040"
+></anchor
+><anchor
+xml:id="OLE_LINK4039"
+></anchor
+>110 mrs. par an<hi
+rend="sup"
+><note
+n="13"
+place="foot"
+xml:id="ftn174"
+><p
+xml:id="p30"
+>. OF 929, f° 28 r°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p31"
+>CH_AO_01<note
+n="14"
+place="foot"
+xml:id="ftn175"
+><p
+xml:id="p32"
+> Passini, Molénat, 1995<hi
+rend="italic"
+>, p.70.</hi
+></p
+></note
+>. En 1372, Juan González, <hi
+rend="italic"
+>notario</hi
+>, tient les<hi
+rend="italic"
+> cuadras</hi
+>, <hi
+rend="italic"
+>perpetuas</hi
+>, au prix de 110 mrs. par an<hi
+rend="sup"
+><note
+n="15"
+place="foot"
+xml:id="ftn176"
+><p
+xml:id="p33"
+>. OF 929, f° 28 r°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p34"
+>CH_AO_01. Le 20/11/1375, le chapitre cathédral baille au chanoine Domingo Fernández une maison où demeurait précédemment Juan González, <hi
+rend="italic"
+>notario</hi
+>, située<hi
+rend="italic"
+> </hi
+>à l'entrée de l'<hi
+rend="italic"
+>Adarve de los Canónigos</hi
+>, jouxtant la prison archiépiscopale (CH_AO_03), pour sa vie, à partir du 15/8/1375, au prix de 240 mrs. par an de la monnaie usuelle dont 10 d. <hi
+rend="italic"
+>novenes</hi
+> font le mrs. Dans les deux ans à venir il devra effectuer toutes les réparations nécessaires dans la maison, avec la caution de Bartolomé Sánchez de Yepes, <hi
+rend="italic"
+>racionero</hi
+><hi
+rend="sup"
+><note
+n="16"
+place="foot"
+xml:id="ftn177"
+><p
+xml:id="p35"
+>. OF 1070, f° 45 v°. Un ajout signale que la maison est tenue par le chanoine Mose Ramón pour 450 mrs.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p36"
+><anchor
+xml:id="OLE_LINK4490"
+></anchor
+><anchor
+xml:id="OLE_LINK4491"
+></anchor
+>CH_AO_01. En 1380, l'archidiacre de Mayorga tient la maison auparavant tenue par Juan González, <hi
+rend="italic"
+>notario</hi
+>, <hi
+rend="italic"
+>perpetuas</hi
+>, pour 240 mrs. par an<hi
+rend="sup"
+><note
+n="17"
+place="foot"
+xml:id="ftn178"
+><p
+xml:id="p37"
+>. OF 931, f° 37 r°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p38"
+>CH_AO_01. En 1391, Domingo Fernández, archidiacre de Mayorga, tient la maison que tenait précédemment Domingo Fernández de Pastrana, <hi
+rend="italic"
+>perpetuas e por reparadas</hi
+>, depuis le 15/8/1384, pour 250 mrs. par an, avec la caution de Luis López, <hi
+rend="italic"
+>racionero</hi
+><hi
+rend="sup italic"
+><note
+n="18"
+place="foot"
+xml:id="ftn179"
+><p
+xml:id="p39"
+>. OF 932, f° 44 r°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p40"
+>CH_AO_01. En 1396, Miguel Sánchez, <hi
+rend="italic"
+>físico</hi
+>, tient la maison que tenait auparavant l’archidiacre de Mayorga, <hi
+rend="italic"
+>perpetuas e por reparadas</hi
+>, au prix de 350 mrs. par an, mais le chapitre en fait grâce à ce bachelier tant qu'il sera son officier, depuis le 1/1/1394<hi
+rend="sup"
+><note
+n="19"
+place="foot"
+xml:id="ftn180"
+><p
+xml:id="p41"
+>. OF 934, f° 38 r°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p42"
+>CH_AO_01. En 1401, le chanoine Remón Narbona tient la maison laissée par Juan Rodríguez, au prix de 460 mrs. par an de la monnaie à courir, depuis le 15/8/1399, avec la caution de Diego Pérez, <hi
+rend="italic"
+>racionero</hi
+>. En 1408, 1412 et 1417, le chanoine don Remón Narbona (ou Mosén Remón) tient la maison laissée par Juan Rodríguez de Villaizán, pour 460 mrs. de la monnaie à courir<hi
+rend="sup"
+><note
+n="20"
+place="foot"
+xml:id="ftn181"
+><p
+xml:id="p43"
+>. OF 935, f° 45 r°. OF 936, f° 58 r°. OF 937, f° 13 r°. OF 938, f° 25 v°.</p
+></note
+></hi
+></p
+><p
+rend="TEI_localparaDate"
+xml:id="p44"
+><anchor
+xml:id="OLE_LINK4041"
+></anchor
+><anchor
+xml:id="OLE_LINK4042"
+></anchor
+>CH_AO_01. Le 8/07/1418, le chapitre cathédral baille à Ferrand González de Illescas, <hi
+rend="italic"
+>racionero</hi
+>, une maison dans l’<hi
+rend="italic"
+>Adarve de los Canónigos</hi
+>, la plus petite de celles que tenait auparavant le chanoine Mosén Remón, jouxtant la prison archiépiscopale, et au dos la grande maison que tenait le même Mosén Remón (CH_BO_02), et la rue, pour sa vie, au prix de 500 mrs. de vieille monnaie par an ou le double, avec la caution de Fernand Sánchez de Navamorcuende, <hi
+rend="italic"
+>racionero</hi
+><hi
+rend="sup"
+><note
+n="21"
+place="foot"
+xml:id="ftn182"
+><p
+xml:id="p45"
+>. OF 1077, f° 200 v°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p46"
+><anchor
+xml:id="OLE_LINK4043"
+></anchor
+><anchor
+xml:id="OLE_LINK4044"
+></anchor
+>CH_AO_01. En 1422, la maison que tenait auparavant don Remón Narbona, à l'<hi
+rend="italic"
+>Adarve de Canónigos</hi
+>, la plus petite à la porte de la prison archiépiscopale, est tenue depuis le 8/07/1418, par Fernand González, <hi
+rend="italic"
+>racionero</hi
+>, pour 500 mrs. de vieille monnaie, avec la caution de Fernand Sánchez de Navamorcuende<hi
+rend="sup"
+><note
+n="22"
+place="foot"
+xml:id="ftn183"
+><p
+xml:id="p47"
+>. OF 939, f° 24 v°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p48"
+>CH_AO_01. Le 16/06/1424, le chapitre baille à Alfonso Sánchez Morejón, <hi
+rend="italic"
+>criado</hi
+> de l’archidiacre de Tolède, don Vasco Ramírez de Guzmán, une maison dans l’<hi
+rend="italic"
+>Adarve de los Canónigos</hi
+>, précédemment tenue par Ferrand González de Illescas, <hi
+rend="italic"
+>racionero</hi
+>, défunt, jouxtant une maison de Martín Ruiz de Riaza, bachelier en décrets (<anchor
+xml:id="OLE_LINK4046"
+></anchor
+><anchor
+xml:id="OLE_LINK4045"
+></anchor
+>CH_BO_02), la prison archiépiscopale, et la rue, pour sa vie, 710 mrs. de vieille monnaie ou le double, avec la caution de Juan Ortiz, frère du <hi
+rend="italic"
+>racionero</hi
+> Alfonso Ortiz, et de Ferrand Pérez, <hi
+rend="italic"
+>peraile</hi
+><hi
+rend="sup"
+><note
+n="23"
+place="foot"
+xml:id="ftn184"
+><p
+xml:id="p49"
+>. OF 1082, f° 36.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p50"
+><anchor
+xml:id="OLE_LINK4047"
+></anchor
+><anchor
+xml:id="OLE_LINK4048"
+></anchor
+>CH_AO_01. Le 17/12/1432, le chapitre baille à Juan Fernández, <hi
+rend="italic"
+>cardador</hi
+>, habitant de Tolède, une maison, près de la prison archiépiscopale, <hi
+rend="italic"
+>al cantoncillo</hi
+>, jouxtant ladite prison, et en descendant à l'<hi
+rend="italic"
+>Adarve del Atocha</hi
+>, une maison de l’Église tenue par don Martín Ruiz, archidiacre d’Ubeda (CH_BO_02), précédemment tenue par Alfonso Sánchez, <hi
+rend="italic"
+>peraile</hi
+>, pour sa vie, 715 mrs. de vieille monnaie ou 1430 mrs. de <hi
+rend="italic"
+>blancas</hi
+>, avec caution de Madalena Ruiz, femme du preneur, et Miguel Sánchez, <hi
+rend="italic"
+>tintorero</hi
+><hi
+rend="sup"
+><note
+n="24"
+place="foot"
+xml:id="ftn185"
+><p
+xml:id="p51"
+>. OF 1085, f° 51 r°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p52"
+>CH_AO_01. Le 27/05/1447, le chapitre a baillé à Sancho García, <hi
+rend="italic"
+>broslador</hi
+>, une maison, à l'<hi
+rend="italic"
+>Adarve de los Canónigos</hi
+>, précédemment tenue par Juan Fernández, <hi
+rend="italic"
+>cardador</hi
+>, pour sa vie et celle de Catalina Rodríguez, sa femme, au prix de 1.430 mrs. courants et trois paires de poules, avec caution de Martín Ruiz de Riaza, <hi
+rend="italic"
+>racionero</hi
+><hi
+rend="sup"
+><note
+n="25"
+place="foot"
+xml:id="ftn186"
+><p
+xml:id="p53"
+>. OF 941, f° 1 r°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p54"
+>CH_AO_01. Le 24/05/1464, la maison que tenait auparavant Sancho García, <hi
+rend="italic"
+>broslador</hi
+>, a été baillée à Sancho et à Juan Ortiz, son neveu, pour la vie des deux, au prix de 1.830 mrs. par an et 5 paires de poules.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p55"
+>CH_AO_01. Le 26 avril 1471, parce que Juan Ortiz et sa femme, Inés Alfonso de Morales, ont fait certaines dépenses dans la maison que tenait auparavant Sancho García, <hi
+rend="italic"
+>broslador</hi
+>, puis Sancho et ledit Juan Ortiz, son neveu, le chapitre la baille aux deux, pour leur vie, 1900 mrs. et six paires de poules par an, avec caution de Juan de Palencia, <hi
+rend="italic"
+>sastre</hi
+>, et d’Alfonso González de Talavera, <hi
+rend="italic"
+>mantero</hi
+><hi
+rend="sup"
+><note
+n="26"
+place="foot"
+xml:id="ftn187"
+><p
+xml:id="p56"
+>. OF 955, f° 1.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p57"
+>CH_AO_01. Le 16/11/1474, une partie de cette maison ayant brûlé, et Juan Ortiz ayant à la rétablir comme elle l'était, le chapitre a baillé à nouveau la maison au même Juan Ortiz, <hi
+rend="italic"
+>broslador</hi
+>, pour sa vie et celle d'une personne à nommer par lui quand il le voudra, au même prix de 1.900 mrs., avec la caution de Juan de Palencia, <hi
+rend="italic"
+>sastre</hi
+>, de Gonzalo de las Cuevas, <hi
+rend="italic"
+>broslador</hi
+>, et d'Iñigo, <hi
+rend="italic"
+>pintor</hi
+>, ce contrat restant en vigueur en 1482<hi
+rend="sup"
+><note
+n="27"
+place="foot"
+xml:id="ftn188"
+><p
+xml:id="p58"
+>. OF 957, f° 1 r°. OF 959, f° 1 r°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p59"
+>CH_AO_01. Le 2/03/1492, María Quixada, veuve de Juan Ortiz, <hi
+rend="italic"
+>broslador</hi
+>, a montré qu'elle a été désignée par son mari pour cette maison, et, à la place du défunt, elle a donné la caution de Diego de Lizana, <hi
+rend="italic"
+>pedrero</hi
+>. Le 23/02/1495, Diego de Lizana étant décédé, elle a donné la caution de Juan de Valladares<hi
+rend="sup"
+><note
+n="28"
+place="foot"
+xml:id="ftn189"
+><p
+xml:id="p60"
+>. OF 966, f° 1 r°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p61"
+>CH_AO_01. En 1492 la maison que Juan Ortiz, <hi
+rend="italic"
+>broslador</hi
+>, tenait pour sa vie et celle d'une personne à nommer par lui, est maintenant tenue par sa femme, Marina Quixada, pour sa vie, au prix de 1.900 mrs. et six paires de poules par an. Elle jouxte d'un côté la prison de l'archevêque (CH_AO_02+ CH_AO_03) et de l'autre le coin de la rue, et au dos des maisons de l'Église<hi
+rend="sup"
+><note
+n="29"
+place="foot"
+xml:id="ftn190"
+><p
+xml:id="p62"
+>. OF 356, f° 1 r°.</p
+></note
+></hi
+>.<anchor
+xml:id="OLE_LINK527"
+></anchor
+><anchor
+xml:id="OLE_LINK519"
+></anchor
+><anchor
+xml:id="OLE_LINK1038"
+></anchor
+><anchor
+xml:id="OLE_LINK1037"
+></anchor
+></p
+><p
+rend="TEI_localMcode"
+xml:id="p63"
+>CH_AO_01-1-</p
+><p
+rend="TEI_localillDOI"
+xml:id="p64"
+><ref
+target="https://api.nakala.fr/embed/10.34847/nkl.02cej8fb/98cf464a12de568d9e562b5a76cf5ed0d66838e5"
+><hi
+rend="underline"
+>https://api.nakala.fr/embed/10.34847/nkl.02cej8fb/98cf464a12de568d9e562b5a76cf5ed0d66838e5</hi
+></ref
+></p
+><figure
+xml:id="figure1"
+><head
+>Calle de la Cárcel del Vicario n.<hi
+rend="sup"
+>o</hi
+>1: Identificación de la casa: plano actual y restitución</head
+></figure
+><figure
+xml:id="figure2"
+><head
+>Calle de la Cárcel del Vicario n.<hi
+rend="sup"
+>o</hi
+> 1 : Identification de la maison : plan actuel et restitution</head
+><p
+rend="credits"
+xml:id="p65"
+>© J.Passini</p
+></figure
+><p
+rend="TEI_localMcode"
+xml:id="p66"
+>CH_AO_01-2-</p
+><p
+rend="TEI_localillDOI"
+xml:id="p67"
+><ref
+target="https://api.nakala.fr/embed/10.34847/nkl.02cej8fb/5c4b147b4a5360be7af4089965ee1662ee577bb1"
+><hi
+rend="underline"
+>10.34847/nkl.02cej8fb/5c4b147b4a5360be7af4089965ee1662ee577bb1</hi
+></ref
+></p
+><figure
+xml:id="figure3"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 1: Fachada frente a la catedral</head
+></figure
+><figure
+xml:id="figure4"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 1 : Façade face a la cathédrale</head
+><p
+rend="credits"
+xml:id="p68"
+>© J.Passini</p
+></figure
+><p
+rend="TEI_localMcode"
+xml:id="p69"
+>CH_AO_01-3-</p
+><p
+rend="TEI_localillDOI"
+xml:id="p70"
+><ref
+target="https://api.nakala.fr/embed/10.34847/nkl.02cej8fb/1033ca731e347b0313325d912fc90a3cd99ff992"
+><hi
+rend="underline"
+>10.34847/nkl.02cej8fb/1033ca731e347b0313325d912fc90a3cd99ff992</hi
+></ref
+></p
+><p
+rend="TEI_localillmc"
+xml:id="p71"
+>Pesebres, sótano abovedado</p
+><p
+rend="TEI_localillmc"
+xml:id="p72"
+>Mangeoire</p
+><figure
+xml:id="figure5"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 1: Pesebres de la caballeriza medieval</head
+></figure
+><figure
+xml:id="figure6"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 1 : Mangeoire de l’étable médiévale</head
+><p
+rend="credits"
+xml:id="p73"
+>© J.Passini</p
+></figure
+><floatingText
+><body
+><head
+>CH_AO_01_1492</head
+><figure
+xml:id="figure7"
+><table
+cols="1"
+rows="1"
+xml:id="Table1"
+><row
+><cell
+rendition="#Cell1.A1"
+></cell
+></row
+></table
+></figure
+><p
+xml:id="p74"
+>OF 356</p
+><p
+xml:id="p75"
+>Las casas que tenia Juan Ortiz broslador por su vida e de una persona qual nonbrasen, tienelas agora Marina Quixada su muger por su vida, por presçio de mill e nueveçientos mrs. e seys pares de gallinas cada anno. Han por linderos de la una parte la carçel del arçobispo (AO_02)<note
+n="30"
+place="foot"
+xml:id="ftn191"
+><p
+xml:id="p76"
+> <hi
+rend="italic"
+>la carçel del arçobispo</hi
+> edificio localizado </p
+></note
+><hi
+rend="bold"
+> </hi
+>e de la otra parte el esquina de la calle real, e a las espaldas casas de la dicha iglesia.</p
+><p
+xml:id="p77"
+>En diez e nueve dias del mes de março anno del nasçimiento del nuestro Salvador Ihu Cristo de mill e quatroçientos e noventa e dos annos, los sennores Cristobal de Villaminaya e Alvar Peres de Montemayor canonigos vesitadores de las posisiones de la dicha santa iglesia en presençia de mi el notario e testigos ynfra escriptos vesitaron estas casas e fallose en ellas a la entrada un portal, en que ay siete varas en luengo e en ancho dos varas, e adelante esta un patin hueco que ha en luengo çinco varas e quarta e en ancho tres varas e dos terçias, e de baxo del esta un establo que se manda por cabe la puerta de la calle de su tamanno e luego esta una bodega en que ay siete e tres quartas en luengo e otro tanto en ancho. Ensomo esta una quadra de su tamanno e tiene a la mano derecha una camara en que ay quatro varas en luengo e tres varas en ancho e a la mano ysquierda un corralejo que tiene çinco varas en largo e quatro en ancho. Sobre esta quadra esta otra del mismo tamanno. Junta con esta esta otra quadra en que ay siete varas e media en largo e çinco e media en ancho con un sotano debaxo de su tamanno, ensomo otra quadra del mismo tamanno, esta quadra alta tiene dos retretes, el que esta /f°1 v°/ frontero de la puerta sobre el portal de la calle tiene tres varas e media en largo e en ancho dos varas e media, ensomo del otro de su tamanno, el otro retrete que esta a la mano ysquierda tiene quatro varas e quarta en largo e en ancho tres varas. A la sobida del escalera esta a la mano derecha una cosina con su chymenea que ha çinco varas e quarta en luengo e quatro varas en ancho, a la mano ysquierda esta una camara que tiene tres varas e quarta en largo e tres varas en ancho, ensomo un suelo de su tamanno con un cobertiso sobre la calle de la carçel <note
+n="31"
+place="foot"
+xml:id="ftn192"
+><p
+xml:id="p78"
+> cobertiso sobre la calle de la carçel, el arranque del arco existia hace poco año</p
+></note
+> que tiene en luengo tres varas e en ancho dos varas e quarta, desta camara sale otro balcon cobre la dicha calle que tiene en luengo quatro varas en largo e una en ancho, subiendo de la cosina a esta camara a la mano derecha esta un corredor<hi
+rend="bold"
+> </hi
+>que sale a la plaça de la iglesia que tiene quatro e una quarta en largo e vara e media en ancho. Ensomo esta otro corredor que tiene siete varas e tres quartas en largo e vara e media en ancho. Sobre el patin sale un corrredor que tiene seys varas en largo e tres e quarta en ancho e otro tanto ençima.</p
+><p
+xml:id="p79"
+>Testigos que fueron presentes Diego de Obregon e Françisco de Morales criados de los dichos sennores.</p
+></body
+></floatingText
+><p
+rend="TEI_localMcode"
+xml:id="p80"
+>CH_AO_02</p
+><p
+rend="TEI_localMlocalisation"
+xml:id="p81"
+><ref
+target="http://psig.huma-num.fr/toledo/liste-des-rues/vicario-clj/vicario-clj-n3/"
+><hi
+rend="underline"
+>Calle de la Cárcel del Vicario, 3</hi
+></ref
+></p
+></div
+><div
+type="section2"
+xml:id="div4"
+><head
+>Prison archiépiscopale</head
+><p
+rend="TEI_localparaDonnees"
+xml:id="p82"
+>La maison CH_AO_02 constitue la prison archiépiscopale, à partir du deuxième tiers du XV<hi
+rend="sup"
+>e</hi
+> siècle, conjointement avec CH_AO_03, affectée à cet usage dès la seconde moitié du siècle précédent<hi
+rend="sup"
+><note
+n="32"
+place="foot"
+xml:id="ftn193"
+><p
+xml:id="p83"
+>. <anchor
+xml:id="OLE_LINK4654 Copy 1"
+></anchor
+><anchor
+xml:id="OLE_LINK4655 Copy 1"
+></anchor
+>López Gómez, 2009, situe la cárcel del arzobispo dans la calle del vicario, qu'il déclare aujourd'hui disparue, rue descendant de la Puerta de los Leones de la cathédrale vers le sud de la ville («Espacios de opresión», p. 106). La description correspond à l'actuelle Calle de la Cárcel del Vicario, que J. Porres identifie avec celle antérieurement dénommée Adarve de Canónigos (Calles de Toledo, 1971, p. 234).</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p84"
+>CH_AO_02. En 1372, Diego Fernández, <hi
+rend="italic"
+>capellán</hi
+>, tient une maison depuis le 15/8/1370, pour deux ans, au prix de 65 mrs. par an. En 1380, le même Diego Fernández, <hi
+rend="italic"
+>capellán</hi
+>, tient la maison pour deux ans, depuis le 15/08/1378, pour 65 mrs. par an<hi
+rend="sup"
+><note
+n="33"
+place="foot"
+xml:id="ftn194"
+><p
+xml:id="p85"
+>. OF 929, f° 28 v°. OF 931, f° 37 r°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p86"
+>CH_AO_02. En 1391, Antón Martínez, <hi
+rend="italic"
+>capellán</hi
+>, tient la maison que tenait auparavant Diego Fernández, <hi
+rend="italic"
+>capellán</hi
+>, depuis le 15/8/1390, au prix de 150 mrs. de vieille monnaie par an, avec la caution de Juan González, <hi
+rend="italic"
+>clérigo</hi
+> de Santa Yusta<hi
+rend="sup"
+><note
+n="34"
+place="foot"
+xml:id="ftn195"
+><p
+xml:id="p87"
+>. OF 932, f° 44 v°. </p
+></note
+></hi
+>. En 1396, il en est de même, mais le prix est de 150 mrs. et trois <hi
+rend="italic"
+>diezmos</hi
+>, soit 199 mrs. 6 d. 3 <hi
+rend="italic"
+>meajas</hi
+><hi
+rend="sup"
+><note
+n="35"
+place="foot"
+xml:id="ftn196"
+><p
+xml:id="p88"
+>. OF 934, f° 38 r°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p89"
+>CH_AO_02. En 1401, Juan Rodríguez, <hi
+rend="italic"
+>racionero</hi
+>, tient la maison que tenait Antón Martínez, <hi
+rend="italic"
+>capellán</hi
+>, et avant celui-ci Diego Fernández, <hi
+rend="italic"
+>capellán</hi
+>, pour 210 mrs. <hi
+rend="italic"
+>viejos</hi
+> par an, depuis le 15/8/1397, avec la caution du même Antón Martínez. En 1408, Juan Rodríguez de Rojas, chanoine de León, tient la maison que tenait Antón Martínez, <hi
+rend="italic"
+>capellán</hi
+>, pour 210 mrs. <hi
+rend="italic"
+>viejos</hi
+>, avec la caution du même Antón Martínez, mais c'est García Marrtínez, <hi
+rend="italic"
+>cañador</hi
+>, qui paie pour cette maison; au double ce sont 420 mrs. En 1412, Juan Rodríguez de Rojas, chanoine de León, tient la maison que tenait Antón Martínez, <hi
+rend="italic"
+>capellán</hi
+>, pour 420 mrs. <hi
+rend="italic"
+>de blancas</hi
+>, mais la maison est tenue par García Martínez, son beau-frère<hi
+rend="sup"
+><note
+n="36"
+place="foot"
+xml:id="ftn197"
+><p
+xml:id="p90"
+>. OF 935, f° 45 r°. OF 936, f° 58 r°. OF 937, f° 13 r°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p91"
+>CH_AO_02. Le 14/01/1415, le chapitre baille à Juan Sánchez, <hi
+rend="italic"
+>racionero</hi
+>, curé de Lillo, une maison dans l’<hi
+rend="italic"
+>Adarve de los Canónigos</hi
+>, précédemment tenue par le <hi
+rend="italic"
+>racionero</hi
+> Juan Rodríguez de Rojas, jouxtant une maison de l'archevêché, une maison du chapitre et la rue, pour sa vie, 225 mrs. par an de vieille monnaie ou le double de <hi
+rend="italic"
+>blancas</hi
+>, avec caution du bachelier ès lois et chanoine Per Yáñez<hi
+rend="sup"
+><note
+n="37"
+place="foot"
+xml:id="ftn198"
+><p
+xml:id="p92"
+>. OF 1077, f° 17.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p93"
+>CH_AO_02. Le 2/06/1416, le chapitre baille au chanoine don Martín Fernández, archidiacre de Medina, une maison située dans l'<hi
+rend="italic"
+>Adarve de los Canónigos</hi
+>, précédemment tenue par Juan Sánchez, curé de Lillo, <hi
+rend="italic"
+>racionero</hi
+>, jouxtant d'une part une maison du chapitre que tient l'archidiacre et de l'autre une maison de l'archevêque dite <hi
+rend="italic"
+>del horno</hi
+>, pour sa vie, au prix de 228 mrs. de vieilles monnaies ou le double de <hi
+rend="italic"
+>blancas</hi
+> ou de celle à courir, avec la caution de Fernand Martínez de Carrión, <hi
+rend="italic"
+>capellán del coro</hi
+><hi
+rend="sup"
+><note
+n="38"
+place="foot"
+xml:id="ftn199"
+><p
+xml:id="p94"
+>. OF 1077, f° 104.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p95"
+>CH_AO_02. En 1417, la maison que tenait auparavant Juan Sánchez, curé de Lillo, a été baillée, <hi
+rend="italic"
+>perpetuamente</hi
+>, à don Martín Fernández, archidiacre de Medina, pour 228 mrs. de vieille monnaie par an, ou le double (456 mrs. de <hi
+rend="italic"
+>blancas</hi
+>), au choix du <hi
+rend="italic"
+>refitorero</hi
+>, à partir du 1/06/1416, avec la caution de Fernand Alfonso de Carrión, <hi
+rend="italic"
+>capellán del coro</hi
+>. Les trois termes de l'année 1417 sont payés par le chanoine Alfonso Sánchez de Jaén pour l'archidiacre de Medina<hi
+rend="sup"
+><note
+n="39"
+place="foot"
+xml:id="ftn200"
+><p
+xml:id="p96"
+>. OF 938, f° 26 v°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p97"
+>CH_AO_02. En 1422, le chanoine Martín Fernández de Avila, archidiacre de Medina, tient la maison que tenait auparavant Juan Sánchez, curé de Lillo, au prix 228 mrs. de vieille monnaie, soit 456 mrs., depuis le 1/6/1416<hi
+rend="sup"
+><note
+n="40"
+place="foot"
+xml:id="ftn201"
+><p
+xml:id="p98"
+>. OF 939, f° 24 v°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p99"
+>CH_AO_02. En 1443, il n'y a pas d’indication de qui la tient, ni du montant, pour la maison que tenait auparavant Juan Sánchez, curé de Lillo<hi
+rend="sup"
+><note
+n="41"
+place="foot"
+xml:id="ftn202"
+><p
+xml:id="p100"
+>. OF 940, f° 1 r°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p101"
+><anchor
+xml:id="OLE_LINK4492"
+></anchor
+><anchor
+xml:id="OLE_LINK4493"
+></anchor
+>CH_AO_02+ CH_AO_03. En 1450, la maison que tenait Juan Sánchez, curé de Lillo, et celle que tenait Diego Sánchez, <hi
+rend="italic"
+>racionero</hi
+>, constituent maintenant <hi
+rend="italic"
+>la carcel del arzobispo</hi
+>, et ne paient rien. De même en 1472, en 1482, en 1490<hi
+rend="sup"
+><note
+n="42"
+place="foot"
+xml:id="ftn203"
+><p
+xml:id="p102"
+>. OF 941, f° 1 v°. OF 955, f° 1 r°. OF 959, f° 1 r°. OF 963, f° 1 r°.</p
+></note
+></hi
+>. En 1492, <hi
+rend="italic"
+>non pagan nada a la iglesia aunque son la dichas casas del cabildo</hi
+>, et elles n'apparaissent pas du tout en 1496, sous <hi
+rend="italic"
+>Adarve de Canónigos</hi
+><hi
+rend="sup"
+><note
+n="43"
+place="foot"
+xml:id="ftn204"
+><p
+xml:id="p103"
+>. OF 356, f° 1 v°. OF 966, f° 1 r°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localMcode"
+xml:id="p104"
+>CH_AO_03</p
+><p
+rend="TEI_localMlocalisation"
+xml:id="p105"
+><ref
+target="http://psig.huma-num.fr/toledo/liste-des-rues/vicario-clj/vicario-clj-n5/"
+><hi
+rend="underline"
+>Calle de la Cárcel del Vicario, 5</hi
+></ref
+></p
+><p
+rend="TEI_localparaDonnees"
+xml:id="p106"
+>La maison CH_AO_03 constitue, dès les années 1370, la prison archiépiscopale, avant d'être réunie, pour la même destination, à sa voisine CH_AO_02, aux alentours de 1430.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p107"
+>CH_AO_03. En 1372, la maison où demeurait auparavant Diego Sánchez, <hi
+rend="italic"
+>racionero</hi
+>, est désormais prison de l'archevêque, avec un cens de 32 mrs., mais pas de paiement indiqué. De même en 1391, la maison qui est <hi
+rend="italic"
+>cárcel del arzobispo</hi
+>, devait 32 mrs. de cens, mais ne paie rien. En 1417, la maison que tenait Diego Sánchez, <hi
+rend="italic"
+>racionero</hi
+>, dans l'<hi
+rend="italic"
+>Adarve de Canónigos</hi
+>, est mainenant <hi
+rend="italic"
+>cárcel del arzobispo</hi
+>, et ne paie rien. En 1422, Diego Sánchez, <hi
+rend="italic"
+>racionero</hi
+>, tenait une maison dans l'A<hi
+rend="italic"
+>darve</hi
+> <hi
+rend="italic"
+>de Canónigos</hi
+>, qui est maintenant <hi
+rend="italic"
+>cárcel del arzobispo</hi
+><hi
+rend="sup"
+><note
+n="44"
+place="foot"
+xml:id="ftn205"
+><p
+xml:id="p108"
+>. OF 929, f° 28 r°. OF 932, f° 44 v°. OF 938, f° 25 v°. OF 939, f° 24 v°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localMcode"
+xml:id="p109"
+>CH_AO_03-1-.</p
+><p
+rend="TEI_localillDOI"
+xml:id="p110"
+><ref
+target="https://api.nakala.fr/embed/10.34847/nkl.423bs5pp/c17c126f78d6a35652ce73ad7c09677b87db6afe"
+><hi
+rend="underline"
+>https://api.nakala.fr/embed/10.34847/nkl.423bs5pp/c17c126f78d6a35652ce73ad7c09677b87db6afe</hi
+></ref
+></p
+><figure
+xml:id="figure8"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 3 y 5: Identificación de la casa: plano actual y restitución</head
+></figure
+><figure
+xml:id="figure9"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 3 y 5 : Identification de la maison : plan actuel et restitution</head
+><p
+rend="credits"
+xml:id="p111"
+>© J.Passini</p
+></figure
+><p
+rend="TEI_localMcode"
+xml:id="p112"
+>CH_AO_03-2-</p
+><p
+rend="TEI_localillDOI"
+xml:id="p113"
+><ref
+target="https://api.nakala.fr/embed/10.34847/nkl.423bs5pp/68011dfc42b1c253cc7ad086d07e661ecae25ae3"
+><hi
+rend="underline"
+>https://api.nakala.fr/embed/10.34847/nkl.423bs5pp/68011dfc42b1c253cc7ad086d07e661ecae25ae3</hi
+></ref
+></p
+><figure
+xml:id="figure10"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 3 y 5: Antigua cárcel del Vicario, desde el siglo XIV: restitución de la fachada islámica</head
+></figure
+><figure
+xml:id="figure11"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 3 y 5 : Restitution du plan et de la façade islamique</head
+><p
+rend="credits"
+xml:id="p114"
+>© J.Passini, (Nous remercions l’archéologue Marcos Alonso García y Zococasa por haber podido visitar el sitio)</p
+></figure
+><p
+rend="TEI_localillDOI"
+xml:id="p115"
+><ref
+target="https://api.nakala.fr/embed/10.34847/nkl.423bs5pp/a1803966fcfec69bc44583a2defd58826fb6c9fa"
+><hi
+rend="underline"
+>10.34847/nkl.423bs5pp/a1803966fcfec69bc44583a2defd58826fb6c9fa</hi
+></ref
+></p
+><figure
+xml:id="figure12"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 5: Suelo hecho de huesos de animales, en sótano de la casa</head
+></figure
+><figure
+xml:id="figure13"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 5 : Sol constitué et réalisé avec des os d’animaux dans la cave sud de la maison, ancienne cellule de la prison</head
+><p
+rend="credits"
+xml:id="p116"
+>© J.Passini</p
+></figure
+><p
+rend="TEI_localMcode"
+xml:id="p117"
+>CH_AO_03-4-</p
+><p
+rend="TEI_localillDOI"
+xml:id="p118"
+><ref
+target="https://api.nakala.fr/embed/10.34847/nkl.423bs5pp/9d8341d5aee1f4c3c92495942ec4dbefe9e17e80"
+><hi
+rend="underline"
+>10.34847/nkl.423bs5pp/9d8341d5aee1f4c3c92495942ec4dbefe9e17e80</hi
+></ref
+></p
+><figure
+xml:id="figure14"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 5: Detalle del suelo hecho de huesos de animales en el sótano sur de la casa, antigua celda de la cárcel</head
+></figure
+><figure
+xml:id="figure15"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 5 : Sol constitué et réalisé avec des os d’animaux dans la cave sud de la maison, ancienne cellule de la prison, détail</head
+><p
+rend="credits"
+xml:id="p119"
+>© J.Passini</p
+></figure
+><p
+rend="TEI_localMcode"
+xml:id="p120"
+>CH_AO_02-5-</p
+><p
+rend="TEI_localillDOI"
+xml:id="p121"
+><ref
+target="https://api.nakala.fr/embed/10.34847/nkl.423bs5pp/e216b559346018ee208c12eb453013a00560ea37"
+><hi
+rend="underline"
+>10.34847/nkl.423bs5pp/e216b559346018ee208c12eb453013a00560ea37</hi
+></ref
+></p
+><figure
+xml:id="figure16"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 3: Plano y corte en 1814 (ADP)</head
+></figure
+><figure
+xml:id="figure17"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 3 : Plan et coupe en 1814 (ADP)</head
+><p
+rend="credits"
+xml:id="p122"
+>© J.Passini</p
+></figure
+><p
+rend="TEI_localMcode"
+xml:id="p123"
+>CH_AO_03-6-</p
+><p
+rend="TEI_localillDOI"
+xml:id="p124"
+><ref
+target="https://api.nakala.fr/embed/10.34847/nkl.423bs5pp/a3c6be056e93ac1297f474112fa74bd8b7da91d6"
+><hi
+rend="underline"
+>10.34847/nkl.423bs5pp/a3c6be056e93ac1297f474112fa74bd8b7da91d6</hi
+></ref
+></p
+><figure
+xml:id="figure18"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 5: Brocal del aljibe en una celda del sótano</head
+></figure
+><figure
+xml:id="figure19"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 5 : Margelle de puits dans la cellule en sous-sol</head
+><p
+rend="credits"
+xml:id="p125"
+>© J.Passini</p
+></figure
+><p
+rend="TEI_localMcode"
+xml:id="p126"
+>CH_AO_03-8-</p
+><p
+rend="TEI_localillDOI"
+xml:id="p127"
+>10.34847/nkl.423bs5pp/8752c9c88dd58dfefd8f411d1c4e1f9c71696bfc</p
+><figure
+xml:id="figure20"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 5: Al norte rampa de acceso al establo desde la calle</head
+></figure
+><figure
+xml:id="figure21"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 5 : Au nord rampe d’accès à l’étable depuis la rue</head
+><p
+rend="credits"
+xml:id="p128"
+>© J.Passini</p
+></figure
+><p
+rend="TEI_localMcode"
+xml:id="p129"
+>CH_AO_03-9-</p
+><p
+rend="TEI_localillDOI"
+xml:id="p130"
+><ref
+target="https://api.nakala.fr/embed/10.34847/nkl.423bs5pp/929daa7faf67ca6540671113df82bddf09599ac7"
+><hi
+rend="underline"
+>10.34847/nkl.423bs5pp/929daa7faf67ca6540671113df82bddf09599ac7</hi
+></ref
+></p
+><figure
+xml:id="figure22"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 5: Saeteras de una celda de la cárcel</head
+></figure
+><figure
+xml:id="figure23"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 5 : Meurtrière d’une cellule de la prison</head
+><p
+rend="credits"
+xml:id="p131"
+>© J.Passini</p
+></figure
+><p
+rend="TEI_localMcode"
+xml:id="p132"
+>CH_AO_03-10-</p
+><p
+rend="TEI_localillDOI"
+xml:id="p133"
+><ref
+target="https://api.nakala.fr/embed/10.34847/nkl.423bs5pp/cb3dffd84c77b0ef469215526e09fc438ab03f92"
+><hi
+rend="underline"
+>10.34847/nkl.423bs5pp/cb3dffd84c77b0ef469215526e09fc438ab03f92</hi
+></ref
+></p
+><figure
+xml:id="figure24"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 5: Celda de la prisión y elementos que la componen: mesa de obra, ventanuco y alacena</head
+></figure
+><figure
+xml:id="figure25"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 5 : Cellule de la prison avec quelques éléments constitutif, table fixe, petite fenêtre et armoire de rangement incluse dans le mur</head
+><p
+rend="credits"
+xml:id="p134"
+>© J.Passini</p
+></figure
+><p
+rend="TEI_localMcode"
+xml:id="p135"
+>CH_AO_03-11-</p
+><p
+rend="TEI_localillDOI"
+xml:id="p136"
+><ref
+target="https://api.nakala.fr/embed/10.34847/nkl.423bs5pp/81fbc419f97efdbc3bf9ee0d63750a51fdc81be1"
+><hi
+rend="underline"
+>10.34847/nkl.423bs5pp/81fbc419f97efdbc3bf9ee0d63750a51fdc81be1</hi
+></ref
+></p
+><figure
+xml:id="figure26"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 5: Ménsula de madera del patio antes de su restauración</head
+></figure
+><figure
+xml:id="figure27"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 5 : Console en bois du patio avant restauration</head
+><p
+rend="credits"
+xml:id="p137"
+>© J.Passini</p
+></figure
+><p
+rend="TEI_localMcode"
+xml:id="p138"
+>CH_AO_03-12-</p
+><p
+rend="TEI_localillDOI"
+xml:id="p139"
+><ref
+target="https://api.nakala.fr/embed/10.34847/nkl.423bs5pp/6af951869f942681aceee8c6b6c875b8ceb1c6e8"
+><hi
+rend="underline"
+>10.34847/nkl.423bs5pp/6af951869f942681aceee8c6b6c875b8ceb1c6e8</hi
+></ref
+></p
+><p
+rend="TEI_localillmc"
+xml:id="p140"
+>Arco de descarga</p
+><p
+rend="TEI_localillmc"
+xml:id="p141"
+>Arc de décharge</p
+><figure
+xml:id="figure28"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 5: Arco de descarga, posiblemente de época islámica, en el patio de la casa antes de su restauración</head
+></figure
+><figure
+xml:id="figure29"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 5 : Arc de décharge de période islamique avant restauration</head
+><p
+rend="credits"
+xml:id="p142"
+>© J.Passini</p
+></figure
+><p
+rend="TEI_localMcode"
+xml:id="p143"
+>CH_AO_03-13-</p
+><p
+rend="TEI_localillDOI"
+xml:id="p144"
+><ref
+target="https://api.nakala.fr/embed/10.34847/nkl.423bs5pp/004dd601318a8c313fa3d19588337093124b19a5"
+><hi
+rend="underline"
+>10.34847/nkl.423bs5pp/004dd601318a8c313fa3d19588337093124b19a5</hi
+></ref
+></p
+><figure
+xml:id="figure30"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 5: Una celda en su conjunto ante de la restauración</head
+></figure
+><figure
+xml:id="figure31"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 5 : Une cellule de la prison Avant sa restauration</head
+><p
+rend="credits"
+xml:id="p145"
+>© J.Passini</p
+></figure
+><p
+rend="TEI_localMcode"
+xml:id="p146"
+>CH_AO_03-14-</p
+><p
+rend="TEI_localillDOI"
+xml:id="p147"
+><ref
+target="https://api.nakala.fr/embed/10.34847/nkl.423bs5pp/5dad59e0f2fb7fe449e24530e835a789330f342c"
+><hi
+rend="underline"
+>10.34847/nkl.423bs5pp/5dad59e0f2fb7fe449e24530e835a789330f342c</hi
+></ref
+></p
+><figure
+xml:id="figure32"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 5: Escalera principal ante de la restauración</head
+></figure
+><figure
+xml:id="figure33"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 5 : Escalier principal avant sa restauration</head
+><p
+rend="credits"
+xml:id="p148"
+>© J.Passini</p
+></figure
+><floatingText
+><body
+><head
+><anchor
+xml:id="OLE_LINK528"
+></anchor
+><anchor
+xml:id="OLE_LINK533"
+></anchor
+>CH_AO_02_1492 + CH_AO_03_1492</head
+><figure
+xml:id="figure34"
+><table
+cols="1"
+rows="1"
+xml:id="Table3"
+><row
+><cell
+rendition="#Cell3.A1"
+></cell
+></row
+></table
+></figure
+><p
+xml:id="p149"
+>OF 356</p
+><p
+xml:id="p150"
+><hi
+rend="italic"
+>Las casas que solia tener Juan Sanches cura de Lillo e las tenia Diego Gonçales raçionero son carçel del sennor arçobispo. Non pagan nada a la iglesia aunque son la dichas casas del cabillo.</hi
+><hi
+rend="italic"
+></hi
+></p
+></body
+></floatingText
+><p
+rend="TEI_localMcode"
+xml:id="p151"
+>CH_AO_04</p
+><p
+rend="TEI_localMlocalisation"
+xml:id="p152"
+><ref
+target="http://psig.huma-num.fr/toledo/liste-des-rues/vicario-clj/vicario-clj-n7-9-11/"
+><hi
+rend="underline"
+>Calle de la Cárcel del Vicario, 7, 9, 11</hi
+></ref
+></p
+><p
+rend="TEI_localparaDonnees"
+xml:id="p153"
+>CH_AO_04. La maison CH_AO_04<note
+n="45"
+place="foot"
+xml:id="ftn206"
+><p
+xml:id="p154"
+> Passini, Molénat, 1995<hi
+rend="italic"
+>, pp.73-77</hi
+></p
+></note
+> s’identiferait avec le 7,9,11 de l'actuel <hi
+rend="italic"
+>Callejón del Vicario</hi
+><hi
+rend="sup"
+><note
+n="46"
+place="foot"
+xml:id="ftn207"
+><p
+xml:id="p155"
+>. Passini, 1995,dans id. et J.-P. Molénat, <hi
+rend="italic"
+>Toledo a finales de la Edad Media. </hi
+><hi
+rend="italic"
+>I. El Barrio de los Canónigos</hi
+>, p. 72 et suivantes</p
+></note
+></hi
+>, ce <hi
+rend="italic"
+>callejón</hi
+> étant à l'évidence l<hi
+rend="italic"
+>'Adarve de Canónigos</hi
+> du XV<hi
+rend="sup"
+>e</hi
+> siècle. Elle est, durant une grande partie de la période envisagée, divisée en deux ou trois parties, seulement réunies à partir de 1483.</p
+><p
+rend="TEI_localMcode"
+xml:id="p156"
+>CH_AO_04a</p
+><p
+rend="TEI_localMlocalisation"
+xml:id="p157"
+><ref
+target="http://psig.huma-num.fr/toledo/liste-des-rues/vicario-clj/vicario-clj-n7-9-11/"
+><hi
+rend="underline"
+>Calle de la Cárcel del Vicario, 9</hi
+></ref
+></p
+><p
+rend="TEI_localparaDate"
+xml:id="p158"
+>CH_AO_04a. En 1372, Aparicio Pérez, <hi
+rend="italic"
+>racionero</hi
+>, tient la maison où il demeure, avec les <hi
+rend="italic"
+>casillas</hi
+> qu'il lui a réunies, <hi
+rend="italic"
+>perpetuas</hi
+>, au prix de 130 mrs. par an. En 1380, le même Aparicio Pérez, <hi
+rend="italic"
+>racionero</hi
+>, tient une maison, <hi
+rend="italic"
+>perpetuas</hi
+>, avec les <hi
+rend="italic"
+>casillas</hi
+> qu'il lui a réunies, pour 130 mrs. par an<hi
+rend="sup"
+><note
+n="47"
+place="foot"
+xml:id="ftn208"
+><p
+xml:id="p159"
+>. OF 929, f° 28 v°. OF 931, f° 37 r°.</p
+></note
+></hi
+></p
+><p
+rend="TEI_localparaDate"
+xml:id="p160"
+>CH_AO_04a. En 1391, la principale des deux maisons que tenait Aparicio Pérez de Lillo, est tenue par Ruy Sánchez, <hi
+rend="italic"
+>bachiller</hi
+> en décrets, au prix de 210 mrs. par an, depuis le 15/8/1389<hi
+rend="sup"
+><note
+n="48"
+place="foot"
+xml:id="ftn209"
+><p
+xml:id="p161"
+>. OF 932, f° 44 v°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p162"
+>CH_AO_04a. Le 22/08/1391, le chapitre baille au chanoine Toribio Sánchez une maison, dans l’<hi
+rend="italic"
+>Adarve de los Canónigos</hi
+>, où demeurait antérieurement Aparicio Pérez de Lillo, qui était <hi
+rend="italic"
+>racionero</hi
+>, jouxtant une maison de l’archidiacre de Tolède et une maison du chapitre tenue par Alfonso Martínez, <hi
+rend="italic"
+>racionero</hi
+> (CH_AO_04b), pour sa vie, au prix de 220 mrs. de vieille monnaie dont 10 d. <hi
+rend="italic"
+>novenes</hi
+> font le mri., avec la caution d'Alfonso Martínez, <hi
+rend="italic"
+>racionero</hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p163"
+>CH_AO_04a. En 1396, le chanoine Toribio Sánchez, tient la plus grande des deux <hi
+rend="italic"
+>pares de casa</hi
+>s précédemment tenues par Aparicio Pérez de Lillo, au prix de 220 mrs. par an, depuis le 15/8/1391. En 1401, Toribio Sánchez, chanoine, tient la maison pour 220 mrs., depuis 1391. En 1408 et 1412, Toribio Sánchez, chanoine, tient la maison que tenait Aparicio Pérez de Lillo, <hi
+rend="italic"
+>las mayores</hi
+>, pour 440 mrs. de <hi
+rend="italic"
+>blancas</hi
+><hi
+rend="sup"
+><note
+n="49"
+place="foot"
+xml:id="ftn210"
+><p
+xml:id="p164"
+>. OF 1064, f° 115. OF 934, f° 38 r°. OF 935, f° 45 r°. </p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localMcode"
+xml:id="p165"
+>CH_AO_04a-10:</p
+><p
+rend="TEI_localillDOI"
+xml:id="p166"
+><ref
+target="https://api.nakala.fr/embed/10.34847/nkl.ddac8dev/b9b7c3922d030a613cd673eb1dd410996eef1ee0"
+><hi
+rend="underline"
+>https://api.nakala.fr/embed/10.34847/nkl.ddac8dev/b9b7c3922d030a613cd673eb1dd410996eef1ee0</hi
+></ref
+></p
+><figure
+xml:id="figure35"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 9: Identificación de la casa: plano actual y restitución</head
+></figure
+><figure
+xml:id="figure36"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 9 : Identification de la maison : plan actuel et restitution</head
+><p
+rend="credits"
+xml:id="p167"
+>© J.Passini</p
+></figure
+><p
+rend="TEI_localMcode"
+xml:id="p168"
+>CH_AO_04a-1-:</p
+><p
+rend="TEI_localillDOI"
+xml:id="p169"
+><ref
+target="https://api.nakala.fr/embed/10.34847/nkl.ad5f61yw/4fa6e3c00fd05542161455a9785a2f3ff0a4df90"
+><hi
+rend="underline"
+>10.34847/nkl.ad5f61yw/4fa6e3c00fd05542161455a9785a2f3ff0a4df90</hi
+></ref
+></p
+><figure
+xml:id="figure37"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 9: Brocal del pozo, desaparecido en la actualidad</head
+></figure
+><figure
+xml:id="figure38"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 9 : Margelle du puits, aujourd’hui disparue</head
+><p
+rend="credits"
+xml:id="p170"
+>© J.Passini</p
+></figure
+><p
+rend="TEI_localMcode"
+xml:id="p171"
+>CH_AO_04a-2-:</p
+><p
+rend="TEI_localillDOI"
+xml:id="p172"
+><ref
+target="https://api.nakala.fr/embed/10.34847/nkl.ad5f61yw/fe015260ca0002a6b18b404bcdbfaaf8f388c703"
+><hi
+rend="underline"
+>10.34847/nkl.ad5f61yw/fe015260ca0002a6b18b404bcdbfaaf8f388c703</hi
+></ref
+></p
+><figure
+xml:id="figure39"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 9: Carpintería restaurada de la cubierta de la “quadra” medieval</head
+></figure
+><figure
+xml:id="figure40"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 9 : Charpente de la pièce médiévale dite “quadra”</head
+><p
+rend="credits"
+xml:id="p173"
+>© J.Passini</p
+></figure
+><p
+rend="TEI_localMcode"
+xml:id="p174"
+>CH_AO_04a-3-:</p
+><p
+rend="TEI_localillDOI"
+xml:id="p175"
+><ref
+target="https://api.nakala.fr/embed/10.34847/nkl.ad5f61yw/afea5cc59c41a7efb7e0b6c12f829562d15744ca"
+><hi
+rend="underline"
+>10.34847/nkl.ad5f61yw/afea5cc59c41a7efb7e0b6c12f829562d15744ca</hi
+></ref
+></p
+><figure
+xml:id="figure41"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 9: “Alfaçen”, arco medieval que subrayaba la entrada a la casa islámica que todavía se mantiene en algunas casas</head
+></figure
+><figure
+xml:id="figure42"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 9 : Arc qui caractérise les entrées de maison islamique dite “alfaçen” que l’on retrouve dans certaine maison actuelle</head
+><p
+rend="credits"
+xml:id="p176"
+>© J.Passini</p
+></figure
+><p
+rend="TEI_localMcode"
+xml:id="p177"
+>CH_AO_04a-4-</p
+><p
+rend="TEI_localillDOI"
+xml:id="p178"
+><ref
+target="https://api.nakala.fr/embed/10.34847/nkl.ad5f61yw/95352af5614c1df8f3a834acaa2c989e8136e882"
+><hi
+rend="underline"
+>10.34847/nkl.ad5f61yw/95352af5614c1df8f3a834acaa2c989e8136e882</hi
+></ref
+></p
+><figure
+xml:id="figure43"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 9: Vigas de mandera decoradas de un portal</head
+></figure
+><figure
+xml:id="figure44"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 9 : Peinture et taille dans le bois d’un décor de portique dans le « patio »</head
+><p
+rend="credits"
+xml:id="p179"
+>© J.Passini</p
+></figure
+><p
+rend="TEI_localMcode"
+xml:id="p180"
+>CH_AO_04a-5-</p
+><p
+rend="TEI_localillDOI"
+xml:id="p181"
+><ref
+target="https://api.nakala.fr/embed/10.34847/nkl.ad5f61yw/cf0e0f0f23ea9c4fc5f369c402883735601a3158"
+><hi
+rend="underline"
+>10.34847/nkl.ad5f61yw/cf0e0f0f23ea9c4fc5f369c402883735601a3158</hi
+></ref
+></p
+><figure
+xml:id="figure45"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 9: Pórtico con columnas octogonales y capiteles de finales del siglo XV</head
+></figure
+><figure
+xml:id="figure46"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 9 : Portique du « patio » avec colonne octogonales et chapiteaux de la fin du XV<hi
+rend="sup"
+>e</hi
+> siècle</head
+><p
+rend="credits"
+xml:id="p182"
+>© J.Passini</p
+></figure
+><p
+rend="TEI_localMcode"
+xml:id="p183"
+>CH_AO_04a-6-</p
+><p
+rend="TEI_localillDOI"
+xml:id="p184"
+>10.34847/nkl.ad5f61yw/be1618b49b918fb811edc62a51a850f6626794f5</p
+><figure
+xml:id="figure47"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 9: Conducto medieval para el pozo de la casa excavado en la roca</head
+></figure
+><figure
+xml:id="figure48"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 9 : Conduit médiéval du puits de la maison taillé dans la roche</head
+><p
+rend="credits"
+xml:id="p185"
+>© J.Passini</p
+></figure
+><p
+rend="TEI_localMcode"
+xml:id="p186"
+>CH_AO_04a-7-</p
+><p
+rend="TEI_localillDOI"
+xml:id="p187"
+><ref
+target="https://api.nakala.fr/embed/10.34847/nkl.ad5f61yw/940ec83e936b4c400a031cb6b306468da1f45180"
+><hi
+rend="underline"
+>10.34847/nkl.ad5f61yw/940ec83e936b4c400a031cb6b306468da1f45180</hi
+></ref
+></p
+><figure
+xml:id="figure49"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 9: Puerta principal de entrada, gótico tardío</head
+></figure
+><figure
+xml:id="figure50"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 9 : Porte d'entrée principale, gothique tardif</head
+><p
+rend="credits"
+xml:id="p188"
+>© J.Passini</p
+></figure
+><p
+rend="TEI_localMcode"
+xml:id="p189"
+>CH_AO_04a-8-</p
+><p
+rend="TEI_localillDOI"
+xml:id="p190"
+><ref
+target="https://api.nakala.fr/embed/10.34847/nkl.ad5f61yw/98294317817f298eedc6e2fd6b19d7b2fed43ad6"
+><hi
+rend="underline"
+>10.34847/nkl.ad5f61yw/98294317817f298eedc6e2fd6b19d7b2fed43ad6</hi
+></ref
+></p
+><figure
+xml:id="figure51"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 9: Vista de la “quadra” citada en 1492 con su techumbre propia</head
+></figure
+><figure
+xml:id="figure52"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 9 : Vue de la "quadra" mentionnée en 1492 avec son toit propre</head
+><p
+rend="credits"
+xml:id="p191"
+>© J.Passini</p
+></figure
+><p
+rend="TEI_localMcode"
+xml:id="p192"
+>CH_AO_04a-9-</p
+><p
+rend="TEI_localillDOI"
+xml:id="p193"
+><ref
+target="https://api.nakala.fr/embed/10.34847/nkl.ad5f61yw/89abbe900a78a5d4b0e129041ef67a03d5404554"
+><hi
+rend="underline"
+>10.34847/nkl.ad5f61yw/89abbe900a78a5d4b0e129041ef67a03d5404554</hi
+></ref
+></p
+><figure
+xml:id="figure53"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 9: Vista interior de la “quadra” citada en 1492, detalle de las maderas pintadas</head
+></figure
+><figure
+xml:id="figure54"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 9 : Vue de la "quadra" mentionnée en 1492, peintures intérieures des boiseries</head
+><p
+rend="credits"
+xml:id="p194"
+>© J.Passini</p
+></figure
+><p
+rend="TEI_localMcode"
+xml:id="p195"
+>CH_AO_04a-11-</p
+><p
+rend="TEI_localillDOI"
+xml:id="p196"
+><ref
+target="https://api.nakala.fr/embed/10.34847/nkl.ad5f61yw/96248353eb892fd2ac44f6444db62503f31661bf"
+><hi
+rend="underline"
+>10.34847/nkl.ad5f61yw/96248353eb892fd2ac44f6444db62503f31661bf</hi
+></ref
+></p
+><figure
+xml:id="figure55"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 9: Talla de una ménsula del portal del patio</head
+></figure
+><figure
+xml:id="figure56"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 9 : Sculpture sur bois d'un support du “portal” de la cour</head
+><p
+rend="credits"
+xml:id="p197"
+>© J.Passini</p
+></figure
+><p
+rend="TEI_localMcode"
+xml:id="p198"
+>CH_AO_04a-11-</p
+><p
+rend="TEI_localillDOI"
+xml:id="p199"
+><ref
+target="https://api.nakala.fr/embed/10.34847/nkl.ad5f61yw/784e2cd08a47d4ed6cd04b60b2e4acd46b4cc1ed"
+><hi
+rend="underline"
+>10.34847/nkl.ad5f61yw/784e2cd08a47d4ed6cd04b60b2e4acd46b4cc1ed</hi
+></ref
+></p
+><figure
+xml:id="figure57"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 9: Decoración de una viga de patio, tipo mudéjar</head
+></figure
+><figure
+xml:id="figure58"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 9 : Décor d’une poutre de la cour, type mudéjar</head
+><p
+rend="credits"
+xml:id="p200"
+>© J.Passini</p
+></figure
+><floatingText
+><body
+><head
+><anchor
+xml:id="OLE_LINK534"
+></anchor
+><anchor
+xml:id="OLE_LINK535"
+></anchor
+>CH_<anchor
+xml:id="OLE_LINK3195"
+></anchor
+><anchor
+xml:id="OLE_LINK3194"
+></anchor
+>AO_04a_1492</head
+><figure
+xml:id="figure59"
+><table
+cols="1"
+rows="1"
+xml:id="Table5"
+><row
+><cell
+rendition="#Cell5.A1"
+></cell
+></row
+></table
+></figure
+><p
+xml:id="p201"
+>OF 356</p
+><p
+xml:id="p202"
+><hi
+rend="bold"
+> </hi
+>Los tres cuerpos de casas que tenia el bachiller Alfon Garçia canonigo, los dos dellos tiene el sennor don Martin Çapata tesorero de la dicha iglesia por su vida por presçio cada anno de seys mill e seysçientos mrs. e catorse pares de gallinas. Han por linderos de cada parte casas de la dicha iglesia. /f° 2 r°/<hi
+rend="sup"
+>9</hi
+> <hi
+rend="bold"
+></hi
+></p
+><p
+xml:id="p203"
+>CH_AO_04a En este dicho dia xix dias del dicho mes de março del dicho anno de noventa e dos annos los sennores Cristoval de Villaminaya e Alvar Peres de Montemayor canonigos en la santa iglesia de Toledo e vesitadores de las posisiones de la dicha santa iglesia e en presençia de mi el notario e de los testigos ynfra escriptos deslindaron estas casas e fallose en ellas a la entrada un portal que ha en luengo siete varas e en ancho dos varas. Ensomo otro portal de su tamanno, a la mano derecha deste portal esta un palaçio que ha en luengo seys varas e en ancho tres varas e quarta. E ensomo una camara que ha en luengo ocho varas e en ancho tres varas e quarta, debaxo deste palaçio esta un establo con su puerta a la calle, en este palaçio esta una cosina con su chymenea<hi
+rend="bold"
+> </hi
+>que tiene en largo siete varas e en ancho quatro varas, ensomo una camara de su tamanno con un corredor que sale a la calle, delante esta un patin e a la mano ysquierda del esta un portal que ha en luengo çinco varas e en ancho dos varas e quarta, ensomo dos corredores uno sobre otro cada uno ha en luengo nueve varas e en ancho tres. Yten a la mano derecha del dicho patin esta otro palaçio que ha en luengo nueve varas e en ancho tres varas e media, ensomo una camara de su tamanno con su corredor e debaxo un establo de su tamanno, en este palaçio a la mano derecha esta un retrete quadrado que ha en luengo quatro varas e tres quartas e en ancho al tanto, ensomo del una camara de su tamanno, en el dicho palaçio esta una entrada a una açutea descubierta. Iten frontero esta otro palaçio que ha nueve varas e en ancho tres varas e media, ensomo del dos suelos uno sobre otro de su tamanno con sus corredores, en este palaçio esta una bodega de dos calles, la una tiene dose varas e media en largo e dos e media en ancho, la otro tiene siete varas en largo e quatro en ancho, deste dicho palaçio sale una puerta a una quadra con una entrada que ha en largo tres varas e media e en ancho tres varas. A la mano ysquierda /f° 2 v°/ desta entrada esta una camara que tiene en largo çinco varas e media e en ancho quatro varas. La quadra<hi
+rend="bold"
+> </hi
+>tiene en largo ocho varas e en ancho seys varas e media con una camara en ella a la mano ysquierda que tiene en largo quatro varas e media e en ancho quatro varas, debaxo desta quadra estan unos troxes de su tamanno, delante de la puerta desta quadra esta un corredor sobre el trascorral del largo della e dos varas e media en ancho e de la otra parte frontero desta quadra en el dicho trascorral esta un pajar debaxo del açutea de su tamanno.</p
+><p
+xml:id="p204"
+>De que fueron testigos Diego de Obregon e Françisco de Morales criados delos dichos sennores. (signé) Juan de Mayorga notario apostolico.</p
+></body
+></floatingText
+><p
+rend="TEI_localMcode"
+xml:id="p205"
+>CH_AO_04b</p
+><p
+rend="TEI_localMlocalisation"
+xml:id="p206"
+><ref
+target="http://psig.huma-num.fr/toledo/liste-des-rues/vicario-clj/vicario-clj-n11/"
+><hi
+rend="underline"
+>Calle de la Cárcel del Vicario, 11</hi
+></ref
+></p
+><p
+rend="TEI_localparaDate"
+xml:id="p207"
+>CH_AO_04b. En 1372, Aparicio Pérez, <hi
+rend="italic"
+>canonigo</hi
+>, tient une maison où il demeure, <hi
+rend="italic"
+>perpetuas</hi
+>, au prix de 130 mrs. par an. En 1380, Aparicio Pérez de Lillo, <hi
+rend="italic"
+>racionero</hi
+>, tient la maison que tenait auparavant Guillermo, <hi
+rend="italic"
+>perpetuas e reparadas</hi
+>, pour 60 mrs. par an<hi
+rend="sup"
+><note
+n="50"
+place="foot"
+xml:id="ftn211"
+><p
+xml:id="p208"
+>. OF 929, f° 29 r°. OF 931, f°37 r°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p209"
+>CH_AO_04b. En 1391, Alfonso Martínez, <hi
+rend="italic"
+>partidor</hi
+>, tient la plus petite des deux maisons que tenait auparavant Aparicio Pérez de Lillo, au prix de 140 mrs. par an, depuis le 15/8/1389<hi
+rend="sup"
+><note
+n="51"
+place="foot"
+xml:id="ftn212"
+><p
+xml:id="p210"
+>. OF 932, f° 44 v°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p211"
+>CH_AO_04b. Le 22/08/1391, le chapitre baille à Alfonso Martínez, <hi
+rend="italic"
+>racionero</hi
+>, une maison, à l'<hi
+rend="italic"
+>Adarve de los Canonigos</hi
+>, où demeurait antérieurement Guillermo Zafont, <hi
+rend="italic"
+>racionero</hi
+>, jouxtant d’une part une maison d'Aparicio Pérez de Lillo, <hi
+rend="italic"
+>racionero</hi
+>, où celui-ci demeurait (CH_AO_04a) et de l’autre une maison où demeure présentement don Juan González, archidiacre de Calatrava, pour sa vie, au prix de 140 mrs. de vieille monnaie, dont 10 d. <hi
+rend="italic"
+>novenes</hi
+> font le mri., avec la caution du chanoine Toribio Sánchez.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p212"
+>CH_AO_04b. En 1396, Alfonso Martínez, <hi
+rend="italic"
+>racionero</hi
+>, tient la plus petite des deux maisons précédemment tenues par Aparicio Pérez de Lillo, au prix de 140 mrs. par an, depuis le 15/8/1391<hi
+rend="sup"
+><note
+n="52"
+place="foot"
+xml:id="ftn213"
+><p
+xml:id="p213"
+>. OF 1064, f° 115 v°. OF 934, f° 38 r°. OF 936, f° 58 r°. OF 937, f° 13 v°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p214"
+>CH_AO_04b. En 1401, Alfonso Ortiz, <hi
+rend="italic"
+>racionero</hi
+>, tient l'autre maison que tenait Aparicio Pérez de Lillo, et que le chanoine Alfonso Martínez a laissée au chapitre, depuis le 15/8/1400, au prix de 250 mrs. par an, avec la caution de don Juan González, archidiacre de Calatrava<hi
+rend="sup"
+><note
+n="53"
+place="foot"
+xml:id="ftn214"
+><p
+xml:id="p215"
+>. OF 935, f° 45 r°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p216"
+>CH_AO_04b. En 1408, le chanoine Toribio Sánchez tient <hi
+rend="italic"
+>perpetuamente</hi
+> la maison où demeurait auparavant le <hi
+rend="italic"
+>racionero</hi
+> et <hi
+rend="italic"
+>refitorero</hi
+> Alfonso Ortiz, au prix de 400 mrs., dont Alfonso Ortiz doit avoir 100 mrs. en raison du bon entretien qu'il avait fait de la maison<hi
+rend="sup"
+><note
+n="54"
+place="foot"
+xml:id="ftn215"
+><p
+xml:id="p217"
+>. OF 936, f° 58 r°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p218"
+>CH_AO_04b. En 1412, Toribio Sánchez, <hi
+rend="italic"
+>canonigo</hi
+>, tient, <hi
+rend="italic"
+>perpetuamente</hi
+>, la maison où demeurait auparavant Alfonso Ortiz, <hi
+rend="italic"
+>racionero</hi
+>, pour 400 mrs. par an<hi
+rend="sup"
+><note
+n="55"
+place="foot"
+xml:id="ftn216"
+><p
+xml:id="p219"
+>. OF 937, f° 13 r°. </p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localMcode"
+xml:id="p220"
+>CH_AO_04b-1-</p
+><p
+rend="TEI_localillDOI"
+xml:id="p221"
+><ref
+target="https://api.nakala.fr/embed/10.34847/nkl.cafa8727/eaba701898619056dc7ab98273c3d8ad50f8c130"
+><hi
+rend="underline"
+>https://api.nakala.fr/embed/10.34847/nkl.cafa8727/eaba701898619056dc7ab98273c3d8ad50f8c130</hi
+></ref
+></p
+><figure
+xml:id="figure60"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 11: Identificación de la casa: plano actual y restitución</head
+></figure
+><figure
+xml:id="figure61"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 11 : Identification de la maison : plan actuel et restitution</head
+><p
+rend="credits"
+xml:id="p222"
+>© J.Passini</p
+></figure
+><p
+rend="TEI_localMcode"
+xml:id="p223"
+>CH_AO_04b-2-</p
+><p
+rend="TEI_localillDOI"
+xml:id="p224"
+><ref
+target="https://api.nakala.fr/embed/10.34847/nkl.cafa8727/440f83d7f4cb89f7feceff40518e0bf34e22edc9"
+><hi
+rend="underline"
+>10.34847/nkl.cafa8727/440f83d7f4cb89f7feceff40518e0bf34e22edc9</hi
+></ref
+></p
+><figure
+xml:id="figure62"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 11: Patio antes de su rehabilitación</head
+></figure
+><figure
+xml:id="figure63"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 11 : La cour et portique avant sa réhabilitation</head
+><p
+rend="credits"
+xml:id="p225"
+>© J.Passini</p
+></figure
+><p
+rend="TEI_localMcode"
+xml:id="p226"
+>CH_AO_04b-3-</p
+><p
+rend="TEI_localillDOI"
+xml:id="p227"
+><ref
+target="https://api.nakala.fr/embed/10.34847/nkl.cafa8727/2f4eb226c48d84e32565a7c088deea32934024e5"
+><hi
+rend="underline"
+>10.34847/nkl.cafa8727/2f4eb226c48d84e32565a7c088deea32934024e5</hi
+></ref
+></p
+><figure
+xml:id="figure64"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 11: Entrada a la casa con puertas dobles (conocida como la <hi
+rend="italic"
+>Casa Silenciosa</hi
+> en el siglo XVIII)</head
+></figure
+><figure
+xml:id="figure65"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 11 : Entrée de la maison avec une double porte (maison dite <hi
+rend="italic"
+>du Silence</hi
+> au XVIII<hi
+rend="sup"
+>e</hi
+> siècle)</head
+><p
+rend="credits"
+xml:id="p228"
+>© J.Passini</p
+></figure
+><p
+rend="TEI_localMcode"
+xml:id="p229"
+>CH_AO_04b-4-</p
+><p
+rend="TEI_localillDOI"
+xml:id="p230"
+><ref
+target="https://api.nakala.fr/embed/.10.34847/nkl.cafa8727/2be2f7dcf97eeb5771f691630940f387fc7df543"
+><hi
+rend="underline"
+>10.34847/nkl.cafa8727/2be2f7dcf97eeb5771f691630940f387fc7df543</hi
+></ref
+></p
+><figure
+xml:id="figure66"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 11: Cuerpo de la casa estrecho que alberga la escalera y el balcón orientado al sur, hoy desaparecido</head
+></figure
+><figure
+xml:id="figure67"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 11 : Corps étroit qui abrite l’escalier et le balcon exposé au sud, disparu</head
+><p
+rend="credits"
+xml:id="p231"
+>© J.Passini</p
+></figure
+><p
+rend="TEI_localMcode"
+xml:id="p232"
+>CH_AO_04b-5-</p
+><p
+rend="TEI_localillDOI"
+xml:id="p233"
+><ref
+target="https://api.nakala.fr/embed/10.34847/nkl.cafa8727/d61cad7c03fb45f0b724ffc001e2b6bc597e18af"
+><hi
+rend="underline"
+>10.34847/nkl.cafa8727/d61cad7c03fb45f0b724ffc001e2b6bc597e18af</hi
+></ref
+></p
+><figure
+xml:id="figure68"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 11: Fachada que da a la calle, sobre cuyo portal se encontraba la cocina del vecino de arriba, desde el siglo XV, lo que ha permitido identificar la casa</head
+></figure
+><figure
+xml:id="figure69"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 11 : Seule façade sur rue qui abritait depuis le XV<hi
+rend="sup"
+>e</hi
+> siècle la cuisine du voisin situé plus haut, ce qui nous a permis d’identifier la maison</head
+><p
+rend="credits"
+xml:id="p234"
+>© J.Passini</p
+></figure
+><p
+rend="TEI_localMcode"
+xml:id="p235"
+>CH_AO_04b-6-</p
+><p
+rend="TEI_localillDOI"
+xml:id="p236"
+><ref
+target="https://api.nakala.fr/embed/10.34847/nkl.cafa8727/b5b0ea053cadef5229188495599384de42643f72"
+><hi
+rend="underline"
+>10.34847/nkl.cafa8727/b5b0ea053cadef5229188495599384de42643f72</hi
+></ref
+></p
+><figure
+xml:id="figure70"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 11: Fachada medieval con la antigua puerta principal de la casa n.<hi
+rend="sup"
+>o</hi
+> 9, donde hemos localizado el arco “alfacen” de dicha casa</head
+></figure
+><figure
+xml:id="figure71"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 11 : Façade médiévale avec une porte qui semble être l'ancienne porte principale de la maison n.<hi
+rend="sup"
+>o</hi
+> 9 où nous avons pu localiser l'arc "alfacen"</head
+><p
+rend="credits"
+xml:id="p237"
+>© J.Passini</p
+></figure
+><p
+rend="TEI_localMcode"
+xml:id="p238"
+>CH_AO_04b-7-</p
+><p
+rend="TEI_localillDOI"
+xml:id="p239"
+><ref
+target="https://api.nakala.fr/embed/10.34847/nkl.cafa8727/f625c0cdfdb5123c2f802170dc29ecac6d2d6c43"
+><hi
+rend="underline"
+>10.34847/nkl.cafa8727/f625c0cdfdb5123c2f802170dc29ecac6d2d6c43</hi
+></ref
+></p
+><p
+rend="TEI_localillmc"
+xml:id="p240"
+>brocal del pozo</p
+><figure
+xml:id="figure72"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 11: Brocal del pozo</head
+></figure
+><figure
+xml:id="figure73"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 11 : Margelle du puits médiéval</head
+><p
+rend="credits"
+xml:id="p241"
+>© J.Passini</p
+></figure
+><floatingText
+><body
+><head
+><anchor
+xml:id="OLE_LINK536"
+></anchor
+><anchor
+xml:id="OLE_LINK537"
+></anchor
+>CH_AO_04b_1492</head
+><figure
+xml:id="figure74"
+><table
+cols="1"
+rows="1"
+xml:id="Table7"
+><row
+><cell
+rendition="#Cell7.A1"
+></cell
+></row
+></table
+></figure
+><p
+xml:id="p242"
+>OF 356</p
+><p
+xml:id="p243"
+>El otro cuerpo destas dichas casas que tiene el dicho sennor tesorero suso deslindadas por el presçio suso nonbrado</p
+><p
+xml:id="p244"
+>En este dicho dia xix dias del dicho mes de março del dicho anno de noventa e dos annos los sennores Cristoval de Villaminaya e Alvar Peres de Montemayor canonigos en la santa iglesia de Toledo e vesitadores de las posisiones de la dicha santa iglesia e en presençia de mi el notario e de los testigos ynfra escriptos deslindaron estas casas e fallose en ellas a la entrada un portal que ha en luengo siete varas e media e en ancho quatro varas, ensomo una cosina de su tamanno que esta metida en la otra casa del dicho sennor tesorero, adelante esta otra entrada alta para los corredores, e abaxo despues del portal otra entrada baxa para el patin e a la mano ysquierda esta un establo debaxo de los corredores que ha en luengo quatro varas e media e en ancho al tanto. Delante de la puerta del palaçio de a manisquierda e deste establo esta un portal del /f° 4 r°/ largo del patin e ha en ancho dos varas doblado la meytad del tres veses de corredores. A esta misma mano esta un palaçio que ha en luengo siete varas e en ancho quatro varas con una camara ençima de su tamanno. Iten a la mano derecha esta otro palaçio que ha en luengo nueve varas e en ancho dos varas e media. Ensomo un portal de su tamanno. Iten frontero esta otro palaçio que ha en luengo ocho varas e media e en ancho tres varas e media, ensomo una camara de su tamanno con su corredor debaxo destos dos palaçios esta un sotano que los toma amos.</p
+><p
+xml:id="p245"
+>De que fueron testigos Diego de Obregon e Françisco de Morales criados delos dichos sennores. (signé) Juan de Mayorga notario apostolico.</p
+></body
+></floatingText
+><p
+rend="TEI_localMcode"
+xml:id="p246"
+>CH_AO_04c</p
+><p
+rend="TEI_localMlocalisation"
+xml:id="p247"
+><ref
+target="http://psig.huma-num.fr/toledo/liste-des-rues/vicario-clj/vicario-clj-n7-9-11/"
+><hi
+rend="underline"
+>Calle de la Cárcel del Vicario, 7</hi
+></ref
+></p
+><p
+rend="TEI_localparaDate"
+xml:id="p248"
+>CH_AO_04c. En 1372, don Pedro Fernández, abbé de Santa Leocadia, tient la maison que tenait précédemment Alfonso Pérez de Morales, au prix de 170 mrs. par an<hi
+rend="sup"
+><note
+n="56"
+place="foot"
+xml:id="ftn217"
+><p
+xml:id="p249"
+>. OF 929, f° 28 v°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p250"
+>CH_AO_04c. Le 3/08/1377, le chapitre baille au chanoine Alfonso Fernández, <hi
+rend="italic"
+>criado</hi
+> du cardinal d’Espagne, une maison située dans l’<hi
+rend="italic"
+>Adarve de Canónigos</hi
+>, où demeurait précédemment l’abbé de Santa Leocadia, pour sa vie, au prix de 350 mrs. par an de la monnaie usuelle, dont 10 d. <hi
+rend="italic"
+>novenes</hi
+> font 1e mri., avec obligation de réparer la maison dans un an de tout ce qui sera nécessaire, et la caution de Francisco López, <hi
+rend="italic"
+>racionero</hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p251"
+>CH_AO_04c. En 1380 et 1391, Alfonso Fernández, <hi
+rend="italic"
+>obrero</hi
+>, tient la maison que tenait auparavant l’abbé de Santa Leocadia, <hi
+rend="italic"
+>perpetuas</hi
+>, au prix de 350 mrs.<hi
+rend="sup italic"
+><note
+n="57"
+place="foot"
+xml:id="ftn218"
+><p
+xml:id="p252"
+>. OF 931, f° 37 v°. OF 1070, f° 68 v°. OF 932, f° 44 v°, mais vient ensuite une autre maison que tenait auparavant le même abbé, tenue par Martín Fernández, <hi
+rend="italic"
+>pertiguero</hi
+> du chapitre, pour 100 mrs. par an.</p
+></note
+></hi
+></p
+><p
+rend="TEI_localparaDate"
+xml:id="p253"
+>CH_AO_04c. En 1396, le chanoine Nicolás Alfonso de Sevilla, tient la maison que tenait Alfonso Fernández, chanoine <hi
+rend="italic"
+>obrero</hi
+>, au prix de 480 mrs. par an, depuis le 15/8/1395, avec la caution de Marcos Martínez, <hi
+rend="italic"
+>racionero</hi
+><hi
+rend="sup italic"
+><note
+n="58"
+place="foot"
+xml:id="ftn219"
+><p
+xml:id="p254"
+>. OF 934, f° 38 v°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p255"
+>CH_AO_04c. Le 5/10/1400, le chapitre baille à Martín Sánchez, <hi
+rend="italic"
+>racionero</hi
+> et <hi
+rend="italic"
+>capellán</hi
+> de la <hi
+rend="italic"
+>capilla</hi
+> de San Pedro, une maison dans l’<hi
+rend="italic"
+>Adarve de los Canónigos</hi
+>, où demeurait auparavant le défunt chanoine Nicolás Alfonso de Sevilla, jouxtant des deux côtés des maisons du chapitre, pour sa vie, au prix de 450 mrs. par an de la monnaie à courir, avec caution de Pedro Fernández de Orgaz, <hi
+rend="italic"
+>racionero</hi
+>. En 1401, il est fait référence à cette maison, à propos du même contrat, comme celle qu’avait tenue Alfonso Fernández, <hi
+rend="italic"
+>obrero</hi
+>, puis le chanoine Nicolás Alfonso. En 1408, Martín Sánchez, curé de la chapelle de San Pedro, tient la maison que tenait auparavant Alfonso Fernández, <hi
+rend="italic"
+>obrero</hi
+>, pour 450 mrs. par an de la monnaie à courir<hi
+rend="sup"
+><note
+n="59"
+place="foot"
+xml:id="ftn220"
+><p
+xml:id="p256"
+>. OF 1071, f° 72 v°. OF 935, f° 45 v°. OF 936, f° 58 v°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p257"
+>CH_AO_04c. Le 9/11/1411, le chapitre baille au chanoine don Martín Fernández, archidiacre de Medina, une maison dans l’<hi
+rend="italic"
+>Adarve de los Canonigos</hi
+>, où demeurait auparavant le défunt Martín Sánchez, <hi
+rend="italic"
+>racionero</hi
+>, jouxtant des maisons du chapitre, non précisées, pour sa vie, au prix de 550 mrs. et un <hi
+rend="italic"
+>diezmo</hi
+> de vieille monnaie, soit 605 mrs., avec la caution d'Alfonso Fernández de Ríoseco, <hi
+rend="italic"
+>racionero</hi
+><hi
+rend="sup"
+><note
+n="60"
+place="foot"
+xml:id="ftn221"
+><p
+xml:id="p258"
+>. OF 1073, f° 89 r°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p259"
+>CH_AO_04c. Les 8/06/1411 et 9/11/1411, le chanoine don Martín Fernández, archidiacre de Medina, prend à bail viager du chapitre des maisons situées au <hi
+rend="italic"
+>Pozo Amargo</hi
+> (CH_DO_O7+8), et à l'<hi
+rend="italic"
+>Adarve de Canonigos</hi
+> (CH_AO_04c). Le 2/06/1416, il prend une autre maison, également située à l'<hi
+rend="italic"
+>Adarve de los Canónigos</hi
+> (CH_AO_02)<hi
+rend="sup"
+><note
+n="61"
+place="foot"
+xml:id="ftn222"
+><p
+xml:id="p260"
+>. OF 1073, f° 42 r° et 89 r°. OF 1077, f° 104.</p
+></note
+></hi
+>. Mais on ne trouve pas mention de CH_AO_04a et CH_AO_04b au nom de l’archidiacre de Medina.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p261"
+>CH_AO_04c. En 1412, la maison que tenait antérieurement Martín Sánchez, curé de la chapelle de S. Pedro avait été baillée, <hi
+rend="italic"
+>perpetuamente</hi
+>, à Fernand Martínez, <hi
+rend="italic"
+>capellán</hi
+> et <hi
+rend="italic"
+>partidor</hi
+>, et sa mère, pour 810 mrs. de vieille monnaie, depuis 1409<hi
+rend="sup"
+><note
+n="62"
+place="foot"
+xml:id="ftn223"
+><p
+xml:id="p262"
+>. OF 937, f° 13 r°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p263"
+>CH_AO_04c. En 1417, la maison que tenait Martín Sánchez, curé de la chapelle de S. Pedro, a été baillée, <hi
+rend="italic"
+>perpetuamente</hi
+>, à Fernand González, <hi
+rend="italic"
+>capellán</hi
+> et <hi
+rend="italic"
+>partidor</hi
+>, pour 810 mrs. de vieille monnaie par an, depuis le jour de l'Épiphanie de 1409, et ensuite le chanoine Martín Fernández, archidiacre de Medina, a pris la maison pour 605 mrs. de vieille monnaie, qui sont 1.200 mrs. de <hi
+rend="italic"
+>blancas</hi
+>, et avec la moins-value de 410 mrs. par an à payer par Fernand González et ses héritiers, ce sont 1.620 mrs. de <hi
+rend="italic"
+>blancas</hi
+>. Le chapitre a ordonné que depuis le 1/01/1415, on ne demande rien à Fernand González, car il lui en a été fait grâce, <hi
+rend="italic"
+>por cargo que del tenían</hi
+><hi
+rend="sup"
+><note
+n="63"
+place="foot"
+xml:id="ftn224"
+><p
+xml:id="p264"
+>. OF 938, f° 26 r°. OF 939, f° 25 r°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p265"
+>CH_AO_04 (a+b+c). Le 7/09/1441, le chapitre baille au chanoine Alfonso García (Sorje), bachelier en décrets, trois <hi
+rend="italic"
+>pares de casas</hi
+>, dans l'<hi
+rend="italic"
+>Adarve de Canónigos</hi
+>, que tenait auparavant le défunt don Martín Fernández, archidiacre de Medina, et où, il demeurait, dans la première desquelles demeure à présent Pedro Mosquete (CH_AO_04c), la principale où habitait l'archidiacre (CH_AO_04a), et la troisième, située en dessous de la principale que tenait auparavant un <hi
+rend="italic"
+>pedrero</hi
+> qui en avait fait abandon en faveur de l'archidiacre (CH_AO_04b), mais sans certaines <hi
+rend="italic"
+>cámaras</hi
+> qui ont été séparées pour une autre maison dans l'<hi
+rend="italic"
+>Adarve del Atocha</hi
+>, qui a été baillée à Gonzalo González Garbanzo, <hi
+rend="italic"
+>capellán</hi
+>, pour sa vie, au prix de 3.592 mrs. de la monnaie de <hi
+rend="italic"
+>blancas</hi
+>, ou la moitié de vieille monnaie, et six paires de poules à Noël, avec la caution de son frère Diego González <hi
+rend="italic"
+>mercador</hi
+><hi
+rend="sup"
+><note
+n="64"
+place="foot"
+xml:id="ftn225"
+><p
+xml:id="p266"
+>. OF 1086, f° 201 v°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p267"
+>CH_AO_04. En 1443, la maison que tenait Martín Sánchez, curé de S. Pedro (CH_AO_04c), et l'autre, plus grande d'en bas, où demeurait l'archidiacre de Medina (CH_AO_04a), et l'autre d'en bas du même archidiacre (CH_AO_04b), ayant été réparées par lui et laissées vacantes par son décès, ont été baillées par le chapitre, le 7/09/1441, au chanoine et bachelier Alfonso García (Sorje), au prix pour les trois <hi
+rend="italic"
+>pares de casas</hi
+> de 3.592 mrs. de <hi
+rend="italic"
+>blancas</hi
+> et six paires de poules, avec la caution de son frère, Diego González<hi
+rend="sup"
+><note
+n="65"
+place="foot"
+xml:id="ftn226"
+><p
+xml:id="p268"
+>. OF 940, f° 1 v°.</p
+></note
+></hi
+></p
+><p
+rend="TEI_localparaDate"
+xml:id="p269"
+>CH_AO_04. En 1450, 1465 et 1472, la maison que tenait auparavant l'archidiacre de Medina, constituée de trois <hi
+rend="italic"
+>pares</hi
+>, est baillée depuis 1441, au chanoine et bachelier Alfonso García (Sorje), pour 3.692 mrs. courants par an et six paires de poules à Noël, avec la caution de son frère, Diego González<hi
+rend="sup"
+><note
+n="66"
+place="foot"
+xml:id="ftn227"
+><p
+xml:id="p270"
+>. OF 941, f° 1 v°. OF 952, f° 1 r°. OF 955, f° 1 r°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p271"
+>CH_AO_04 (a+b). Le 14/06/1479, le chapitre a baillé deux parties de la maison que tenait auparavant le chanoine et bachelier Alfonso García (Sorje), défunt, à savoir le corps principal (CH_AO_04a) et un autre corps jointif, situé plus bas (CH_AO_04b), au chanoine et <hi
+rend="italic"
+>tesorero</hi
+>, don Martín Zapata, pour sa vie, au prix de 6.600 mrs. et quatre paires de poules, avec la caution de Pedro González de Ocaña, <hi
+rend="italic"
+>capellán</hi
+><hi
+rend="sup"
+><note
+n="67"
+place="foot"
+xml:id="ftn228"
+><p
+xml:id="p272"
+>. OF 959, f 1 r°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localMcode"
+xml:id="p273"
+>CH_AO_04c</p
+><p
+rend="TEI_localMlocalisation"
+xml:id="p274"
+><ref
+target="http://psig.huma-num.fr/toledo/liste-des-rues/vicario-clj/vicario-clj-n7/"
+><hi
+rend="underline"
+>Calle de la Cárcel del Vicario, </hi
+><hi
+rend="underline"
+>7</hi
+></ref
+></p
+><p
+rend="TEI_localparaDate"
+xml:id="p275"
+>CH_AO_04c. Le 12/11/1479, le chapitre a baillé l'autre corps de bâtiment, jouxtant la maison principale, et situé plus haut, que tenait égalemment le bacheler Alfonso García (Sorje), à Diego de Zamora, <hi
+rend="italic"
+>capellán</hi
+>, pour sa vie, au prix de 1.700 mrs. et quatre paires de poules, par an, avec la caution de Pedro González de Ocaña, <hi
+rend="italic"
+>capellán</hi
+><hi
+rend="sup"
+><note
+n="68"
+place="foot"
+xml:id="ftn229"
+><p
+xml:id="p276"
+>. OF 959, f° 1 v°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p277"
+><anchor
+xml:id="OLE_LINK4049"
+></anchor
+><anchor
+xml:id="OLE_LINK4051"
+></anchor
+><anchor
+xml:id="OLE_LINK4050"
+></anchor
+>CH_AO_04c. Le 30/07/1483, le chapitre et ses <hi
+rend="italic"
+>mayordomos</hi
+> disent, en présence du chanoine don Martín Zapata, <hi
+rend="italic"
+>tesorero</hi
+>, et de Diego de Zamora, <hi
+rend="italic"
+>racionero</hi
+>, que ce dernier tient en <hi
+rend="italic"
+>perpetuo</hi
+> une maison jouxtant les <hi
+rend="italic"
+>casas principales</hi
+> que tient le <hi
+rend="italic"
+>tesorero</hi
+>, qui avaient été vacantes par le décès du chanoine <hi
+rend="italic"
+>bachiller</hi
+> Alfonso García Sorje, pour la vie de ce Diego de Zamora, au prix de 1.700 mrs. et quatre paires de poules. Diego de Zamora laissera sa maison en faveur du <hi
+rend="italic"
+>tesorero</hi
+>, qui paiera 100 mrs. et une paire de poules, qui seront décomptés des 4.300 mrs. et neuf paires de poules que paient Diego de Zamora (pour CH_FO_04a). Suit le bail au <hi
+rend="italic"
+>tesorero</hi
+> don Martín Zapata de la maison (CH_AO_04c), pour sa vie, au prix de 1.800 mrs. et cinq paires de poules, avec la caution de Diego de Zamora<hi
+rend="sup"
+><note
+n="69"
+place="foot"
+xml:id="ftn230"
+><p
+xml:id="p278"
+>. OF 1285, f° 18 r°.</p
+></note
+></hi
+></p
+><p
+rend="TEI_localparaDate"
+xml:id="p279"
+>CH_AO_04c. Le 30/07/1483, le chapitre a baillé au chanoine et <hi
+rend="italic"
+>tesorero</hi
+> don Martín Zapata l'autre corps de maisons, situé plus haut et jouxtant les <hi
+rend="italic"
+>casas principales</hi
+>, précédemment tenu par Diego de Zamora, au prix de 1.800 mrs. et cinq paires de poules, avec la caution du même Diego de Zamora, <hi
+rend="italic"
+>racionero</hi
+><hi
+rend="sup"
+><note
+n="70"
+place="foot"
+xml:id="ftn231"
+><p
+xml:id="p280"
+>. OF 960, f° 1 v°. OF 963, f° 1 v°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p281"
+>CH_AO_04a+ CH_AO_04b+ CH_AO_04c. En 1492 et 1496, don Martín Zapata, <hi
+rend="italic"
+>tesorero</hi
+> de l’Église de Tolède, tient les trois corps de maison que le bachelier et chanoine Alfonso García tenait auparavant du chapitre à l'<hi
+rend="italic"
+>Adarve de Canonigos</hi
+>. Deux de ces corps (CH_AO_04a+ CH_AO_04b), sont tenus pour 6.600 mrs. et quatre paires de poules, et jouxtent de chaque côté des maisons de l'Église. Le petit corps (CH_AO_04c), tenu pour 1.800 mrs. et cinq paires de poules, jouxte une maison de l’archevêque et une maison de l'église<hi
+rend="sup"
+><note
+n="71"
+place="foot"
+xml:id="ftn232"
+><p
+xml:id="p282"
+>. OF 356, f° 2 v°-4 v°. OF 966, f° 1 r°-v°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localMcode"
+xml:id="p283"
+>CH_AO_04c-1- :</p
+><p
+rend="TEI_localillDOI"
+xml:id="p284"
+><ref
+target="https://api.nakala.fr/embed/10.34847/nkl.5fd9p2dh/8cc46a06844522e698ba35cae75bbc19ee58c9d4"
+><hi
+rend="underline"
+>https://api.nakala.fr/embed/10.34847/nkl.5fd9p2dh/8cc46a06844522e698ba35cae75bbc19ee58c9d4</hi
+></ref
+></p
+><figure
+xml:id="figure75"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 7: Identificación de la casa: plano actual y restitución</head
+></figure
+><figure
+xml:id="figure76"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 7 : Identification de la maison : plan actuel et restitution</head
+></figure
+><figure
+xml:id="figure77"
+><head
+>© J.Passini</head
+></figure
+><p
+rend="TEI_localMcode"
+xml:id="p285"
+>CH_AO_04c-3- :</p
+><p
+rend="TEI_localillDOI"
+xml:id="p286"
+><ref
+target="https://api.nakala.fr/embed/10.34847/nkl.5fd9p2dh/67e17bd70b55ff7e55e2b7bb4b0f8a9ff78f590a"
+><hi
+rend="underline"
+>10.34847/nkl.5fd9p2dh/67e17bd70b55ff7e55e2b7bb4b0f8a9ff78f590a</hi
+></ref
+></p
+><figure
+xml:id="figure78"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 7: Patio interior</head
+></figure
+><figure
+xml:id="figure79"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 7 : Cour intérieure</head
+></figure
+><figure
+xml:id="figure80"
+><head
+>© J.Passini</head
+></figure
+><p
+rend="TEI_localMcode"
+xml:id="p287"
+>CH_AO_04c-4-:</p
+><p
+rend="TEI_localillDOI"
+xml:id="p288"
+><ref
+target="https://api.nakala.fr/embed/10.34847/nkl.5fd9p2dh/2e42e16cc34b72fa092665f347856671e3ed02af"
+><hi
+rend="underline"
+>10.34847/nkl.5fd9p2dh/2e42e16cc34b72fa092665f347856671e3ed02af</hi
+></ref
+></p
+><figure
+xml:id="figure81"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 7: Elementos de madera tallada islámica</head
+></figure
+><figure
+xml:id="figure82"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 7 : Éléments en bois sculptés islamiques</head
+></figure
+><figure
+xml:id="figure83"
+><head
+>© J.Passini</head
+></figure
+><p
+rend="TEI_localMcode"
+xml:id="p289"
+>CH_AO_04c-5-:</p
+><p
+rend="TEI_localillDOI"
+xml:id="p290"
+><ref
+target="https://api.nakala.fr/embed/10.34847/nkl.5fd9p2dh/07b32b37ed34a22c41c93253893c63e10397ec03"
+><hi
+rend="underline"
+>10.34847/nkl.5fd9p2dh/07b32b37ed34a22c41c93253893c63e10397ec03</hi
+></ref
+></p
+><figure
+xml:id="figure84"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 7: Elementos del patio: columna, escalera, portal</head
+></figure
+><figure
+xml:id="figure85"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 7 : Éléments cours : colonne, escalier</head
+></figure
+><figure
+xml:id="figure86"
+><head
+>© J.Passini</head
+></figure
+><p
+rend="TEI_localMcode"
+xml:id="p291"
+>CH_AO_04c-6-:</p
+><p
+rend="TEI_localillDOI"
+xml:id="p292"
+><ref
+target="https://api.nakala.fr/embed/10.34847/nkl.5fd9p2dh/53239493239d23ca180d06bf260947148fb14959"
+><hi
+rend="underline"
+>10.34847/nkl.5fd9p2dh/53239493239d23ca180d06bf260947148fb14959</hi
+></ref
+></p
+><p
+rend="TEI_localillmc"
+xml:id="p293"
+>tablas de madera pintada</p
+><p
+rend="TEI_localillmc"
+xml:id="p294"
+>pièce de bois peinte du XVe siècle</p
+><figure
+xml:id="figure87"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 7: Tablas de madera pintada, entre viguetas</head
+></figure
+><figure
+xml:id="figure88"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 7 : Pièce de bois peinte du XV<hi
+rend="sup"
+>e</hi
+> siècle, placée entre les solives en décoration</head
+></figure
+><floatingText
+><body
+><head
+><anchor
+xml:id="OLE_LINK538"
+></anchor
+><anchor
+xml:id="OLE_LINK539"
+></anchor
+>CH_AO_04c_1492</head
+><figure
+xml:id="figure89"
+><table
+cols="1"
+rows="1"
+xml:id="Table9"
+><row
+><cell
+rendition="#Cell9.A1"
+></cell
+></row
+></table
+></figure
+><p
+xml:id="p295"
+>OF 356</p
+><p
+xml:id="p296"
+>El otro cuerpo pequenno destas casas que tenia el dicho bachiller Alfon Garçia, tienelas asi mismo el dicho sennor tesorero por presçio cada un anno de mill e ochoçientos mrs. e çinco pares de gallinas, linderos casas del arçobispo e de la otra parte casas de la iglesia.</p
+><p
+xml:id="p297"
+>En xix dias del dicho mes de março del dicho anno de noventa e dos annos los dichos sennores en presençia de mi el notario e de los testigos ynfra escriptos deslindaron estas casas e fallose en ellas a la entrada tras la puerta a la mano ysquierda una camara pequenna que ha en luengo dos varas e en ancho otro tanto, a la mano derecha tiene un portal que ha en luengo nueve varas e en ancho dos varas, ensomo una camara de su tamanno, adelante esta un patin e a la mano derecha del un portal que ha en /f° 3 v°/ luengo quatro varas e en ancho dos varas, ensomo una camara que toma la meytad del portal del ancho e la otra meytad es corredor e del largo del dicho portal, en este portal esta una escalera que sube a una camara que se metio de la otra casa que ha en luengo quatro varas e en ancho otro tanto. Iten frontero esta un palaçio que ha en luengo siete varas e en ancho tres tres varas, ensomo una camara de su tamanno con su corredor. Iten a la mano ysquierda esta otro palaçio que ha en luengo nueve vara e en ancho tres e media, e dentro deste dicho palaçio ay un retrete que suben a el por tres escalones en que ay quatro e media en largo e otras quatro e media en ancho e otro tanto ensomo del dicho retrete, lo qual se tomo de la casa prinçipal e en somo del dicho palaçio una camara de su tamanno.</p
+><p
+xml:id="p298"
+>De que fueron testigos Diego de Obregon e Françisco de Morales criados delos dichos sennores. (signé) Juan de Mayorga notario apostolico.</p
+></body
+></floatingText
+><p
+rend="TEI_localMcode"
+xml:id="p299"
+>CH_AO_05</p
+><p
+rend="TEI_localMlocalisation"
+xml:id="p300"
+><ref
+target="http://psig.huma-num.fr/toledo/liste-des-rues/vicario-clj/vicario-clj-n13/"
+><hi
+rend="underline"
+>Calle de la Cárcel del Vicario, </hi
+><hi
+rend="underline"
+>13</hi
+></ref
+></p
+><p
+rend="TEI_localparaDonnees"
+xml:id="p301"
+>CH_AO_05, dans l'Adarve de Canónigos<hi
+rend="sup"
+><note
+n="72"
+place="foot"
+xml:id="ftn233"
+><p
+xml:id="p302"
+>. Passini, 2004, localise la maison CH_AO_05 au n° 13 du <hi
+rend="italic"
+>Callejón del Vicario</hi
+> (<hi
+rend="italic"
+>Casas y casas principales</hi
+>, p. 438).</p
+></note
+></hi
+></p
+><p
+rend="TEI_localparaDate"
+xml:id="p303"
+>CH_AO_05<note
+n="73"
+place="foot"
+xml:id="ftn234"
+><p
+xml:id="p304"
+> Passini, Molénat, 1995<hi
+rend="italic"
+>, p.80.</hi
+></p
+></note
+>. En 1372, Sancho Pérez, capellán de la chapelle de S. Pedro, tient la maison où il demeure, avec les sotanillos de la maison du dessus, depuis le 15/08/1370, pour deux ans, au prix de 135 mrs.<hi
+rend="sup"
+><note
+n="74"
+place="foot"
+xml:id="ftn235"
+><p
+xml:id="p305"
+>. OF 929, f° 29 r°.</p
+></note
+></hi
+></p
+><p
+rend="TEI_localparaDate"
+xml:id="p306"
+>CH_AO_05. En 1380, la maison que tenait Sancho Pérez a été adjugée à Juan de Mora, depuis le 15/08/1378, pour deux ans, au prix de 110 mrs.<hi
+rend="sup"
+><note
+n="75"
+place="foot"
+xml:id="ftn236"
+><p
+xml:id="p307"
+>. OF 931, f° 38 r°.</p
+></note
+></hi
+></p
+><p
+rend="TEI_localparaDate"
+xml:id="p308"
+>CH_AO_05. En 1391, 1396 et 1401, Alfonso García, racionero de l'Église de Tolède, et Juan Díaz, son neveu, tiennent la maison auparavant tenue par Sancho Pérez, capellán de la chapelle de S. Pedro, perpetuas et por reparadas, au prix de 150 mrs. par an, depuis le 15/08/1383<hi
+rend="sup"
+><note
+n="76"
+place="foot"
+xml:id="ftn237"
+><p
+xml:id="p309"
+>. OF 932, f° 45 r°.OF 934, f° 38 v°. OF 935, f° 45 r°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p310"
+><anchor
+xml:id="OLE_LINK4574"
+></anchor
+><anchor
+xml:id="OLE_LINK4575"
+></anchor
+>CH_AO_05. Le 4/08/1402, le chapitre baille au chanoine don Fulco Perer, licencié ès-lois, collector, une maison dans l’Adarve de los Canonigos, où demeurait antérieurement Juan Díaz, neveu du refectorero Alfonso García, jouxtant d’une part une maison d’Alfonso Fernández de Arjona, escribano público à Tolède, et de l’autre une maison du chapitre où demeure le chanoine Juan Serrano, licenciado ès-lois, pour sa vie, au prix de 250 mrs. par an de la monnaie à courir, avec la caution du capiscol Pedro García<hi
+rend="sup"
+><note
+n="77"
+place="foot"
+xml:id="ftn238"
+><p
+xml:id="p311"
+>. OF 1071, f° 120 v°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p312"
+>CH_AO_05. En 1408, Benita Sánchez, veuve de Juan Martínez, tundidor, tient la maison que tenait précédemment le collector, depuis 1404, au prix de 260 mrs. 4 d. par an de la monnaie à courir, avec la caution de Ruy Fernández, procurador des religieuses de Santo Domingo el Antiguo<hi
+rend="sup"
+><note
+n="78"
+place="foot"
+xml:id="ftn239"
+><p
+xml:id="p313"
+>. OF 936, f° 59 r°. Payé de monnaie nouvelle, 386 mrs. 6 d.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p314"
+>CH_AO_05. Le 8/10/1409, le chapitre baille à Pedro González, notario et capellán, une maison dans l’Adarve de los Canónigos, précédemment tenue par Benita Sánchez, jouxtant une maison -blanc-, une maison du chapitre où demeure Inés García la beata (CH_AO_06), pour sa vie, au prix de 363 mrs. par an de vieille monnaie, avec caution de Juan González, racionero et clérigo de l’église San Nicolás. En 1412, la maison que tenait Benita Sánchez à l'Adarve de Canónigos se trouve baillée à Pedro González, notario, capellán, au prix de 363 mrs. viejos par an, soit 726 mrs. de blancas<hi
+rend="sup"
+><note
+n="79"
+place="foot"
+xml:id="ftn240"
+><p
+xml:id="p315"
+>. OF 1073, f° 58 v°. OF 937, f° 13 v°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p316"
+>CH_AO_05. Le 13/07/1422, le chapitre baille à Fernand Sánchez de Navamorcuende, racionero, une maison, à l'Adarve de los Canónigos, précédemment tenue par Diego Alfonso, racionero, jouxtant vers le haut une maison du chapitre où demeure Pedro Gutiérrez, pedrero (CH_AO_04c?) et vers le bas une maison du chapitre tenue par le même Fernand Sánchez (CH_AO_06), au prix de 275 mrs. de vieille monnaie ou le double<hi
+rend="sup"
+><note
+n="80"
+place="foot"
+xml:id="ftn241"
+><p
+xml:id="p317"
+>. OF 1080, f° 73.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p318"
+>CH_AO_05. En 1443 et 1450, la maison que tenait Diego Alfonso, racionero, dans l'Adarve de Canónigos, est tenue, depuis 1422, par Fernand Sánchez, racionero, au prix de 530 mrs. courants, avec la caution d'Alfonso Fernández, notario<hi
+rend="sup"
+><note
+n="81"
+place="foot"
+xml:id="ftn242"
+><p
+xml:id="p319"
+>. OF 940, f° 1 v°. OF 941, f° 2 r°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p320"
+>CH_AO_05. Le 4/01/1459, le chapitre baille à Fernand Sánchez, racionero, et à Gonzalo Sánchez del Castillo et María Sánchez, sa femme, nièce de Fernand Sánchez, la maison qu’avait tenue Diego Alfonso, racionero, et celle qu’avait tenue Antón Martínez de Utrera (A-6), toutes deux précédemment tenues par le même Fernand Sánchez, racionero, pour la vie des trois, au prix de 1.200 mrs. courants et trois paires de poules pour les deux maisons, avec pour condition de dépenser dans les trois ans 10.000 mrs. en édifices nouveaux les plus utiles aux maisons, à la vue du chapitre<hi
+rend="sup"
+><note
+n="82"
+place="foot"
+xml:id="ftn243"
+><p
+xml:id="p321"
+>. OF 952, f° 1 v°. OF 955, f° 1 v°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p322"
+>CH_AO_05. Le 18/06/1490, est adjugé à Juan Palomo, curé de Nuez, le corps de maison du haut, avec les cámaras indépendantes qui se louent, au prix de 2.850 mrs. et 6 paires de poules. Le 21/02/1492, le chapitre baille à Pedro de Calvente, notario, l'autre cuerpo de casas menor que estan ençima destas, avec les cámaras que estan por sy, que se saco de las suso dichas, précédemment tenu par le chanoine Juan Palomeque, pour sa vie et celle de Juana Méndez, son esposa, et d’un fils ou fille, 2.900 mrs. et six paires de poules<hi
+rend="sup"
+><note
+n="83"
+place="foot"
+xml:id="ftn244"
+><p
+xml:id="p323"
+>. OF 963, f° 2 r°. </p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p324"
+>CH_AO_05. En 1492, l'un des deux corps de maisons que tenait Fernand Sánchez, racionero, est tenu par Saluente, notario, pour sa vie et celles de sa femme et d'un fils, au prix de 2.800 mrs. et cinq paires de poules. Ce cuerpo menor de la maison jouxte d'un côté une maison de l'Église que tient don Martín Zapata, tesorero de l'Église (CH_AO_04), et de l'autre le cuerpo prinçipal que tient le señor Palomeque (CH_AO_06)<hi
+rend="sup"
+><note
+n="84"
+place="foot"
+xml:id="ftn245"
+><p
+xml:id="p325"
+>. OF 356, f° 5 v°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p326"
+>CH_AO_05. Le 13/06/1496, abandon ayant été fait au nom de Calvente, le chapitre baille la maison à Gutierre Díaz, racionero, pour sa vie et celles de Diego de Torres, son neveu, et d’une autre personne à désigner par Gutierre Díaz, quand il le voudra, au prix de 2.900 mrs. et six paires de poules, avec la caution du chanoine Alvar Pérez, et l'obligation de dépenser dans les deux ans 20.000 mrs. en réparations et édifices qui conviennent<hi
+rend="sup"
+><note
+n="85"
+place="foot"
+xml:id="ftn246"
+><p
+xml:id="p327"
+>. OF 966, f° 2 r°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDonnees"
+xml:id="p328"
+>Une maison qui disparaît del'<hi
+rend="italic"
+>Adarve de Canónigos</hi
+> entre 1422 et 1443.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p329"
+>CH_AO_05001. En 1372, Juan Gómez, chanoine de Sta. Leocadia tient une maison depuis le 15/08/1368, pour deux ans, au prix de 90 mrs. Elle est démolie depuis le siège (<hi
+rend="italic"
+>derribadas desde la çerca</hi
+>)<hi
+rend="sup"
+><note
+n="86"
+place="foot"
+xml:id="ftn247"
+><p
+xml:id="p330"
+>. OF 929, f° 29 v°. Mais cela est placé entre le <hi
+rend="italic"
+>Baño del Arçobispo</hi
+>, qui es vide, et le <hi
+rend="italic"
+>Cenizar</hi
+>.</p
+></note
+></hi
+></p
+><p
+rend="TEI_localparaDate"
+xml:id="p331"
+>CH_AO_05001. En 1380 et 1391, Martín Fernández, <hi
+rend="italic"
+>pertiguero</hi
+> du chapitre, tient la maison que tenait auparavant l'abbé de Sta. Leocadia, <hi
+rend="italic"
+>perpetuas</hi
+>, pour 100 mrs. par an<hi
+rend="sup"
+><note
+n="87"
+place="foot"
+xml:id="ftn248"
+><p
+xml:id="p332"
+>. OF 931, f° 37 v°. OF 932, f° 44 v°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p333"
+>CH_AO_05001. En 1396, la maison que tenait auparavant Martín Fernández, <hi
+rend="italic"
+>pertiguero</hi
+>, est tenue par sa femme, pour deux ans, depuis le 15/08/1394, au prix de 200 mrs. par an<hi
+rend="sup"
+><note
+n="88"
+place="foot"
+xml:id="ftn249"
+><p
+xml:id="p334"
+>. OF 934, f° 38 v°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p335"
+>CH_AO_05001. En 1401, la maison que tenait auparavant Martín Fernández, <hi
+rend="italic"
+>pertiguero</hi
+>, a été baillée à Pedro Fernández de Orgaz, <hi
+rend="italic"
+>racionero</hi
+>, <hi
+rend="italic"
+>perpetuas e por reparadas</hi
+>, depuis le 15/08/1396, pour 260 mrs. par an, avec la caution de Juan Martínez, <hi
+rend="italic"
+>racionero</hi
+>, <hi
+rend="italic"
+>criado</hi
+> du doyen<hi
+rend="sup"
+><note
+n="89"
+place="foot"
+xml:id="ftn250"
+><p
+xml:id="p336"
+>. OF 935, f° 45 v°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p337"
+>CH_AO_05001. En 1408, la maison située près de celle où demeure actuellement Martín Sánchez, <hi
+rend="italic"
+>racionero</hi
+>, a été laissée au chapitre par Pedro Fernández, et le chapitre l'a baillée à María García, veuve de Gonzalo González, fils de Pedro González de Cuerva, <hi
+rend="italic"
+>perpetuamente</hi
+>, pour 400 mrs. par an de la monnaie à courir, depuis le 15/08/1406, avec la caution de Pedro Fernández de Orgaz, <hi
+rend="italic"
+>racionero,</hi
+> et de Juan Alfonso de Consuegra et Juan Díaz, pedreros<hi
+rend="sup"
+><note
+n="90"
+place="foot"
+xml:id="ftn251"
+><p
+xml:id="p338"
+>. OF 936, f° 58 v°. </p
+></note
+></hi
+></p
+><p
+rend="TEI_localparaDate"
+xml:id="p339"
+>CH_AO_05001. En 1412, la maison que tenait auparavant Pedro Fernández de Orgaz, dans l'<hi
+rend="italic"
+>Adarve de Canónigos</hi
+>, après abandon fait par ce Pedro Fernández, a été baillée <hi
+rend="italic"
+>perpetuamente</hi
+> à María García, veuve de Gonzalo González, fils de Pedro González de Cuerva, depuis le 15/08/1406, pour 300 mrs. par an de la monnaie à courir, avec la caution du même Pedro Fernández de Orgaz, <hi
+rend="italic"
+>racionero</hi
+>, et de Juan Alfonso de Consuegra et Juan Díaz, <hi
+rend="italic"
+>pedreros</hi
+><hi
+rend="sup"
+><note
+n="91"
+place="foot"
+xml:id="ftn252"
+><p
+xml:id="p340"
+>. OF 937, f° 13 v°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p341"
+><anchor
+xml:id="OLE_LINK4359"
+></anchor
+><anchor
+xml:id="OLE_LINK4360"
+></anchor
+>CH_AO_05001. En 1417 et 1422, la maison laissée au chapitre par Pedro Fernández de Orgaz a été baillée à María García, qui était la femme de Gonzalo González de Cuerva, <hi
+rend="italic"
+>perpetuamente</hi
+>, por 300 mrs. par an de la monnaie à courir, depuis le 15/08/1406, avec la caution du même Pedro Fernández de Orgaz, <hi
+rend="italic"
+>racionero</hi
+>, et de Juan Alfonso de Consuegra et Juan Díaz, <hi
+rend="italic"
+>pedrero</hi
+><hi
+rend="sup"
+><note
+n="92"
+place="foot"
+xml:id="ftn253"
+><p
+xml:id="p342"
+>. OF 938, f° 26 v°. OF 939, f° 25 v°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localMcode"
+xml:id="p343"
+>CH_AO_05-1-</p
+><p
+rend="TEI_localillDOI"
+xml:id="p344"
+><ref
+target="https://api.nakala.fr/embed/10.34847/nkl.5fd9p2dh/8cc46a06844522e698ba35cae75bbc19ee58c9d4"
+><hi
+rend="underline"
+>https://api.nakala.fr/embed/10.34847/nkl.5fd9p2dh/8cc46a06844522e698ba35cae75bbc19ee58c9d4</hi
+></ref
+></p
+><figure
+xml:id="figure90"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 13: Identificación de la casa: plano actual y restitución</head
+></figure
+><figure
+xml:id="figure91"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 13 : Identification de la maison : plan actuel et restitution</head
+><p
+rend="credits"
+xml:id="p345"
+>© J.Passini</p
+></figure
+><p
+rend="TEI_localMcode"
+xml:id="p346"
+>CH_AO_05-2-</p
+><p
+rend="TEI_localillDOI"
+xml:id="p347"
+><ref
+target="https://api.nakala.fr/embed/10.34847/nkl.5ccanbwx/bb7fe5921cb20eef0a7b7c28abcd223a1d40e765"
+><hi
+rend="underline"
+>10.34847/nkl.5ccanbwx/bb7fe5921cb20eef0a7b7c28abcd223a1d40e765</hi
+></ref
+></p
+><figure
+xml:id="figure92"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 13: Vista de la casa orientada al sur</head
+></figure
+><figure
+xml:id="figure93"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 13 : Vue de la maison exposée au sud</head
+><p
+rend="credits"
+xml:id="p348"
+>© J.Passini</p
+></figure
+><p
+rend="TEI_localMcode"
+xml:id="p349"
+>CH_AO_05-2-</p
+><p
+rend="TEI_localillDOI"
+xml:id="p350"
+>10.34847/nkl.5ccanbwx/dd63d9850e009350f607def2ac25a1e4e9e76346</p
+><figure
+xml:id="figure94"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 13: Patio interior</head
+></figure
+><figure
+xml:id="figure95"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 13 : Cours intérieures</head
+><p
+rend="credits"
+xml:id="p351"
+>© J.Passini</p
+></figure
+><p
+rend="TEI_localparaDonnees"
+xml:id="p352"
+>Cette maison n'est pas mentionnée en 1443 à l'<hi
+rend="italic"
+>Adarve de Canónigos</hi
+><hi
+rend="sup"
+><note
+n="93"
+place="foot"
+xml:id="ftn254"
+><p
+xml:id="p353"
+>. OF 940, f°s 1-2.</p
+></note
+></hi
+>.</p
+><floatingText
+><body
+><head
+><anchor
+xml:id="OLE_LINK542"
+></anchor
+><anchor
+xml:id="OLE_LINK1050"
+></anchor
+><anchor
+xml:id="OLE_LINK1049"
+></anchor
+><anchor
+xml:id="OLE_LINK1048"
+></anchor
+><anchor
+xml:id="OLE_LINK543"
+></anchor
+>CH_AO_05_1492</head
+><figure
+xml:id="figure96"
+><table
+cols="1"
+rows="1"
+xml:id="Table11"
+><row
+><cell
+rendition="#Cell11.A1"
+></cell
+></row
+></table
+></figure
+><p
+xml:id="p354"
+>OF 356</p
+><p
+xml:id="p355"
+>El uno de los dos cuerpos de casas que tenia Ferrand Sanches raçionero, tienelas agora Saluente notario por su vida e de su muger e de un fijo, por presçio de dos mill e ochoçientos maravedis e çinco pares de gallinas<note
+n="94"
+place="foot"
+xml:id="ftn255"
+><p
+xml:id="p356"
+> Le texte porte bien «dos mill e ochoçientos maravedis e çinco pares de gallinas», avec trace de correction. Mais on lit dans les marges «iiVdcccc°» à droite pour les mrs. soit 2900, et «x gs» à gauche pour les poules. Par ailleurs, le livre du refitor de 1496 donne 2900 mrs. et 6 paires de poules (OF 966, f° 1 v°), montants qui font tomber juste l’addition figurant avec l’addition figurant dans l’index initial sous Adarve de canonigos. On rectifiera donc ainsi. Par ailleurs, on lit dans OF 966 «Pedro de Calvente, notario».</p
+></note
+>. Han por linderos el cuerpo menor destas casas de la una parte casas de la eglesia que agora tiene don Martin Çapata tesorero [CH_AO_04] de la dicha iglesia e de la otra parte el cuerpo prinçipal que agora tiene el sennor Palomeque [CH_AO_06].</p
+><p
+xml:id="p357"
+>En xix dias del dicho mes de março del dicho anno de noventa e dos annos los sennores Cristoval de Villaminaya e Alvar Peres de Montemayor canonigos en la santa iglesia de Toledo e vesitadores de las posisiones de la dicha santa iglesia e en presençia de mi el notario e de los testigos ynfra escriptos vesitaron estas casas e</p
+><p
+xml:id="p358"
+>fallose en ellas a la entrada un portal que ha en luengo seys varas e en ancho tres varas e media, ençima una camara de su tamanno con una açutea ençima del mismo tamanno sobre la puerta de la calle, adelante esta un patin e a la mano derecha del esta un cosina con su chimenea que ha en luengo quatro varas e en ancho tres varas e terçia, ençima otra cosina de su tamanno con otra chimenea e con un corredor delante la puerta que sale sobre el patin, debaxo esta un establo de su tamanno con su puerta a la calle, a la manisquierda esta un palaçio que ha en luengo ocho varas e en ancho tres varas con un retrete que ha en luengo tres varas e en ancho dos varas e tres quartas, ençima una camara del tamanno de los dichos palaçios e retrete.</p
+><p
+xml:id="p359"
+>De que fueron testigos Diego de Obregon e Françisco de Morales criados delos dichos sennores. (signé) Juan de Mayorga notario apostolico. /f° 6 r°/</p
+></body
+></floatingText
+><p
+rend="TEI_localMcode"
+xml:id="p360"
+>CH_AO_06</p
+><p
+rend="TEI_localMlocalisation"
+xml:id="p361"
+><ref
+target="http://psig.huma-num.fr/toledo/liste-des-rues/vicario-clj/vicario-clj-n15/"
+><hi
+rend="underline"
+>Calle de la Cárcel del Vicario, </hi
+><hi
+rend="underline"
+>15</hi
+></ref
+><hi
+rend="bold"
+></hi
+></p
+><p
+rend="TEI_localparaDate"
+xml:id="p362"
+>CH_AO_06, dans l'<hi
+rend="italic"
+>Adarve de Canónigos</hi
+><hi
+rend="sup"
+><note
+n="95"
+place="foot"
+xml:id="ftn256"
+><p
+xml:id="p363"
+>. J. Passini localise la maison A-6 au n° 15 du Callejón del Vicario (Casas y casas principales, p. 439).</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p364"
+>CH_AO_06<note
+n="96"
+place="foot"
+xml:id="ftn257"
+><p
+xml:id="p365"
+> Passini, Molénat, 1995<hi
+rend="italic"
+>, p.82.</hi
+></p
+></note
+>. En 1372, Diego, fils de García Ibáñez, tient la maison que tenait auparavant son père, depuis le 15/8/1370, pour deux ans, au prix de 70 mrs. par an. En 1391 et 1408, Inés García, fille de García Ibáñez, tient une maison depuis le 15/8/1378, au prix de 60 mrs. par an, dont le chapitre lui fait grâce<hi
+rend="sup"
+><note
+n="97"
+place="foot"
+xml:id="ftn258"
+><p
+xml:id="p366"
+>. OF 929, f° 28 v°. OF 932, f° 44 v°. OF 936, f° 59 r°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p367"
+>CH_AO_06. Le 28/01/1411, le chapitre cathédral baille à Antón Martínez de Utrera, <hi
+rend="italic"
+>racionero</hi
+>, une maison, à l'<hi
+rend="italic"
+>Adarve de los Canónigos</hi
+>, où demeurait précédemment Inés García <hi
+rend="italic"
+>la beata</hi
+>, jouxtant une maison du chapitre et une autre maison du chapitre où demeure Pedro González, <hi
+rend="italic"
+>capellán</hi
+> de l’Église de Tolède (CH_AO_05), pour sa vie, chaque année pour 423 mrs. 5 d. de vieille monnaie, avec caution d'Alfonso Fernández de Medina de Ríoseco,<hi
+rend="italic"
+> racionero</hi
+><hi
+rend="sup italic"
+><note
+n="98"
+place="foot"
+xml:id="ftn259"
+><p
+xml:id="p368"
+>. OF 1073, f° 92 r°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p369"
+>CH_AO_06. Le 29/12/1411, le chapitre baille à Juan Martínez de Ledesma, <hi
+rend="italic"
+>racionero</hi
+>, une maison, à l'<hi
+rend="italic"
+>Adarve de los Canónigo</hi
+>s, où demeurait précédemment Inés García, <hi
+rend="italic"
+>la beata</hi
+>, jouxtant des deux côtés des maisons du chapitre, et dont a fait abandon Antón Martínez de Utrera, <hi
+rend="italic"
+>racionero</hi
+>, pour sa vie, au prix de 423 mrs. 5 d. par an de vieille monnaie, avec la caution d’Antón Martínez de Utrera et Alfonso Fernández de Ríoseco, <hi
+rend="italic"
+>racioneros</hi
+><hi
+rend="sup"
+><note
+n="99"
+place="foot"
+xml:id="ftn260"
+><p
+xml:id="p370"
+>. OF 1073, f° 98 v°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p371"
+>CH_AO_06. En 1412, la maison où demeurait auparavant Inés García, fille de García Yáñez, et que tenait Antón Martínez de Utrera, <hi
+rend="italic"
+>racionero</hi
+>, <hi
+rend="italic"
+>perpetuamente</hi
+>, pour 350 mrs. et deux <hi
+rend="italic"
+>diezmos</hi
+> de vieille monnaie par an, après abandon fait par cet Antón Martínez, a été baillée, perpétuellement, à Juan Martínez de Ledesma, <hi
+rend="italic"
+>racionero</hi
+>, pour 423 mrs. et 5 d. de vieille monnaie, qui sont 847 mrs. de <hi
+rend="italic"
+>blancas</hi
+><hi
+rend="sup"
+><note
+n="100"
+place="foot"
+xml:id="ftn261"
+><p
+xml:id="p372"
+>. OF 937 f° 13 v°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p373"
+>CH_AO_06 ? Le 27/02/1415, le chapitre baille à Vasco Sánchez, <hi
+rend="italic"
+>racionero</hi
+>, une maison située dans l'<hi
+rend="italic"
+>Adarve de los Canónigos</hi
+>, précédemment tenue du chapitre, par Gonzalo Ruiz de Sevilla, jouxtant une maison du chapitre et une maison de Fernand Martínez, <hi
+rend="italic"
+>peraile</hi
+>, pour sa vie, au prix de 425 mrs. de vieille monnaie, ou le double, avec la caution de Juan Sánchez, curé de Lillo, <hi
+rend="italic"
+>racionero</hi
+><hi
+rend="sup"
+><note
+n="101"
+place="foot"
+xml:id="ftn262"
+><p
+xml:id="p374"
+>. OF 1077, f° 38 v°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p375"
+>CH_AO_06 ? Le 8/04/1416, le chapitre baille à García Sánchez, <hi
+rend="italic"
+>racionero</hi
+>, une maison, à l'<hi
+rend="italic"
+>Adarve de los Canonigos</hi
+>, précédemment tenue par Vasco Sánchez, <hi
+rend="italic"
+>racionero</hi
+>, jouxtant de toutes parts des maisons du chapitre, pour sa vie, au prix de 435 mrs. de vieille monnaie par an, ou le double de <hi
+rend="italic"
+>blancas</hi
+> ou de la monnaie à courir, avec la caution de Nicolás González, <hi
+rend="italic"
+>racionero</hi
+><hi
+rend="sup"
+><note
+n="102"
+place="foot"
+xml:id="ftn263"
+><p
+xml:id="p376"
+>. OF 1077, f° 95.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p377"
+>CH_AO_06 ? En 1417, la maison que tenait Vasco Sánchez, <hi
+rend="italic"
+>racionero</hi
+>, a été baillée, <hi
+rend="italic"
+>perpetuamente</hi
+>, à García Sánchez, <hi
+rend="italic"
+>racionero</hi
+>, pour 435 mrs. par an de vieille monnaie, ou le double (870 mrs.) de celle à courir, au choix du <hi
+rend="italic"
+>refitorero</hi
+>, avec premier paiement au 1/05/1416, avec la caution de Nicolás González, <hi
+rend="italic"
+>racionero</hi
+><hi
+rend="sup"
+><note
+n="103"
+place="foot"
+xml:id="ftn264"
+><p
+xml:id="p378"
+>. OF 938, f° 27 r°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p379"
+>CH_AO_06. En 1417, la maison que tenait auparavant Juan Martínez de Ledesma a été baillée à Fernand Sánchez, <hi
+rend="italic"
+>capellán</hi
+> de la chapelle du roi don Sancho, <hi
+rend="italic"
+>perpetuamente</hi
+>, depuis le 15/08/1413, pour 427 mrs. <hi
+rend="italic"
+>viejos</hi
+>, soit 874 mrs. de <hi
+rend="italic"
+>blancas</hi
+>, avec la caution d'Alfonso Fernández de Rioseco, <hi
+rend="italic"
+>racionero</hi
+><hi
+rend="sup"
+><note
+n="104"
+place="foot"
+xml:id="ftn265"
+><p
+xml:id="p380"
+>. OF 938, f° 26 v°.</p
+></note
+></hi
+></p
+><p
+rend="TEI_localparaDate"
+xml:id="p381"
+>CH_AO_06. En 1422, le chapitre a baillé, le 25/06/1422, la maison que tenait auparvant García Sánchez, <hi
+rend="italic"
+>racionero</hi
+>, à Fernand Sánchez de Navamorcuende, <hi
+rend="italic"
+>racionero</hi
+>, pour sa vie, au prix de 300 mrs. de vieille monnaie, soit 600 mrs. de <hi
+rend="italic"
+>blancas</hi
+><hi
+rend="sup"
+><note
+n="105"
+place="foot"
+xml:id="ftn266"
+><p
+xml:id="p382"
+>. OF 939, f° 26 v°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p383"
+>CH_AO_06. Le 25/06/1422, le chapitre baille à Fernand Sánchez de Navamorcuende, <hi
+rend="italic"
+>racionero</hi
+>, une maison, à l'<hi
+rend="italic"
+>Adarve de los Canónigos</hi
+>, précédemment tenue par Antón Martínez de Utrera, <hi
+rend="italic"
+>racionero</hi
+>, défunt, jouxtant vers le haut une maison du chapitre où demeure Diego Alfonso, <hi
+rend="italic"
+>racionero</hi
+> (CH_AO_05) et vers le bas une maison de <hi
+rend="italic"
+>la beata</hi
+>, sœur du curé de San Miguel, et la rue, pour sa vie, au prix de 300 mrs. de vieille monnaie ou le double. En 1450, la maison que tenait auparavant Antón Martínez de Utrera, est tenue depuis 1422, par Fernand Sánchez, <hi
+rend="italic"
+>racionero</hi
+>, pour 325 mrs. de vieille monnaie, ou le double, soit 650 mrs.<hi
+rend="sup"
+><note
+n="106"
+place="foot"
+xml:id="ftn267"
+><p
+xml:id="p384"
+>. OF 1080, f° 61. OF 941, f° 2 r°.</p
+></note
+></hi
+></p
+><p
+rend="TEI_localparaDate"
+xml:id="p385"
+>CH_AO_06. En 1443, la maison que tenait auparavant García Sánchez, <hi
+rend="italic"
+>racionero</hi
+>, reste baillée, depuis 1422, à Fernand Sánchez, <hi
+rend="italic"
+>racionero</hi
+>, pour 325 mrs. <hi
+rend="italic"
+>viejos</hi
+>, 650 mrs. de <hi
+rend="italic"
+>blancas</hi
+>, avec la caution du chanoine Pedro Fernández, <hi
+rend="italic"
+>bachiller</hi
+>. En 1450, la maison que tenait auparavant Antón Martínez de Utrera, reste baillée, depuis 1422, à Fernand Sánchez, <hi
+rend="italic"
+>racionero</hi
+>, pour 325 mrs. de vieille monnaie ou 650 mrs. de <hi
+rend="italic"
+>blancas</hi
+><hi
+rend="sup"
+><note
+n="107"
+place="foot"
+xml:id="ftn268"
+><p
+xml:id="p386"
+>. OF 940, f° 2 r°. OF 941, f° 2 r°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p387"
+>CH_AO_06 + CH_AO_05. Le 4/01/1459, la maison que tenait Diego, <hi
+rend="italic"
+>racionero</hi
+> (CH_AO_05), et celle, voisine, que tenait Antón Martínez de Utrera (CH_AO_06), ont été baillées à Fernand Sánchez, <hi
+rend="italic"
+>racionero</hi
+>, et à Gonzalo Sánchez del Castillo, et María Sánchez, sa femme, pour la vie des trois, au prix de 1.200 mrs. et deux paires de poules par an, avec pour condition qu'ils dépensent dans les trois ans 10.000 mrs. en édifices nouveaux utiles à ces maisons. En 1474, la maison reste au nom de Gonzalo Sánchez del Castillo<hi
+rend="sup"
+><note
+n="108"
+place="foot"
+xml:id="ftn269"
+><p
+xml:id="p388"
+>. OF 955, f° 1 v°. OF 957, f° 1 v°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p389"
+>CH_AO_06. Le 18/06/1490, María Sánchez et son fils, le <hi
+rend="italic"
+>señor</hi
+> Alfonso del Castillo, ayant fait abandon, le <hi
+rend="italic"
+>cuerpo principal</hi
+> est adjugé au chanoine Fernando Palomeque, pour 4.000 mrs. et 8 paires de poules. Le 31/03/1492, le <hi
+rend="italic"
+>cuerpo principal</hi
+> de la maison que tenait le <hi
+rend="italic"
+>jurado</hi
+> Gonzalo Sánchez del Castillo est baillée au chanoine Fernando Palomeque, avec caution du chanoine don Alfonso de Albornoz, <hi
+rend="italic"
+>capellán mayor</hi
+><hi
+rend="sup"
+><note
+n="109"
+place="foot"
+xml:id="ftn270"
+><p
+xml:id="p390"
+>. OF 963, f° 2 r°. OF 966, f° 1 v°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p391"
+>CH_AO_06. En 1492, le corps principal de la maison que tenait auparavant Fernand Sánchez, <hi
+rend="italic"
+>racionero</hi
+>, possède deux portes sur la rue, sans celle de l'écurie. Il est tenu par le chanoine Fernando Palomeque, au prix de 4.000 mrs. et 8 paires de poules, et jouxte d'un côté le petit autre corps de maison (CH_AO_05) e de l'autre une maison de Diego de Muxena<hi
+rend="sup"
+><note
+n="110"
+place="foot"
+xml:id="ftn271"
+><p
+xml:id="p392"
+>. OF 356, f° 6 r°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localMcode"
+xml:id="p393"
+>CH_AO_06-1-</p
+><p
+rend="TEI_localillDOI"
+xml:id="p394"
+><ref
+target="https://api.nakala.fr/embed/10.34847/nkl.a5a57oc6/6215708ceea7931fb930d7173a0fb9cb02ff4152"
+><hi
+rend="underline"
+>https://api.nakala.fr/embed/10.34847/nkl.a5a57oc6/6215708ceea7931fb930d7173a0fb9cb02ff4152</hi
+></ref
+></p
+><figure
+xml:id="figure97"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 15: Identificación de la casa: plano actual y restitución</head
+></figure
+><figure
+xml:id="figure98"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 15 : Identification de la maison : plan actuel et restitution</head
+><p
+rend="credits"
+xml:id="p395"
+>© J.Passini</p
+></figure
+><p
+rend="TEI_localMcode"
+xml:id="p396"
+>CH_AO_06-2-</p
+><p
+rend="TEI_localillDOI"
+xml:id="p397"
+><ref
+target="https://api.nakala.fr/embed/10.34847/nkl.a5a57oc6/4b2ddc4f8914a67b4fe318e1b13ac9fcad4a6d9e"
+><hi
+rend="underline"
+>10.34847/nkl.a5a57oc6/4b2ddc4f8914a67b4fe318e1b13ac9fcad4a6d9e</hi
+></ref
+></p
+><figure
+xml:id="figure99"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 15: Puerta de un palacio que da al patio</head
+></figure
+><figure
+xml:id="figure100"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 15 : Porte d’un “palacio” sur la cour intérieure</head
+><p
+rend="credits"
+xml:id="p398"
+>© J.Passini</p
+></figure
+><p
+rend="TEI_localMcode"
+xml:id="p399"
+>CH_AO_06-3-</p
+><p
+rend="TEI_localillDOI"
+xml:id="p400"
+><ref
+target="https://api.nakala.fr/embed/10.34847/nkl.a5a57oc6/4c3d047880dc80cff7e9c53d8b689b0b698d44c4"
+><hi
+rend="underline"
+>10.34847/nkl.a5a57oc6/4c3d047880dc80cff7e9c53d8b689b0b698d44c4</hi
+></ref
+></p
+><figure
+xml:id="figure101"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 15: Boca de un horno de pan</head
+></figure
+><figure
+xml:id="figure102"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 15 : Ouverture d’un ancien four à pain</head
+><p
+rend="credits"
+xml:id="p401"
+>© J.Passini</p
+></figure
+><p
+rend="TEI_localMcode"
+xml:id="p402"
+>CH_AO_06-4-</p
+><p
+rend="TEI_localillDOI"
+xml:id="p403"
+><ref
+target="https://api.nakala.fr/embed/10.34847/nkl.a5a57oc6/5e09db1e6a2dfbb2d2b7abe8c4769de89d4a8d18"
+><hi
+rend="underline"
+>10.34847/nkl.a5a57oc6/5e09db1e6a2dfbb2d2b7abe8c4769de89d4a8d18</hi
+></ref
+></p
+><figure
+xml:id="figure103"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 15: Capitel gótico de la columna del patio</head
+></figure
+><figure
+xml:id="figure104"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 15 : Chapiteau gothique de la colonne de la cour</head
+></figure
+><figure
+xml:id="figure105"
+><head
+></head
+><p
+rend="credits"
+xml:id="p404"
+>© J.Passini</p
+></figure
+><p
+rend="TEI_localMcode"
+xml:id="p405"
+>CH_AO_06-5-</p
+><p
+rend="TEI_localillDOI"
+xml:id="p406"
+><ref
+target="https://api.nakala.fr/embed/10.34847/nkl.a5a57oc6/16f0d136cd554d88c48d7b5831e69b0eaa74d538"
+><hi
+rend="underline"
+>10.34847/nkl.a5a57oc6/16f0d136cd554d88c48d7b5831e69b0eaa74d538</hi
+></ref
+></p
+><figure
+xml:id="figure106"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 15: Corredor alrededor del patio</head
+></figure
+><figure
+xml:id="figure107"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 15 : Passage autour du patio</head
+><p
+rend="credits"
+xml:id="p407"
+>© J.Passini</p
+></figure
+><p
+rend="TEI_localMcode"
+xml:id="p408"
+>CH_AO_06-6-</p
+><p
+rend="TEI_localillDOI"
+xml:id="p409"
+><ref
+target="https://api.nakala.fr/embed/10.34847/nkl.a5a57oc6/294bb9f803123b2fa59eb5dbf1b65d087e788a49"
+><hi
+rend="underline"
+>10.34847/nkl.a5a57oc6/294bb9f803123b2fa59eb5dbf1b65d087e788a49</hi
+></ref
+></p
+><figure
+xml:id="figure108"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 15: Capitel gótico con escudo en el patio</head
+></figure
+><figure
+xml:id="figure109"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 15 : Chapiteau gothique avec armoirie dans la cour</head
+><p
+rend="credits"
+xml:id="p410"
+>© J.Passini</p
+></figure
+><p
+rend="TEI_localMcode"
+xml:id="p411"
+>CH_AO_06-7-:</p
+><p
+rend="TEI_localillDOI"
+xml:id="p412"
+><ref
+target="https://api.nakala.fr/embed/10.34847/nkl.a5a57oc6/f73e49e706fa96e2f67cfe9b94fa4e89de371a8b"
+><hi
+rend="underline"
+>10.34847/nkl.a5a57oc6/f73e49e706fa96e2f67cfe9b94fa4e89de371a8b</hi
+></ref
+></p
+><figure
+xml:id="figure110"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 15: Escalera interior en el patio</head
+></figure
+><figure
+xml:id="figure111"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 15 : Escalier intérieur dans la cour</head
+><p
+rend="credits"
+xml:id="p413"
+>© J.Passini</p
+></figure
+><p
+rend="TEI_localMcode"
+xml:id="p414"
+>CH_AO_06-8-:</p
+><p
+rend="TEI_localillDOI"
+xml:id="p415"
+>10.34847/nkl.a5a57oc6/d4f2c37bec667c9a19ad26a64ce706a9f789ebec</p
+><figure
+xml:id="figure112"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 15: Escalera compleja interior</head
+></figure
+><figure
+xml:id="figure113"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 15 : Escalier complexe dans les étages</head
+><p
+rend="credits"
+xml:id="p416"
+>© J.Passini</p
+></figure
+><p
+rend="TEI_localMcode"
+xml:id="p417"
+>CH_AO_06-10-</p
+><p
+rend="TEI_localillDOI"
+xml:id="p418"
+><ref
+target="https://api.nakala.fr/embed/10.34847/nkl.a5a57oc6/ece06bbea2873d52d97deb516ff8375516388d89"
+><hi
+rend="underline"
+>10.34847/nkl.a5a57oc6/ece06bbea2873d52d97deb516ff8375516388d89</hi
+></ref
+></p
+><figure
+xml:id="figure114"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 15: Solana, balcones de pasadizo</head
+></figure
+><figure
+xml:id="figure115"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 15 : Passage sur cour intérieure, balcon</head
+><p
+rend="credits"
+xml:id="p419"
+>© J.Passini</p
+></figure
+><p
+rend="TEI_localMcode"
+xml:id="p420"
+>CH_AO_06-11-</p
+><p
+rend="TEI_localillDOI"
+xml:id="p421"
+><ref
+target="https://api.nakala.fr/embed/10.34847/nkl.a5a57oc6/83a863b092931f7a259e3a72999ae142f9e945a9"
+><hi
+rend="underline"
+>10.34847/nkl.a5a57oc6/83a863b092931f7a259e3a72999ae142f9e945a9</hi
+></ref
+></p
+><figure
+xml:id="figure116"
+><head
+>Cárcel del Vicario, Calle de la, n°15: Patio interior</head
+></figure
+><figure
+xml:id="figure117"
+><head
+>Cárcel del Vicario, Calle de la, n°15 : Cour intérieure de la maison</head
+><p
+rend="credits"
+xml:id="p422"
+>© J.Passini</p
+></figure
+><floatingText
+><body
+><head
+><anchor
+xml:id="OLE_LINK544"
+></anchor
+><anchor
+xml:id="OLE_LINK1053"
+></anchor
+><anchor
+xml:id="OLE_LINK1052"
+></anchor
+><anchor
+xml:id="OLE_LINK559"
+></anchor
+>CH_AO_06_1492</head
+><figure
+xml:id="figure118"
+><table
+cols="1"
+rows="1"
+xml:id="Table13"
+><row
+><cell
+rendition="#Cell13.A1"
+></cell
+></row
+></table
+></figure
+><p
+xml:id="p423"
+>OF 356</p
+><p
+xml:id="p424"
+>El otro cuerpo prinçipal destas casas tiene dos puertas a la calle sin la del establo, tienela el sennor Fernando Palomeque canonigo en la santa iglesia de Toledo por presçio de quatro mill mrs. e ocho pares de gallinas. Ha por linderos de la una parte el otro cuerpo de casas pequenno e de la otra parte casas de Diego de Muxena.</p
+><p
+xml:id="p425"
+>En xix dias del dicho mes de março del dicho anno de noventa e dos annos los sennores Cristoval de Villaminaya e Alvar Peres de Montemayor canonigos en la santa iglesia de Toledo e vesitadores de las posisiones de la dicha santa iglesia e en presençia de mi el notario e de los testigos ynfra escriptos vesitaron estas casas e fallose en ellas a la entrada a la mano ysquierda esta un portal que ha en luengo siete varas e media e en ancho tres varas e media, e ensomo del esta una cosina con su chimenea de su tamanno, adelante esta otro portal que ha en luengo seys varas e en ancho dos varas e dos terçias, ençima del una camara de su tamanno doblada con dos retretes del tamanno de la dicha camara, e el primero retrete tiene un corredor delante la puerta sobre el patin. Iten delante esta un patin e a la mano derecha de esta un palaçio que ha en luengo nueve varas e dos terçias e en ancho tres varas, debaxo un sotano de su tamanno, çerca deste sotano esta un establo que ha en luengo siete varas e en ancho tres varas e media, ensomo dos camaras una sobre otra de su tamanno, adelante esta un trascorral que ha en luengo dies e siete varas e en ancho trese varas e dos terçias, a la mano ysquierda esta un palaçio que ha en luengo nueve varas e en ancho tres varas e media, ensomo dos camaras una sobre otra de su tamanno con sus corredores doblados sobre el patin, debaxo esta una cueva en penna de su tamanno del dicho palaçio con un rincon que entra debaxo del palaçio frontero e otro rincon a la mano ysquierda debaxo del patin de la otra casa. Iten frontero esta una palaçio que ha en luengo nueve varas e terçia e en ancho quatro varas, ensomo una camara de su tamanno, deste palaçio sale /f° 6 v°/ adelante un corral con un horno de pan que ha en luengo siete varas e en ancho al tanto.</p
+><p
+xml:id="p426"
+>De que fueron testigos Diego de Obregon e Françisco de Morales criados delos dichos sennores. (signé) Juan de Mayorga notario apostolico.</p
+></body
+></floatingText
+><p
+rend="TEI_localMcode"
+xml:id="p427"
+>CH_AO_07</p
+><p
+rend="TEI_localMlocalisation"
+xml:id="p428"
+><ref
+target="http://psig.huma-num.fr/toledo/liste-des-rues/vicario-clj/vicario-clj-n10-n12/"
+><hi
+rend="underline"
+>Calle de la Cárcel del Vicario, </hi
+><hi
+rend="underline"
+>10-12</hi
+></ref
+></p
+><p
+rend="TEI_localparaDonnees"
+xml:id="p429"
+>CH_ AO_07, dans l'<hi
+rend="italic"
+>Adarve de Canónigos</hi
+><hi
+rend="sup"
+><note
+n="111"
+place="foot"
+xml:id="ftn272"
+><p
+xml:id="p430"
+>. Passini 2004, p. 441, localise la maison A-7 au n° 8 du Callejón del Vicario (Casas y casas principales,).</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p431"
+>CH_AO_07<note
+n="112"
+place="foot"
+xml:id="ftn273"
+><p
+xml:id="p432"
+> Passini, Molénat, 1995<hi
+rend="italic"
+>, p.86-88.</hi
+></p
+></note
+> (ou CH_AO_04a+b). En 1372, Aparicio Pérez, <hi
+rend="italic"
+>racionero</hi
+>, tient une maison <hi
+rend="italic"
+>de su morada</hi
+>, avec les <hi
+rend="italic"
+>casillas</hi
+> qu'il lui a réunies, <hi
+rend="italic"
+>perpetuas</hi
+>, pour 130 mrs. par an (CH_AO_04a). Aparicio Pérez, <hi
+rend="italic"
+>canonigo</hi
+>, tient la maison <hi
+rend="italic"
+>de su morada</hi
+>, <hi
+rend="italic"
+>perpetuas</hi
+>, également pour 130 mrs. par an (CH_AO_04b)<hi
+rend="sup"
+><note
+n="113"
+place="foot"
+xml:id="ftn274"
+><p
+xml:id="p433"
+>. OF 929, f°28 v° et 29 r°.</p
+></note
+></hi
+></p
+><p
+rend="TEI_localparaDate"
+xml:id="p434"
+>CH_AO_07. Le 24/10/1377, le chapitre baille à Diego Fernández, <hi
+rend="italic"
+>notario</hi
+>, au nom de don Diego Fernández, <hi
+rend="italic"
+>tesorero</hi
+> de l’Église de Tolède, une maison située dans l’<hi
+rend="italic"
+>Adarve de los Canónigos</hi
+>, où demeurait précédemment le chanoine défunt Aparicio Pérez, plus deux autres maisons jointives, que le même Aparicio Pérez a léguées à l’Église (CH_DO_07+8), (soit trois maisons), pour sa vie, au prix de 400 mrs. de la monnaie usuelle, de 10 d. <hi
+rend="italic"
+>novenes</hi
+> le mri., avec l'obligation de réparer de tout ce qui sera nécessaire avant le le 15/8 suivant, et la caution du même Diego Fernández, <hi
+rend="italic"
+>notario</hi
+><hi
+rend="sup"
+><note
+n="114"
+place="foot"
+xml:id="ftn275"
+><p
+xml:id="p435"
+>. OF 1070, f° 72 v°. Ajouté: <hi
+rend="italic"
+>Tienelas Toribio Sanches canonigo por viejos CCXX</hi
+>, ce qui paraît une erreur.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p436"
+>En 1380, Juan Fernández, <hi
+rend="italic"
+>racionero</hi
+>, tient, depuis janvier 1378, pour 200 mrs. par an, la première maison qui appartenait au chapitre, et une autre petite maison située en dessous<hi
+rend="sup"
+><note
+n="115"
+place="foot"
+xml:id="ftn276"
+><p
+xml:id="p437"
+>. OF 931, f° 37 v°, sous <hi
+rend="italic"
+>Adarve de Canonigos</hi
+>.</p
+></note
+></hi
+>. On suppose qu’il s’agit de la moitié de ce qui avait été baillé le 24/10/1377, l’autre moitié, restant à Diego Fernández, <hi
+rend="italic"
+>notario</hi
+>, étant indiquée par la suite.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p438"
+>CH_AO_07+partie de CH_DO_07+ CH_DO_08. En 1391, 1396 et 1401, Lorenzo Martínez, <hi
+rend="italic"
+>racionero</hi
+>, tient pour 200 mrs. par an la première maison qui appartenait au chapitre, avec une autre située en dessous d'elle.<hi
+rend="sup"
+><note
+n="116"
+place="foot"
+xml:id="ftn277"
+><p
+xml:id="p439"
+>. OF 932, f° 45 r°. OF 935, f° 45 v°. </p
+></note
+></hi
+></p
+><p
+rend="TEI_localparaDate"
+xml:id="p440"
+>CH_AO_07?. En 1396, Diego Fernández, <hi
+rend="italic"
+>notario</hi
+>, tient la maison que tenait du chapitre Aparicio Pérez de Ocaña, <hi
+rend="italic"
+>perpetuas</hi
+>, pour 200 mrs. par an<hi
+rend="sup"
+><note
+n="117"
+place="foot"
+xml:id="ftn278"
+><p
+xml:id="p441"
+>. OF 934, f° 38 v°.</p
+></note
+></hi
+></p
+><p
+rend="TEI_localparaDate"
+xml:id="p442"
+>CH_AO_07. Le 20/02/1403, le chapitre baille aux chanoines Juan Fernández, docteur en décrets, doyen d’Avila, et Juan Martínez, docteur en décrets, une maison dans l’<hi
+rend="italic"
+>Adarve de los Canonigos</hi
+>, où demeure Lorenzo Martínez, <hi
+rend="italic"
+>racionero,</hi
+> jouxtant d’une part une maison du chapitre où demeure le même doyen d’Avila et d’autre part une maison dont ont dit qu'elle est annexe à l'archidiacre de Talavera, et la rue, pour la vie de chacun des deux, au prix de 300 mrs. par an de la monnaie à courir<hi
+rend="sup"
+><note
+n="118"
+place="foot"
+xml:id="ftn279"
+><p
+xml:id="p443"
+>. OF 1072, f° 16.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p444"
+>CH_AO_07 (et partie de CH_DO_07+8). En 1408, la maison de Lorenzo Martínez, <hi
+rend="italic"
+>racionero</hi
+>, est tenue depuis 1403, par le doyen d'Avila et le chanoine Juan Martínez, <hi
+rend="italic"
+>bachiller en decretos</hi
+>, pour 300 mrs. par an de monnaie nouvelle<hi
+rend="sup"
+><note
+n="119"
+place="foot"
+xml:id="ftn280"
+><p
+xml:id="p445"
+>. OF 936, f° 59 r°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p446"
+>CH_AO_07. Le 17/08/1414, le chapitre baille à Juan Sánchez de Yepes, <hi
+rend="italic"
+>racionero</hi
+>, une maison que tenait précédemment Lorenzo Martínez, jouxtant une maison de don Martín Fernández, archidiacre de Medina, une maison des héritiers de Juan Martínez, <hi
+rend="italic"
+>racionero</hi
+>, <hi
+rend="italic"
+>fiscal</hi
+>, et une maison de don Martín López de Hinestrosa, archidiacre de Talavera, au prix de 250 mrs. par an de vieille monnaie<hi
+rend="sup"
+><note
+n="120"
+place="foot"
+xml:id="ftn281"
+><p
+xml:id="p447"
+>. OF 1075, f° 36 v°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p448"
+>CH_AO_07. En 1417, la maison que tenait le chanoine Juan Martínez, <hi
+rend="italic"
+>bachiller</hi
+>, celui-ci en ayant fait abandon au chapitre, a été baillée, <hi
+rend="italic"
+>perpetuamente</hi
+>, à Juan Sánchez de Yepes, <hi
+rend="italic"
+>racionero</hi
+>, pour 250 mrs. <hi
+rend="italic"
+>viejos</hi
+> par an, depuis le 15/08/1414. Ajouté en Marge : le 10/09/1417, Juan González de la Cruz, <hi
+rend="italic"
+>racionero</hi
+>, a pris la maison, <hi
+rend="italic"
+>perpetuas e por reparadas</hi
+>, pour 400 mrs. de vieille monnaie, ou le double de <hi
+rend="italic"
+>blancas</hi
+> (800 mrs.), avec la caution de Juan Fernández de Mora, <hi
+rend="italic"
+>racionero</hi
+><hi
+rend="sup"
+><note
+n="121"
+place="foot"
+xml:id="ftn282"
+><p
+xml:id="p449"
+>. OF 938, f° 26 v°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p450"
+>CH_AO_07. Le 10/09/1417, le chapitre baille à Juan González de la Cruz, <hi
+rend="italic"
+>racionero</hi
+>, une maison dans l’<hi
+rend="italic"
+>Adarve de los Canónigos</hi
+>, tenue précédemment par Juan Sánchez de Yepes, <hi
+rend="italic"
+>racionero</hi
+>, et jouxtant une maison de l’archidiacre de Calatrava, une maison du chapitre que tient l’archidiacre de Medina (CH_DO_07+8) et qu’avait tenue auparavant le doyen d’Avila, et la rue, pour sa vie, au prix de 400 mrs. par an de vieille monnaie, ou le double, avec la caution de Juan Fernández de Mora, <hi
+rend="italic"
+>racionero</hi
+><hi
+rend="sup"
+><note
+n="122"
+place="foot"
+xml:id="ftn283"
+><p
+xml:id="p451"
+>. OF 1077, f° 161 r°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p452"
+>CH_AO_07. Le 9/04/1421, le chapitre baille à García Sánchez, <hi
+rend="italic"
+>racionero</hi
+>, une maison dans l’<hi
+rend="italic"
+>Adarve de los Canónigos</hi
+>, précédemment tenue par le chanoine Juan González Cornejo (le <hi
+rend="italic"
+>racionero</hi
+> Juan González de la Cruz de 1417), jouxtant d’une part une maison de la dignité de l'archidiacre de Talavera, et vers le bas une maison du chapitre que tient l’archidiacre de Medina (CH_DO_07+ CH_DO_08), pour sa vie, au prix de 415 mrs. de vieille monnaie ou le double<hi
+rend="sup"
+><note
+n="123"
+place="foot"
+xml:id="ftn284"
+><p
+xml:id="p453"
+>. OF 1080, f° 14.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p454"
+>CH_AO_07. Le 25/06/1422, le chapitre baille à Pedro Fernández, bachelier en décrets, <hi
+rend="italic"
+>racionero</hi
+>, familier de l’archidiacre de Tolède, don Vasco Ramírez de Guzmán, une maison à l’<hi
+rend="italic"
+>Adarve de los Canónigos</hi
+>, précédemment tenue par García Sánchez, <hi
+rend="italic"
+>racionero</hi
+>, jouxtant de toutes parts des maisons du chapitre tenues par don Martín Fernández, archidiacre de Medina, et la rue, au prix de 375 mrs. de vieille monnaie ou le double, avec la caution de Fernand Sánchez de Navamorcuende<hi
+rend="sup"
+><note
+n="124"
+place="foot"
+xml:id="ftn285"
+><p
+xml:id="p455"
+>. OF 1080, f° 59. OF 939, f° 26 r°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p456"
+>CH_AO_07. Le 14/03/1444, le chapitre baille à Luis López de Sahagún (<hi
+rend="italic"
+>Santfagund</hi
+>), <hi
+rend="italic"
+>racionero</hi
+>, une maison, à la <hi
+rend="italic"
+>colación</hi
+> de la <hi
+rend="italic"
+>capilla</hi
+> de San Pedro, dans l’<hi
+rend="italic"
+>Adarve de Canónigos</hi
+>, jouxtant d’un côté une maison du chapitre tenue par Alfonso González, <hi
+rend="italic"
+>racionero</hi
+>, et de l’autre une maison de l’archidiaconé de Talavera et la rue de cet <hi
+rend="italic"
+>adarve</hi
+>, vacante par le décès du bachelier et chanoine Pedro Fernández, pour sa vie, au prix de 650 mrs. de vieille monnaie ou le double de la monnaie à courir et trois paires de poules. L'indication est ajoutée qu'en 1447 la maison a été baillée, avec celle que tenait le bachelier Alfonso González, <hi
+rend="italic"
+>racionero</hi
+>, au même Luis López et à son frère Ferrand López<hi
+rend="sup"
+><note
+n="125"
+place="foot"
+xml:id="ftn286"
+><p
+xml:id="p457"
+>. OF 1087, f° 248.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p458"
+>CH_AO_07+ CH_DO_06. Le 27/05/1447, le chapitre baille au chanoine Luis López de Sahagún, et à son frère Fernand López de Sahagún, <hi
+rend="italic"
+>escribano público</hi
+> à Tolède, deux <hi
+rend="italic"
+>pares de casas</hi
+> jointives, l’une desservie par l'<hi
+rend="italic"
+>Adarve de Canónigos</hi
+> (CH_AO_07), précédemment tenue par le chanoine défunt Pedro Fernández, bachelier, et l’autre desservie par l'<hi
+rend="italic"
+>Adarv</hi
+>e <hi
+rend="italic"
+>del Moxico</hi
+>, sortant au <hi
+rend="italic"
+>Pozo Amargo</hi
+> (CH_DO_07), laissée par le bachelier Alfonso González, <hi
+rend="italic"
+>racionero</hi
+>, les deux maisons ensemble jouxtant une maison de l'archidiacre de Talavera et une maison du chapitre où demeure Fernand González Huesos (CH_DO_06) et une maison de Diego Alvarez, <hi
+rend="italic"
+>platero</hi
+>, tributaire à Juan López de Gerindote, une maison du chanoine Cristobal Alfonso et la petite maison du dessous (CH_DO_08) qui allait avec la maison que tenait Alfonso González et que le chanoine Cristobal Alfonso a prise à bail du chapitre, pour la vie des deux, au prix de 2.100 mrs. de la monnaie à courir et huit paires de poules<hi
+rend="sup"
+><note
+n="126"
+place="foot"
+xml:id="ftn287"
+><p
+xml:id="p459"
+>. OF 1089, f° 168 r°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p460"
+>CH_AO_07. Le 15/05/1447, la maison que tenait auparavant le bachelier Pedro Fernández a été baillée au chanoine Luis López de Sahagún et à son frère, Fernand López de Sahagún, <hi
+rend="italic"
+>escribano público</hi
+> de Tolède, pour la vie des deux, au prix de 650 mrs. de vieille monnaie par an et trois paires de poules à Noël, avec la caution de Diego Delgadillo, soit 1.300 mrs.<hi
+rend="sup"
+><note
+n="127"
+place="foot"
+xml:id="ftn288"
+><p
+xml:id="p461"
+>. OF 941, f° 2 v°.</p
+></note
+></hi
+></p
+><p
+rend="TEI_localparaDate"
+xml:id="p462"
+><anchor
+xml:id="OLE_LINK4052"
+></anchor
+><anchor
+xml:id="OLE_LINK4054"
+></anchor
+><anchor
+xml:id="OLE_LINK4053"
+></anchor
+>CH_AO_07. En 1472 et 1474, la maison que tenait le chanoine Luis López est donnée en location<hi
+rend="sup"
+><note
+n="128"
+place="foot"
+xml:id="ftn289"
+><p
+xml:id="p463"
+>. OF 955, f° 1 v°. OF 957, f° 1 v°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p464"
+>CH_AO_07. Le 25/06/1478, le chapitre a baillé la maison précédemment tenue par le chanoine Luis López de Sahagún, au chanoine Juan Sánchez de Brihuega, au prix de 3.000 mrs. courants et six paires de poules<hi
+rend="sup"
+><note
+n="129"
+place="foot"
+xml:id="ftn290"
+><p
+xml:id="p465"
+>. OF 959 f° 2.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p466"
+>CH_AO_07. En 1492, la maison que tient le chanoine Juan Sánchez de Brihuega pour sa vie au prix de 3.000 mrs. et six paires de poules par an jouxte une maison de l'archidiacre de Talavera et de l'autre côté une maison de de Juan de Ayllón<hi
+rend="sup"
+><note
+n="130"
+place="foot"
+xml:id="ftn291"
+><p
+xml:id="p467"
+>. OF 356, f° 4 v°, f° 20 r°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p468"
+>Le 16/04/1494, le chanoine Juan Sánchez de Brihuega étant décédé, la maison est adjugée au chanoine Pedro Núñez de Ayala, au prix de 4.550 mrs. et dix paires de poules. Le 30/08/1494, le chapitre baille la maison à Gonzalo de León,<hi
+rend="italic"
+> tejedor de seda</hi
+>, pour sa vie et pour ce montant, avec caution de Francisco de la Fuente, <hi
+rend="italic"
+>tejedor de seda</hi
+><hi
+rend="sup"
+><note
+n="131"
+place="foot"
+xml:id="ftn292"
+><p
+xml:id="p469"
+>. OF 966, f° 2 v°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localMcode"
+xml:id="p470"
+>CH_AO_07-1-</p
+><p
+rend="TEI_localillDOI"
+xml:id="p471"
+><ref
+target="https://api.nakala.fr/embed/10.34847/nkl.3d44x5ki/bbddf5564f1fb3e2ac36898b05c263c6c33191a1"
+><hi
+rend="underline"
+>https://api.nakala.fr/embed/10.34847/nkl.3d44x5ki/bbddf5564f1fb3e2ac36898b05c263c6c33191a1</hi
+></ref
+></p
+><figure
+xml:id="figure119"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 10 y 12: Identificación de la casa: plano actual y restitución</head
+></figure
+><figure
+xml:id="figure120"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 10 et 12 : Identification de la maison : plan actuel et restitution</head
+><p
+rend="credits"
+xml:id="p472"
+>© J.Passini</p
+></figure
+><p
+rend="TEI_localMcode"
+xml:id="p473"
+>CH_AO_07-2-</p
+><p
+rend="TEI_localillDOI"
+xml:id="p474"
+><ref
+target="https://api.nakala.fr/embed/10.34847/nkl.3d44x5ki/a5ec620697c76cd114ef7d614148caf496fc1950"
+><hi
+rend="underline"
+>10.34847/nkl.3d44x5ki/a5ec620697c76cd114ef7d614148caf496fc1950</hi
+></ref
+></p
+><figure
+xml:id="figure121"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 12: Restos del sótano-establo abovedado</head
+></figure
+><figure
+xml:id="figure122"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 12 : Reste de l’étable voûtée</head
+><p
+rend="credits"
+xml:id="p475"
+>© J.Passini</p
+></figure
+><p
+rend="TEI_localMcode"
+xml:id="p476"
+>CH_AO_07-1-</p
+><p
+rend="TEI_localillDOI"
+xml:id="p477"
+><ref
+target="https://api.nakala.fr/embed/10.34847/nkl.3d44x5ki/e9d0987cba72ad3012eefed08dbf5e566c6ccb52"
+><hi
+rend="underline"
+>10.34847/nkl.3d44x5ki/e9d0987cba72ad3012eefed08dbf5e566c6ccb52</hi
+></ref
+></p
+><figure
+xml:id="figure123"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 12: Vista exterior, ángulo del muro</head
+></figure
+><figure
+xml:id="figure124"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 12 : Vue extérieure, angle et biaisé du mur</head
+><p
+rend="credits"
+xml:id="p478"
+>© J.Passini</p
+></figure
+><p
+rend="TEI_localMcode"
+xml:id="p479"
+>CH_AO_07-1-</p
+><p
+rend="TEI_localillDOI"
+xml:id="p480"
+>10.34847/nkl.3d44x5ki/6fc4b6ed60986a4e9233d2e3a319e6da274513f8</p
+><figure
+xml:id="figure125"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 12: Vista de las terrazas antes de su demolición</head
+></figure
+><figure
+xml:id="figure126"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 12 : Vue des terrasses avant démolition</head
+><p
+rend="credits"
+xml:id="p481"
+>© J.Passini</p
+></figure
+><p
+rend="TEI_localMcode"
+xml:id="p482"
+>CH_AO_07-5-</p
+><p
+rend="TEI_localillDOI"
+xml:id="p483"
+><ref
+target="https://api.nakala.fr/embed/10.34847/nkl.3d44x5ki/ce54459b20ae5a19a4547b2e221db38e070865e1"
+><hi
+rend="underline"
+>10.34847/nkl.3d44x5ki/ce54459b20ae5a19a4547b2e221db38e070865e1</hi
+></ref
+></p
+><figure
+xml:id="figure127"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 12: Vista del patio antes de su demolición</head
+></figure
+><figure
+xml:id="figure128"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 12 : Vue de la cour avant démolition</head
+><p
+rend="credits"
+xml:id="p484"
+>© J.Passini</p
+></figure
+><p
+rend="TEI_localMcode"
+xml:id="p485"
+>CH_AO_07-6-</p
+><p
+rend="TEI_localillDOI"
+xml:id="p486"
+><ref
+target="https://api.nakala.fr/embed/10.34847/nkl.3d44x5ki/25ab64c76238e0aefe5ac04506c3d785298a79ea"
+><hi
+rend="underline"
+>10.34847/nkl.3d44x5ki/25ab64c76238e0aefe5ac04506c3d785298a79ea</hi
+></ref
+></p
+><figure
+xml:id="figure129"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 12: Espacio del pozo excavado</head
+></figure
+><figure
+xml:id="figure130"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 12 : Espace du puits dégagé</head
+><p
+rend="credits"
+xml:id="p487"
+>© J.Passini</p
+></figure
+><floatingText
+><body
+><head
+><anchor
+xml:id="OLE_LINK560"
+></anchor
+><anchor
+xml:id="OLE_LINK563"
+></anchor
+>CH_AO_07_1492</head
+><figure
+xml:id="figure131"
+><table
+cols="1"
+rows="1"
+xml:id="Table15"
+><row
+><cell
+rendition="#Cell15.A1"
+></cell
+></row
+></table
+></figure
+><p
+xml:id="p488"
+>OF 356</p
+><p
+xml:id="p489"
+>Las casas que tiene Juan Sanches de Brihuega canonigo por su vida por presçio cada anno de tres mill mrs. e seys pares de gallinas, linderos casas del arçediano de Talavera e de la otra parte casas de Juan de Ayllon.</p
+><p
+xml:id="p490"
+>En xix dias del dicho mes de março del dicho anno de noventa e dos annos los sennores Cristoval de Villaminaya e Alvar Peres de Montemayor canonigos en la santa iglesia de Toledo e vesitadores de las posisiones de la dicha santa iglesia e en presençia de mi el notario e de los testigos ynfra escriptos vesitaron estas casas e</p
+><p
+xml:id="p491"
+>fallose en ellas a la entrada un portal que ha en luengo çinco varas e en ancho dos varas e quarta, ensomo del dos suelos uno sobre otro de su tamanno, a la mano derecha deste portal esta un patin e a la mano derecha del esta un portal que ha en luengo nueve varas /f° 5 r°/ e en ancho tres, ensomo del dos corredores uno sobre otro de su tamanno, frontero esta otro portal que ha en luengo quatro varas e en ancho dos varas e media, ensomo dos corredores uno sobre otro de su tamanno, adelante esta un establo que ha en luengo çinco varas e en ancho tres varas, ensomo dos camaras una sobre otra de su tamanno, a la manisquierda esta otro portal que ha en luengo seys varas e en ancho dos varas e media, ensomo dos suelos uno sobre otro de su tamanno, a la entrada esta otro portal que ha en luengo tres varas e tres quartas e en ancho dos varas e quarta, ensomo otros dos soberados uno sobre otro de su tamanno, luengo se sigue otro patin del cuerpo prinçipal desta casa e a la mano derecha del esta un palaçio que ha en luengo dies varas e media e en ancho tres varas e media, ensomo dos camaras una sobre otra de su tamanno, frontero esta otro palaçio que ha en luengo seys varas e quarta e en ancho tres varas e media, ensomo del esta una camara de su tamanno con una açutea descubierta ençima del mismo tamanno. Iten a la mano ysquierda esta un portal que ha en luengo quatro varas e del sale una camara que ha en luengo dos varas e en ancho al tanto [sic], e ensomo deste portal e camara esta un corredor e ençima otro fecho açutea descubierta de su tamanno, debaxo esta un establo con su puerta a la calle que toma todo este portal e patin. Iten frontero de la entrada esta otro palaçio que ha en luengo siete varas e en ancho tres con un camaranchon ençima de su tamanno deste palaçio e sale un corredor pequenno sobre el corral de Juan de Ayllon regidor.</p
+><p
+xml:id="p492"
+>De que fueron testigos Diego de Obregon e Françisco de Morales criados delos dichos sennores. (signé) Juan de Mayorga notario apostolico. /f° 5 v°/</p
+></body
+></floatingText
+></div
+><div
+type="section2"
+xml:id="div5"
+><head
+>La maison de l'archidiacre de Talavera.</head
+><p
+rend="TEI_localMlocalisation"
+xml:id="p493"
+><ref
+target="http://psig.huma-num.fr/toledo/liste-des-rues/vicario-clj/vicario-clj-n8/"
+><hi
+rend="underline"
+>Calle de la Cárcel del Vicario, </hi
+><hi
+rend="underline"
+>8</hi
+></ref
+></p
+><p
+rend="TEI_localparaDate"
+xml:id="p494"
+>En 1372, 1380, 1391 et 1396, à l'<hi
+rend="italic"
+>Adarve de los Canonigos</hi
+>, l'archidiacre de Talavera tient une maison à cens pour 48 mrs. par an, étant précisé en 1372, ou celui qui le sera<hi
+rend="sup"
+><note
+n="132"
+place="foot"
+xml:id="ftn293"
+><p
+xml:id="p495"
+>. OF 929, f° 28 v°. OF 931, f° 37 v°. OF 932, f° 44 v°. OF 934, f° 38 v°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p496"
+>En 1401, l'archidiacre de Talavera tient une maison à cens pour 48 mrs. par an, que doit payer celui qui habite ou habitera dans la maison. Le doyen de Braga, qui y demeure, a payé, pour cette année, 16 mrs. de <hi
+rend="italic"
+>blancas</hi
+> pour le premier terme, échu à Noël, et pour les deux autres termes 53 mrs. 2 <hi
+rend="italic"
+>cornados</hi
+> de vieille monnaie, au total 69 mrs. 2 <hi
+rend="italic"
+>cornados</hi
+><hi
+rend="sup"
+><note
+n="133"
+place="foot"
+xml:id="ftn294"
+><p
+xml:id="p497"
+>. OF 935, f° 45 v°. </p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p498"
+>En 1408, l'archidiacre de Talavera tient une maison à cens pour 48 mrs. par an, que doit payer celui qui y habite, au double ce sont 96 mrs.<hi
+rend="sup"
+><note
+n="134"
+place="foot"
+xml:id="ftn295"
+><p
+xml:id="p499"
+>. OF 936, f° 58 V°.</p
+></note
+></hi
+></p
+><p
+rend="TEI_localparaDate"
+xml:id="p500"
+>En 1417, sous <hi
+rend="italic"
+>Censos de Beneficiados</hi
+>, l'archidiacre de Talavera tient une maison à cens à l'<hi
+rend="italic"
+>Adarve de los Canónigos</hi
+>, pour 48 mrs. de vieille monnaie, soit 96 mrs. de <hi
+rend="italic"
+>blancas</hi
+>. Le paiement est effectué, pour l'année 1417, par Fernand López de la Palanca, procurador de l'archidiacre<hi
+rend="sup"
+><note
+n="135"
+place="foot"
+xml:id="ftn296"
+><p
+xml:id="p501"
+>. OF 938, f° 59 r°.</p
+></note
+></hi
+></p
+><p
+rend="TEI_localparaDate"
+xml:id="p502"
+>En 1450, l'archidiacre de Talavera tient une maison à l'<hi
+rend="italic"
+>Adarve de Canónigos</hi
+>, pour 48 mrs. de vieille monnaie ou le double<hi
+rend="sup"
+><note
+n="136"
+place="foot"
+xml:id="ftn297"
+><p
+xml:id="p503"
+>. OF 941, f° 81 v°, dans les Censos de beneficiados.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p504"
+>En 1439, CH_DO_05, au <hi
+rend="italic"
+>Pozo Amargo</hi
+>, jouxte une maison de l'archidiacre de Talavera<hi
+rend="sup"
+><note
+n="137"
+place="foot"
+xml:id="ftn298"
+><p
+xml:id="p505"
+>. OF 356 bis, f° 9 v°.</p
+></note
+></hi
+></p
+><p
+rend="TEI_localparaDate"
+xml:id="p506"
+>En 1492, la maison CH_AO_07, à l'<hi
+rend="italic"
+>Adarve de Canónigos</hi
+>, comme la maison CH_DO_05b, au <hi
+rend="italic"
+>Pozo Amargo</hi
+>, jouxtent une maison de l'archidiacre de Talavera<hi
+rend="sup"
+><note
+n="138"
+place="foot"
+xml:id="ftn299"
+><p
+xml:id="p507"
+>. OF 356, f° 4 v°.</p
+></note
+></hi
+>, cette dernière n'étant ni recensée, ni mesurée, dans le document</p
+><p
+rend="TEI_localMcode"
+xml:id="p508"
+>CH_AO_08+ CH_AO_09</p
+><p
+rend="TEI_localMlocalisation"
+xml:id="p509"
+><ref
+target="http://psig.huma-num.fr/toledo/liste-des-rues/vicario-clj/vicario-clj-n6-ant-n4/"
+><hi
+rend="underline"
+>Calle de la Cárcel del Vicario, </hi
+><hi
+rend="underline"
+>6 , 4</hi
+></ref
+></p
+><p
+rend="TEI_localMcode"
+xml:id="p510"
+>CH_AO_08+ CH_AO_09, dans l'<hi
+rend="italic"
+>Adarve de Canónigos</hi
+><hi
+rend="sup"
+><note
+n="139"
+place="foot"
+xml:id="ftn300"
+><p
+xml:id="p511"
+>. Passini, 2004, localise les maisons <anchor
+xml:id="OLE_LINK4576 Copy 1"
+></anchor
+><anchor
+xml:id="OLE_LINK4577 Copy 1"
+></anchor
+>CH_AO_08 et CH_AO_09, qu'il dénomme CH_AO_08a et CH_AO_08b, aux n°s 4 et 6 du Callejón del Vicario (Casas y casas principales, p. 434-435).</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDonnees"
+xml:id="p512"
+>Sur le côté droit de l’<hi
+rend="italic"
+>Adarve de Canónigos</hi
+>, il y a deux maisons (ou<hi
+rend="italic"
+> cuerpos de casas</hi
+>), d'abord réunies, puis séparées à partir de 1447.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p513"
+>CH_AO_08+ CH_AO_09, ou CH_AO_04a+b ? En 1417, la maison que tenait le chanoine Toribio Sánchez, dans l'<hi
+rend="italic"
+>Adarve de los Canónigos</hi
+>, a été baillée à Alfonso Martínez, doyen de Braga, <hi
+rend="italic"
+>perpetuamente</hi
+>, pour 850 mrrs. de vieille monnaie par an, soit 1.700 mrs. de <hi
+rend="italic"
+>blancas</hi
+>, depuis le 15/08/1412, avec la caution de don Remón. Il s'agit de la grande maison, avec la petite jointive, que tenait auparavant Alfonso Ortiz<hi
+rend="sup"
+><note
+n="140"
+place="foot"
+xml:id="ftn301"
+><p
+xml:id="p514"
+>. OF 938, f° 26 r°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p515"
+>CH_AO_08<note
+n="141"
+place="foot"
+xml:id="ftn302"
+><p
+xml:id="p516"
+> Passini, Molénat, 1995<hi
+rend="italic"
+>, p.89.</hi
+></p
+></note
+>+ CH_AO_09. Le 11/04/1421, le chapitre baille au chanoine Alfonso Álvarez de Sevilla, bachelier en décrets, une maison, à l’<hi
+rend="italic"
+>Adarve de los Canónigos</hi
+>, précédemment tenue par Alfonso Martínez, doyen de Braga, jouxtant d’un côté une maison de l'archidiacre de Tolède et de l’autre les rues, pour sa vie, au prix de 900 mrs. de vieille monnaie par an ou le double de celle de <hi
+rend="italic"
+>blancas</hi
+><hi
+rend="sup italic"
+><note
+n="142"
+place="foot"
+xml:id="ftn303"
+><p
+xml:id="p517"
+>. OF 1080, f° 17. OF 939, f° 25 r°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p518"
+>CH_AO_08+ CH_AO_09. En 1422, la maison que tenait le doyen de Braga est tenue par le chanoine Alfonso Alvarez de Sevilla, pour sa vie, au prix de 900 mrs. de vieille monnaie, soit 1.800 mrs. de <hi
+rend="italic"
+>blancas</hi
+>, par contrat du 11/04/1421. En marge, il est ajouté que, le 23/02/1423, le chapitre a baillé la maison à Juan Martínez et Alfonso Martínez de la Fuente, <hi
+rend="italic"
+>racioneros</hi
+>, pour leur vie, au prix de 905 mrs. de vieille monnaie<hi
+rend="sup"
+><note
+n="143"
+place="foot"
+xml:id="ftn304"
+><p
+xml:id="p519"
+>. OF 939, f° 25 r°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p520"
+>CH_AO_08+ CH_AO_09. Le 3/02/1423, le chapitre baille à Juan Martínez et Alfonso Martínez de la Fuente, <hi
+rend="italic"
+>racioneros</hi
+> et <hi
+rend="italic"
+>capellanes</hi
+> du roi, la maison située dans l'<hi
+rend="italic"
+>Adarve de los Canónigos</hi
+>, constituée de deux <hi
+rend="italic"
+>cuerpos de casas</hi
+>, précédemment tenue par le chanoine Alfonso Alvarez de Mesa, bachelier en décrets, jouxtant une maison de l'archiaconé de Tolède, et les rues, pour leur vie, au prix de 905 mrs. de vieille monnaie, ou le double de <hi
+rend="italic"
+>blancas</hi
+>, avec la caution de Fernand Pérez, <hi
+rend="italic"
+>racionero</hi
+>, et d'Alfonso González de Vozmediano, <hi
+rend="italic"
+>notario</hi
+> <hi
+rend="sup"
+><note
+n="144"
+place="foot"
+xml:id="ftn305"
+><p
+xml:id="p521"
+>. OF 1080, f° 103.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p522"
+>CH_AO_08+ CH_AO_09. Le 9/06/1424, le chapitre baille à Luis García, <hi
+rend="italic"
+>racionero</hi
+>, une maison, à l’<hi
+rend="italic"
+>Adarve de los Canónigos</hi
+>, comportant <hi
+rend="italic"
+>deux cuerpos de casas,</hi
+> dont il a été fait abandon le même jour au nom de Juan Martínez et Alfonso Martínez de la Fuente, <hi
+rend="italic"
+>racioneros </hi
+>et <hi
+rend="italic"
+>capellanes</hi
+> du roi, qui la tenaient jusque-là, jouxtant une maison de la dignité de l'archidiaconné de Tolède et les rues, au prix de 800 mrs. de vieille monnaie ou le double, avec la caution de Fernand Alfonso de Villarreal, <hi
+rend="italic"
+>racionero</hi
+>, <hi
+rend="italic"
+>capellán</hi
+> des <hi
+rend="italic"
+>Reyes Viejos</hi
+><hi
+rend="sup"
+><note
+n="145"
+place="foot"
+xml:id="ftn306"
+><p
+xml:id="p523"
+>. OF 1082, f° 27 r°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p524"
+>CH_AO_08+ CH_AO_09. En 1443, la maison que tenait auparavant le doyen de Braga a été baillée le en 1424 à Luis García, <hi
+rend="italic"
+>racionero</hi
+>, pour 800 mrs. viejos, soit 1.600 mrs. de blancas. En marge, il est ajouté que le 3/12/1443, la maison a été baillée au chanoine et bachelier Juan González Franco, pour sa vie, au prix de 1.200 mrs. de vieille monnaie et quatres paires de poules, avec la caution du bachelier García, fils Juan González Sendal, et de Pedro Romanco, <hi
+rend="italic"
+>capellán</hi
+>, <hi
+rend="italic"
+>criados</hi
+> du bachelier Franco<hi
+rend="sup"
+><note
+n="146"
+place="foot"
+xml:id="ftn307"
+><p
+xml:id="p525"
+>. OF 940, f° 2 r°.</p
+></note
+></hi
+></p
+><p
+rend="TEI_localparaDate"
+xml:id="p526"
+>CH_AO_08+ CH_AO_09. Le 3/12/1443, le chapitre cathédral baille au chanoine Juan González Franco, bachelier en décrets, pour sa vie, une maison, à la <hi
+rend="italic"
+>colación</hi
+> de la chapelle de San Pedro, dans l’<hi
+rend="italic"
+>Adarve de Canónigos</hi
+>, vacante par le décès de Luis García, <hi
+rend="italic"
+>racionero</hi
+>, et jouxtant une maison de l'archidiaconé de Tolède, et la rue, au prix de 1.200 mrs. de vieille monnaie ou le double de la monnaie à courir, avec la caution du bachelier García, fils de Juan González Cendal, et de Pedro Romano, <hi
+rend="italic"
+>capellán</hi
+>, ses <hi
+rend="italic"
+>criados</hi
+><hi
+rend="sup"
+><note
+n="147"
+place="foot"
+xml:id="ftn308"
+><p
+xml:id="p527"
+>. OF 1087, f° 225 r°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p528"
+>CH_AO_08. Le 16/05/1447, le chapitre cathédral baille à Andrés Martínez, <hi
+rend="italic"
+>racionero</hi
+>, une maison, à la <hi
+rend="italic"
+>colación</hi
+> de la <hi
+rend="italic"
+>capilla</hi
+> de San Pedro, dans l’<hi
+rend="italic"
+>Adarve de Canónigos</hi
+>, jouxtant d’un côté une maison de l’archidiacre de Tolède, de l’autre une maison du chapitre, et la rue, dont a fait abandon le bachelier et chanoine Juan González Franco, pour sa vie, au prix de 1.600 mrs. de la monnaie à courir et deux paires de poules, avec la caution du bachelier Juan González Franco. En 1450, Andrés Martínez, curé d’Alía, <hi
+rend="italic"
+>racionero</hi
+>, tient la maison depuis 1447, au prix de 1600 mrs. Il s'agit du corps principal de la maison que tenait auparavant le bachelier Juan González Franco, <hi
+rend="italic"
+>que </hi
+><hi
+rend="italic"
+> </hi
+><hi
+rend="italic"
+>son dos pares</hi
+><hi
+rend="sup"
+><note
+n="148"
+place="foot"
+xml:id="ftn309"
+><p
+xml:id="p529"
+>. OF 1089, f° 171 r°. OF 941, f° 2 v°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p530"
+>CH_AO_08. Le 22/09/1458, le chapitre cathédral baille au chanoine Pedro González de Ocaña une maison, à la <hi
+rend="italic"
+>colación</hi
+> de la <hi
+rend="italic"
+>capilla</hi
+> de San Pedro, près de la prison archiépiscopale, jouxtant une maison du chapitre tenue par le bachelier Gonzalo Rodríguez, curé de San Román (CH_AO_09), une maison de la dignité de l’archidiaconé de Tolède, dont a fait abandon Fernand Gutiérrez de Caceres, <hi
+rend="italic"
+>tesorero</hi
+> de l’Église, pour sa vie, au prix de 1.000 mrs. par an, avec la caution de Francisco Ramírez de Cáceres, <hi
+rend="italic"
+>racionero</hi
+><hi
+rend="sup"
+><note
+n="149"
+place="foot"
+xml:id="ftn310"
+><p
+xml:id="p531"
+>. OF 1094, f° 183. OF 952, f° 1 v°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p532"
+>CH_AO_08. Le 17/01/1472, le chapitre a baillé la maison à Juan Aguado de Fermosilla, <hi
+rend="italic"
+>escudero</hi
+> de don Alvar Pérez de Guzmán, pour la vie du même Pedro González, et au même prix, avec la caution de Juan de Montoya. Mais la maison est vacante depuis fin mai 1472. Le 2/03/1473, le chapitre a baillé la maison au bachelier Diego López de Ajofrín, au prix de 2.400 mrs. et cinq paires de poules par an<hi
+rend="sup"
+><note
+n="150"
+place="foot"
+xml:id="ftn311"
+><p
+xml:id="p533"
+>. OF 955, f° 1 v°. OF 957, f° 1 v°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p534"
+>CH_AO_08. Le 28/03/1477, le chapitre a baillé au bachelier Rodrigo de León, <hi
+rend="italic"
+>clérigo</hi
+>, <hi
+rend="italic"
+>maestro de gramática</hi
+>, la maison que tenait auparavant le bachelier Diego López de Ajofrín, pour sa vie, 2.400 mrs. et cinq paires de poules, avec la caution du chanoine Cristobal de Villaminaya<hi
+rend="sup"
+><note
+n="151"
+place="foot"
+xml:id="ftn312"
+><p
+xml:id="p535"
+>. OF 959, f° 1 v°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p536"
+>CH_AO_08. En 1492, la maison que tenait le bachelier de Ajofrín, est tenue par le bachelier Rodrigo de León, pour sa vie, au prix de 2.400 mrs. et cinq paires de poules par an, et jouxte d'un côté une maison de l'archidiacre de Tolède, de l'autre une maison de l'Église<hi
+rend="sup"
+><note
+n="152"
+place="foot"
+xml:id="ftn313"
+><p
+xml:id="p537"
+>. OF 356, f° 3 v°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p538"
+>CH_AO_08. Le 20/01/1492, il a été fait abandon au nom du <hi
+rend="italic"
+>licenciado</hi
+> de León de la maison qu'il tenait, et le chapitre a baillé la maison à Fernando del Castillo, <hi
+rend="italic"
+>escribano de la Obra</hi
+>, pour sa vie, au prix de 2.400 mrs. et cinq paires de poules, avec la caution de Gutierre Fernández del Arroyal<hi
+rend="sup"
+><note
+n="153"
+place="foot"
+xml:id="ftn314"
+><p
+xml:id="p539"
+>. OF 966, f° 1 v°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localMcode"
+xml:id="p540"
+>CH_AO_08-2-</p
+><p
+rend="TEI_localillDOI"
+xml:id="p541"
+><ref
+target="https://api.nakala.fr/embed/10.34847/nkl.5318r4sw/5d543fdcd4ece126f5b19908851d25179c07b2e9"
+><hi
+rend="underline"
+>https://api.nakala.fr/embed/10.34847/nkl.5318r4sw/5d543fdcd4ece126f5b19908851d25179c07b2e9</hi
+></ref
+></p
+><figure
+xml:id="figure132"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 4: Identificación de la casa: plano actual y restitución</head
+></figure
+><figure
+xml:id="figure133"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 4 : Identification de la maison : plan actuel et restitution</head
+><p
+rend="credits"
+xml:id="p542"
+>© J.Passini</p
+></figure
+><p
+rend="TEI_localMcode"
+xml:id="p543"
+>CH_AO_08-3-</p
+><p
+rend="TEI_localillDOI"
+xml:id="p544"
+><ref
+target="https://api.nakala.fr/embed/10.34847/nkl.5318r4sw/2151c5902c1b12844758d6d930295fb09542be05"
+><hi
+rend="underline"
+>https://api.nakala.fr/embed/10.34847/nkl.5318r4sw/2151c5902c1b12844758d6d930295fb09542be05</hi
+></ref
+></p
+><figure
+xml:id="figure134"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 4: Extracto de un artículo</head
+></figure
+><figure
+xml:id="figure135"
+><head
+>Cárcel del Vicario, Calle de la, n.<hi
+rend="sup"
+>o</hi
+> 4 : Extrait d’un article</head
+><p
+rend="credits"
+xml:id="p545"
+>© J.Passini</p
+></figure
+><floatingText
+><body
+><head
+><anchor
+xml:id="OLE_LINK568"
+></anchor
+><anchor
+xml:id="OLE_LINK569"
+></anchor
+>CH_AO_08a_1492</head
+><figure
+xml:id="figure136"
+><table
+cols="1"
+rows="1"
+xml:id="Table17"
+><row
+><cell
+rendition="#Cell17.A1"
+></cell
+></row
+></table
+></figure
+><p
+xml:id="p546"
+>OF 356</p
+><p
+xml:id="p547"
+>Las casas que tenia el bachiller de Ajofrin, tienelas el bachiller Rodrigo de Leon por su vida por presçio cada anno de dos mill e quatroçientos mrs. e çinco pares de gallinas. Han por linderos de la una parte casas del arçediano de Toledo<hi
+rend="bold"
+><note
+n="154"
+place="foot"
+xml:id="ftn315"
+><p
+xml:id="p548"
+> casas del arçediano de Toledo casa bien localizada detras</p
+></note
+></hi
+> e de la otra parte casas de la iglesia.</p
+><p
+xml:id="p549"
+>En xix dias del dicho mes de março del dicho anno de noventa e dos annos los sennores Cristoval de Villaminaya e Alvar Peres de Montemayor canonigos en la santa iglesia de Toledo e vesitadores de las posisiones de la dicha santa iglesia e en presençia de mi el notario e de los testigos ynfra escriptos vesitaron estas casas e fallose en ellas a la entrada un portal que ha en luengo seys varas e media e en ancho quatro varas e media e ensomo una camara de su tamanno /f° 4 r°/ doblada con un açutea ensomo del mismo tamanno e del dicho portal a la mano derecha sale un establo que ha en luengo quatro varas e dos terçias e en ancho tres varas e dos terçias e ensomo dos suelos uno sobre otro de su tamanno, adelante esta un patin e a la mano derecha del esta un palaçio que ha en luengo ocho varas e en ancho dos e media e ensomo dos camaras una sobre otra de su tamanno, frontero esta un palaçio que ha en luengo dies varas e media e en ancho tres varas e media, ensomo dos suelos uno sobre otro de su tamanno, a la mano derecha esta un comedor que ha en luengo quatro varas e en ancho al tanto, ensomo dos suelos uno sobre otro de su tamanno, entre el comedor e la entrada de la puerta esta otro palaçio que ha siete varas e en ancho quatro varas doblado dos vezes. E estas dos camaras de ensomo estan medidas en la casa que alindan con ellas que son de la dicha iglesia e las tiene agora Pedro de Aviles raçionero. De que fueron testigos Diego de Obregon e Françisco de Morales criados delos dichos sennores. (signé) Juan de Mayorga notario apostolico.</p
+></body
+></floatingText
+><p
+rend="TEI_localMcode"
+xml:id="p550"
+>CH_AO_09</p
+><p
+rend="TEI_localMlocalisation"
+xml:id="p551"
+><ref
+target="http://psig.huma-num.fr/toledo/liste-des-rues/vicario-clj/vicario-clj-n6-ant-n4/"
+><hi
+rend="underline"
+>Calle de la Cárcel del Vicario, </hi
+><hi
+rend="underline"
+>4</hi
+></ref
+></p
+><p
+rend="TEI_localparaDate"
+xml:id="p552"
+>CH_AO_09. Le 11/07/1447, le chapitre cathédral baille à Fernando Díaz Sigunci, <hi
+rend="italic"
+>platero</hi
+>, une maison, à la <hi
+rend="italic"
+>colación</hi
+> de la chapelle de San Pedro, dans l'<hi
+rend="italic"
+>Adarve de Canónigos</hi
+>, précédemment tenue par le bachelier et chanoine Juan González Franco, et jouxtant d’un côté une maison du chapitre tenue par Andrés Martínez, <hi
+rend="italic"
+>racionero</hi
+> (CH_AO_08), de l’autre une maison de l’archidiacre de Tolède, et l’<hi
+rend="italic"
+>adarve</hi
+>, pour sa vie et celle d’Inés Díaz, sa femme, au prix de 750 mrs. de la monnaie à courir et deux paires de poules, avec la caution du même bachelier Juan González Franco et d’Alfonso González Pepión, <hi
+rend="italic"
+>sastre</hi
+><hi
+rend="sup"
+><note
+n="155"
+place="foot"
+xml:id="ftn316"
+><p
+xml:id="p553"
+>. OF 1089, f° 185 v°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p554"
+>CH_AO_09. En 1450, l'autre maison plus petite que tenait le même Juan González, près de la précédente (CH_AO_08), a été baillée, le 11/07/1447, à Fernando Díaz Sigunci, <hi
+rend="italic"
+>platero</hi
+>, pour sa vie et celle de sa femme, Inés Díaz, au prix de 750 mrs. courants et deux paires de poules, En outre Juan González Franco doit payer pour cette maison 50 mrs. par an, qui lui sont imputés sur la maison qu'il tient au<hi
+rend="italic"
+> Pozo Amargo</hi
+><hi
+rend="sup"
+><note
+n="156"
+place="foot"
+xml:id="ftn317"
+><p
+xml:id="p555"
+>. OF 941, f° 3 r°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p556"
+>CH_AO_09. Le 7/12/1464, l'autre corps de maison que tenait Fernand Martínez, <hi
+rend="italic"
+>capellán de los reyes</hi
+>, celui-ci en ayant fait abandon, a été baillée à Maestre Juan, <hi
+rend="italic"
+>imaginero</hi
+>, et sa femme, Catalina Alvarez, pour la vie des deux, au prix de 800 mrs. et quatre paires de poules par an, avec la caution de Gudufre, <hi
+rend="italic"
+>pichelero</hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p557"
+>CH_AO_09. Le 7/12/1464, le chapitre a baillé à Maestre Juan, <hi
+rend="italic"
+>imaginero</hi
+>, et à Catalina Álvarez, sa femme, l'autre <hi
+rend="italic"
+>cuerpo de casas</hi
+> que tenait Ferrand Martínez, <hi
+rend="italic"
+>capellán de los Reyes</hi
+>, pour la vie des deux, au prix de 800 mrs. et quatre paires de poules, avec :a caution de Gudufre, <hi
+rend="italic"
+>pichelero, </hi
+>En 1472, la maison reste à Maestre Juan, <hi
+rend="italic"
+>imaginero</hi
+>, et sa femme<hi
+rend="sup"
+><note
+n="157"
+place="foot"
+xml:id="ftn318"
+><p
+xml:id="p558"
+>. OF 955, f° 2 r°. OF 955, f° 2 r°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p559"
+>CH_AO_09. Le 30/06/1474, le chapitre a renouvelé le contrat de cette maison à Catalina Alvarez, et son (nouveau) mari, Maestre Enrique, <hi
+rend="italic"
+>vidriero</hi
+>, pour la vie des deux, au même prix, avec la caution de Maestre Egas et de Francisco de las (Cuevas ?), <hi
+rend="italic"
+>pedrero</hi
+><hi
+rend="sup"
+><note
+n="158"
+place="foot"
+xml:id="ftn319"
+><p
+xml:id="p560"
+>. OF 957, f° 1 v°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p561"
+>CH_AO_09. Le 16/09/1480, le chapitre a baillé à Pedro Martínez de Avilés et Isabel Díaz, sa <hi
+rend="italic"
+>casera</hi
+>, la maison que tenait précédemment Fernando de Soto, <hi
+rend="italic"
+>platero</hi
+>, et dont celui-ci a fait abandon, pour la vie des deux et d’une autre personne à désigner par le <hi
+rend="italic"
+>racionero</hi
+>, au prix de 1.550 mrs. et quatre paires de poules, avec la caution de Diego de Zamora, <hi
+rend="italic"
+>capellán</hi
+><hi
+rend="sup"
+><note
+n="159"
+place="foot"
+xml:id="ftn320"
+><p
+xml:id="p562"
+>. OF 959, f° 1 v°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p563"
+>CH_AO_09. En 1492, l'autre corps de maison qui anciennement allait avec la précédente (CH_AO_08), est tenu par Pedro Martínez de Avilés, <hi
+rend="italic"
+>racionero</hi
+>, au prix de 1.550 mrs. et quatre paires de poules par an, et jouxte d'un côté une maison de l'Église où demeure Rodrigo de León (CH_AO_08) et de l'autre une maison de l'archidiacre de Tolède<hi
+rend="sup"
+><note
+n="160"
+place="foot"
+xml:id="ftn321"
+><p
+xml:id="p564"
+>. OF 356, f° 4 r°.</p
+></note
+></hi
+>.</p
+><p
+rend="TEI_localparaDate"
+xml:id="p565"
+><anchor
+xml:id="OLE_LINK1067"
+></anchor
+><anchor
+xml:id="OLE_LINK1068"
+></anchor
+>CH_AO_09. Le 4/05/1495, le chapitre a baillé à Francisco de Santiago, la maison que tenait précédemment María López de Peñaranda, <hi
+rend="italic"
+>ama</hi
+> de Pedro Martínez de Avilés, <hi
+rend="italic"
+>racionero</hi
+>, par abandon de celle-ci, pour sa vie, 1550 mrs. et quatre paires de poules, avec la caution de Cristóbal de Santiago, <hi
+rend="italic"
+>racionero</hi
+><hi
+rend="sup"
+><note
+n="161"
+place="foot"
+xml:id="ftn322"
+><p
+xml:id="p566"
+>. OF 966, f° 2 r°.</p
+></note
+></hi
+>.</p
+><floatingText
+><body
+><head
+><anchor
+xml:id="OLE_LINK570"
+></anchor
+><anchor
+xml:id="OLE_LINK571"
+></anchor
+>CH_<anchor
+xml:id="OLE_LINK1062"
+></anchor
+><anchor
+xml:id="OLE_LINK1061"
+></anchor
+>AO_09_1492<hi
+rend="italic"
+></hi
+></head
+><figure
+xml:id="figure137"
+><table
+cols="1"
+rows="1"
+xml:id="Table19"
+><row
+><cell
+rendition="#Cell19.A1"
+></cell
+></row
+></table
+></figure
+><p
+xml:id="p567"
+>El otro cuerpo destas casas que antiguamente estaua j</p
+><p
+xml:id="p568"
+>junto con estas, tienelas agora Pero Martines de Aviles raçionero por presçio de mill e quinientos e çinquenta mrs. e quatro pares de gallines cada anno, linderos de la una parte casas de la dicha iglesia que mora Rodrigo de Leon [A 8] e de la otra parte<hi
+rend="bold"
+> </hi
+>casas del arçediano de Toledo.</p
+><p
+xml:id="p569"
+>En xix dias del dicho mes de março del dicho anno de noventa e dos annos los sennores Cristoval de Villaminaya e Alvar Peres de Montemayor canonigos en la santa iglesia de Toledo e vesitadores de las posisiones de la dicha santa iglesia e en presençia de mi el notario e de los testigos ynfra escriptos vesitaron estas casas e fallose en ellas a la entrada un portal que ha en luengo siete varas e en ancho dos varas e quarta. /f° 4 v°/ Sobre este portal e sobre la puerta de la calle estan dos suelos uno sobre otro de su tamanno, luego esta un patin e a la mano derecha del esta una camara que ha en luengo siete varas e en ancho quatro varas, el palaçio debaxo desta camara esta metido en las casas de la dicha iglesia en que mora el bachiller Rodrigo de Leon [CH_AO_08], a la mano ysquierda esta un palaçio que ha en luengo siete varas e en ancho tres e quarta, ensomo del una camara de su tamanno con un corredor delante que sale sobre el patin e debaxo esta un establo de su tamanno con la puerta a la calle frontero esta un corredor sobre el dicho patin del largo del dicho patin e de ancho vara e media. De que fueron testigos Diego de Obregon e Françisco de Morales criados delos dichos sennores. (signé) Juan de Mayorga notario apostolico.</p
+></body
+></floatingText
+><floatingText
+><body
+><head
+><anchor
+xml:id="OLE_LINK572"
+></anchor
+><anchor
+xml:id="OLE_LINK573"
+></anchor
+>CH_<anchor
+xml:id="OLE_LINK3203"
+></anchor
+><anchor
+xml:id="OLE_LINK3202"
+></anchor
+>AO_11_1439</head
+><figure
+xml:id="figure138"
+><table
+cols="1"
+rows="1"
+xml:id="Table21"
+><row
+><cell
+rendition="#Cell21.A1"
+></cell
+></row
+></table
+></figure
+><p
+xml:id="p570"
+>OF 356bis</p
+><p
+xml:id="p571"
+>Las casas que solia tener alfonso garçia doctor tienelas el maestre escuela por preçio de mill e quatroçientos maravedis tomolas en veynte e ocho dias de mes de mayo año de 34.</p
+><p
+xml:id="p572"
+>En 18 de Jullio año de mill e quatroçientos e treynta e nueve años fueron deslindadas estas casas por Juan gonçales cornejo canonigo e Juan dies rraçionero e mayordomo de la eglesia de toledo. Et han por linderos de cada parte</p
+><p
+xml:id="p573"
+>(En el margen izquierdo, en otra letra) marcos dias<note
+n="162"
+place="foot"
+xml:id="ftn323"
+><p
+xml:id="p574"
+> <hi
+rend="italic"
+>(</hi
+><hi
+rend="italic"
+>En el margen izquierdo, en otra letra</hi
+><hi
+rend="italic"
+>) marcos dias</hi
+><hi
+rend="italic"
+> (le nom de correspond pas à celui de 1492)</hi
+></p
+></note
+>.</p
+></body
+></floatingText
+></div
+></div
+></body
+></text
+></TEI
+>
